@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695049c4a2668b7f54534c1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 27 |
-| **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6950451bce13cd10565835ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 27 |
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
 | **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
