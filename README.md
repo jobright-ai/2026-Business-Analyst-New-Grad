@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69513aca29655e4dd65a4f3d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 28 |
+| **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 28 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Dec 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695049c4a2668b7f54534c1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 27 |
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
