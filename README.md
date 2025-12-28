@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/69514b39ce13cd1056590313?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 28 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69513aca29655e4dd65a4f3d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 28 |
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 28 |
