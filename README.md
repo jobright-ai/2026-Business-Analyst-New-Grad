@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952a0b45bb7de448ef5b2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Statewide, NE | On Site | Dec 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/694b8826d64ebf28d8214e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Dec 29 |
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 28 |
@@ -89,6 +90,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Dec 23 |
 | **[Energy Transport Logistics](https://energytransportlogistics.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694a4ce931c12007d3b90d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate - Tolleson, AZ 85353 | On Site | Dec 23 |
-| **[ASCD](http://www.ascd.org)** | **[Business Analyst](https://jobright.ai/jobs/info/694a1c5663141d188459cc9b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2111 WILSON BLVD SUITE 300 - ARLINGTON, VA 22201 | Hybrid | Dec 22 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949f5f87d506e3808f5058b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
