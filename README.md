@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 28 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Dec 28 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695049c4a2668b7f54534c1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 27 |
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
 | **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
@@ -94,5 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/694a1127c6f0e2546cef0e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | On Site | Dec 22 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/69499a9663141d1884593881?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 | ↳ | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/694990b27d506e3808f4b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6922793a7795cd460c835b39?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
