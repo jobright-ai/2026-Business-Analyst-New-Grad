@@ -91,5 +91,4 @@ For a complete list, click the following sortable link below:
 | **[ASCD](http://www.ascd.org)** | **[Business Analyst](https://jobright.ai/jobs/info/694a1c5663141d188459cc9b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2111 WILSON BLVD SUITE 300 - ARLINGTON, VA 22201 | Hybrid | Dec 22 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949f5f87d506e3808f5058b?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Dec 22 |
 | ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949fcd9c6f0e2546ceed68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 22 |
-| ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/694a1127c6f0e2546cef0e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
