@@ -72,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Dec 26 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
+| **[State Street](https://www.statestreet.com/)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/6951f02fce13cd1056596f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 24 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c8c771a572a617ddeaf1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c53e65d7312113470c80c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home | Remote | Dec 24 |
@@ -92,5 +93,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/6949fcd9c6f0e2546ceed68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Dec 22 |
 | ↳ | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/694a1127c6f0e2546cef0e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | NJM - Trenton | On Site | Dec 22 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/69499a9663141d1884593881?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
-| ↳ | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/694990b27d506e3808f4b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Dec 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
