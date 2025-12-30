@@ -73,14 +73,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386875bb7de448ef69412?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695386605bb7de448ef693f8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386235bb7de448ef693d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 29 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386165bb7de448ef693cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538616935649778e213fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 29 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386165bb7de448ef693cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385f25bb7de448ef693b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385aa5bb7de448ef6938b?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Dec 29 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | ↳ | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695340b6935649778e210494?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[BHI](http://bhiusa.com)** | **[Fleet Coordinator](https://jobright.ai/jobs/info/69531d2d5bb7de448ef625ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952dfbc5bb7de448ef5f0e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | On Site | Dec 29 |
+| **[eTRANSERVICES](https://www.etranservices.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6952db9a935649778e2099bd?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | Hybrid | Dec 29 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952a0b45bb7de448ef5b2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Statewide, NE | On Site | Dec 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/694b8826d64ebf28d8214e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Dec 29 |
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
