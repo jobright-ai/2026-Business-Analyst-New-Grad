@@ -57,15 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695386eb935649778e213ff2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 30 |
+| **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Dec 30 |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695388aff1f8465b79eacbec?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538896f1f8465b79eacbdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538892f1f8465b79eacbd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6953885ef1f8465b79eacbbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695387b9f1f8465b79eacb53?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386eb935649778e213ff2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 30 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386e45bb7de448ef6944c?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Dec 30 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386d9935649778e213fec?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 30 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538690935649778e213fdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Dec 30 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386875bb7de448ef69412?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695386605bb7de448ef693f8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386235bb7de448ef693d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 29 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538616935649778e213fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386165bb7de448ef693cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 29 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538616935649778e213fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385f25bb7de448ef693b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385aa5bb7de448ef6938b?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Dec 29 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
@@ -94,7 +101,5 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | Hybrid | Dec 24 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 23 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b49f21224705e90027211?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Dec 23 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 23 |
 | **[IBM](http://www.ibm.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/694afee33019f50a4fe60679?utm_campaign=Business%20Analyst&utm_source=1103)** | Armonk, NY | Hybrid | Dec 23 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b02b33019f50a4fe609f3?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, 80202 | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
