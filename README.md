@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69540aa5f1f8465b79eb3fc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
+| **[Arvento A](arventoa.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/695408eef1f8465b79eb3eca?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 30 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 30 |
 | **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Dec 30 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
@@ -101,6 +103,4 @@ For a complete list, click the following sortable link below:
 | **[State Street](https://www.statestreet.com/)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/6951f02fce13cd1056596f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | Hybrid | Dec 24 |
-| **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 23 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b49f21224705e90027211?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
