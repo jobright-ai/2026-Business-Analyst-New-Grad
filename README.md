@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | ↳ | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695340b6935649778e210494?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[BHI](http://bhiusa.com)** | **[Fleet Coordinator](https://jobright.ai/jobs/info/69531d2d5bb7de448ef625ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 29 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/6953407f5bb7de448ef65585?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Dec 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952dfbc5bb7de448ef5f0e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | On Site | Dec 29 |
 | **[eTRANSERVICES](https://www.etranservices.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6952db9a935649778e2099bd?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | Hybrid | Dec 29 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952a0b45bb7de448ef5b2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Statewide, NE | On Site | Dec 29 |
@@ -88,6 +87,4 @@ For a complete list, click the following sortable link below:
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/694aff8667a69734cac6120c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 23 |
 | **[IBM](http://www.ibm.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/694afee33019f50a4fe60679?utm_campaign=Business%20Analyst&utm_source=1103)** | Armonk, NY | Hybrid | Dec 23 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/694b02b33019f50a4fe609f3?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, 80202 | On Site | Dec 23 |
-| **[GRAYCE](https://grayce.co.uk/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6927468091ceeb2e8a53dbcf?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Dec 23 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
