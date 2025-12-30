@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/69530e0d5bb7de448ef6211f?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | Hybrid | Dec 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952dfbc5bb7de448ef5f0e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | On Site | Dec 29 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952a0b45bb7de448ef5b2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Statewide, NE | On Site | Dec 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/694b8826d64ebf28d8214e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Dec 29 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 26 |
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[State Street](https://www.statestreet.com/)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/6951f02fce13cd1056596f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 24 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/694c8c771a572a617ddeaf1f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | Hybrid | Dec 24 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[IT Rotational Development Program](https://jobright.ai/jobs/info/6941ed8914ee092a6900074f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN | On Site | Dec 23 |
@@ -88,5 +88,4 @@ For a complete list, click the following sortable link below:
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 23 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 23 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Dec 23 |
-| **[Energy Transport Logistics](https://energytransportlogistics.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694a4ce931c12007d3b90d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate - Tolleson, AZ 85353 | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
