@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695483df5bb7de448ef780a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6954813c5bb7de448ef77a9b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6954811e5bb7de448ef77a5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 30 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695480b95bb7de448ef77985?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 30 |
 | **[Thales](http://www.thalesgroup.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6954666b5bb7de448ef75790?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
 | **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/695463bff1f8465b79eb8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[Swiss Re](http://www.swissre.com)** | **[Business Analyst (SRILIAC)](https://jobright.ai/jobs/info/69545eb45bb7de448ef75437?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 30 |
@@ -113,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 25 |
 | **[State Street](https://www.statestreet.com/)** | **[IAM IGA Business Analyst](https://jobright.ai/jobs/info/6951f02fce13cd1056596f00?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ | On Site | Dec 24 |
 | **[University of Michigan-Flint School of Management](https://www.umflint.edu/som/)** | **[Business Analyst](https://jobright.ai/jobs/info/694c6e365d7312113470d9d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Dec 24 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Architect](https://jobright.ai/jobs/info/692f76e6fa28370be26aa732?utm_campaign=Business%20Analyst&utm_source=1103)** | Belleville, IL | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
