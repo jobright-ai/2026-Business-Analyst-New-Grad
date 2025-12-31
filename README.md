@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thales](http://www.thalesgroup.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6954666b5bb7de448ef75790?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
+| **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/695463bff1f8465b79eb8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Dec 30 |
+| **[Swiss Re](http://www.swissre.com)** | **[Business Analyst (SRILIAC)](https://jobright.ai/jobs/info/69545eb45bb7de448ef75437?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 30 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/694603dd7d506e3808f1541f?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 30 |
 | **[Managed Health Services (MHS)](http://www.mhsindiana.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69544179f1f8465b79eb674d?utm_campaign=Business%20Analyst&utm_source=1103)** | Indiana, United States | Hybrid | Dec 30 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/69543e65aa05c26e7aaeae83?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | On Site | Dec 30 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst/Tester](https://jobright.ai/jobs/info/69541f445bb7de448ef70f7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
 | **[Texas Department of Family and Protective Services](https://www.dfps.texas.gov)** | **[Business Analyst III](https://jobright.ai/jobs/info/69543326aa05c26e7aaea378?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 30 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/695419d5f1f8465b79eb44c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Dec 30 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Process Improvement Analyst](https://jobright.ai/jobs/info/69541332f1f8465b79eb4293?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | On Site | Dec 30 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69540aa5f1f8465b79eb3fc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 30 |
 | **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Dec 30 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
 | **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
 | ↳ | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f63cda2668b7f54528aae?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
-| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/694f2ed629655e4dd658b3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Dec 26 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/694603bfd1953b5d11bf1de9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Dec 26 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/694ee85b29655e4dd65873c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Dec 26 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Dec 26 |
