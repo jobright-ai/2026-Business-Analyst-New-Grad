@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69388ebbb95c305f206dbd73?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
+| **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938d3daaabec14a727dbb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 31 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/69549db75bb7de448ef79497?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Dec 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/695494e1aa05c26e7aaf1006?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Hybrid | Dec 30 |
@@ -114,6 +115,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695340b6935649778e210494?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[BHI](http://bhiusa.com)** | **[Fleet Coordinator](https://jobright.ai/jobs/info/69531d2d5bb7de448ef625ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 29 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952dfbc5bb7de448ef5f0e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | On Site | Dec 29 |
+| **[eTRANSERVICES](https://www.etranservices.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6952db9a935649778e2099bd?utm_campaign=Business%20Analyst&utm_source=1103)** | District of Columbia, United States | Hybrid | Dec 29 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952a0b45bb7de448ef5b2f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Statewide, NE | On Site | Dec 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/694b8826d64ebf28d8214e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Dec 29 |
 | **[CME Group](http://www.cmegroup.com)** | **[Energy Business Analyst](https://jobright.ai/jobs/info/6933ef3bf131d96e48468571?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 28 |
