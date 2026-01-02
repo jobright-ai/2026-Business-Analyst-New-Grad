@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/69581e78aa05c26e7ab2001b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-WI-Appleton | Hybrid | Jan 02 |
+| ↳ | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/69581dd79f1b381eb271008a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-WI-Madison | Hybrid | Jan 02 |
 | **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Junior Business Strategist](https://jobright.ai/jobs/info/6958070ff1f8465b79eeaca6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 02 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Business Analyst - Digital Experience](https://jobright.ai/jobs/info/6930cfa5fa28370be26b419d?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ | On Site | Jan 02 |
 | **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 02 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/691d7ec7bcdbf3560c9f17b9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 01 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/694f4ad7ce13cd10565774ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 01 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955c9cfaa05c26e7aaffae1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst-PHSO](https://jobright.ai/jobs/info/695694459f1b381eb26fcca9?utm_campaign=Business%20Analyst&utm_source=1103)** | Maitland, FL | On Site | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69559e249f1b381eb26edb36?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
 | **[Vervent](https://www.vervent.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695592199f1b381eb26ed036?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Dec 31 |
 | **[KNOCK Inc.](https://knockinc.com/)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/6955b0f7aa05c26e7aaff0b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/69558691f1f8465b79ec8686?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955b0d9aa05c26e7aaff08c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955bde0aa05c26e7aaff6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955ca92f1f8465b79ecaf7e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | Hybrid | Dec 31 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/69388ebbb95c305f206dbd73?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 27 |
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
 | **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
-| ↳ | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f63cda2668b7f54528aae?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
