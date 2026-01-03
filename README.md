@@ -76,6 +76,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c25aa598a08c3ed5542?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83c8aa598a08c3ed5b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 03 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
 | **[Travelers](https://www.travelers.com)** | **[Business Analyst - Personal Insurance](https://jobright.ai/jobs/info/693cd944aa598a08c3eda21a?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jan 03 |
 | **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69588c22f1f8465b79ef21b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Jan 02 |
 | **[Dejana Truck and Utility Equipment](http://www.dejana.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/695871159f1b381eb2715ed0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kings Park, NY | On Site | Jan 02 |
