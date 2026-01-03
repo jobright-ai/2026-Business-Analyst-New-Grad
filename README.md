@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69584854f1f8465b79eeeaed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695825639f1b381eb2710596?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Jan 02 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/695824d5f1f8465b79eebb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-WI-West Bend | Hybrid | Jan 02 |
 | ↳ | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/69581e78aa05c26e7ab2001b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-WI-Appleton | Hybrid | Jan 02 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6938d3daaabec14a727dbb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 31 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/69549db75bb7de448ef79497?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69548b1eaa05c26e7aaf0a25?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Dec 30 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6958594bf1f8465b79eef2a4?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Home Office (LAHOME) | Hybrid | Dec 30 |
 | **[Thales](http://www.thalesgroup.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6954666b5bb7de448ef75790?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
 | **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/695463bff1f8465b79eb8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Dec 30 |
 | **[Swiss Re](http://www.swissre.com)** | **[Business Analyst (SRILIAC)](https://jobright.ai/jobs/info/69545eb45bb7de448ef75437?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 30 |
@@ -119,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/68c813f195f5211cd2ce12d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Dec 28 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933a4bda0dde7020e2f00ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Dec 27 |
 | ↳ | **[Business Analyst, External Fulfillment](https://jobright.ai/jobs/info/6933b143764507023d1b8616?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Dec 27 |
-| **[BETA TECHNOLOGIES](https://www.beta.team)** | **[Sustainability Analyst / Business Operations](https://jobright.ai/jobs/info/694f8c61ce13cd105657b34d?utm_campaign=Business%20Analyst&utm_source=1103)** | South Burlington, VT | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
