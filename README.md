@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Horizon Lane](horizonlane.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/695a1bb7f1f8465b79f06e86?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Jan 03 |
+| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Business Solutions Insight Assistant](https://jobright.ai/jobs/info/695a00bf9f1b381eb272af24?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c86e2aa598a08c3ed5cf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c846caa598a08c3ed5b79?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 03 |
