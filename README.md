@@ -57,10 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/695c302ff1f8465b79f23b3d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
+| **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/695c2c1daa05c26e7ab57eea?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 05 |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c0f25f1f8465b79f21959?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Jan 05 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c1cbe22c9dc0d3d53fb8e?utm_campaign=Business%20Analyst&utm_source=1103)** | remote, MO | Remote | Jan 05 |
+| **[NTT DATA](https://nttdata-solutions.com/cz/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c1def22c9dc0d3d53fd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | MO | Remote | Jan 05 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Business Management Analyst I - Pre-Identified Candidate](https://jobright.ai/jobs/info/695c19a4f1f8465b79f224cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695beca1aa05c26e7ab53360?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jan 05 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/695bec10aa05c26e7ab531bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Jan 05 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be1bd22c9dc0d3d53b72d?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Louisiana | Hybrid | Jan 05 |
+| ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be1bd22c9dc0d3d53b72d?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Louisiana | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0db22c9dc0d3d53b673?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Kansas | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0db22c9dc0d3d53b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Texas | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0a1aa05c26e7ab5298d?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Pennsylvania | Hybrid | Jan 05 |
@@ -77,12 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Process (Conversion)](https://jobright.ai/jobs/info/695bdb79aa05c26e7ab52544?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bdb58f1f8465b79f1de21?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Virginia | Hybrid | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695ba765f1f8465b79f1ae7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
-| ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7188f1f8465b79f17da7?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Jan 05 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7188f1f8465b79f17da7?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Jan 05 |
 | ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7174aa05c26e7ab4c5ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Jan 05 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Jan 04 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Jan 04 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c86e2aa598a08c3ed5cf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
@@ -131,11 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69548b1eaa05c26e7aaf0a25?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Dec 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6958594bf1f8465b79eef2a4?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Home Office (LAHOME) | Hybrid | Dec 30 |
 | **[Thales](http://www.thalesgroup.com)** | **[Business Analyst - Digital Transformation](https://jobright.ai/jobs/info/6954666b5bb7de448ef75790?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
-| **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/695463bff1f8465b79eb8d9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Dec 30 |
-| **[Swiss Re](http://www.swissre.com)** | **[Business Analyst (SRILIAC)](https://jobright.ai/jobs/info/69545eb45bb7de448ef75437?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Dec 30 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/694603dd7d506e3808f1541f?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 30 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - DER Interconnection](https://jobright.ai/jobs/info/69543e65aa05c26e7aaeae83?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | On Site | Dec 30 |
-| **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6946097c63141d188455b90b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 30 |
+| ↳ | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/6946097c63141d188455b90b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Dec 30 |
 | **[Viant Technology](http://viantinc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69543a60aa05c26e7aaea6fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Remote | Dec 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst/Tester](https://jobright.ai/jobs/info/695438365bb7de448ef7209a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Dec 30 |
 | **[Better Business Bureau (BBB) serving the Heart of Texas](https://www.bbb.org/en/us/local-bbb/bbb-serving-the-heart-of-texas)** | **[BBB - Business Experience Specialist](https://jobright.ai/jobs/info/69542c0c5bb7de448ef71826?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Dec 30 |
@@ -155,8 +155,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386875bb7de448ef69412?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695386605bb7de448ef693f8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386235bb7de448ef693d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Dec 29 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386165bb7de448ef693cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69538616935649778e213fc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Dec 29 |
+| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695386165bb7de448ef693cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385f25bb7de448ef693b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Dec 29 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695385aa5bb7de448ef6938b?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
