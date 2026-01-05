@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
+| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 05 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6920e5ada49a885af9a40690?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Jan 04 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Jan 04 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
@@ -94,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955c9cfaa05c26e7aaffae1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69586518aa05c26e7ab23f0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Hybrid | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69559e249f1b381eb26edb36?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
 | **[Vervent](https://www.vervent.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695592199f1b381eb26ed036?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Dec 31 |
 | **[KNOCK Inc.](https://knockinc.com/)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/6955b0f7aa05c26e7aaff0b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/69558691f1f8465b79ec8686?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955b0d9aa05c26e7aaff08c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955bde0aa05c26e7aaff6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955ca92f1f8465b79ecaf7e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | Hybrid | Dec 31 |
 | **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | ↳ | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695340b6935649778e210494?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Dec 29 |
 | **[BHI](http://bhiusa.com)** | **[Fleet Coordinator](https://jobright.ai/jobs/info/69531d2d5bb7de448ef625ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Dec 29 |
-| **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6952dfbc5bb7de448ef5f0e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Nebraska, United States | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
