@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7188f1f8465b79f17da7?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Jan 05 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695ba765f1f8465b79f1ae7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
+| ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7188f1f8465b79f17da7?utm_campaign=Business%20Analyst&utm_source=1103)** | 2801 W Durango St, Phoenix, AZ 85009 | Hybrid | Jan 05 |
 | ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/695b7174aa05c26e7ab4c5ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid) | Hybrid | Jan 05 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
@@ -97,14 +98,14 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955c9cfaa05c26e7aaffae1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69586518aa05c26e7ab23f0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Hybrid | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69559e249f1b381eb26edb36?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
 | **[Vervent](https://www.vervent.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695592199f1b381eb26ed036?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Dec 31 |
 | **[KNOCK Inc.](https://knockinc.com/)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/6955b0f7aa05c26e7aaff0b0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/69558691f1f8465b79ec8686?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955b0d9aa05c26e7aaff08c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955bde0aa05c26e7aaff6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955ca92f1f8465b79ecaf7e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | Hybrid | Dec 31 |
-| **[McCain Foods](https://www.mccain.com/)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
+| **[McCain Foods](http://www.mccain.com)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/69549db75bb7de448ef79497?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Dec 30 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695892a8f1f8465b79ef279b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Dec 30 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69548b1eaa05c26e7aaf0a25?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | On Site | Dec 30 |
