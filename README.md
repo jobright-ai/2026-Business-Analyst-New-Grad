@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | Jan 06 |
+| **[Benda Infotech](https://www.bendainfotech.com/)** | **[Entry Level Business Analyst](https://jobright.ai/jobs/info/695d128af1f8465b79f342bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 06 |
 | **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/695c835b5e4962051b59a107?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jan 05 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4ff622c9dc0d3d5440e7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN, City - Remote MN | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c46e3f1f8465b79f256a0?utm_campaign=Business%20Analyst&utm_source=1103)** | IA, City - Remote IA | Remote | Jan 05 |
@@ -70,9 +72,7 @@ For a complete list, click the following sortable link below:
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[ANALYST I](https://jobright.ai/jobs/info/695c398722c9dc0d3d54180a?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 05 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c53bc22c9dc0d3d544a6b?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | Hybrid | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5259f1f8465b79f274a5?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | Hybrid | Jan 05 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/695c328e22c9dc0d3d541144?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 05 |
 | **[J.Crew](http://www.jcrew.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/695c302ff1f8465b79f23b3d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 05 |
-| **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/695c2c1daa05c26e7ab57eea?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 05 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
@@ -130,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/694f4ad7ce13cd10565774ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 01 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/695a1f949f1b381eb272c053?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 31 |
-| **[Xcel Energy](https://www.xcelenergy.com/)** | **[Business Analyst - Energy Supply](https://jobright.ai/jobs/info/695cf376f1f8465b79f31c1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Dec 31 |
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955c9cfaa05c26e7aaffae1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69586518aa05c26e7ab23f0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Hybrid | Dec 31 |
