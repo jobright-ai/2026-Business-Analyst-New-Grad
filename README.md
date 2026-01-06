@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/695c835b5e4962051b59a107?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jan 05 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4ff622c9dc0d3d5440e7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN, City - Remote MN | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c46e3f1f8465b79f256a0?utm_campaign=Business%20Analyst&utm_source=1103)** | IA, City - Remote IA | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4333aa05c26e7ab595dc?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Jan 05 |
@@ -75,8 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
-| **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE (anywhere in the US)](https://jobright.ai/jobs/info/695c6c205e4962051b598839?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 05 |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c3a9d22c9dc0d3d54193f?utm_campaign=Business%20Analyst&utm_source=1103)** | remote, MO | Remote | Jan 05 |
 | **[NTT DATA](https://nttdata-solutions.com/cz/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c1def22c9dc0d3d53fd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | MO | Remote | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695beca1aa05c26e7ab53360?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jan 05 |
@@ -134,9 +133,9 @@ For a complete list, click the following sortable link below:
 | **[Medline Industries, LP](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955c9cfaa05c26e7aaffae1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69586518aa05c26e7ab23f0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Hybrid | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69559e249f1b381eb26edb36?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Dec 31 |
 | **[Vervent](https://www.vervent.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695592199f1b381eb26ed036?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Hybrid | Dec 31 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955b0d9aa05c26e7aaff08c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Dec 31 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6955bde0aa05c26e7aaff6c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Dec 31 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6955ca92f1f8465b79ecaf7e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | Hybrid | Dec 31 |
 | **[McCain Foods](http://www.mccain.com)** | **[Digital Business & Data Analyst - Global Agriculture](https://jobright.ai/jobs/info/691d6d460b7dff734150362c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Dec 31 |
@@ -154,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[Texas Department of Family and Protective Services](https://www.dfps.texas.gov)** | **[Business Analyst III](https://jobright.ai/jobs/info/69543326aa05c26e7aaea378?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Dec 30 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/695419d5f1f8465b79eb44c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Dec 30 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69540aa5f1f8465b79eb3fc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Dec 30 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
