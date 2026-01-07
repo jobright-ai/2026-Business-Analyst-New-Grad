@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dd57a89be3415c7462f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
 | **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695de0f5e4cdbb1454cfdea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[Business Analyst (Remote - US)](https://jobright.ai/jobs/info/695d9489f5f3c43f38e27aaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 06 |
 | **[Cartesian](https://www.cartesian.com)** | **[Business Analyst - Strategy & Analytics](https://jobright.ai/jobs/info/695d83e7f5f3c43f38e25844?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 06 |
 | **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d7ea6f5f3c43f38e24ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/695e0cf861d5475ac1a0ce55?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | Hybrid | Jan 06 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst, Fishing](https://jobright.ai/jobs/info/695d9288f5f3c43f38e2771a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 | **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695d84d0f5f3c43f38e259fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 06 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/691fe1303f782d2f1afc1061?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 06 |
@@ -84,12 +86,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4333aa05c26e7ab595dc?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c42f7aa05c26e7ab5953f?utm_campaign=Business%20Analyst&utm_source=1103)** | WI, City - Remote WI | Remote | Jan 05 |
 | **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695c3e9baa05c26e7ab59098?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 05 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c622aaa05c26e7ab5cd6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Sioux Falls, SD | Hybrid | Jan 05 |
-| ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5dc3f1f8465b79f2827f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | Hybrid | Jan 05 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5dc3f1f8465b79f2827f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | Hybrid | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695c3a3c22c9dc0d3d5418c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 05 |
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[ANALYST I](https://jobright.ai/jobs/info/695c398722c9dc0d3d54180a?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 05 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c53bc22c9dc0d3d544a6b?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | Hybrid | Jan 05 |
-| ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5259f1f8465b79f274a5?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | Hybrid | Jan 05 |
+| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5259f1f8465b79f274a5?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | Hybrid | Jan 05 |
+| ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c53bc22c9dc0d3d544a6b?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | Hybrid | Jan 05 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
