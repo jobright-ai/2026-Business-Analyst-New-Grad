@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dd57a89be3415c7462f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
+| **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 06 |
+| **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695de0f5e4cdbb1454cfdea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695dcc61403df63191d5b7cb?utm_campaign=Business%20Analyst&utm_source=1103)** | UNITED STATES-NY-Melville | On Site | Jan 06 |
 | **[Helion](http://heliongrp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695da974fbd62a0a65665f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst - Data Operations & Solutions](https://jobright.ai/jobs/info/695da95bf5f3c43f38e28f81?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d3ecbf5f3c43f38e1f826?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto - 100 Adelaide St W | On Site | Jan 06 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d3d3afbd62a0a6565c69f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | Jan 06 |
-| **[American Electric Power](http://aep.com)** | **[Tech Business Analyst Assc](https://jobright.ai/jobs/info/695c835b5e4962051b59a107?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Jan 05 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4ff622c9dc0d3d5440e7?utm_campaign=Business%20Analyst&utm_source=1103)** | MN, City - Remote MN | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c46e3f1f8465b79f256a0?utm_campaign=Business%20Analyst&utm_source=1103)** | IA, City - Remote IA | Remote | Jan 05 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c4333aa05c26e7ab595dc?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Jan 05 |
@@ -99,8 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0db22c9dc0d3d53b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Texas | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0db22c9dc0d3d53b673?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Kansas | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695be0a1aa05c26e7ab5298d?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Pennsylvania | Hybrid | Jan 05 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/695d6612f5f3c43f38e22e22?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Jan 05 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bdea8aa05c26e7ab5283c?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Kentucky | Hybrid | Jan 05 |
+| ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bdea8aa05c26e7ab5283c?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Kentucky | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bde9aaa05c26e7ab5282e?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Illinois | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bde82aa05c26e7ab52820?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Oklahoma | Hybrid | Jan 05 |
 | ↳ | **[Mgr, Business Analytics - Medicare Stars](https://jobright.ai/jobs/info/695bde41f1f8465b79f1dee4?utm_campaign=Business%20Analyst&utm_source=1103)** | Work At Home-Ohio | Hybrid | Jan 05 |
@@ -142,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69584854f1f8465b79eeeaed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 02 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/695824d5f1f8465b79eebb1d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-WI-West Bend | Hybrid | Jan 02 |
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Business Analyst - Digital Experience](https://jobright.ai/jobs/info/6930cfa5fa28370be26b419d?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ | On Site | Jan 02 |
-| **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 02 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/694f4ad7ce13cd10565774ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 01 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/695a1f949f1b381eb272c053?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 31 |
