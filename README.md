@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69420225bdcf884a5addbafd?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 07 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | Hybrid | Jan 06 |
@@ -82,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d3d3afbd62a0a6565c69f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | Jan 06 |
 | **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695c3e9baa05c26e7ab59098?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 05 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/695c5dc3f1f8465b79f2827f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fargo, ND | Hybrid | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695c3a3c22c9dc0d3d5418c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 05 |
 | **[California Department of Developmental Services](https://www.dds.ca.gov)** | **[ANALYST I](https://jobright.ai/jobs/info/695c398722c9dc0d3d54180a?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 05 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
@@ -92,7 +93,7 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 05 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Jan 04 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c86e2aa598a08c3ed5cf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
@@ -123,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Plymouth Rock Assurance](https://www.plymouthrock.com)** | **[Business Analyst - Digital Experience](https://jobright.ai/jobs/info/6930cfa5fa28370be26b419d?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, NJ | On Site | Jan 02 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 01 |
 | **[Academia.edu](https://www.academia.edu/)** | **[Manager, Business Analytics](https://jobright.ai/jobs/info/694f4ad7ce13cd10565774ab?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 01 |
-| **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/695a1f949f1b381eb272c053?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
