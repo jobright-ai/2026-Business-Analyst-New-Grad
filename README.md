@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Financial Times](http://ft.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69600716a1bbea1d9a7acfe5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | Jan 08 |
+| **[Financial Times](http://ft.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/696023e57ebc25398eb6139e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 08 |
+| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69600716a1bbea1d9a7acfe5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | Jan 08 |
+| **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69602789a112b402660ee0df?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69601428a112b402660ec90a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States - Remote | Remote | Jan 08 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696010c07ebc25398eb5facc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/696009f3a1bbea1d9a7ad2d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 08 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 08 |
@@ -75,9 +79,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee0340badca5763af5ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ede3408ab990f282a2bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
@@ -108,7 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Jan 04 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c86e2aa598a08c3ed5cf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jan 03 |
