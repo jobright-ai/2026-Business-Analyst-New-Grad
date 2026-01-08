@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Financial Times](http://ft.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69600716a1bbea1d9a7acfe5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | Jan 08 |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/696009f3a1bbea1d9a7ad2d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 08 |
+| **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 08 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 08 |
@@ -72,9 +75,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee0340badca5763af5ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ede3408ab990f282a2bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
@@ -84,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695de0f5e4cdbb1454cfdea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Helion](http://heliongrp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695da974fbd62a0a65665f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Jan 06 |
-| **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst - Data Operations & Solutions](https://jobright.ai/jobs/info/695da95bf5f3c43f38e28f81?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695dc68af1f8465b79f41147?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dbfeef1f8465b79f406e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
 | **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d7ea6f5f3c43f38e24ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
@@ -104,8 +106,6 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
-| **[NTT DATA North America](https://us.nttdata.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695fb0807ebc25398eb59888?utm_campaign=Business%20Analyst&utm_source=1103)** | remote, MO | Remote | Jan 05 |
-| **[NTT DATA](https://nttdata-solutions.com/cz/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/695c1def22c9dc0d3d53fd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | MO | Remote | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
