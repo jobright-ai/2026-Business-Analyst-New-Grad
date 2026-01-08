@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/695f71e0a1bbea1d9a7a2e6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 08 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/695f6d2fa1bbea1d9a7a2ada?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695f190ea112b402660ddff0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 07 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee0340badca5763af5ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ede3408ab990f282a2bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
