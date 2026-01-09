@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 09 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6961254af3f4cd13250621ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 09 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/695d8bf4fbd62a0a6566329b?utm_campaign=Business%20Analyst&utm_source=1103)** | Menands, NY | Hybrid | Jan 09 |
 | **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/6960c9f2a1bbea1d9a7b84bd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 09 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Sarah Bush Lincoln](https://www.sarahbush.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6960331f7ebc25398eb627b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarah Bush Lincoln Health Center | Remote | Jan 08 |
 | **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695d881efbd62a0a65662a43?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Jan 08 |
 | **[Financial Times](http://ft.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/696023e57ebc25398eb6139e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 08 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69600716a1bbea1d9a7acfe5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | Jan 08 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69602789a112b402660ee0df?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69601428a112b402660ec90a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States - Remote | Remote | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696010c07ebc25398eb5facc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
@@ -98,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ede3408ab990f282a2bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ed57c0badca5763af4bad?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, US | Hybrid | Jan 07 |
-| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695ee29108ab990f282a3249?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Hybrid | Jan 07 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/695eeb0aa112b402660da830?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Hybrid | Jan 07 |
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
@@ -107,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/6960f877f3f4cd132505f993?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dd57a89be3415c7462f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
-| **[Central Ohio Technical College](http://www.cotc.edu/)** | **[Business Analyst](https://jobright.ai/jobs/info/69538efe5bb7de448ef69758?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, OH | On Site | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695de0f5e4cdbb1454cfdea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[Helion](http://heliongrp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695da974fbd62a0a65665f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695dc68af1f8465b79f41147?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jan 06 |
@@ -136,14 +135,11 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83b650bbaf76504fbc52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83d7aa598a08c3ed5b1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81d650bbaf76504fba7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7be3aa598a08c3ed550f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c42aa598a08c3ed5560?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81ca50bbaf76504fba6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c831250bbaf76504fbb9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c82bcaa598a08c3ed5a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/695210df29655e4dd65aec88?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83c8aa598a08c3ed5b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7a40aa598a08c3ed53e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 03 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c896250bbaf76504fc079?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
-| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69588c22f1f8465b79ef21b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
