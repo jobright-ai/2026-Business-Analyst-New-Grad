@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EōS Fitness](http://eosfitness.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/696136d2e7ed9a5731b9ff37?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona - 8GG | Hybrid | Jan 09 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6961254af3f4cd13250621ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 09 |
@@ -72,13 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696053d5a1bbea1d9a7b30fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Kitchener, Ontario, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69605267a1bbea1d9a7b304f?utm_campaign=Business%20Analyst&utm_source=1103)** | Truro, Nova Scotia, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696051b0a1bbea1d9a7b2ffd?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Jan 08 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69605c957ebc25398eb65832?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 08 |
 | **[Sarah Bush Lincoln](https://www.sarahbush.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6960331f7ebc25398eb627b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarah Bush Lincoln Health Center | Remote | Jan 08 |
 | **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695d881efbd62a0a65662a43?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Jan 08 |
-| **[Financial Times](http://ft.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/696023e57ebc25398eb6139e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 08 |
-| **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69602789a112b402660ee0df?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69601428a112b402660ec90a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States - Remote | Remote | Jan 08 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696010c07ebc25398eb5facc?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 08 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 08 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/690989d94a1b456627b0183a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
@@ -127,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
+| **[NTT DATA North America](https://us.nttdata.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696132cfe7ed9a5731b9faf2?utm_campaign=Business%20Analyst&utm_source=1103)** | remote, MO | Remote | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
