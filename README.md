@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6961254af3f4cd13250621ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 09 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/695d8bf4fbd62a0a6566329b?utm_campaign=Business%20Analyst&utm_source=1103)** | Menands, NY | Hybrid | Jan 09 |
 | **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/6960c9f2a1bbea1d9a7b84bd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960bd827ebc25398eb69b9b?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960b4997ebc25398eb69402?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
@@ -126,11 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
 | **[ISO New England Inc.](http://www.iso-ne.com)** | **[Business Analyst - System Operations](https://jobright.ai/jobs/info/6921288c00c9ee50eaecc556?utm_campaign=Business%20Analyst&utm_source=1103)** | Holyoke, MA | Hybrid | Jan 04 |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 03 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83b650bbaf76504fbc52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c83d7aa598a08c3ed5b1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81d650bbaf76504fba7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c7c42aa598a08c3ed5560?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c81ca50bbaf76504fba6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c831250bbaf76504fbb9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 03 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/693c82bcaa598a08c3ed5a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
