@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6962b6aaa112b40266110e45?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 10 |
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69624abf25e18715077f2800?utm_campaign=Business%20Analyst&utm_source=1103)** | INSX 4040 EMBASSY PARKWAY SUITE 270 - AKRON, OH 44333 | Hybrid | Jan 10 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/69626037a112b4026610cc8e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 10 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6962112d25e18715077eefe4?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 10 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696209af2cbf4e44756c0275?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Jan 10 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69620667a112b40266107366?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 09 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6961f7e1f3f4cd132506e3d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Jan 09 |
 | **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6961c248a112b4026610522d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA | On Site | Jan 09 |
 | **[a.i. solutions](https://ai-solutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6961ae87a112b40266103f73?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, Alabama, United States | On Site | Jan 09 |
-| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Junior Business Analyst - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/6962091e25e18715077eea55?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City,UT,US | Hybrid | Jan 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/69617fc4e7ed9a5731ba46b7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Support Services Analyst](https://jobright.ai/jobs/info/69617f1ca112b40266100314?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Edmonton area (Remote), AB | Remote | Jan 09 |
 | **[Capital Healthcare Planning](https://caphcp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69616b43f3f4cd13250661ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Jan 09 |
@@ -78,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/6960c9f2a1bbea1d9a7b84bd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960b4997ebc25398eb69402?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 08 |
-| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/6961e014f3f4cd132506d96b?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA | Hybrid | Jan 08 |
 | **[FreshBooks](http://www.freshbooks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69605a397ebc25398eb6561a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696059a87ebc25398eb65597?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69605940a1bbea1d9a7b3558?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 08 |
