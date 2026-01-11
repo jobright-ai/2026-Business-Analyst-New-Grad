@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6963a6882cbf4e44756d5b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 11 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | Hybrid | Jan 11 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6962b6aaa112b40266110e45?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 10 |
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69624abf25e18715077f2800?utm_campaign=Business%20Analyst&utm_source=1103)** | INSX 4040 EMBASSY PARKWAY SUITE 270 - AKRON, OH 44333 | Hybrid | Jan 10 |
