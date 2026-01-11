@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/6960c9f2a1bbea1d9a7b84bd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960b4997ebc25398eb69402?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 08 |
+| **[a.i. solutions](https://ai-solutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696307ada112b40266114337?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Jan 08 |
 | **[FreshBooks](http://www.freshbooks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69605a397ebc25398eb6561a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696059a87ebc25398eb65597?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69605940a1bbea1d9a7b3558?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, Nova Scotia, Canada | Hybrid | Jan 08 |
@@ -133,5 +134,5 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Testing](https://jobright.ai/jobs/info/6894feaf4ed2ea559ca5272d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Jan 05 |
-| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695ac152f1f8465b79f0f351?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
+| **[Burlington Stores, Inc.](https://www.burlington.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/695aaf7af1f8465b79f0ed2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, NJ | Hybrid | Jan 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
