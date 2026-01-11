@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6963c5b32cbf4e44756d6b78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 11 |
+| **[Arizona State University](http://www.asu.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/696404772cbf4e44756da2cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 11 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6963a6882cbf4e44756d5b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 11 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | Hybrid | Jan 11 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I Excel, Configuration](https://jobright.ai/jobs/info/6962b6aaa112b40266110e45?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 10 |
@@ -69,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[QBE Insurance](http://www.qbe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6961f7e1f3f4cd132506e3d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Jan 09 |
 | **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6961c248a112b4026610522d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA | On Site | Jan 09 |
 | **[a.i. solutions](https://ai-solutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6961ae87a112b40266103f73?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, Alabama, United States | On Site | Jan 09 |
-| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Junior Business Analyst - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/6962f7c225e18715077fb3ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City,UT,US | Hybrid | Jan 09 |
+| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Junior Business Analyst - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/6963fe7425e1871507807f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City,UT,US | Hybrid | Jan 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Support Services Analyst](https://jobright.ai/jobs/info/69617f1ca112b40266100314?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Edmonton area (Remote), AB | Remote | Jan 09 |
 | **[Capital Healthcare Planning](https://caphcp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69616b43f3f4cd13250661ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Jan 09 |
 | **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696169e6e7ed9a5731ba2e90?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA - Hybrid | Hybrid | Jan 09 |
