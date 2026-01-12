@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/695c4144f1f8465b79f249b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Jan 05 |
 | **[Trisura](https://trisura.com)** | **[Business Analyst - FME](https://jobright.ai/jobs/info/695c50f3f1f8465b79f270f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 05 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager (Natural Channel)](https://jobright.ai/jobs/info/695c4876aa05c26e7ab5a209?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 05 |
-| **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/695bf246f1f8465b79f1fb37?utm_campaign=Business%20Analyst&utm_source=1103)** | PNC Center - Cleveland (OH001) | On Site | Jan 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
