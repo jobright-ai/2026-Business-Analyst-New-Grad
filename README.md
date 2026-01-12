@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69654d296d52670c5c3e1261?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario | Hybrid | Jan 12 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69654a682cbf4e44756ebd89?utm_campaign=Business%20Analyst&utm_source=1103)** | CAN, Ontario, Waterloo, 500 King Street North | Hybrid | Jan 12 |
+| **[CloudIngest](https://cloudingest.com)** | **[Full-Time Opportunity // Business Analyst // Boston, MA](https://jobright.ai/jobs/info/69653e5b6d52670c5c3e054e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 12 |
+| **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/695a1f949f1b381eb272c053?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Jan 12 |
 | **[Arizona State University](http://www.asu.edu)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/696536b86d52670c5c3e0036?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 12 |
-| **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6964c8ed25e1871507812a1b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 12 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/6964c528a112b4026612abe1?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Jan 12 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6964b7d925e1871507811e1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 12 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69648bb225e187150780eea6?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Jan 11 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[EōS Fitness](http://eosfitness.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/696136d2e7ed9a5731b9ff37?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona - 8GG | Hybrid | Jan 09 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 09 |
-| **[RBC](https://www.rbc.com)** | **[Analyst/Associate, Global Markets, Junior Business Manager](https://jobright.ai/jobs/info/6960c9f2a1bbea1d9a7b84bd?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960b4997ebc25398eb69402?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 08 |
 | **[a.i. solutions](https://ai-solutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696307ada112b40266114337?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Jan 08 |
@@ -102,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696544186d52670c5c3e0740?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 07 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dd57a89be3415c7462f5f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
