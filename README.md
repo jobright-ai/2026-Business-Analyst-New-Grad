@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69648bb225e187150780eea6?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Jan 11 |
 | **[Arizona State University](http://www.asu.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/696404772cbf4e44756da2cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 11 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6963a6882cbf4e44756d5b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 11 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Analyst, Demand Planning](https://jobright.ai/jobs/info/6946af367d506e3808f2157c?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hanover, NJ | Hybrid | Jan 11 |
