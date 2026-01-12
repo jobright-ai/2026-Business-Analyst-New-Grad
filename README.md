@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6964b7d925e1871507811e1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 12 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69648bb225e187150780eea6?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Jan 11 |
 | **[Arizona State University](http://www.asu.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/696404772cbf4e44756da2cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Jan 11 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6963a6882cbf4e44756d5b0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 11 |
