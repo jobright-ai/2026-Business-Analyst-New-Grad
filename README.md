@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6959d53a9f1b381eb2728292?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 13 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696209af2cbf4e44756c0275?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Jan 12 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/6965af66a112b4026613bacf?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA, USA | On Site | Jan 12 |
@@ -124,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Helion](http://heliongrp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695da974fbd62a0a65665f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | Hybrid | Jan 06 |
 | **[First National Financial LP](https://www.firstnational.ca)** | **[Application Business Analyst, IT](https://jobright.ai/jobs/info/695dc68af1f8465b79f41147?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jan 06 |
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dbfeef1f8465b79f406e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
-| **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d7ea6f5f3c43f38e24ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
-| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst, Fishing](https://jobright.ai/jobs/info/695d9288f5f3c43f38e2771a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
