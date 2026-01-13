@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/69664a98a112b402661454f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jan 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6959d53a9f1b381eb2728292?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 13 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696209af2cbf4e44756c0275?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Jan 12 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
