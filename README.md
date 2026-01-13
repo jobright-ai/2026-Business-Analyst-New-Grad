@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Jan 12 |
+| **[Manulife](http://www.manulife.com/)** | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696588545ad3a93f8230d02b?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Jan 12 |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696586612cbf4e44756f18b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Durham, NC | Remote | Jan 12 |
+| ↳ | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696580585ad3a93f8230c83e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | Remote | Jan 12 |
+| ↳ | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696578ad5ad3a93f8230bdfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Orchard Park, NY | Remote | Jan 12 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jan 12 |
 | **[Manulife](http://www.manulife.com/)** | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696566272cbf4e44756edfd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, Nova Scotia | Hybrid | Jan 12 |
 | ↳ | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696565a16d52670c5c3e2ea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Montreal, Quebec | Hybrid | Jan 12 |
@@ -123,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Synapse Health](http://www.synapsehealth.com)** | **[Business Analyst – Data Operations & Solutions](https://jobright.ai/jobs/info/695dbfeef1f8465b79f406e7?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 06 |
 | **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d7ea6f5f3c43f38e24ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst, Fishing](https://jobright.ai/jobs/info/695d9288f5f3c43f38e2771a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 06 |
-| **[Easterseals-Goodwill Northern Rocky Mountain](https://www.esgw.org)** | **[Business Solutions Administrator](https://jobright.ai/jobs/info/695d84d0f5f3c43f38e259fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 06 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/691fe1303f782d2f1afc1061?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 06 |
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d7934f1f8465b79f3a6b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 06 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Jan 06 |
