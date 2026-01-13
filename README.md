@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/6965af66a112b4026613bacf?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA, USA | On Site | Jan 12 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6965a2802cbf4e44756f4c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 12 |
 | **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
 | **[ruby](https://www.rubylife.com)** | **[PM Coordinator/Junior Business Analyst](https://jobright.ai/jobs/info/6965998fa112b40266139fdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Jan 12 |
