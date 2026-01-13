@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Jan 12 |
-| **[Manulife](http://www.manulife.com/)** | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696588545ad3a93f8230d02b?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Jan 12 |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6965a2802cbf4e44756f4c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 12 |
+| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
+| **[ruby](https://www.rubylife.com)** | **[PM Coordinator/Junior Business Analyst](https://jobright.ai/jobs/info/6965998fa112b40266139fdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Jan 12 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696586612cbf4e44756f18b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Durham, NC | Remote | Jan 12 |
 | ↳ | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696580585ad3a93f8230c83e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | Remote | Jan 12 |
-| ↳ | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696578ad5ad3a93f8230bdfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Orchard Park, NY | Remote | Jan 12 |
+| **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Jan 12 |
+| **[Manulife](http://www.manulife.com/)** | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696588545ad3a93f8230d02b?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Jan 12 |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696578ad5ad3a93f8230bdfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Orchard Park, NY | Remote | Jan 12 |
+| **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69659291a112b402661398f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | Jan 12 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Jan 12 |
 | **[Manulife](http://www.manulife.com/)** | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696566272cbf4e44756edfd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, Nova Scotia | Hybrid | Jan 12 |
 | ↳ | **[Taxation Business Analyst](https://jobright.ai/jobs/info/696565a16d52670c5c3e2ea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Montreal, Quebec | Hybrid | Jan 12 |
@@ -90,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69620667a112b40266107366?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 09 |
 | **[QBE Insurance](http://www.qbe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6961f7e1f3f4cd132506e3d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Jan 09 |
 | **[a.i. solutions](https://ai-solutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6961ae87a112b40266103f73?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, Alabama, United States | On Site | Jan 09 |
+| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Junior Business Analyst - Administrative Office of the Courts - Salt Lake City](https://jobright.ai/jobs/info/69659b165ad3a93f8230f738?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City,UT,US | Hybrid | Jan 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Support Services Analyst](https://jobright.ai/jobs/info/69617f1ca112b40266100314?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Edmonton area (Remote), AB | Remote | Jan 09 |
 | **[Capital Healthcare Planning](https://caphcp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69616b43f3f4cd13250661ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | Hybrid | Jan 09 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Support Services Analyst](https://jobright.ai/jobs/info/69618ae7e7ed9a5731ba67ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Edmonton Metropolitan Area | Remote | Jan 09 |
