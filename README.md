@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/6965af66a112b4026613bacf?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA, USA | On Site | Jan 12 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6965a2802cbf4e44756f4c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 12 |
-| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69659f66a112b4026613a753?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 12 |
 | **[ruby](https://www.rubylife.com)** | **[PM Coordinator/Junior Business Analyst](https://jobright.ai/jobs/info/6965998fa112b40266139fdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | Remote | Jan 12 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696586612cbf4e44756f18b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Durham, NC | Remote | Jan 12 |
 | ↳ | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/696580585ad3a93f8230c83e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | Remote | Jan 12 |
@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69100d51988c2b7b4ec4fd3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 06 |
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d3ecbf5f3c43f38e1f826?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto - 100 Adelaide St W | On Site | Jan 06 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/695d3d3afbd62a0a6565c69f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 06 |
-| **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
