@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst - Credit Back Office](https://jobright.ai/jobs/info/6966b0f4a112b4026614a5f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 13 |
+| **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6966b890a112b4026614afdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 13 |
+| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 13 |
+| **[Techpoint, Inc.](http://www.techpointinc.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6966c1d87a34f539205545c5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 13 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696661d95ad3a93f8231b810?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office | Hybrid | Jan 13 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/69664a98a112b402661454f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jan 13 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 13 |
@@ -120,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696544186d52670c5c3e0740?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 | **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 07 |
-| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | Hybrid | Jan 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
