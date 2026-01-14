@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69672ce7f25a380066958cd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aurora, CO | On Site | Jan 13 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6966f9e96f782b4e8d52a3e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
+| **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69672a1ff25a380066958927?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Aurora | Hybrid | Jan 13 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966cd8e5ad3a93f82323020?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 13 |
 | ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966c98ea112b4026614ca43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 13 |
 | ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966d27aa112b4026614dc66?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 13 |
@@ -127,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696544186d52670c5c3e0740?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
-| **[WEC Energy Group](https://www.wecenergygroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695b6fdef1f8465b79f17d52?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
