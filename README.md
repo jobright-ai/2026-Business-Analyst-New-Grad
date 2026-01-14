@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST II](https://jobright.ai/jobs/info/69674410f25a38006695aaf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 13 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69672ce7f25a380066958cd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aurora, CO | On Site | Jan 13 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6966f9e96f782b4e8d52a3e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 13 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 13 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6902d89c00a1816c41ea1ea8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6959d53a9f1b381eb2728292?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 13 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 13 |
-| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Business Reporting Analyst - Operational Effectiveness and Delivery](https://jobright.ai/jobs/info/69670e35639b452fb57ca4a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jan 13 |
 | **[QBE North America](https://www.qbe.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696209af2cbf4e44756c0275?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie Town, WI | Hybrid | Jan 12 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/6965af66a112b4026613bacf?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA, USA | On Site | Jan 12 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6965a2802cbf4e44756f4c98?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 12 |
@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 | **[LCBO](https://www.lcbo.com/)** | **[Process Analyst (Acting/ Contract)](https://jobright.ai/jobs/info/695ea9c60badca5763af10ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 07 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Junior Business Analyst - Financial Systems](https://jobright.ai/jobs/info/695e9dc5a112b402660d479e?utm_campaign=Business%20Analyst&utm_source=1103)** | 287 Speedvale Avenue West, Guelph, Ontario, N1H 1C5, CA | On Site | Jan 07 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696544186d52670c5c3e0740?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
