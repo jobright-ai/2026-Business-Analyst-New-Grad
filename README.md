@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Jan 14 |
+| **[Teifi Digital](https://teifi.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6967735d1703f05405a92292?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST II](https://jobright.ai/jobs/info/69674410f25a38006695aaf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 13 |
 | **[Intermountain Electric, Inc. (IME)](http://www.imelect.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69672ce7f25a380066958cd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aurora, CO | On Site | Jan 13 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6966f9e96f782b4e8d52a3e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 13 |
@@ -124,7 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6960a06fa1bbea1d9a7b6450?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 07 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/695f14fca1bbea1d9a79ebd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 07 |
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696051b17ebc25398eb65030?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA - US | On Site | Jan 07 |
-| **[Linamar Corporation](http://www.linamar.com/)** | **[Business Analyst, Junior - ERP](https://jobright.ai/jobs/info/695ed3cb08ab990f282a1e27?utm_campaign=Business%20Analyst&utm_source=1103)** | 750 Woodlawn Road West, Guelph, Ontario, N1K 1E9, CA | On Site | Jan 07 |
-| **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Business Analyst](https://jobright.ai/jobs/info/695ef03e0badca5763af6ca5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jan 07 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
