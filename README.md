@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966cd8e5ad3a93f82323020?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 13 |
+| ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966c98ea112b4026614ca43?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 13 |
+| ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966d27aa112b4026614dc66?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 13 |
+| ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966daf8a112b4026614ede1?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jan 13 |
 | **[PECO](https://www.peco.com/Pages/Home.aspx)** | **[Assoc Business Analyst - Credit Back Office](https://jobright.ai/jobs/info/6966b0f4a112b4026614a5f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 13 |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst - Credit Back Office](https://jobright.ai/jobs/info/6966c8377a34f5392055512d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Jan 13 |
 | **[City of Charlotte](https://charlottenc.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6966b890a112b4026614afdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 13 |
+| **[Digital Federal Credit Union](https://www.dcu.org)** | **[Business Analyst I, Full-Time, Hybrid, MA](https://jobright.ai/jobs/info/6966dcdfb098f4515f4e366e?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, Massachusetts, United States | Hybrid | Jan 13 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 13 |
 | **[Techpoint, Inc.](http://www.techpointinc.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6966c1d87a34f539205545c5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 13 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696661d95ad3a93f8231b810?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office | Hybrid | Jan 13 |
