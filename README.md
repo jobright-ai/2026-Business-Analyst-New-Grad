@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967dade1703f05405a98062?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Jan 14 |
 | **[Horizon](https://www.horizoninvestments.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6967c865639b452fb57d51bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte,NC,US | On Site | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6967c6a3f25a380066961500?utm_campaign=Business%20Analyst&utm_source=1103)** | US - TX, Fort Worth | On Site | Jan 14 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6967d11f639b452fb57d5fba?utm_campaign=Business%20Analyst&utm_source=1103)** | US - KY, Fort Knox | On Site | Jan 14 |
+| **[Cape Electrical Supply](https://capeelectric.com)** | **[Business Information Coordinator](https://jobright.ai/jobs/info/6967ebc51703f05405a98cbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cape Girardeau County, MO | On Site | Jan 14 |
+| **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967f1d6639b452fb57d8074?utm_campaign=Business%20Analyst&utm_source=1103)** | MD - Hunt Valley | Hybrid | Jan 14 |
+| ↳ | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967e309f25a380066963ead?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - St. Paul | Hybrid | Jan 14 |
+| **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6967d11f639b452fb57d5fba?utm_campaign=Business%20Analyst&utm_source=1103)** | US - KY, Fort Knox | On Site | Jan 14 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Jan 14 |
 | **[Teifi Digital](https://teifi.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6967735d1703f05405a92292?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | Hybrid | Jan 14 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST II](https://jobright.ai/jobs/info/69674410f25a38006695aaf8?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | Hybrid | Jan 13 |
@@ -115,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[EōS Fitness](http://eosfitness.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/696136d2e7ed9a5731b9ff37?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona - 8GG | Hybrid | Jan 09 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 09 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 09 |
-| **[Utah Judiciary](https://utcourts.applicantpro.com/jobs/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69676a9f639b452fb57d0ad1?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jan 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6960b4997ebc25398eb69402?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | On Site | Jan 08 |
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 08 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Jan 08 |
@@ -126,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 08 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/695f71e0a1bbea1d9a7a2e6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 08 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/695f6d2fa1bbea1d9a7a2ada?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6960a06fa1bbea1d9a7b6450?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Jan 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
