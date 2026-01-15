@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6968538f1703f05405aa02d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Jan 14 |
 | **[Jefferies](http://www.jefferies.com)** | **[IB Management Business Analyst](https://jobright.ai/jobs/info/696826721703f05405a9c7ba?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jan 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696866051703f05405aa196c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Idaho | Remote | Jan 14 |
+| ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69685d2a1703f05405aa0eb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Jan 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/69682bddf25a380066968873?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69682c5ef25a380066968955?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Jan 14 |
 | **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967dade1703f05405a98062?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Jan 14 |
@@ -122,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 08 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Jan 08 |
 | **[Sarah Bush Lincoln](https://www.sarahbush.org/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6960331f7ebc25398eb627b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarah Bush Lincoln Health Center | Remote | Jan 08 |
-| **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69098a63bcccf20de59dc3b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
