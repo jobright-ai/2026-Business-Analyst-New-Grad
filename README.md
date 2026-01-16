@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/696997ae639b452fb57f8925?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Slalom](http://www.slalom.com)** | **[Slalom Flex (Project Based) Reasearch/Business Analyst](https://jobright.ai/jobs/info/69698148f25a38006698267a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Hybrid | Jan 15 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Business Analyst – Purchasing](https://jobright.ai/jobs/info/69698612f25a380066982b38?utm_campaign=Business%20Analyst&utm_source=1103)** | Windsor, CO | On Site | Jan 15 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/696978bf639b452fb57f58d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Norwell, MA | On Site | Jan 15 |
@@ -86,17 +87,17 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696870cc1703f05405aa291e?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6968538f1703f05405aa02d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Jan 14 |
 | **[Jefferies](http://www.jefferies.com)** | **[IB Management Business Analyst](https://jobright.ai/jobs/info/696826721703f05405a9c7ba?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jan 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69686c1f639b452fb57e12f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 14 |
-| ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696869c8f25a38006696d67f?utm_campaign=Business%20Analyst&utm_source=1103)** | Centennial, CO | Hybrid | Jan 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696869c8f25a38006696d67f?utm_campaign=Business%20Analyst&utm_source=1103)** | Centennial, CO | Hybrid | Jan 14 |
 | ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696866051703f05405aa196c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Idaho | Remote | Jan 14 |
+| ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69686c1f639b452fb57e12f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 14 |
 | ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69685d2a1703f05405aa0eb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Jan 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/69682bddf25a380066968873?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69682c5ef25a380066968955?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Worth, TX | On Site | Jan 14 |
 | **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967dade1703f05405a98062?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6967c6a3f25a380066961500?utm_campaign=Business%20Analyst&utm_source=1103)** | US - TX, Fort Worth | On Site | Jan 14 |
 | **[Cape Electrical Supply](https://capeelectric.com)** | **[Business Information Coordinator](https://jobright.ai/jobs/info/6967ebc51703f05405a98cbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cape Girardeau County, MO | On Site | Jan 14 |
-| **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967f1d6639b452fb57d8074?utm_campaign=Business%20Analyst&utm_source=1103)** | MD - Hunt Valley | Hybrid | Jan 14 |
-| ↳ | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967e309f25a380066963ead?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - St. Paul | Hybrid | Jan 14 |
+| **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967e309f25a380066963ead?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - St. Paul | Hybrid | Jan 14 |
+| ↳ | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967f1d6639b452fb57d8074?utm_campaign=Business%20Analyst&utm_source=1103)** | MD - Hunt Valley | Hybrid | Jan 14 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6967d11f639b452fb57d5fba?utm_campaign=Business%20Analyst&utm_source=1103)** | US - KY, Fort Knox | On Site | Jan 14 |
 | **[Horizon](https://www.horizoninvestments.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6968f541639b452fb57ec5de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte,NC,US | On Site | Jan 14 |
 | **[Entegris](http://www.entegris.com)** | **[Business Systems Analyst- Digital Supply Chain](https://jobright.ai/jobs/info/69334b3cf131d96e48461801?utm_campaign=Business%20Analyst&utm_source=1103)** | Bedford, MA | Hybrid | Jan 14 |
