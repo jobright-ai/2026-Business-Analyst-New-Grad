@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Jan 16 |
+| **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/696aa521db26b618950dcd1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jan 16 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I (Hybrid)](https://jobright.ai/jobs/info/696a9b525fc86241853995f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jan 16 |
 | **[Proctor Loan Protector](https://proctorlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696a8808db26b618950dafeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 16 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696a6941db26b618950d8a3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 16 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/696a0307f25a38006698d14c?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Jan 15 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6969ce94639b452fb57fd1f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, New York, United States | On Site | Jan 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6969c61bf25a380066987b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Jan 15 |
-| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/696a8a145fc862418539817b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Slalom](http://www.slalom.com)** | **[Slalom Flex (Project Based) Reasearch/Business Analyst](https://jobright.ai/jobs/info/69698148f25a38006698267a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, United States | Hybrid | Jan 15 |
 | **[UFP Industries](https://www.ufpi.com/)** | **[Business Analyst – Purchasing](https://jobright.ai/jobs/info/69698612f25a380066982b38?utm_campaign=Business%20Analyst&utm_source=1103)** | Windsor, CO | On Site | Jan 15 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/696978bf639b452fb57f58d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Norwell, MA | On Site | Jan 15 |
@@ -92,9 +93,9 @@ For a complete list, click the following sortable link below:
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6968bd7bf25a380066974cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Jan 14 |
 | ↳ | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6968c6c31703f05405aa9efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 14 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink S&OP)](https://jobright.ai/jobs/info/6968c233f25a380066975157?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | Hybrid | Jan 14 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
 | ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
-| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
+| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
 | **[Pon.Bike Performance GmbH](https://www.santacruzbicycles.com/de-DE/careers)** | **[Business Analyst](https://jobright.ai/jobs/info/696889b9639b452fb57e4055?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
 | **[Santa Cruz Bicycles](https://www.santacruzbicycles.com/en-US)** | **[Business Analyst](https://jobright.ai/jobs/info/696882a7f25a38006696f79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | On Site | Jan 14 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69687d941703f05405aa39e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
@@ -102,10 +103,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/696870cc1703f05405aa291e?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6968538f1703f05405aa02d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Jan 14 |
 | **[Jefferies](http://www.jefferies.com)** | **[IB Management Business Analyst](https://jobright.ai/jobs/info/696826721703f05405a9c7ba?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Jan 14 |
-| **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69686c1f639b452fb57e12f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 14 |
+| **[Nelnet](https://nelnetinc.com)** | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696866051703f05405aa196c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Idaho | Remote | Jan 14 |
 | ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69685d2a1703f05405aa0eb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | Jan 14 |
+| ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/69686c1f639b452fb57e12f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 14 |
 | ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696869c8f25a38006696d67f?utm_campaign=Business%20Analyst&utm_source=1103)** | Centennial, CO | Hybrid | Jan 14 |
-| ↳ | **[IT Business Analyst - Quality Assurance](https://jobright.ai/jobs/info/696866051703f05405aa196c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - Idaho | Remote | Jan 14 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/69682bddf25a380066968873?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 14 |
 | **[Travelers](https://www.travelers.com)** | **[Associate Business Architect (Product Architecture)](https://jobright.ai/jobs/info/6967dade1703f05405a98062?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Jan 14 |
 | **[Cape Electrical Supply](https://capeelectric.com)** | **[Business Information Coordinator](https://jobright.ai/jobs/info/6967ebc51703f05405a98cbc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cape Girardeau County, MO | On Site | Jan 14 |
@@ -152,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[INSXCloud Inc.](https://www.insxcloud.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69624abf25e18715077f2800?utm_campaign=Business%20Analyst&utm_source=1103)** | INSX 4040 EMBASSY PARKWAY SUITE 270 - AKRON, OH 44333 | Hybrid | Jan 10 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6962112d25e18715077eefe4?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 10 |
 | **[Acosta](https://www.acosta.com)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/69620667a112b40266107366?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 09 |
-| **[QBE Insurance](http://www.qbe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6961f7e1f3f4cd132506e3d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Sun Prairie, WI, USA | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
