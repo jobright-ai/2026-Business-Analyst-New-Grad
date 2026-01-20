@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/696ec0ac350cf4380315ad1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, OR | On Site | Jan 19 |
-| ↳ | **[Business Process Analyst I](https://jobright.ai/jobs/info/696ea043db26b61895118c0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jan 19 |
+| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/696ea043db26b61895118c0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jan 19 |
 | **[Nokia](http://www.nokia.com)** | **[NSP Business Ops Analyst](https://jobright.ai/jobs/info/696ebc69350cf4380315a332?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jan 19 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 19 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/694b8826d64ebf28d8214e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Fond du Lac, WI | On Site | Jan 19 |
@@ -112,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Jan 15 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6968c6c31703f05405aa9efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 14 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
-| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
 | ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
+| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
 | **[Pon.Bike Performance GmbH](https://www.santacruzbicycles.com/de-DE/careers)** | **[Business Analyst](https://jobright.ai/jobs/info/696889b9639b452fb57e4055?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
 | **[Santa Cruz Bicycles](https://www.santacruzbicycles.com/en-US)** | **[Business Analyst](https://jobright.ai/jobs/info/696882a7f25a38006696f79c?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | On Site | Jan 14 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69687d941703f05405aa39e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
@@ -141,5 +140,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/6966daf8a112b4026614ede1?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Jan 13 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 13 |
 | **[Techpoint, Inc.](http://www.techpointinc.net/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6966c1d87a34f539205545c5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 13 |
-| **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696661d95ad3a93f8231b810?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office | Hybrid | Jan 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
