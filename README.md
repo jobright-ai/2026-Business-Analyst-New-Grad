@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst - TS/SCI w/Poly](https://jobright.ai/jobs/info/69711a4a587dfa0bb55ea901?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MD Annapolis Junction | On Site | Jan 21 |
@@ -124,13 +125,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6969c61bf25a380066987b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Jan 15 |
 | **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697139fa587dfa0bb55ec4f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Coordinator, Business Services](https://jobright.ai/jobs/info/696999c21703f05405ab99a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 15 |
+| **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971423b587dfa0bb55ecfa5?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur,Missouri,United States | On Site | Jan 15 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/69692e72639b452fb57efec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/69694989f25a38006697db2b?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jan 15 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jan 15 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Jan 15 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6968c6c31703f05405aa9efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 14 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
-| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
-| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
