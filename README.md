@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
+| **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst - TS/SCI w/Poly](https://jobright.ai/jobs/info/69711a4a587dfa0bb55ea901?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MD Annapolis Junction | On Site | Jan 21 |
+| **[Dynareon](dynareon.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6971330b587dfa0bb55ebc36?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 21 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69711850587dfa0bb55ea862?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
-| **[Twin Health](http://twinhealth.com)** | **[Business Analyst, Operations](https://jobright.ai/jobs/info/6970ffa9333b6343a14d6918?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6968f8521703f05405aad755?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Remote | Jan 21 |
@@ -120,7 +122,7 @@ For a complete list, click the following sortable link below:
 | **[DRW](http://drw.com/)** | **[Business Analyst - Regulatory Technology](https://jobright.ai/jobs/info/6930fdcb4c474121999eb0a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 16 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6969ce94639b452fb57fd1f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, New York, United States | On Site | Jan 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6969c61bf25a380066987b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Jan 15 |
-| **[Geotab](http://www.geotab.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/696982f61703f05405ab6e4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | Hybrid | Jan 15 |
+| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697139fa587dfa0bb55ec4f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Jan 15 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Coordinator, Business Services](https://jobright.ai/jobs/info/696999c21703f05405ab99a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 15 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/69692e72639b452fb57efec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/69694989f25a38006697db2b?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jan 15 |
@@ -128,7 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 15 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Jan 15 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6968c6c31703f05405aa9efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jan 14 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
 | ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
-| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
+| ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
