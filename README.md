@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Associate Business System Analyst](https://jobright.ai/jobs/info/697103c8587dfa0bb55e87fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 21 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst - TS/SCI w/Poly](https://jobright.ai/jobs/info/69711a4a587dfa0bb55ea901?utm_campaign=Business%20Analyst&utm_source=1103)** | USA MD Annapolis Junction | On Site | Jan 21 |
+| **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69711850587dfa0bb55ea862?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Twin Health](http://twinhealth.com)** | **[Business Analyst, Operations](https://jobright.ai/jobs/info/6970ffa9333b6343a14d6918?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/6970002882817106e9771d60?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Jan 20 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/697010583ed06875134b0ecb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Montreal Metropolitan Area | Hybrid | Jan 20 |
 | **[CloudIngest](https://cloudingest.com)** | **[Full-Time Opportunity // Business Analyst // Boston, MA](https://jobright.ai/jobs/info/69653e5b6d52670c5c3e054e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 20 |
-| **[Stratify Edge](stratifyedge.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/696fdd6e82817106e976e24e?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 20 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Business Process Improvement Advisor](https://jobright.ai/jobs/info/696fa38b0f4e0f657ea3ea3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Jan 20 |
@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968ca7b639b452fb57e93c0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jan 14 |
 | ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968c0abf25a380066974fd5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jan 14 |
 | ↳ | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6968b3ff1703f05405aa86e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jan 14 |
-| **[Pon.Bike Performance GmbH](https://www.santacruzbicycles.com/de-DE/careers)** | **[Business Analyst](https://jobright.ai/jobs/info/696889b9639b452fb57e4055?utm_campaign=Business%20Analyst&utm_source=1103)** | Aliso Viejo, CA | On Site | Jan 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
