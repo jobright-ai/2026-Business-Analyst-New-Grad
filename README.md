@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6969c61bf25a380066987b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Jan 15 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Coordinator, Business Services](https://jobright.ai/jobs/info/696999c21703f05405ab99a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Jan 15 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971423b587dfa0bb55ecfa5?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur,Missouri,United States | On Site | Jan 15 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/69692e72639b452fb57efec2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2026](https://jobright.ai/jobs/info/69694989f25a38006697db2b?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jan 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
