@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69715a8a51f726477183a6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697159fd51f726477183a64b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 21 |
@@ -65,8 +66,10 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst - TS/SCI w/Poly](https://jobright.ai/jobs/info/69717f1451f726477183dbb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Annapolis Junction, MD | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
 | **[Dynareon](dynareon.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6971330b587dfa0bb55ebc36?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 21 |
+| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69717ce5587dfa0bb55f2f50?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 21 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69711850587dfa0bb55ea862?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
