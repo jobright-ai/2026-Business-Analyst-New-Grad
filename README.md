@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
 | **[Provider Resources, LLC](http://provider-resources.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971fa44cda45e69535836dc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6971e5b3cda45e69535811b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 22 |
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
-| **[Dynareon](dynareon.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6971330b587dfa0bb55ebc36?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6968f8521703f05405aad755?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Remote | Jan 21 |
