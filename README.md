@@ -58,6 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69715a8a51f726477183a6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Jan 21 |
+| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697159fd51f726477183a64b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 21 |
+| **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6971592e51f726477183a548?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, New York, United States of America | Hybrid | Jan 21 |
+| **[Physics World](https://physicsworld.com/)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69715abb587dfa0bb55efbfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
