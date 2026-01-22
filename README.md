@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6971a2fb587dfa0bb55f4fe2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
@@ -70,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
 | **[Dynareon](dynareon.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6971330b587dfa0bb55ebc36?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 21 |
+| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6971d4decda45e6953580870?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 21 |
 | **[Jack Henry](http://www.jackhenry.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69711850587dfa0bb55ea862?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
