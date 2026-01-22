@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69729b42584a1c1ef6fda1a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 22 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/69728f5c9b83b424830e8026?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 22 |
@@ -68,8 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Provider Resources, LLC](http://provider-resources.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971fa44cda45e69535836dc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
-| **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/697282b39b83b424830e729c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 21 |
-| **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
+| ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/69728c65584a1c1ef6fd884c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 21 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69715a8a51f726477183a6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Jan 21 |
@@ -85,7 +85,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6968f8521703f05405aad755?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Remote | Jan 21 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6970a1e4587dfa0bb55e431b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 21 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/69708cfb333b6343a14d0a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 21 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69704db0587dfa0bb55dd559?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 20 |
 | **[University of Kentucky](https://www.uky.edu)** | **[College Business Analyst](https://jobright.ai/jobs/info/69704ca3333b6343a14cbbb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Lexington Area | On Site | Jan 20 |
 | **[Phillips 66](http://www.phillips66.com/)** | **[Advisor II, IT Business Partner](https://jobright.ai/jobs/info/697048e2587dfa0bb55dd1e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bartlesville, OK | On Site | Jan 20 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69703f87587dfa0bb55dc278?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 20 |
