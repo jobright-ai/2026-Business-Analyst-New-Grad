@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6971e5b3cda45e69535811b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jan 22 |
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6971a2fb587dfa0bb55f4fe2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
