@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69732c74206da320f49d2f7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/6972e84398522904c697ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 22 |
 | **[Oklahoma Indigent Defense System](https://oklahoma.gov/oids.html)** | **[Business Analyst](https://jobright.ai/jobs/info/6972c6a1584a1c1ef6fdd8d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County, OK | On Site | Jan 22 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69729b42584a1c1ef6fda1a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 22 |
