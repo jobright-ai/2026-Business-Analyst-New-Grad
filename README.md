@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973ac5737785856350d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
+| **[Family Innovation Corp.](https://www.familyinnovationcorp.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6973aa81206da320f49dae92?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 23 |
+| **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6973a9f237785856350d8277?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 23 |
+| **[Arvento A](arventoa.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6973aa9c37785856350d83af?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas Metropolitan Area | Remote | Jan 23 |
 | **[Infoverity](http://www.infoverity.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/69739b47206da320f49d8f88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, OH | Hybrid | Jan 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69732c74206da320f49d2f7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 23 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst -- Entry Level](https://jobright.ai/jobs/info/6972e84398522904c697ba94?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 22 |
@@ -120,9 +124,4 @@ For a complete list, click the following sortable link below:
 | **[LendingTree](http://www.lendingtree.com)** | **[Business Analyst](https://jobright.ai/jobs/info/696b23c0350cf43803127b20?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Hybrid | Jan 16 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696b0014db26b618950e75f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Jan 16 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696afee9350cf43803123d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Jan 16 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af55a5fc86241853a3aaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jan 16 |
-| **[Twin Health](http://twinhealth.com)** | **[Business Analytics Analyst - Operations](https://jobright.ai/jobs/info/696af374350cf43803122faf?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Jan 16 |
-| **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Jan 16 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af0fb5fc86241853a346f?utm_campaign=Business%20Analyst&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Jan 16 |
-| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/696aee0adb26b618950e59b1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
