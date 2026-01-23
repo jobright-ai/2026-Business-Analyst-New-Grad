@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma Indigent Defense System](https://oklahoma.gov/oids.html)** | **[Business Analyst](https://jobright.ai/jobs/info/6972c6a1584a1c1ef6fdd8d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County, OK | On Site | Jan 22 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69729b42584a1c1ef6fda1a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 22 |
 | **[Valorantum](valorantum.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/6972b7d59b83b424830ec0a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 22 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
-| **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/69728c65584a1c1ef6fd884c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 21 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69715a8a51f726477183a6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697159fd51f726477183a64b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 21 |
