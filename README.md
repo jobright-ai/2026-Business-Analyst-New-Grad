@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af0fb5fc86241853a346f?utm_campaign=Business%20Analyst&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Jan 16 |
 | **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/696aee0adb26b618950e59b1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jan 16 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Benefits Outsourcing Business Analyst - 2026](https://jobright.ai/jobs/info/696acbb0db26b618950e17ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 16 |
-| **[Twin Health](http://twinhealth.com)** | **[Business Analytics Analyst - Operations](https://jobright.ai/jobs/info/696ad712db26b618950e2d36?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
