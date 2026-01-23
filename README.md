@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/6973f1c537785856350dc659?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | On Site | Jan 23 |
+| **[ICF](https://www.icf.com)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6973f18a206da320f49ded57?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973d8fdbc8e722e7b18a868?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
+| **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/6973f8bf37785856350ddc4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jan 23 |
 | **[United Community](http://www.ucbi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6973cfe337785856350da25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jan 23 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6973ca87bc8e722e7b1898b2?utm_campaign=Business%20Analyst&utm_source=1103)** | US-SC-Greenville | On Site | Jan 23 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973b78e206da320f49db529?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
