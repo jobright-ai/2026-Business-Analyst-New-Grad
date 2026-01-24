@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/697405bd206da320f49e1623?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Jan 23 |
+| **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6974058b37785856350dedff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/6973f1c537785856350dc659?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | On Site | Jan 23 |
 | **[ICF](https://www.icf.com)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6973f18a206da320f49ded57?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973d8fdbc8e722e7b18a868?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6973806a206da320f49d8220?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
-| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6968f8521703f05405aad755?utm_campaign=Business%20Analyst&utm_source=1103)** | Home, PA | Remote | Jan 21 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6970a1e4587dfa0bb55e431b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 21 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - PNC Wealth Management](https://jobright.ai/jobs/info/69708cfb333b6343a14d0a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jan 21 |
 | **[University of Kentucky](https://www.ca.uky.edu)** | **[College Business Analyst](https://jobright.ai/jobs/info/69704ca3333b6343a14cbbb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Lexington Area | On Site | Jan 20 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695385aa5bb7de448ef6938b?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Jan 20 |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/696ea043db26b61895118c0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jan 19 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 19 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69740893bc8e722e7b18ec62?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jan 19 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/696de79c350cf4380314acca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 19 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968c233f25a380066975157?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | Hybrid | Jan 18 |
 | **[Vitacore Industries Inc.](https://www.vitacore.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/696e9f575fc86241853d6598?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Jan 18 |
