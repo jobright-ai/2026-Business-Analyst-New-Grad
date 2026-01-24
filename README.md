@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Vitacore Industries Inc.](https://www.vitacore.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/696e9f575fc86241853d6598?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, British Columbia, Canada | On Site | Jan 18 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/6951355629655e4dd65a4de2?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jan 18 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Jan 18 |
-| **[Gong](https://www.gong.io)** | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/69730fff1790715e866c116f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
