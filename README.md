@@ -80,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/69728f5c9b83b424830e8026?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 22 |
-| ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697288e54ccbf64f8df27bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697285b19b83b424830e7639?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, Arkansas, United States | Remote | Jan 22 |
+| ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697288e54ccbf64f8df27bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 21 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69715a8a51f726477183a6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma County | On Site | Jan 21 |
-| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697159fd51f726477183a64b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 21 |
 | **[Physics World](https://physicsworld.com/)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69715abb587dfa0bb55efbfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
@@ -129,5 +128,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/69729776584a1c1ef6fd9994?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 17 |
 | ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/697295d04ccbf64f8df28eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 17 |
 | ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/6973c41ebc8e722e7b1891c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 17 |
-| ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/6973b4c7206da320f49db3ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
