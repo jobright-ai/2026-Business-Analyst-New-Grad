@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 23 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/697405bd206da320f49e1623?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Jan 23 |
 | **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6974058b37785856350dedff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
 | **[Northwell Health](https://feinstein.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/6973f1c537785856350dc659?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | On Site | Jan 23 |
