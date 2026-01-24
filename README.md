@@ -96,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
-| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6973806a206da320f49d8220?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6970a1e4587dfa0bb55e431b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 21 |
@@ -127,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Gong](https://www.gong.io)** | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/69730fff1790715e866c116f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 17 |
 | ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/69729776584a1c1ef6fd9994?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 17 |
 | ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/697295d04ccbf64f8df28eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 17 |
-| ↳ | **[Business Analyst (Professional Services Team)](https://jobright.ai/jobs/info/6973c41ebc8e722e7b1891c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
