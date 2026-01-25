@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech World Networking](techworldnetworking.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6975e0e5bc8e722e7b1ab76c?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Jan 25 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Assistant Business Solutions & Strategy](https://jobright.ai/jobs/info/6974f27237785856350eeb2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Remote | Jan 24 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6974303937785856350e2ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
