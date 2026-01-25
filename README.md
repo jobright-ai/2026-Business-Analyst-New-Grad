@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 25 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Assistant Business Solutions & Strategy](https://jobright.ai/jobs/info/6974f27237785856350eeb2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Remote | Jan 24 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6974303937785856350e2ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6974251b206da320f49e472c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
@@ -82,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/69728f5c9b83b424830e8026?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 22 |
-| ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697285b19b83b424830e7639?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, Arkansas, United States | Remote | Jan 22 |
 | ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697288e54ccbf64f8df27bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
+| ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697285b19b83b424830e7639?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, Arkansas, United States | Remote | Jan 22 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
