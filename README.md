@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7dcfdeb8243a27aa391?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | Hybrid | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7a788e2b47213bbac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | On Site | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b63388e2b47213bba995?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Jan 26 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[USAble Life](https://www.usablelife.com)** | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/69728f5c9b83b424830e8026?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, AR | Remote | Jan 22 |
-| ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697285b19b83b424830e7639?utm_campaign=Business%20Analyst&utm_source=1103)** | Little Rock, Arkansas, United States | Remote | Jan 22 |
 | ↳ | **[Business Systems Analyst I or II -- Remote](https://jobright.ai/jobs/info/697288e54ccbf64f8df27bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
