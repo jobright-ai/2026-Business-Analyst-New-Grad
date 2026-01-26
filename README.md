@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
 | **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6977e0f488e2b47213bbde87?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 26 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7dcfdeb8243a27aa391?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | Hybrid | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7a788e2b47213bbac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | On Site | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b63388e2b47213bba995?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Jan 26 |
