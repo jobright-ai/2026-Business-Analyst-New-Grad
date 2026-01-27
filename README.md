@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
+| ↳ | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/6978267488e2b47213bc2714?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697816db52f3c27ec6444395?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
 | ↳ | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/697807a5fdeb8243a27b04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
@@ -126,6 +128,4 @@ For a complete list, click the following sortable link below:
 | **[CloudIngest](https://cloudingest.com)** | **[Full-Time Opportunity // Business Analyst // Boston, MA](https://jobright.ai/jobs/info/69653e5b6d52670c5c3e054e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 20 |
 | **[Acuity](http://www.acuitybrands.com)** | **[Business Process Improvement Advisor](https://jobright.ai/jobs/info/696fa38b0f4e0f657ea3ea3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Jan 20 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Jan 20 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/695385aa5bb7de448ef6938b?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
