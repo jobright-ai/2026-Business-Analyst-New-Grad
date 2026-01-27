@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6978412552f3c27ec6447dbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Jan 26 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 26 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Assoc Business Analyst I](https://jobright.ai/jobs/info/69783dff39f7f96cc6d08b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/6978267488e2b47213bc2714?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
@@ -129,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69700fa63ed06875134b0def?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Jan 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/6970002882817106e9771d60?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Jan 20 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/697010583ed06875134b0ecb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Montreal Metropolitan Area | Hybrid | Jan 20 |
-| **[CloudIngest](https://cloudingest.com)** | **[Full-Time Opportunity // Business Analyst // Boston, MA](https://jobright.ai/jobs/info/69653e5b6d52670c5c3e054e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
