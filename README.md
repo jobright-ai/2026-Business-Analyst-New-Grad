@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Haleon](http://www.haleon.com/)** | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/697807a5fdeb8243a27b04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
+| **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
+| **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697816db52f3c27ec6444395?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
+| ↳ | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/697807a5fdeb8243a27b04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
 | ↳ | **[Business Analyst, Value](https://jobright.ai/jobs/info/6977f78c52f3c27ec6442f7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren NJ | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977ee2988e2b47213bbf188?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 26 |
