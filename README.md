@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Guggenheim Investments](https://www.guggenheiminvestments.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/6979063339f7f96cc6d15c68?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, CT | On Site | Jan 27 |
+| **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697913a339f7f96cc6d17056?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6971b2c8333b6343a14e6795?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 27 |
-| **[Guggenheim Investments](https://www.guggenheiminvestments.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/6978eecc39f7f96cc6d1421a?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 First Stamford Place (Suite 300), Stamford, CT, US | On Site | Jan 27 |
-| **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6978e7ec52f3c27ec645251c?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 27 |
+| **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/697912f752f3c27ec6455941?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, CT | On Site | Jan 27 |
+| **[Arvento A](arventoa.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/69790afa52f3c27ec645536a?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 27 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Jan 27 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
