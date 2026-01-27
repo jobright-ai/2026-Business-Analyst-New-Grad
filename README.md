@@ -127,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/697011b782817106e9772cef?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jan 20 |
 | **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69700fa63ed06875134b0def?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Jan 20 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Management Analyst](https://jobright.ai/jobs/info/6970002882817106e9771d60?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Jan 20 |
-| **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/697010583ed06875134b0ecb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Montreal Metropolitan Area | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
