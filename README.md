@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guggenheim Investments](https://www.guggenheiminvestments.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/6979063339f7f96cc6d15c68?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, CT | On Site | Jan 27 |
+| **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6971b2c8333b6343a14e6795?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 | **[Guggenheim Investments](https://www.guggenheiminvestments.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/6978eecc39f7f96cc6d1421a?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 First Stamford Place (Suite 300), Stamford, CT, US | On Site | Jan 27 |
 | **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6978e7ec52f3c27ec645251c?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 27 |
-| ↳ | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6978e4b352f3c27ec645236b?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 27 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Jan 27 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
@@ -122,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
 | **[Acosta Group](https://www.acosta.group)** | **[Retail Business Analyst (CPG)](https://jobright.ai/jobs/info/6970a1e4587dfa0bb55e431b?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 21 |
-| **[Phillips 66](http://www.phillips66.com/)** | **[Advisor II, IT Business Partner](https://jobright.ai/jobs/info/697048e2587dfa0bb55dd1e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bartlesville, OK | On Site | Jan 20 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69703f87587dfa0bb55dc278?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
