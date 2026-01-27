@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenHouse.ai](https://www.openhouse.ai/)** | **[Strategic Business Analyst  (New Graduate - Top Academic Talent)](https://jobright.ai/jobs/info/69792bf552f3c27ec6457331?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697913a339f7f96cc6d17056?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6971b2c8333b6343a14e6795?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 27 |
+| **[Dynareon](dynareon.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6979211c88e2b47213bd3d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Jan 27 |
 | **[Guggenheim Partners](http://www.guggenheimpartners.com)** | **[Junior Business Analyst - Strategic Initiatives Operations](https://jobright.ai/jobs/info/697912f752f3c27ec6455941?utm_campaign=Business%20Analyst&utm_source=1103)** | Stamford, CT | On Site | Jan 27 |
 | **[Arvento A](arventoa.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/69790afa52f3c27ec645536a?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 27 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Jan 27 |
