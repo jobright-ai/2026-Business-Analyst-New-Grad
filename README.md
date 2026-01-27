@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin Retail Group](http://martinretail.com)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6942033e14ee092a69001fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | Hybrid | Jan 27 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 26 |
@@ -84,7 +85,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
 | **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977b75952f3c27ec643d6aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jan 26 |
-| **[Guardian Jobs](https://jobs.theguardian.com/)** | **[Analyst](https://jobright.ai/jobs/info/695a17109f1b381eb272b9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol-London, Ontario, Canada | On Site | Jan 25 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6974303937785856350e2ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6974251b206da320f49e472c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
@@ -124,6 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst/Tester](https://jobright.ai/jobs/info/695438365bb7de448ef7209a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 20 |
 | **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69704a89333b6343a14cba16?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA, USA | On Site | Jan 20 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[Performance Reporting Associate](https://jobright.ai/jobs/info/69703965587dfa0bb55dbc04?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jan 20 |
-| **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/697011b782817106e9772cef?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jan 20 |
-| **[BOOZ ALLEN HAMILTON INTERNATIONAL (U.K.) LTD](https://www.boozallen.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69700fa63ed06875134b0def?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Jan 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
