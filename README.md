@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Haleon](http://www.haleon.com/)** | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/697807a5fdeb8243a27b04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
+| ↳ | **[Business Analyst, Value](https://jobright.ai/jobs/info/6977f78c52f3c27ec6442f7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren NJ | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
+| **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977ee2988e2b47213bbf188?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 26 |
 | **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6977e0f488e2b47213bbde87?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 26 |
+| **[Haleon](http://www.haleon.com/)** | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/6977f323fdeb8243a27af24b?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren NJ | On Site | Jan 26 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7dcfdeb8243a27aa391?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | Hybrid | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7a788e2b47213bbac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | On Site | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b63388e2b47213bba995?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA | Hybrid | Jan 26 |
@@ -104,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
-| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6977d4ed88e2b47213bbccb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Jan 21 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 21 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 | **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Jan 21 |
