@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 28 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a4d77a5b9804527e0223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst - Pro Hockey Life - 11 Months Contract](https://jobright.ai/jobs/info/697a43d8a8de441ca7356836?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Jan 28 |
-| **[Walthall Oil Company](https://www.walthall-oil.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697a35b5b4589b4ee87c7381?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 28 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Assistant Strategist](https://jobright.ai/jobs/info/697a4fd9a5b9804527e023f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | Remote | Jan 28 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697a3a5ca8de441ca73557e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jan 28 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
@@ -113,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
 | **[Provider Resources, LLC](http://provider-resources.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971fa44cda45e69535836dc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
-| **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
