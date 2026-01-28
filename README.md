@@ -118,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Physics World](https://physicsworld.com/)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69715abb587dfa0bb55efbfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 21 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
-| **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
