@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 | **[Flory Industries Inc](https://www.goflory.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6979ff51a5b9804527dfc91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salida, CA | On Site | Jan 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696db7a35fc86241853c93c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69798e10d7df290257fbe662?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 27 |
