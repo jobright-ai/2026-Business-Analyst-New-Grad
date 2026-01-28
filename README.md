@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walthall Oil Company](https://www.walthall-oil.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697a35b5b4589b4ee87c7381?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 28 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 | **[Flory Industries Inc](https://www.goflory.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6979ff51a5b9804527dfc91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salida, CA | On Site | Jan 28 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[business analyst](https://jobright.ai/jobs/info/697a2b3aa5b9804527dff5dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange City, FL | On Site | Jan 28 |
@@ -70,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[OpenHouse.ai](https://www.openhouse.ai/)** | **[Strategic Business Analyst  (New Graduate - Top Academic Talent)](https://jobright.ai/jobs/info/69792bf552f3c27ec6457331?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697913a339f7f96cc6d17056?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6971b2c8333b6343a14e6795?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 27 |
-| **[Arvento A](arventoa.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/69790afa52f3c27ec645536a?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 27 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697826ac88e2b47213bc2755?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 26 |
@@ -97,8 +97,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977b75952f3c27ec643d6aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6974303937785856350e2ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6974251b206da320f49e472c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 23 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/697405bd206da320f49e1623?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Jan 23 |
 | **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6974058b37785856350dedff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
@@ -118,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Provider Resources, LLC](http://provider-resources.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6971fa44cda45e69535836dc?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 22 |
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
-| ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
