@@ -90,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977bf1bfdeb8243a27aac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | On Site | Jan 26 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Jan 26 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
-| **[Bayer](https://www.bayer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697142b8333b6343a14db95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Jan 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977b75952f3c27ec643d6aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6974303937785856350e2ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 23 |
@@ -107,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973ac5737785856350d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
 | **[Infoverity](http://www.infoverity.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/69739b47206da320f49d8f88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, OH | Hybrid | Jan 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69732c74206da320f49d2f7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 23 |
-| **[Lawrence Livermore National Laboratory](http://www.llnl.gov)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69729b42584a1c1ef6fda1a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 22 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
@@ -121,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6941d4b314ee092a69ffe647?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Jan 21 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/697150a9587dfa0bb55ef0a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Jan 21 |
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
-| **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
