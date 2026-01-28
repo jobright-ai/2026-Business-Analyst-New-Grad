@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Martin Retail Group](http://martinretail.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69798e10d7df290257fbe662?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 27 |
+| **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d7934f1f8465b79f3a6b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69797a27ca92cf0d6a829cb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
 | **[PromiseCare Management Services](https://kmsm.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6979773d0791bc1d72301f14?utm_campaign=Business%20Analyst&utm_source=1103)** | Hemet, CA | On Site | Jan 27 |
 | **[OpenHouse.ai](https://www.openhouse.ai/)** | **[Strategic Business Analyst  (New Graduate - Top Academic Talent)](https://jobright.ai/jobs/info/69792bf552f3c27ec6457331?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 27 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/6978267488e2b47213bc2714?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Jan 26 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Value](https://jobright.ai/jobs/info/697816db52f3c27ec6444395?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
-| ↳ | **[Business Analyst - Amazon](https://jobright.ai/jobs/info/697807a5fdeb8243a27b04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | On Site | Jan 26 |
 | ↳ | **[Business Analyst, Value](https://jobright.ai/jobs/info/6977f78c52f3c27ec6442f7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren NJ | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
 | **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977ee2988e2b47213bbf188?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 26 |
@@ -121,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Factory Motor Parts](http://www.FactoryMotorParts.com)** | **[Business Analyst - Asset Protection](https://jobright.ai/jobs/info/69712ed1333b6343a14d9fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | Jan 21 |
 | **[CountryMax Stores](http://countrymax.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69714ea1587dfa0bb55eed1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Victor, NY | On Site | Jan 21 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Associate - Front Office Business Analyst](https://jobright.ai/jobs/info/692e0697ef4b48533d13bc12?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 21 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
