@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flory Industries Inc](https://www.goflory.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6979ff51a5b9804527dfc91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salida, CA | On Site | Jan 28 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696db7a35fc86241853c93c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 28 |
 | **[Martin Retail Group](http://martinretail.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69798e10d7df290257fbe662?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 27 |
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d7934f1f8465b79f3a6b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69797a27ca92cf0d6a829cb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[CITY OF FREDERICKSBURG](https://www.fbgtx.org/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/6971ce1cb707bf728a4b5b08?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69719c2c333b6343a14e356b?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
 | ↳ | **[IT Business Analyst: Public Safety](https://jobright.ai/jobs/info/69717902333b6343a14e1403?utm_campaign=Business%20Analyst&utm_source=1103)** | Fredericksburg, VA | On Site | Jan 21 |
-| **[Physics World](https://physicsworld.com/)** | **[Business Analyst for Weapon Quality Assurance (WQA)](https://jobright.ai/jobs/info/69715abb587dfa0bb55efbfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Livermore, CA | On Site | Jan 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
