@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst - Pro Hockey Life - 11 Months Contract](https://jobright.ai/jobs/info/697a43d8a8de441ca7356836?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Jan 28 |
 | **[Walthall Oil Company](https://www.walthall-oil.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697a35b5b4589b4ee87c7381?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 28 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Intelligence Associate](https://jobright.ai/jobs/info/697a4724b4589b4ee87c9144?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Jan 28 |
+| **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697a3a5ca8de441ca73557e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jan 28 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 | **[Flory Industries Inc](https://www.goflory.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6979ff51a5b9804527dfc91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salida, CA | On Site | Jan 28 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[business analyst](https://jobright.ai/jobs/info/697a2b3aa5b9804527dff5dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange City, FL | On Site | Jan 28 |
