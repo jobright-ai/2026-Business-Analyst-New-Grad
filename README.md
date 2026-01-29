@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/697a99488dbbf73badc7d5f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Jan 28 |
+| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697a962f9d60e431a16c2a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Maplewood, MN | On Site | Jan 28 |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/697a97569d60e431a16c2d2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jan 28 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 28 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a4d77a5b9804527e0223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | ↳ | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a6b41f6fc293b0a2c3b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
