@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Clyvra](clyvra.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/697aecf1c532c4768fe0b52d?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jan 28 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697adf4917b11b1c2e41adb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 28 |
+| **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/697af3421423772304eaec8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Eastwall](https://www.eastwall.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/697ac9328dbbf73badc8187e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Jan 28 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/697abdecf6fc293b0a2cb8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jan 28 |
 | **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 28 |
@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977bf1bfdeb8243a27aac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Sarasota, FL | On Site | Jan 26 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Jan 26 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 26 |
-| **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977b75952f3c27ec643d6aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Jan 26 |
 | **[California Department of Forestry and Fire Protection (CAL FIRE)](https://www.fire.ca.gov/)** | **[Performance Management Analyst](https://jobright.ai/jobs/info/69743ce2bc8e722e7b193706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | On Site | Jan 23 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/697405bd206da320f49e1623?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Jan 23 |
 | **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6974058b37785856350dedff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
