@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
+| **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 29 |
 | **[Community Care Cooperative (C3)](https://www.communitycarecooperative.org/)** | **[Analyst, Business](https://jobright.ai/jobs/info/697b2db01136d179eeeea1ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | Hybrid | Jan 29 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697adf4917b11b1c2e41adb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 28 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/697af3421423772304eaec8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst - Pro Hockey Life - 11 Months Contract](https://jobright.ai/jobs/info/697a43d8a8de441ca7356836?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Jan 28 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Assistant Strategist](https://jobright.ai/jobs/info/697a4fd9a5b9804527e023f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | Remote | Jan 28 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697a3a5ca8de441ca73557e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jan 28 |
-| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/695e046552ab763cd7ea709d?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 | **[Flory Industries Inc](https://www.goflory.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6979ff51a5b9804527dfc91d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salida, CA | On Site | Jan 28 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[business analyst](https://jobright.ai/jobs/info/697a2b3aa5b9804527dff5dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange City, FL | On Site | Jan 28 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/696db7a35fc86241853c93c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 28 |
