@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clyvra](clyvra.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/697aecf1c532c4768fe0b52d?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jan 28 |
+| **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697adf4917b11b1c2e41adb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 28 |
 | **[Eastwall](https://www.eastwall.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/697ac9328dbbf73badc8187e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Jan 28 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/697abdecf6fc293b0a2cb8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jan 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst TS/SCI with Poly REQUIRED](https://jobright.ai/jobs/info/697ad8df1423772304eabce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | Jan 28 |
 | **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/697a99488dbbf73badc7d5f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Jan 28 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697a962f9d60e431a16c2a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Maplewood, MN | On Site | Jan 28 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[SPS Commerce](http://spscommerce.com)** | **[Assoc Business Analyst I](https://jobright.ai/jobs/info/69783dff39f7f96cc6d08b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 26 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
-| **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/6977ee2988e2b47213bbf188?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Jan 26 |
 | **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6977e0f488e2b47213bbde87?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 26 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7dcfdeb8243a27aa391?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | Hybrid | Jan 26 |
@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69732c74206da320f49d2f7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 23 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
-| **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
