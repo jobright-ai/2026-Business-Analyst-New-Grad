@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/697b94541136d179eeef0f8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Jan 29 |
-| **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
-| **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/697b9ab40b88cc7d642256a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, TX | On Site | Jan 29 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Associate Business Analyst Strategy & Operations](https://jobright.ai/jobs/info/697bac811136d179eeef3231?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Jan 29 |
+| **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697baab71136d179eeef3095?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
+| ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst - Operations & Enablement](https://jobright.ai/jobs/info/6926206a27bf2f41a2c43928?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Jan 29 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/697af3421423772304eaec8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
