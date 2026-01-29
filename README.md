@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SCAN](https://www.thescangroup.org/)** | **[Desktop Business Analyst](https://jobright.ai/jobs/info/697bd3da1423772304ec04bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jan 29 |
+| **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
+| ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Jan 29 |
+| ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc5601423772304ebf1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 29 |
+| ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc1521136d179eeef45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 29 |
 | **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697baab71136d179eeef3095?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
@@ -79,13 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Martin Retail Group](http://martinretail.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69798e10d7df290257fbe662?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI | On Site | Jan 27 |
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/695d7934f1f8465b79f3a6b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69797a27ca92cf0d6a829cb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695ea994a112b402660d5198?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 27 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/697bc5381423772304ebf170?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 27 |
 | **[PromiseCare Management Services](https://kmsm.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6979773d0791bc1d72301f14?utm_campaign=Business%20Analyst&utm_source=1103)** | Hemet, CA | On Site | Jan 27 |
 | **[OpenHouse.ai](https://www.openhouse.ai/)** | **[Strategic Business Analyst  (New Graduate - Top Academic Talent)](https://jobright.ai/jobs/info/69792bf552f3c27ec6457331?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | Hybrid | Jan 27 |
 | **[Canopy by Hilton Jersey City Arts District](http://www.jerseycityartsdistrict.canopybyhilton.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697913a339f7f96cc6d17056?utm_campaign=Business%20Analyst&utm_source=1103)** | Macon, GA | On Site | Jan 27 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6971b2c8333b6343a14e6795?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 27 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6978438d39f7f96cc6d09c10?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Jan 26 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[LX Business Analyst](https://jobright.ai/jobs/info/695eddb408ab990f282a2b69?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 26 |
 | **[SPS Commerce](http://spscommerce.com)** | **[Assoc Business Analyst I](https://jobright.ai/jobs/info/69783dff39f7f96cc6d08b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 26 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
