@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Associate Business Analyst Strategy & Operations](https://jobright.ai/jobs/info/697bac811136d179eeef3231?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Jan 29 |
 | **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697baab71136d179eeef3095?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
