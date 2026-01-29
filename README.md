@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Care Cooperative (C3)](https://www.communitycarecooperative.org/)** | **[Analyst, Business](https://jobright.ai/jobs/info/697b2db01136d179eeeea1ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | Hybrid | Jan 29 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697adf4917b11b1c2e41adb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Jan 28 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/697af3421423772304eaec8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Eastwall](https://www.eastwall.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/697ac9328dbbf73badc8187e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Jan 28 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
 | **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
-| **[JetBlue](http://www.jetblue.com/)** | **[Business Analyst Loyalty Tech Partners](https://jobright.ai/jobs/info/697b25431423772304eb3dd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT, US, 84121 | Hybrid | Jan 26 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6977e0f488e2b47213bbde87?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 26 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7dcfdeb8243a27aa391?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | Hybrid | Jan 26 |
 | ↳ | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/6977b7a788e2b47213bbac07?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange, CA | On Site | Jan 26 |
@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973ac5737785856350d866d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
 | **[Infoverity](http://www.infoverity.com)** | **[Associate IT Business Analyst](https://jobright.ai/jobs/info/69739b47206da320f49d8f88?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, OH | Hybrid | Jan 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69732c74206da320f49d2f7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bloomfield, NJ | On Site | Jan 23 |
-| **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
-| ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
