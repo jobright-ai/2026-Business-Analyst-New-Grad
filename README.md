@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eastwall](https://www.eastwall.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/697ac9328dbbf73badc8187e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Jan 28 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/697abdecf6fc293b0a2cb8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jan 28 |
+| **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/697a99488dbbf73badc7d5f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Jan 28 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697a962f9d60e431a16c2a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Maplewood, MN | On Site | Jan 28 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/697a97569d60e431a16c2d2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Jan 28 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 28 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a4d77a5b9804527e0223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | ↳ | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a6b41f6fc293b0a2c3b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
-| **[Ally](http://www.ally.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/697a683e9d60e431a16be5c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Jan 28 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst - Pro Hockey Life - 11 Months Contract](https://jobright.ai/jobs/info/697a43d8a8de441ca7356836?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Jan 28 |
 | **[Growth Mesh](https://www.linkedin.com/company/105057865)** | **[Business Assistant Strategist](https://jobright.ai/jobs/info/697a4fd9a5b9804527e023f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Bronx, NY | Remote | Jan 28 |
 | **[AT&T](https://www.att.com/)** | **[Analyst](https://jobright.ai/jobs/info/697a3a5ca8de441ca73557e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas | On Site | Jan 28 |
@@ -115,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/69727bde4ccbf64f8df26df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry Pkwy, Perry, GA 31069, USA | On Site | Jan 22 |
 | ↳ | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Jan 22 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/697254024ccbf64f8df23ce6?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | Jan 22 |
-| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/691d4987bcdbf3560c9ef7d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jan 22 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
