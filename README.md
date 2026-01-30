@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delmarva Power](http://www.delmarva.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/697c7fdd727747250d572ea7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Jan 30 |
 | **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/697c71bc137a051025656386?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Jan 30 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/697c6e58137a0510256561b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Jan 30 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/697c6def137a051025656161?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Jan 30 |
@@ -79,11 +80,11 @@ For a complete list, click the following sortable link below:
 | **[SCAN](https://www.thescangroup.org/)** | **[Desktop Business Analyst](https://jobright.ai/jobs/info/697bd3da1423772304ec04bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
 | **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf7261136d179eeef9b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Nicollet Mall, Minneapolis, MN | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc5601423772304ebf1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 29 |
 | ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc1521136d179eeef45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 29 |
@@ -136,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[ICF](https://www.icf.com)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6973f18a206da320f49ded57?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Jan 23 |
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6973d8fdbc8e722e7b18a868?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Jan 23 |
 | **[Virginia Department of Taxation](https://www.tax.virginia.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/6973f8bf37785856350ddc4c?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jan 23 |
-| **[United Community](http://www.ucbi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6973cfe337785856350da25e?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jan 23 |
-| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6973ca87bc8e722e7b1898b2?utm_campaign=Business%20Analyst&utm_source=1103)** | US-SC-Greenville | On Site | Jan 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
