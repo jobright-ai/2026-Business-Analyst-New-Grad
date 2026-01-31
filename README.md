@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 31 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Jan 31 |
 | **[Horizon Lane](horizonlane.us)** | **[Assistant Strategist – Enterprise Business Solutions](https://jobright.ai/jobs/info/697daa4cce48107c0541f8fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Remote | Jan 30 |
 | **[Better Business Bureau (BBB) serving the Heart of Texas](https://www.bbb.org/en/us/local-bbb/bbb-serving-the-heart-of-texas)** | **[BBB - Business Experience Specialist](https://jobright.ai/jobs/info/697d5db8137a051025667de5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Jan 30 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jan 29 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Desktop Business Analyst](https://jobright.ai/jobs/info/697bd3da1423772304ec04bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
-| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
+| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/697c68933f57a335696615d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst, Modern Workplace - New Grad (May 2026)](https://jobright.ai/jobs/info/697af3421423772304eaec8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | **[Eastwall](https://www.eastwall.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/697ac9328dbbf73badc8187e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | Hybrid | Jan 28 |
-| **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 28 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/697d0db7137a05102566030f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jan 28 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697a962f9d60e431a16c2a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Maplewood, MN | On Site | Jan 28 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 28 |
