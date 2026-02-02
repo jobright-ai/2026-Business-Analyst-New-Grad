@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Valorantum](valorantum.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69806e5cabff4c399a9f3cdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 02 |
-| **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6974058b37785856350dedff?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Feb 02 |
 | **[Docotel Group](http://www.docotel.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698019347f40342e15d8da5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL | On Site | Feb 01 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69801908ce48107c05443dcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | On Site | Feb 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6980097b7f40342e15d8ce7b?utm_campaign=Business%20Analyst&utm_source=1103)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
@@ -89,12 +88,12 @@ For a complete list, click the following sortable link below:
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jan 29 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Desktop Business Analyst](https://jobright.ai/jobs/info/697bd3da1423772304ec04bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
-| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf7261136d179eeef9b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Nicollet Mall, Minneapolis, MN | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
+| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf7261136d179eeef9b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Nicollet Mall, Minneapolis, MN | Hybrid | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc5601423772304ebf1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Jan 29 |
 | ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc1521136d179eeef45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 29 |
@@ -123,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[SPS Commerce](http://spscommerce.com)** | **[Assoc Business Analyst I](https://jobright.ai/jobs/info/69783dff39f7f96cc6d08b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Jan 26 |
 | **[ER Wagner](http://erwagner.com)** | **[Epicor CMS Business Analyst](https://jobright.ai/jobs/info/6978137152f3c27ec6444157?utm_campaign=Business%20Analyst&utm_source=1103)** | Menomonee Falls, WI | On Site | Jan 26 |
 | **[South Shore Bank](http://southshorebank.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977d632fdeb8243a27ac500?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Jan 26 |
-| **[Charlesbridge](www.charlesbridgegroup.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6977c96552f3c27ec643eaac?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters / Any Bank Location, MA | On Site | Jan 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
