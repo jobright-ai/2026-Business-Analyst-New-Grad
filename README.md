@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[Horizon Lane](horizonlane.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69837a13348f733a5c367fe6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 04 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/6982cac9348f733a5c35d1a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 04 |
 | **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/69837fbe0f6f7e7a2cdce072?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 04 |
@@ -116,16 +117,16 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/697bf0a21423772304ec380e?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Jan 29 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
-| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
+| **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf7261136d179eeef9b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Nicollet Mall, Minneapolis, MN | Hybrid | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Jan 29 |
 | ↳ | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc1521136d179eeef45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jan 29 |
-| **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697baab71136d179eeef3095?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
-| ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
+| **[Alliant Credit Union](http://www.alliantcreditunion.org/)** | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
+| ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697baab71136d179eeef3095?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/697c68933f57a335696615d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
