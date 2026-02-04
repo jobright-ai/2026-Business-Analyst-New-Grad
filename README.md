@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698284f00a9e07331f8d9e8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 03 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698283c70a9e07331f8d9d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 03 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69825b350a9e07331f8d5b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Feb 03 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698255c7348f733a5c3524ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 03 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Jan 29 |
 | **[PGIM](https://www.pgim.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf83a1136d179eeef9d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | 701 San Marco Boulevard, Jacksonville, FL | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf25c1423772304ec3b58?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wash 600 Office Center | Hybrid | Jan 29 |
-| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf7261136d179eeef9b7c?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Nicollet Mall, Minneapolis, MN | Hybrid | Jan 29 |
+| ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be95c1423772304ec2d0b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 PORTLAND SQUARE, Portland, ME | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf05d0b88cc7d6422d9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, USA | Hybrid | Jan 29 |
 | ↳ | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697bf2260b88cc7d6422dc6c?utm_campaign=Business%20Analyst&utm_source=1103)** | 280 Trumbull St., Hartford, CT | Hybrid | Jan 29 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Jan 29 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Operations Analyst](https://jobright.ai/jobs/info/697b9d1f1136d179eeef28f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jan 29 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Jan 29 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/697c68933f57a335696615d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Jan 28 |
-| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697a962f9d60e431a16c2a88?utm_campaign=Business%20Analyst&utm_source=1103)** | Maplewood, MN | On Site | Jan 28 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697423aa37785856350e1d78?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Jan 28 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a4d77a5b9804527e0223e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
 | ↳ | **[Analyst, Supply Chain Analytics](https://jobright.ai/jobs/info/697a6b41f6fc293b0a2c3b56?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jan 28 |
