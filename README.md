@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Feb 05 |
+| **[CalPERS](http://www.calpers.ca.gov/)** | **[Division Coordination, Analytics, & Technology Analyst](https://jobright.ai/jobs/info/698505dc8da7a612045f4eb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6984b4150f6f7e7a2cdf2afc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 05 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Feb 05 |
@@ -111,9 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Wyld](https://wyldcanna.com)** | **[Business Analyst](https://jobright.ai/jobs/info/697ace318dbbf73badc81c12?utm_campaign=Business%20Analyst&utm_source=1103)** | Clackamas, OR | Hybrid | Jan 31 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Jan 31 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 30 |
-| **[Boeing](https://www.boeing.co.uk)** | **[Methods Process Analyst (Entry-Level or Associate)](https://jobright.ai/jobs/info/697d4cc9137a051025665943?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Seattle, WA | On Site | Jan 30 |
 | **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[** POSITION OPEN TO INTERNAL APPLICANTS ONLY** AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/697d6854727747250d584d36?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | On Site | Jan 30 |
-| **[DTI (Diversified Technology Inc.)](http://www.divtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6984c9e70f6f7e7a2cdf3a6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL | On Site | Jan 30 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 30 |
 | **[Florida Peninsula Insurance Company](http://floridapeninsula.com)** | **[Business Analyst I,II,III](https://jobright.ai/jobs/info/697c79c43f57a335696636eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate Office - Boca Raton, FL 33487 | Remote | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
