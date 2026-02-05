@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6984927e348f733a5c38a1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL | On Site | Feb 05 |
+| **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Feb 05 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/698471d10f6f7e7a2cdecfd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 05 |
 | **[SCAN](https://www.thescangroup.org/)** | **[Desktop Business Analyst](https://jobright.ai/jobs/info/698457ac0f6f7e7a2cdeb15f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 05 |
 | **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I or II, Office of the Registrar](https://jobright.ai/jobs/info/698405ad0f6f7e7a2cde1671?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Hybrid | Feb 04 |
@@ -122,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697bfbd41136d179eeefa282?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 29 |
 | **[Transform Group](https://transformgroup.com)** | **[Entry-Level Business Analyst - Remote - Part-Time](https://jobright.ai/jobs/info/697c20061423772304ec7ea5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 29 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/697bf0a21423772304ec380e?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Jan 29 |
-| **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
