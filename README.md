@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tech World Networking](techworldnetworking.us)** | **[Business Associate](https://jobright.ai/jobs/info/6984cb6c348f733a5c38dfc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 05 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6984b4150f6f7e7a2cdf2afc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 05 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Feb 05 |
@@ -117,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[DTI (Diversified Technology Inc.)](http://www.divtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6984c9e70f6f7e7a2cdf3a6c?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL | On Site | Jan 30 |
 | **[Guggenheim Securities](https://www.guggenheimsecurities.com)** | **[Experienced Business Analyst - Premises](https://jobright.ai/jobs/info/690acad1d046ab6061ce0534?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jan 30 |
 | **[Florida Peninsula Insurance Company](http://floridapeninsula.com)** | **[Business Analyst I,II,III](https://jobright.ai/jobs/info/697c79c43f57a335696636eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate Office - Boca Raton, FL 33487 | Remote | Jan 29 |
-| **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/696089eca1bbea1d9a7b564b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
