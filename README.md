@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6984927e348f733a5c38a1b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL | On Site | Feb 05 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Feb 05 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/698471d10f6f7e7a2cdecfd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 05 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/6982cac9348f733a5c35d1a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 04 |
 | **[Orvanta](orvanta.us)** | **[Associate Business Stategist](https://jobright.ai/jobs/info/69839056348f733a5c36a85a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Feb 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc5601423772304ebf1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 04 |
+| **[Peak to Peak Real Estate](https://www.linkedin.com/company/111331172)** | **[Business Administrator](https://jobright.ai/jobs/info/6984a05a0f6f7e7a2cdf13ad?utm_campaign=Business%20Analyst&utm_source=1103)** | SLC Metro Area | Hybrid | Feb 03 |
 | **[Baxter & Woodman](http://baxterwoodman.com)** | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982cfe5348f733a5c35d71c?utm_campaign=Business%20Analyst&utm_source=1103)** | Naperville, IL | Hybrid | Feb 03 |
-| ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982ba1c0f6f7e7a2cdc0d34?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 03 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[Business Analyst / Associate - Investment Banking Management, New York or Menlo Park](https://jobright.ai/jobs/info/694f232ece13cd1056574a38?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 03 |
 | ↳ | **[Business Analyst / Associate - Investment Banking Management, New York or Menlo Park](https://jobright.ai/jobs/info/694ee8a6a2668b7f5452291a?utm_campaign=Business%20Analyst&utm_source=1103)** | Menlo Park, CA | On Site | Feb 03 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6982cbb68232105a2d0b288d?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 03 |
@@ -123,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/697c008e1136d179eeefa5d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, 5201 Gate Parkway | Hybrid | Jan 29 |
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697bfbd41136d179eeefa282?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Jan 29 |
 | **[Transform Group](https://transformgroup.com)** | **[Entry-Level Business Analyst - Remote - Part-Time](https://jobright.ai/jobs/info/697c20061423772304ec7ea5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jan 29 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Business Process Operations Analyst I - Commercial Lines](https://jobright.ai/jobs/info/697bf0a21423772304ec380e?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | On Site | Jan 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
