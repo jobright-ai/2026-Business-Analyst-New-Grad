@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
+| **[Achieve](https://www.achieve.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698631108ca8121a3a685f26?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 06 |
+| **[Canada Guaranty](https://www.canadaguaranty.ca/)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/69862ce38da7a6120460dd7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Solutions Assistant ( New Graduate )](https://jobright.ai/jobs/info/69862ad30f6f7e7a2ce10cad?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Feb 06 |
 | **[Canada Guaranty](https://www.canadaguaranty.ca/)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/69861ed88da7a6120460c6fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate Office, Toronto, ON, CA | Hybrid | Feb 06 |
+| **[Horizon Lane](horizonlane.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/69862eb98ca8121a3a685b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Feb 06 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 06 |
 | **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/69861aa08da7a6120460c49d?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 06 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Feb 06 |
@@ -95,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982bc978232105a2d0b0ff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Crystal Lake, IL | Hybrid | Feb 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698283c70a9e07331f8d9d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 03 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69825b350a9e07331f8d5b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Feb 03 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698255c7348f733a5c3524ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 03 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/698227cdc3101f1400c3ca0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 03 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6959d53a9f1b381eb2728292?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 03 |
