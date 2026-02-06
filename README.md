@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Rivian](http://www.rivian.com)** | **[Business Operations Analyst, Advanced Energy Solutions](https://jobright.ai/jobs/info/698576198da7a61204601274?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Feb 05 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Feb 05 |
 | **[Rivian](http://www.rivian.com)** | **[Business Operations Analyst, Advanced Energy Solutions](https://jobright.ai/jobs/info/69855b6c348f733a5c39b136?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Feb 05 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/698130dcabff4c399aa017e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
@@ -117,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Jan 31 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Jan 30 |
 | **[New Mexico Courts](https://www.nmcourts.gov/careers/)** | **[** POSITION OPEN TO INTERNAL APPLICANTS ONLY** AOC IT Business Analyst #10111073-21800 & #00044815-21800, Full-Time, Perm, Statewide, NM](https://jobright.ai/jobs/info/697d6854727747250d584d36?utm_campaign=Business%20Analyst&utm_source=1103)** | New Mexico, United States | On Site | Jan 30 |
-| **[DTI (Diversified Technology Inc.)](http://www.divtech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6985944e0f6f7e7a2ce06e3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Romeoville, IL | On Site | Jan 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
