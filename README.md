@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/698130dcabff4c399aa017e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc9360b88cc7d6422963e?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Feb 05 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Division Coordination, Analytics, & Technology Analyst](https://jobright.ai/jobs/info/698505dc8da7a612045f4eb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 05 |
 | **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698510cd348f733a5c39323e?utm_campaign=Business%20Analyst&utm_source=1103)** | Shalimar, FL | On Site | Feb 05 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[GSS Business Analyst](https://jobright.ai/jobs/info/698122fd49964d25b5e3f2bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | Hybrid | Feb 02 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Business Analyst – Commercial Payments](https://jobright.ai/jobs/info/698111f1abff4c399a9fe17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | Hybrid | Feb 02 |
-| **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/698130dcabff4c399aa017e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 02 |
 | **[Access Credit Union](https://www.accesscu.ca/)** | **[Business Administrator l (Full-Time, Permanent) Winnipeg Business Centre/Hybrid](https://jobright.ai/jobs/info/6981165a7f40342e15d9f0f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg- Business Centre (570 Portage) | Hybrid | Feb 02 |
 | **[Stewart's Shops Corp](http://www.stewartsshops.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6981157d7f40342e15d9efea?utm_campaign=Business%20Analyst&utm_source=1103)** | Ballston Spa, NY | On Site | Feb 02 |
 | **[3 Tier Beverages](https://www.3tierbeverages.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/6980fcb6abff4c399a9fca38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 02 |
