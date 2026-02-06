@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Achieve](https://www.achieve.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69864fc18da7a61204610310?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 06 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Feb 06 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
-| **[Achieve](https://www.achieve.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698631108ca8121a3a685f26?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 06 |
 | **[Canada Guaranty](https://www.canadaguaranty.ca/)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/69862ce38da7a6120460dd7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Business Solutions Assistant ( New Graduate )](https://jobright.ai/jobs/info/69862ad30f6f7e7a2ce10cad?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Remote | Feb 06 |
-| **[Stratify Edge](stratifyedge.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69864a168ca8121a3a687d26?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 06 |
 | **[Canada Guaranty](https://www.canadaguaranty.ca/)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/69861ed88da7a6120460c6fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate Office, Toronto, ON, CA | Hybrid | Feb 06 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/69863a100f6f7e7a2ce11c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 06 |
 | **[Horizon Lane](horizonlane.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/69862eb98ca8121a3a685b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Feb 06 |
@@ -89,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bcec61423772304ebfbbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst, Jr.](https://jobright.ai/jobs/info/6983b470348f733a5c36f030?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Feb 04 |
 | **[PNC](http://www.pnc.com)** | **[Technology Development Program](https://jobright.ai/jobs/info/6983c33701214b4cdacbb735?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Feb 04 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69864b368da7a6120460fd08?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst, Jr.](https://jobright.ai/jobs/info/6983b64201214b4cdacb948f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Feb 04 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 04 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/6982cac9348f733a5c35d1a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 04 |
