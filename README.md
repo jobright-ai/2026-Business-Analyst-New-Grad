@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lincoln Financial](https://www.lincolnfinancial.com/)** | **[Specialist, Procurement Operations Data Analysis and Reporting](https://jobright.ai/jobs/info/69685b0a639b452fb57dfe19?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Feb 06 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Feb 05 |
 | **[Rivian](http://www.rivian.com)** | **[Business Operations Analyst, Advanced Energy Solutions](https://jobright.ai/jobs/info/69855b6c348f733a5c39b136?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Feb 05 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/698130dcabff4c399aa017e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
