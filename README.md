@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Baxter & Woodman](http://baxterwoodman.com)** | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982b3850f6f7e7a2cdc0601?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 03 |
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982b0118232105a2d0b02a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Naperville , IL | Hybrid | Feb 03 |
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982bc978232105a2d0b0ff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Crystal Lake, IL | Hybrid | Feb 03 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698284f00a9e07331f8d9e8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698283c70a9e07331f8d9d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 03 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69825b350a9e07331f8d5b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Feb 03 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698255c7348f733a5c3524ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 03 |
