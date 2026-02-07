@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Xcel Blue](https://www.linkedin.com/company/108270909)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/698769cb8da7a61204627bf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | On Site | Feb 07 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696af55a5fc86241853a3aaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 07 |
 | **[Dynareon](dynareon.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69874c868da7a6120462681d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 07 |
