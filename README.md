@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 07 |
+| **[Dynareon](dynareon.us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69874c868da7a6120462681d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 07 |
+| **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696afee9350cf43803123d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 07 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Benefits Outsourcing Business Analyst - 2026](https://jobright.ai/jobs/info/696acbb0db26b618950e17ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Feb 07 |
 | **[Orvanta](orvanta.us)** | **[Business Stategist](https://jobright.ai/jobs/info/69871f680f6f7e7a2ce26294?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Remote | Feb 06 |
 | **[Achieve](https://www.achieve.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69864fc18da7a61204610310?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Feb 06 |
