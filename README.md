@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/6964c528a112b4026612abe1?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Feb 02 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69801908ce48107c05443dcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | On Site | Feb 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6980097b7f40342e15d8ce7b?utm_campaign=Business%20Analyst&utm_source=1103)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
-| **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
