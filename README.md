@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6988caee8ca8121a3a6b4366?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 08 |
+| **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Feb 08 |
 | **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Reporting & Analytics Associate](https://jobright.ai/jobs/info/6988a7a70f6f7e7a2ce3de38?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 08 |
 | **[Automate Accounts](https://www.automateaccounts.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6988849b8da7a6120463912d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oshawa, Ontario, Canada | On Site | Feb 07 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696af55a5fc86241853a3aaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 07 |
@@ -124,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Business Analyst – Commercial Payments](https://jobright.ai/jobs/info/6980d6ddabff4c399a9f92b8?utm_campaign=Business%20Analyst&utm_source=1103)** | MO - Kansas City Downtown/Plaza - Kansas City - KC Downtown Bank Building (1000 Walnut) (64106) | Hybrid | Feb 02 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Business Administrator](https://jobright.ai/jobs/info/6964c528a112b4026612abe1?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | On Site | Feb 02 |
 | **[Emerson](http://www.emerson.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69801908ce48107c05443dcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Shakopee, MN | On Site | Feb 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6980097b7f40342e15d8ce7b?utm_campaign=Business%20Analyst&utm_source=1103)** | 6021 Innovation Boulevard, Shakopee, MN, 55379, US | On Site | Feb 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
