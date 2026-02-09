@@ -118,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Laveer Engineering](https://laveer.ca/)** | **[GSS Business Analyst](https://jobright.ai/jobs/info/6982c998348f733a5c35c7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | Hybrid | Feb 02 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst, Junior](https://jobright.ai/jobs/info/698134747f40342e15da24b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 02 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 02 |
-| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 02 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[GSS Business Analyst](https://jobright.ai/jobs/info/698122fd49964d25b5e3f2bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
