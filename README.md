@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arvento A](arventoa.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/6989ff040f6f7e7a2ce511fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 09 |
 | **[Zappi](https://zappi.io)** | **[Business Analyst, GTM operations](https://jobright.ai/jobs/info/6989effc4db8972cecff37a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 09 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/6951355629655e4dd65a4de2?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Feb 08 |
