@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 02 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 02 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[GSS Business Analyst](https://jobright.ai/jobs/info/698122fd49964d25b5e3f2bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | Hybrid | Feb 02 |
-| **[Commerce Bank](https://www.commercebank.com/)** | **[Business Analyst – Commercial Payments](https://jobright.ai/jobs/info/698111f1abff4c399a9fe17d?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | Hybrid | Feb 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
