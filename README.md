@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zappi](https://zappi.io)** | **[Business Analyst, GTM operations](https://jobright.ai/jobs/info/6989effc4db8972cecff37a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 09 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/6951355629655e4dd65a4de2?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Feb 08 |
 | **[Automate Accounts](https://www.automateaccounts.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6988849b8da7a6120463912d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oshawa, Ontario, Canada | On Site | Feb 07 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[Canada Guaranty](https://www.canadaguaranty.ca/)** | **[Operations Business Analyst](https://jobright.ai/jobs/info/69862ce38da7a6120460dd7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 06 |
 | ↳ | **[Operations Business Analyst](https://jobright.ai/jobs/info/69861ed88da7a6120460c6fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Corporate Office, Toronto, ON, CA | Hybrid | Feb 06 |
-| **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/69863a100f6f7e7a2ce11c5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 06 |
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 06 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Feb 06 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
