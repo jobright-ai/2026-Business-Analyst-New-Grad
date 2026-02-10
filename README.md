@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solberg Manufacturing, Inc.](http://www.solbergmfg.com)** | **[Junior D365 Business Analyst](https://jobright.ai/jobs/info/698b64630f6f7e7a2ce6c6e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Itasca, IL | On Site | Feb 10 |
 | **[Dynareon](dynareon.us)** | **[Business Graduate Analyst](https://jobright.ai/jobs/info/698b5afd06d9b062249563e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Texas, United States | Remote | Feb 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 10 |
+| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Client Solutions Analyst](https://jobright.ai/jobs/info/698b681dc5761b521a9ae398?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 10 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
@@ -111,7 +114,4 @@ For a complete list, click the following sortable link below:
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta](https://jobright.ai/jobs/info/6982cac9348f733a5c35d1a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 04 |
 | **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc5601423772304ebf1a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 04 |
 | **[Peak to Peak Real Estate](https://www.linkedin.com/company/111331172)** | **[Business Administrator](https://jobright.ai/jobs/info/6984a05a0f6f7e7a2cdf13ad?utm_campaign=Business%20Analyst&utm_source=1103)** | SLC Metro Area | Hybrid | Feb 03 |
-| **[Morgan Stanley](http://www.morganstanley.com)** | **[Business Analyst / Associate - Investment Banking Management, New York or Menlo Park](https://jobright.ai/jobs/info/694f232ece13cd1056574a38?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 03 |
-| ↳ | **[Business Analyst / Associate - Investment Banking Management, New York or Menlo Park](https://jobright.ai/jobs/info/694ee8a6a2668b7f5452291a?utm_campaign=Business%20Analyst&utm_source=1103)** | Menlo Park, CA | On Site | Feb 03 |
-| **[Government of Alberta](http://alberta.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6982cbb68232105a2d0b288d?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
