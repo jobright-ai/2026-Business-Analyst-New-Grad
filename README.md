@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Apartment List](http://www.apartmentlist.com)** | **[Business Analyst, Partnerships](https://jobright.ai/jobs/info/698a4b674db8972cecff8a07?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Remote | Feb 09 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Business Planning Analyst, RLE NA](https://jobright.ai/jobs/info/695341515bb7de448ef657cb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 09 |
 | **[Zappi](https://zappi.io)** | **[Business Analyst, GTM operations](https://jobright.ai/jobs/info/698a42bb0f6f7e7a2ce55458?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 09 |
+| **[Flex](https://flex.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698a5efbc5761b521a9987ef?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, IL, Buffalo Grove | On Site | Feb 09 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/6951355629655e4dd65a4de2?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 08 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Feb 08 |
 | **[Automate Accounts](https://www.automateaccounts.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6988849b8da7a6120463912d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oshawa, Ontario, Canada | On Site | Feb 07 |
