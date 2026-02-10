@@ -59,6 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/698ab6c0c5761b521a9a080e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 09 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/698aa8c90f6f7e7a2ce5de7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 09 |
@@ -114,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Baxter & Woodman](http://baxterwoodman.com)** | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982b3850f6f7e7a2cdc0601?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Feb 03 |
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982b0118232105a2d0b02a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Naperville , IL | Hybrid | Feb 03 |
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982bc978232105a2d0b0ff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Crystal Lake, IL | Hybrid | Feb 03 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698283c70a9e07331f8d9d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 03 |
-| **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69825b350a9e07331f8d5b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
