@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698a740e4db8972cecffc5d1?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Feb 09 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/698a71670f6f7e7a2ce598b3?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Feb 09 |
 | **[Apartment List](http://www.apartmentlist.com)** | **[Business Analyst, Partnerships](https://jobright.ai/jobs/info/698a4b674db8972cecff8a07?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Remote | Feb 09 |
 | **[Zappi](https://zappi.io)** | **[Business Analyst, GTM operations](https://jobright.ai/jobs/info/698a42bb0f6f7e7a2ce55458?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 09 |
 | **[Flex](https://flex.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698a5efbc5761b521a9987ef?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, IL, Buffalo Grove | On Site | Feb 09 |
