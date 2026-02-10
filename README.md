@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Entry Level)](https://jobright.ai/jobs/info/6982bc978232105a2d0b0ff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Crystal Lake, IL | Hybrid | Feb 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698283c70a9e07331f8d9d04?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 03 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69825b350a9e07331f8d5b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | Feb 03 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
