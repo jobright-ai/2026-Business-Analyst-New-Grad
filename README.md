@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca7cc0f6f7e7a2ce85d92?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca5b078b4502f12a3251e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca4f7f64d441a164e8f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca1d678b4502f12a32131?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
+| ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698ca15a78b4502f12a320bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698c9e080f6f7e7a2ce85593?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9da378b4502f12a31cf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
 | ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
+| ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698cab3f0f6f7e7a2ce860b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Feb 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69703f87587dfa0bb55dc278?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Feb 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698c46f491fdda424d5930f4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/698c44c778b4502f12a2c80a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 10 |
@@ -79,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/698ab6c0c5761b521a9a080e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698a740e4db8972cecffc5d1?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Feb 09 |
@@ -114,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I or II, Office of the Registrar](https://jobright.ai/jobs/info/698405ad0f6f7e7a2cde1671?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Hybrid | Feb 04 |
 | **[Twin Health](http://twinhealth.com)** | **[Business Analytics Analyst - Operations](https://jobright.ai/jobs/info/696af374350cf43803122faf?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Feb 04 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69841ed28da7a612045e156c?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 04 |
-| **[USG](https://www.usg.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/6983f54a01214b4cdacc3b8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 550 W. Adams Street, Chicago, United States, 60661, US | On Site | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
