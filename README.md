@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[Twin Health](http://twinhealth.com)** | **[Business Analytics Analyst - Operations](https://jobright.ai/jobs/info/696af374350cf43803122faf?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Feb 04 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69841ed28da7a612045e156c?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 04 |
 | **[USG](https://www.usg.com/)** | **[Process Analyst](https://jobright.ai/jobs/info/6983f54a01214b4cdacc3b8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 550 W. Adams Street, Chicago, United States, 60661, US | On Site | Feb 04 |
-| **[Heartbeat](https://www.weareheartbeat.com/)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/6983c11501214b4cdacbb170?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
