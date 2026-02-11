@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698cce02f64d441a164eaf5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Feb 11 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 11 |
+| **[Acosta](https://www.acosta.com)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/698cd04778b4502f12a3498c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Feb 11 |
+| **[Thales](http://www.thalesgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6965c2835ad3a93f8231234e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Feb 11 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca7cc0f6f7e7a2ce85d92?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca5b078b4502f12a3251e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca4f7f64d441a164e8f0d?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698ca1d678b4502f12a32131?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
 | ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698ca15a78b4502f12a320bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
+| **[Stratify Edge](https://www.linkedin.com/company/108302914)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/698cd382f64d441a164eb5e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Remote | Feb 11 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698c9e080f6f7e7a2ce85593?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9da378b4502f12a31cf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
 | ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
-| ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698cafab78b4502f12a32bc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
-| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cc0650f6f7e7a2ce875f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 11 |
+| **[University Credit Union - Maine](https://www.ucumaine.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/698cce810f6f7e7a2ce88490?utm_campaign=Business%20Analyst&utm_source=1103)** | Orono, ME | On Site | Feb 11 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698cafab78b4502f12a32bc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698cb7490f6f7e7a2ce86a9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cc0650f6f7e7a2ce875f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 11 |
 | ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cb1680f6f7e7a2ce866c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Feb 11 |
 | ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698cab3f0f6f7e7a2ce860b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Feb 11 |
 | **[TMX Group](http://www.tmx.com)** | **[Insights Business Analyst](https://jobright.ai/jobs/info/698cb56078b4502f12a33054?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 11 |
@@ -89,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/698ab6c0c5761b521a9a080e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698a740e4db8972cecffc5d1?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Feb 09 |
