@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX-PPT](https://jobright.ai/jobs/info/698c9e080f6f7e7a2ce85593?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Feb 11 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9da378b4502f12a31cf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Feb 11 |
+| ↳ | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Feb 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/69703f87587dfa0bb55dc278?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Feb 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698c46f491fdda424d5930f4?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/698c44c778b4502f12a2c80a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Feb 10 |
@@ -73,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/698ab6c0c5761b521a9a080e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 09 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698a740e4db8972cecffc5d1?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford | Hybrid | Feb 09 |
@@ -88,8 +92,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 07 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696afee9350cf43803123d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 07 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696b0014db26b618950e75f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Feb 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst, Video Safety Operations - Trust & Safety - San Jose](https://jobright.ai/jobs/info/69860d2c8ca8121a3a6839b2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Feb 07 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Benefits Outsourcing Business Analyst - 2026](https://jobright.ai/jobs/info/696acbb0db26b618950e17ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Feb 07 |
-| **[Rivian](http://www.rivian.com)** | **[Business Operations Analyst, Advanced Energy Solutions](https://jobright.ai/jobs/info/698c289d0f6f7e7a2ce7cb46?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Feb 06 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/6933f3ada0dde7020e2f3428?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA | Hybrid | Feb 06 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[2026 Business Systems Analyst](https://jobright.ai/jobs/info/68f97b696de2db04dc3e96b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD | Hybrid | Feb 06 |
