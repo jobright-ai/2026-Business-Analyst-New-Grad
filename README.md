@@ -58,9 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698ba708c5761b521a9b381a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 10 |
-| **[Solberg Manufacturing, Inc.](http://www.solbergmfg.com)** | **[Junior D365 Business Analyst](https://jobright.ai/jobs/info/698b64630f6f7e7a2ce6c6e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Itasca, IL | On Site | Feb 10 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/698bc69ac5761b521a9b5634?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Feb 10 |
+| **[Tanaq Health](https://tanaqhealth.com)** | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698bbe9e0f6f7e7a2ce736c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Feb 10 |
+| **[Solberg Manufacturing, Inc.](http://www.solbergmfg.com)** | **[Functional D365 Business Analyst](https://jobright.ai/jobs/info/698b64630f6f7e7a2ce6c6e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Itasca, IL | On Site | Feb 10 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 10 |
-| **[Lewoint](https://www.linkedin.com/company/90866709)** | **[Client Solutions Analyst](https://jobright.ai/jobs/info/698b681dc5761b521a9ae398?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
