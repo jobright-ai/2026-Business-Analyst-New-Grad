@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/698dd774f64d441a16500742?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Feb 12 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6955d2d0aa05c26e7ab002f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 12 |
 | **[St. George Tanaq Corporation](https://tanaq.com)** | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698da14678b4502f12a4599d?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL | Hybrid | Feb 12 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d9e060f6f7e7a2ce990cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 12 |
@@ -113,9 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Solberg Manufacturing, Inc.](http://www.solbergmfg.com)** | **[Functional D365 Business Analyst](https://jobright.ai/jobs/info/698b64630f6f7e7a2ce6c6e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Itasca, IL | On Site | Feb 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
@@ -130,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Feb 07 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696afee9350cf43803123d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Feb 07 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696b0014db26b618950e75f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Feb 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Business Analyst, Video Safety Operations - Trust & Safety - San Jose](https://jobright.ai/jobs/info/69860d2c8ca8121a3a6839b2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Feb 07 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Benefits Outsourcing Business Analyst - 2026](https://jobright.ai/jobs/info/696acbb0db26b618950e17ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Feb 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 06 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 06 |
