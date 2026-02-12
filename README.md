@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. George Tanaq Corporation](https://tanaq.com)** | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d95330f6f7e7a2ce986e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Feb 12 |
+| **[St. George Tanaq Corporation](https://tanaq.com)** | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698da14678b4502f12a4599d?utm_campaign=Business%20Analyst&utm_source=1103)** | Montgomery, AL | Hybrid | Feb 12 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d9e060f6f7e7a2ce990cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Feb 12 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d9d7278b4502f12a4553e?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Hybrid | Feb 12 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d9c2f78b4502f12a45391?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Feb 12 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698d95330f6f7e7a2ce986e3?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Feb 12 |
 | **[TBWA\Media Arts Lab](http://www.mediaartslab.com/)** | **[Business Affairs Executive](https://jobright.ai/jobs/info/698d498078b4502f12a3ecfc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 11 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/698d47040f6f7e7a2ce91a5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 11 |
 | **[HUB International](https://www.hubinternational.com)** | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d5e570f6f7e7a2ce93ea4?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 11 |
@@ -66,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sustainability Analyst](https://jobright.ai/jobs/info/698d41cbf64d441a164f45f4?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Greenwood Village | Hybrid | Feb 11 |
 | **[TBWA\Media Arts Lab](http://www.mediaartslab.com/)** | **[Business Affairs Executive](https://jobright.ai/jobs/info/698d2270f64d441a164f158d?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 11 |
 | **[Fiserv](http://www.fiserv.com)** | **[Analyst Program - Business Analyst (New York, NY)](https://jobright.ai/jobs/info/698d12bbf64d441a164ef6a1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 11 |
-| **[HUB International](https://www.hubinternational.com)** | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d20470f6f7e7a2ce8dddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, ON | Hybrid | Feb 11 |
-| ↳ | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d075e78b4502f12a37968?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Feb 11 |
+| **[HUB International](https://www.hubinternational.com)** | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d075e78b4502f12a37968?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Feb 11 |
+| ↳ | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d20470f6f7e7a2ce8dddc?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, ON | Hybrid | Feb 11 |
 | **[Fiserv](http://www.fiserv.com)** | **[Analyst Program - Business Analyst (New York, NY)](https://jobright.ai/jobs/info/698d1bc7f64d441a164f079e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York | On Site | Feb 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698cce02f64d441a164eaf5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Feb 11 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 11 |
@@ -105,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698b603cc5761b521a9ad666?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 10 |
 | **[Opportunities for Ohioans with Disabilities](http://ood.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698afa824db8972cec006e54?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Feb 10 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698aeae00f6f7e7a2ce635e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA | On Site | Feb 10 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
-| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0e9f4db8972cec008879?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
+| ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0988c5761b521a9a6d65?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County-Columbus | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0d68c5761b521a9a71f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Franklin County | On Site | Feb 10 |
 | ↳ | **[Business Process Analyst 1](https://jobright.ai/jobs/info/698b0f934db8972cec0089da?utm_campaign=Business%20Analyst&utm_source=1103)** | 150 OOD Cmplx150 East Campus View Boulevard | On Site | Feb 10 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Operations](https://jobright.ai/jobs/info/698abe6a0f6f7e7a2ce608ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Feb 09 |
@@ -131,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Rivian](http://www.rivian.com)** | **[Business Operations Analyst, Advanced Energy Solutions](https://jobright.ai/jobs/info/69855b6c348f733a5c39b136?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Feb 05 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/698130dcabff4c399aa017e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[CalPERS](http://www.calpers.ca.gov/)** | **[Division Coordination, Analytics, & Technology Analyst](https://jobright.ai/jobs/info/698505dc8da7a612045f4eb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 05 |
-| **[Revolution Sustainable Solutions, LLC](https://revolutioncompany.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/698510cd348f733a5c39323e?utm_campaign=Business%20Analyst&utm_source=1103)** | Shalimar, FL | On Site | Feb 05 |
-| **[HNTB](http://www.hntb.com/)** | **[Asset Management Analyst II](https://jobright.ai/jobs/info/697bc1521136d179eeef45a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
