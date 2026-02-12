@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HUB International](https://www.hubinternational.com)** | **[Business Data Coordinator - Summer Contract](https://jobright.ai/jobs/info/698d075e78b4502f12a37968?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Feb 11 |
+| **[TransForm Shared Service Organization](http://www.transformsso.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/698d0fff0f6f7e7a2ce8c22c?utm_campaign=Business%20Analyst&utm_source=1103)** | Windsor, Ontario, Canada | Hybrid | Feb 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698cce02f64d441a164eaf5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Feb 11 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Analyst Business Process Improvement](https://jobright.ai/jobs/info/6959d3a7aa05c26e7ab37e45?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Feb 11 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/698cec9af64d441a164eca28?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Feb 11 |
@@ -125,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6984b4150f6f7e7a2cdf2afc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 05 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 05 |
 | **[Leader Bank](http://leaderbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68ce446b24dd5209002f128b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, MA | On Site | Feb 05 |
-| **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/698471d10f6f7e7a2cdecfd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
