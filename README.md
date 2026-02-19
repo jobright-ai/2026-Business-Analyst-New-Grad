@@ -61,7 +61,8 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Business Control Analyst](https://jobright.ai/jobs/info/69974456e0bddb6acac5fc17?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | Hybrid | Feb 19 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Amazon](https://jobright.ai/jobs/info/6997374cce78e77b4fdb8903?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren NJ | Hybrid | Feb 19 |
-| **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974c54e0bddb6acac61166?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 19 |
+| **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69975bf3ce78e77b4fdbb7e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | On Site | Feb 19 |
+| ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974c54e0bddb6acac61166?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 19 |
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974e5881476f6176af76c7?utm_campaign=Business%20Analyst&utm_source=1103)** | British Columbia, Canada | Remote | Feb 19 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997255de0bddb6acac5dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Feb 19 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Feb 19 |
@@ -141,9 +142,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f181e0cc8ea15f1d973ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, WV | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f23f10cc8ea15f1d98bef?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f25750cc8ea15f1d98f0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bismarck, ND | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f111d0cc8ea15f1d965f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence, RI | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f27cd0f6f7e7a2ceb38ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Pierre, SD | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f18530cc8ea15f1d97424?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Feb 13 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f27cd0f6f7e7a2ceb38ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Pierre, SD | Hybrid | Feb 13 |
+| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f111d0cc8ea15f1d965f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence, RI | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f0df60cc8ea15f1d96198?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f17d30cc8ea15f1d97320?utm_campaign=Business%20Analyst&utm_source=1103)** | Jefferson City, MO | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f24f30cc8ea15f1d98e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Jackson, MS | Hybrid | Feb 13 |
