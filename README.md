@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997d4a3e0bddb6acac6a0c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Feb 19 |
+| **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
+| **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 20 |
+| **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Feb 20 |
 | **[Connecticut Judicial Branch](https://jud.ct.gov/)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/6997e81dce78e77b4fdc675a?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hartford, CT | On Site | Feb 19 |
 | **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/699818da81476f6176b0859f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 19 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
@@ -102,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/697c68933f57a335696615d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Feb 18 |
 | **[ICF](https://www.icf.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69962bf0e0bddb6acac48b7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Feb 18 |
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6978ebb352f3c27ec6452775?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Feb 18 |
-| **[Falconi US](https://en.falconi.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/699831f7ce78e77b4fdce6eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 18 |
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/6995a51981476f6176ad8575?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 18 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Broadcom](http://www.broadcom.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69957e9d81476f6176ad6dad?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Feb 17 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[athenahealth](http://www.athenahealth.com)** | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fca216ea51a7610f23699?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote USA | Remote | Feb 13 |
 | ↳ | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fc4fc6ea51a7610f2323e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston MA | On Site | Feb 13 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Feb 13 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/699032fd0cc8ea15f1daf27a?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Feb 13 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
