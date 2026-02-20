@@ -135,6 +135,6 @@ For a complete list, click the following sortable link below:
 | **[athenahealth](http://www.athenahealth.com)** | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fca216ea51a7610f23699?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote USA | Remote | Feb 13 |
 | ↳ | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fc4fc6ea51a7610f2323e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston MA | On Site | Feb 13 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Feb 13 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
