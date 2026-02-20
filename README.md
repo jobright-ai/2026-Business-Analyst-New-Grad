@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6997a611ce78e77b4fdbfda4?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Remote | Feb 19 |
 | **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Amazon](https://jobright.ai/jobs/info/69977186e0bddb6acac62a19?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Feb 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[IT Business Analyst (Non-Merit)](https://jobright.ai/jobs/info/6993c3eae0bddb6acac20d77?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
@@ -135,6 +135,6 @@ For a complete list, click the following sortable link below:
 | **[athenahealth](http://www.athenahealth.com)** | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fca216ea51a7610f23699?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote USA | Remote | Feb 13 |
 | ↳ | **[Business Analytics and Insight Associate](https://jobright.ai/jobs/info/698fc4fc6ea51a7610f2323e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston MA | On Site | Feb 13 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Feb 13 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698feebe0f6f7e7a2cec33b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Feb 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/698ff7aa0cc8ea15f1da8fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
