@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997904bce78e77b4fdbdf61?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Feb 19 |
+| **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Amazon](https://jobright.ai/jobs/info/69977186e0bddb6acac62a19?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Feb 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[IT Business Analyst (Non-Merit)](https://jobright.ai/jobs/info/6993c3eae0bddb6acac20d77?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69975bf3ce78e77b4fdbb7e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | On Site | Feb 19 |
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974c54e0bddb6acac61166?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 19 |
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974e5881476f6176af76c7?utm_campaign=Business%20Analyst&utm_source=1103)** | British Columbia, Canada | Remote | Feb 19 |
-| **[Crew](http://theboomlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997255de0bddb6acac5dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Feb 19 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Feb 19 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/698d031378b4502f12a3747f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Feb 19 |
 | **[WD](https://www.westerndigital.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69966f7a81476f6176ae41b1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Feb 18 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 16 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Feb 16 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 16 |
-| **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/699339a381476f6176aad9f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 16 |
 | **[Retirement Capital](www.retirementcapital.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/699261380f6f7e7a2cee7179?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | On Site | Feb 15 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/698df48378b4502f12a4bfb4?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Feb 14 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69585c5caa05c26e7ab23c73?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Feb 14 |
@@ -121,13 +121,13 @@ For a complete list, click the following sortable link below:
 | **[Maimonides Medical Center](https://maimo.org/)** | **[Business Analyst – Contract Management & Supply Chain / Purchasing/IT systems exp](https://jobright.ai/jobs/info/698e7ab40f6f7e7a2cea9290?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Feb 13 |
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[BEP Business Analyst](https://jobright.ai/jobs/info/698f89966ea51a7610f1e6b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Georgia - Fulton - Atlanta | On Site | Feb 13 |
 | **[DocuNav Solutions](https://www.docunav.com/)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/698f849c0cc8ea15f1da1240?utm_campaign=Business%20Analyst&utm_source=1103)** | Frisco, TX | On Site | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/698f4f120cc8ea15f1d9cd46?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 13 |
-| ↳ | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/698f55f36ea51a7610f1a655?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 13 |
-| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/69902acc0cc8ea15f1dae751?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/698f55f36ea51a7610f1a655?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 13 |
+| ↳ | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/698f4f120cc8ea15f1d9cd46?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 13 |
 | ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/699032cf6ea51a7610f2b885?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Feb 13 |
+| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/69902acc0cc8ea15f1dae751?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Feb 13 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Feb 13 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Analyst, Business Operations](https://jobright.ai/jobs/info/698f378a6ea51a7610f1785d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 13 |
-| ↳ | **[Junior Analyst, Business Operations](https://jobright.ai/jobs/info/698f49ec0cc8ea15f1d9c554?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | On Site | Feb 13 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Junior Analyst, Business Operations](https://jobright.ai/jobs/info/698f49ec0cc8ea15f1d9c554?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | On Site | Feb 13 |
+| ↳ | **[Junior Analyst, Business Operations](https://jobright.ai/jobs/info/698f378a6ea51a7610f1785d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 13 |
 | ↳ | **[Junior Analyst, Business Operations](https://jobright.ai/jobs/info/698f4a3b0cc8ea15f1d9c5c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | On Site | Feb 13 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Feb 13 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Feb 13 |
@@ -137,16 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f210d6ea51a7610f153c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Salem, OR | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f2dd06ea51a7610f16c9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, NH | Hybrid | Feb 13 |
 | ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f2bd56ea51a7610f16894?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f12ea6ea51a7610f13717?utm_campaign=Business%20Analyst&utm_source=1103)** | Helena, MT | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f181e0cc8ea15f1d973ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, WV | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f23f10cc8ea15f1d98bef?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f25750cc8ea15f1d98f0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bismarck, ND | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f18530cc8ea15f1d97424?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f27cd0f6f7e7a2ceb38ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Pierre, SD | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f111d0cc8ea15f1d965f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence, RI | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f0df60cc8ea15f1d96198?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f17d30cc8ea15f1d97320?utm_campaign=Business%20Analyst&utm_source=1103)** | Jefferson City, MO | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f24f30cc8ea15f1d98e09?utm_campaign=Business%20Analyst&utm_source=1103)** | Jackson, MS | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f26420cc8ea15f1d9909b?utm_campaign=Business%20Analyst&utm_source=1103)** | Carson City, NV | Hybrid | Feb 13 |
-| ↳ | **[Business Analyst / Technical Writer I](https://jobright.ai/jobs/info/698f170e6ea51a7610f13f46?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Fe, NM | Hybrid | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
