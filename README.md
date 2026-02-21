@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69997cf2e0bddb6acac8c194?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 21 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
@@ -117,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Catapult Federal Services](https://catapultsg.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69955c1bce78e77b4fd97fae?utm_campaign=Business%20Analyst&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 17 |
 | **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69964b28e0bddb6acac4b4aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | Feb 17 |
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/699532eee0bddb6acac3bb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 17 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6999325dce78e77b4fddeb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | On Site | Feb 17 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69952e90e0bddb6acac3b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994f11781476f6176acca8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | Hybrid | Feb 17 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/6994d61fce78e77b4fd8e557?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 17 |
