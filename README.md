@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6999168be0bddb6acac81054?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6998e778e0bddb6acac7d07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut | Hybrid | Feb 20 |
 | ↳ | **[Business Insights Analyst](https://jobright.ai/jobs/info/69990b9081476f6176b18109?utm_campaign=Business%20Analyst&utm_source=1103)** | New York - Manhattan | Hybrid | Feb 20 |
 | **[Savannah Distributing Co Inc](http://savdist.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/6998fcf781476f6176b16e44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, US | Hybrid | Feb 20 |
