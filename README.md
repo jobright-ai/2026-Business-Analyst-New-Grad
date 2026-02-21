@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b4a3ce78e77b4fdd4c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | ↳ | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b20e81476f6176b12390?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
@@ -115,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](http://www.asmglobal.com)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69952e90e0bddb6acac3b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994f11781476f6176acca8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | Hybrid | Feb 17 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 17 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69950c4881476f6176aceb0d?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Remote VA | Remote | Feb 17 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/6994d61fce78e77b4fd8e557?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994fc1481476f6176acd69c?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Feb 17 |
 | **[CCS](https://shop.ccs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6994ebe081476f6176acc33d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 17 |
@@ -123,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Feb 16 |
 | **[Mcc service](https://www.linkedin.com/company/102386177)** | **[Segretario/a Commerciale - Gestione Appuntamenti](https://jobright.ai/jobs/info/6993cab881476f6176ab66bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lodi, IT | On Site | Feb 16 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/697010583ed06875134b0ecb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Montreal Metropolitan Area | Hybrid | Feb 16 |
+| **[GetixHealth](http://getixhealth.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6998c96f81476f6176b13424?utm_campaign=Business%20Analyst&utm_source=1103)** | Manitowoc, Wisconsin, United States | Remote | Feb 16 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993a48081476f6176ab3bfd?utm_campaign=Business%20Analyst&utm_source=1103)** | 1100 Crown Colony Drive, Quincy, MA 02169 | Hybrid | Feb 16 |
 | **[Hillsborough County Clerk of Circuit Court & Comptroller](http://www.hillsclerk.com)** | **[Business Analyst I-550](https://jobright.ai/jobs/info/69939cd781476f6176ab312b?utm_campaign=Business%20Analyst&utm_source=1103)** | 601 E Kennedy Blvd, Tampa, FL, 33602, US | On Site | Feb 16 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 16 |
