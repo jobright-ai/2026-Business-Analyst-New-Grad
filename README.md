@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6998e778e0bddb6acac7d07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut | Hybrid | Feb 20 |
+| **[Savannah Distributing Co Inc](http://savdist.com)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/6998fcf781476f6176b16e44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, US | Hybrid | Feb 20 |
+| **[HUB International](https://www.hubinternational.com)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998f6c881476f6176b16377?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, ON | Hybrid | Feb 20 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 20 |
 | **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b4a3ce78e77b4fdd4c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | ↳ | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b20e81476f6176b12390?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
@@ -68,8 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997cf26ce78e77b4fdc3934?utm_campaign=Business%20Analyst&utm_source=1103)** | Durham, NC | Hybrid | Feb 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6997dddfce78e77b4fdc52e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Feb 19 |
-| **[Softheon](http://softheon.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6998b20981476f6176b1238d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, New York, United States | Hybrid | Feb 19 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997d9a181476f6176b01127?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6997d9a181476f6176b01127?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[IT Business Analyst 1](https://jobright.ai/jobs/info/6997e67dce78e77b4fdc6354?utm_campaign=Business%20Analyst&utm_source=1103)** | 184 Shuman Blvd, Naperville, IL 60563, USA | Hybrid | Feb 19 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid - Chicago), Line of Business](https://jobright.ai/jobs/info/6997dd1381476f6176b01762?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Feb 19 |
 | **[Goodheart-Willcox](http://g-w.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997b4d6ce78e77b4fdc0ee0?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Feb 19 |
@@ -115,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/699532eee0bddb6acac3bb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 17 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69952e90e0bddb6acac3b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994f11781476f6176acca8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | Hybrid | Feb 17 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 17 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/6994d61fce78e77b4fd8e557?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994fc1481476f6176acd69c?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Feb 17 |
 | **[CCS](https://shop.ccs.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6994ebe081476f6176acc33d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | Feb 17 |
