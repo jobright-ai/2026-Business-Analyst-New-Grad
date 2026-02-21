@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
+| **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6999168be0bddb6acac81054?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6998e778e0bddb6acac7d07d?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut | Hybrid | Feb 20 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974e5881476f6176af76c7?utm_campaign=Business%20Analyst&utm_source=1103)** | British Columbia, Canada | Remote | Feb 19 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Feb 19 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/698d031378b4502f12a3747f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Feb 19 |
+| **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/69994453ce78e77b4fde05b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 18 |
 | **[WD](https://www.westerndigital.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69966f7a81476f6176ae41b1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Feb 18 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6996706ee0bddb6acac4e76d?utm_campaign=Business%20Analyst&utm_source=1103)** | Massachusetts, United States | Remote | Feb 18 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst, Jr.](https://jobright.ai/jobs/info/6983b470348f733a5c36f030?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Feb 18 |
