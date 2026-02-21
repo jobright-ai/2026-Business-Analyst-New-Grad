@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 16 |
 | **[Retirement Capital](www.retirementcapital.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/699261380f6f7e7a2cee7179?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | On Site | Feb 15 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/698df48378b4502f12a4bfb4?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Feb 14 |
-| **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69585c5caa05c26e7ab23c73?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
