@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b4a3ce78e77b4fdd4c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
+| ↳ | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b20e81476f6176b12390?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 20 |
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | **[Abby Care](https://www.joinwellspring.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69439271dd382f5f5669b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Feb 20 |
 | **[Prudential Financial](http://www.prudential.com)** | **[Business Analyst - Group Insurance Product & Underwriting.(Hybrid)](https://jobright.ai/jobs/info/697be4f60b88cc7d6422c8a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ | Hybrid | Feb 20 |
@@ -65,7 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997cf26ce78e77b4fdc3934?utm_campaign=Business%20Analyst&utm_source=1103)** | Durham, NC | Hybrid | Feb 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6997dddfce78e77b4fdc52e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Feb 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6997d9a181476f6176b01127?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
+| **[Softheon](http://softheon.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6998b20981476f6176b1238d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, New York, United States | Hybrid | Feb 19 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6997d9a181476f6176b01127?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 19 |
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[IT Business Analyst 1](https://jobright.ai/jobs/info/6997e67dce78e77b4fdc6354?utm_campaign=Business%20Analyst&utm_source=1103)** | 184 Shuman Blvd, Naperville, IL 60563, USA | Hybrid | Feb 19 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid - Chicago), Line of Business](https://jobright.ai/jobs/info/6997dd1381476f6176b01762?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Feb 19 |
 | **[Goodheart-Willcox](http://g-w.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997b4d6ce78e77b4fdc0ee0?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Feb 19 |
