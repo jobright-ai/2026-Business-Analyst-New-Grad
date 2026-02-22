@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997a65fe0bddb6acac65cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 19 |
 | **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
 | **[Haleon](http://www.haleon.com/)** | **[Business Analyst, Amazon](https://jobright.ai/jobs/info/69977186e0bddb6acac62a19?utm_campaign=Business%20Analyst&utm_source=1103)** | Warren, NJ | Hybrid | Feb 19 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[IT Business Analyst (Non-Merit)](https://jobright.ai/jobs/info/6993c3eae0bddb6acac20d77?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 16 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Feb 16 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 16 |
-| **[Retirement Capital](www.retirementcapital.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/699261380f6f7e7a2cee7179?utm_campaign=Business%20Analyst&utm_source=1103)** | West Palm Beach, FL | On Site | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
