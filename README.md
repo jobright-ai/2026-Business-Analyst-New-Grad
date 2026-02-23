@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997a65fe0bddb6acac65cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 19 |
 | **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Business Control Analyst](https://jobright.ai/jobs/info/69974456e0bddb6acac5fc17?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | Hybrid | Feb 19 |
 | **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69975bf3ce78e77b4fdbb7e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | On Site | Feb 19 |
@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Mcc service](https://www.linkedin.com/company/102386177)** | **[Segretario/a Commerciale - Gestione Appuntamenti](https://jobright.ai/jobs/info/6993cab881476f6176ab66bb?utm_campaign=Business%20Analyst&utm_source=1103)** | Lodi, IT | On Site | Feb 16 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/697010583ed06875134b0ecb?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Montreal Metropolitan Area | Hybrid | Feb 16 |
 | **[GetixHealth](http://getixhealth.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6998c96f81476f6176b13424?utm_campaign=Business%20Analyst&utm_source=1103)** | Manitowoc, Wisconsin, United States | Remote | Feb 16 |
-| **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993a48081476f6176ab3bfd?utm_campaign=Business%20Analyst&utm_source=1103)** | 1100 Crown Colony Drive, Quincy, MA 02169 | Hybrid | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
