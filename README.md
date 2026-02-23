@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997a65fe0bddb6acac65cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 19 |
 | **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Business Control Analyst](https://jobright.ai/jobs/info/69974456e0bddb6acac5fc17?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City | Hybrid | Feb 19 |
 | **[Cencora](http://www.cencora.com)** | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69975bf3ce78e77b4fdbb7e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, Canada | On Site | Feb 19 |
