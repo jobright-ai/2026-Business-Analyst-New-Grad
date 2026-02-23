@@ -130,7 +130,4 @@ For a complete list, click the following sortable link below:
 | **[GetixHealth](http://getixhealth.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6998c96f81476f6176b13424?utm_campaign=Business%20Analyst&utm_source=1103)** | Manitowoc, Wisconsin, United States | Remote | Feb 16 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993a48081476f6176ab3bfd?utm_campaign=Business%20Analyst&utm_source=1103)** | 1100 Crown Colony Drive, Quincy, MA 02169 | Hybrid | Feb 16 |
 | **[Hillsborough County Clerk of Circuit Court & Comptroller](http://www.hillsclerk.com)** | **[Business Analyst I-550](https://jobright.ai/jobs/info/69998f6481476f6176b252df?utm_campaign=Business%20Analyst&utm_source=1103)** | 601 E Kennedy Blvd, Tampa, FL, 33602, US | On Site | Feb 16 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 16 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/68f717009a65fd3458599aba?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, Ohio Metropolitan Area | On Site | Feb 16 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
