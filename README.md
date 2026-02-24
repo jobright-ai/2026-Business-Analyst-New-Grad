@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst (Candidates must be located on Long Island)](https://jobright.ai/jobs/info/699dccd581476f6176b6af6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Hybrid | Feb 24 |
+| **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699dddedce78e77b4fe2ef8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Feb 24 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst, Junior](https://jobright.ai/jobs/info/6997059fe0bddb6acac5b386?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 24 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Feb 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69997cf2e0bddb6acac8c194?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 21 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/69998f77ce78e77b4fde7c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 21 |
-| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/699d359fe0bddb6acacc6ad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/6995a51981476f6176ad8575?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 18 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Broadcom](http://www.broadcom.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69957e9d81476f6176ad6dad?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Feb 17 |
-| **[Catapult Federal Services](https://catapultsg.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69955c1bce78e77b4fd97fae?utm_campaign=Business%20Analyst&utm_source=1103)** | Anchorage, AK | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
