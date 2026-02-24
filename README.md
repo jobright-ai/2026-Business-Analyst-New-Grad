@@ -58,7 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Feb 23 |
-| ↳ | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
+| **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 23 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
 | **[The Hatch Group, Inc.](https://www.hatchasphalt.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/699a60e2e0bddb6acac969a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plainville, MA | On Site | Feb 21 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Feb 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Feb 21 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[University Health Network](https://www.uhn.ca/)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/6997bacce0bddb6acac678ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 19 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997a65fe0bddb6acac65cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 19 |
 | **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
-| **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 19 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6997ae9fce78e77b4fdc0b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 19 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6997aacbe0bddb6acac66398?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 19 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 19 |
