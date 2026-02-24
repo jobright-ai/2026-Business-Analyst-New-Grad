@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/699532eee0bddb6acac3bb07?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 17 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69952e90e0bddb6acac3b672?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6994f11781476f6176acca8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | Hybrid | Feb 17 |
-| **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/6994d61fce78e77b4fd8e557?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
