@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699e0d3a81476f6176b6f7d2?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699e1284e0bddb6acacd7465?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Feb 24 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699e081481476f6176b6f468?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/699df20f81476f6176b6e5bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 24 |
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst (Candidates must be located on Long Island)](https://jobright.ai/jobs/info/699dccd581476f6176b6af6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Hybrid | Feb 24 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699dddedce78e77b4fe2ef8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Feb 24 |
@@ -119,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/697c68933f57a335696615d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Feb 18 |
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6978ebb352f3c27ec6452775?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Feb 18 |
 | **[England Logistics](http://www.englandlogistics.com/)** | **[Business Intelligent Analyst I](https://jobright.ai/jobs/info/6995a51981476f6176ad8575?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Feb 18 |
-| **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Feb 17 |
-| **[Broadcom](http://www.broadcom.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69957e9d81476f6176ad6dad?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
