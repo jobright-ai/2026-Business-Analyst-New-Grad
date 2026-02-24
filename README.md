@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Feb 23 |
+| ↳ | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
 | **[The Hatch Group, Inc.](https://www.hatchasphalt.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/699a60e2e0bddb6acac969a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plainville, MA | On Site | Feb 21 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Feb 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/697db7bf7f40342e15d69e92?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Feb 21 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Connecticut Judicial Branch](https://jud.ct.gov/)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/6997e81dce78e77b4fdc675a?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hartford, CT | On Site | Feb 19 |
 | **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/699818da81476f6176b0859f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 19 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
-| **[Softheon](http://softheon.com)** | **[Business Operations Analyst (Candidates must be located on Long Island)](https://jobright.ai/jobs/info/699c814e81476f6176b50c19?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, New York, United States | Remote | Feb 19 |
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[IT Business Analyst 1](https://jobright.ai/jobs/info/6997e67dce78e77b4fdc6354?utm_campaign=Business%20Analyst&utm_source=1103)** | 184 Shuman Blvd, Naperville, IL 60563, USA | Hybrid | Feb 19 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid - Chicago), Line of Business](https://jobright.ai/jobs/info/6997dd1381476f6176b01762?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Feb 19 |
 | **[Goodheart-Willcox](http://g-w.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997b4d6ce78e77b4fdc0ee0?utm_campaign=Business%20Analyst&utm_source=1103)** | Tinley Park, IL | Hybrid | Feb 19 |
