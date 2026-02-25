@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas County](https://www.dallascounty.org/)** | **[0000009420.BUSINESS ANALYST II.DISTRICT CLERK](https://jobright.ai/jobs/info/699f34df81476f6176b8d653?utm_campaign=Business%20Analyst&utm_source=1103)** | 133 N Riverfront Blvd, Dallas, TX, 75207, US | On Site | Feb 25 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
@@ -85,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Feb 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69997cf2e0bddb6acac8c194?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 21 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/69998f77ce78e77b4fde7c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 21 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699e863281476f6176b7b613?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 20 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/699e9838e0bddb6acace59ce?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 20 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699e9838e0bddb6acace59ce?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 20 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/699e863281476f6176b7b613?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
