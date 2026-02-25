@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f4eaf81476f6176b8ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 25 |
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000009420.BUSINESS ANALYST II.DISTRICT CLERK](https://jobright.ai/jobs/info/699f34df81476f6176b8d653?utm_campaign=Business%20Analyst&utm_source=1103)** | 133 N Riverfront Blvd, Dallas, TX, 75207, US | On Site | Feb 25 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
@@ -72,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699e1284e0bddb6acacd7465?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Feb 24 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f52b581476f6176b8f0e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
+| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f4ab694ef206f184e7529?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/699df20f81476f6176b6e5bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 24 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699dddedce78e77b4fe2ef8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Feb 24 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
@@ -118,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974c54e0bddb6acac61166?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakville, Ontario, Canada | On Site | Feb 19 |
 | ↳ | **[Coordinator, Business Systems](https://jobright.ai/jobs/info/69974e5881476f6176af76c7?utm_campaign=Business%20Analyst&utm_source=1103)** | British Columbia, Canada | Remote | Feb 19 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Feb 19 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/699d441b81476f6176b6154d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
