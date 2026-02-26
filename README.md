@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (HEALTHCARE BUSINESS ANALYST) - EWA, OAHU](https://jobright.ai/jobs/info/69a0227681476f6176ba2e96?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Feb 26 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/699fb62dce78e77b4fe59ae4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Feb 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698e6473f64d441a165098d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Feb 25 |
 | **[Commerce Casino](https://commercecasino.com/)** | **[Business Communications Analyst $85k-$107k Annual](https://jobright.ai/jobs/info/699feba053d97f23ee657ba2?utm_campaign=Business%20Analyst&utm_source=1103)** | 6131 Telegraph Rd, Commerce, CA 90040, USA | On Site | Feb 25 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a0128781476f6176ba158d?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Feb 25 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Business Analyst Jr](https://jobright.ai/jobs/info/699fb56fce78e77b4fe599ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 25 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/699f923dce78e77b4fe5698b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Feb 25 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/699f919081476f6176b93eb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Feb 25 |
@@ -76,10 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/699f87b3ce78e77b4fe553b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Feb 25 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a025b40836fe79d860ed07?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, WW FBA Insights & Planning](https://jobright.ai/jobs/info/699e7393ce78e77b4fe3bba1?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, WW FBA Insights & Planning](https://jobright.ai/jobs/info/699e69eace78e77b4fe3a648?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 24 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e2b97ce78e77b4fe33cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
-| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f4ab694ef206f184e7529?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
-| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f52b581476f6176b8f0e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f52b581476f6176b8f0e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
+| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f4ab694ef206f184e7529?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/699df20f81476f6176b6e5bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 24 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 24 |
@@ -124,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997904bce78e77b4fdbdf61?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - USA | Remote | Feb 19 |
 | **[Arrowhead Programs](http://www.arrowheadprograms.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997a881e0bddb6acac66014?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
 | **[Carle Health](http://www.carle.org)** | **[Business Coordinator - HVI](https://jobright.ai/jobs/info/6997a492ce78e77b4fdbfba6?utm_campaign=Business%20Analyst&utm_source=1103)** | Urbana, IL | On Site | Feb 19 |
-| **[Santander](https://www.santander.com/)** | **[Specialist, Business Management](https://jobright.ai/jobs/info/6997b005e0bddb6acac66be9?utm_campaign=Business%20Analyst&utm_source=1103)** | Providence | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
