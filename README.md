@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/699f923dce78e77b4fe5698b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Feb 25 |
+| **[Georgia Institute of Technology](http://gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/699f919081476f6176b93eb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Feb 25 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f8e8b81476f6176b93891?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Feb 25 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/699a6624ce78e77b4fdf244c?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 25 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f4eaf81476f6176b8ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 25 |
 | ↳ | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f6ee5ce78e77b4fe531e5?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Feb 25 |
 | **[Dallas County](https://www.dallascounty.org/)** | **[0000009420.BUSINESS ANALYST II.DISTRICT CLERK](https://jobright.ai/jobs/info/699f34df81476f6176b8d653?utm_campaign=Business%20Analyst&utm_source=1103)** | 133 N Riverfront Blvd, Dallas, TX, 75207, US | On Site | Feb 25 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/699f87b3ce78e77b4fe553b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Feb 25 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e2b97ce78e77b4fe33cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
-| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/699e1284e0bddb6acacd7465?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Remote | Feb 24 |
 | **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f52b581476f6176b8f0e7?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
 | ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/699f4ab694ef206f184e7529?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/699df20f81476f6176b6e5bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 24 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Feb 21 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69997cf2e0bddb6acac8c194?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Feb 21 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/69998f77ce78e77b4fde7c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 21 |
-| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699e863281476f6176b7b613?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 20 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/699e9838e0bddb6acace59ce?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 20 |
+| **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699e9838e0bddb6acace59ce?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 20 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/699e863281476f6176b7b613?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
