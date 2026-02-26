@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699fb76dd643757b0e453da3?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Feb 25 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/699fb62dce78e77b4fe59ae4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Feb 25 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Business Analyst Jr](https://jobright.ai/jobs/info/699fb56fce78e77b4fe599ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 25 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst II](https://jobright.ai/jobs/info/699f923dce78e77b4fe5698b?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego County, CA | Hybrid | Feb 25 |
@@ -99,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II - CX Optimization](https://jobright.ai/jobs/info/69998f77ce78e77b4fde7c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 21 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699e9838e0bddb6acace59ce?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | Feb 20 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/699e863281476f6176b7b613?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | Feb 20 |
+| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/699fc9eb53d97f23ee654bee?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Feb 20 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | Hybrid | Feb 20 |
 | **[EchoStar Corporation](http://echostar.com)** | **[Business Operations Analyst II -  CX Optimization](https://jobright.ai/jobs/info/69993f28e0bddb6acac857ed?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Feb 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6999116cce78e77b4fddade4?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Feb 20 |
