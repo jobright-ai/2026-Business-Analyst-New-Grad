@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apartment List](http://www.apartmentlist.com)** | **[Business Analyst, Partnerships](https://jobright.ai/jobs/info/69a069ac5218a81676718864?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Remote | Feb 26 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (HEALTHCARE BUSINESS ANALYST) - EWA, OAHU](https://jobright.ai/jobs/info/69a0227681476f6176ba2e96?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Feb 26 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/699fb62dce78e77b4fe59ae4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Feb 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698e6473f64d441a165098d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Feb 25 |
@@ -77,12 +78,10 @@ For a complete list, click the following sortable link below:
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, WW FBA Insights & Planning](https://jobright.ai/jobs/info/699e7393ce78e77b4fe3bba1?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, WW FBA Insights & Planning](https://jobright.ai/jobs/info/699e69eace78e77b4fe3a648?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699edc4494ef206f184ddf85?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e2b97ce78e77b4fe33cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
@@ -117,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/699818da81476f6176b0859f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 19 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
 | **[TOPS Products LLC](https://www.tops-products.com/)** | **[IT Business Analyst 1](https://jobright.ai/jobs/info/6997e67dce78e77b4fdc6354?utm_campaign=Business%20Analyst&utm_source=1103)** | 184 Shuman Blvd, Naperville, IL 60563, USA | Hybrid | Feb 19 |
-| **[Curinos](https://curinos.com/)** | **[Associate (Hybrid - Chicago), Line of Business](https://jobright.ai/jobs/info/6997dd1381476f6176b01762?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
