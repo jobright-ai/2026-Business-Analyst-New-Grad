@@ -111,6 +111,4 @@ For a complete list, click the following sortable link below:
 | **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | **[Fragrance.com](https://www.fragrancenet.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/699963e581476f6176b214b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Deer Park, NY | Hybrid | Feb 19 |
-| **[Connecticut Judicial Branch](https://jud.ct.gov/)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/6997e81dce78e77b4fdc675a?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hartford, CT | On Site | Feb 19 |
-| **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/699818da81476f6176b0859f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
