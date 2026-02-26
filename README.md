@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a083415218a8167671a468?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Feb 26 |
 | **[Apartment List](http://www.apartmentlist.com)** | **[Business Analyst, Partnerships](https://jobright.ai/jobs/info/69a069ac5218a81676718864?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Remote | Feb 26 |
 | **[State of Hawaiʻi](https://jobs.hawaii.gov)** | **[GENERAL PROFESSIONAL IV (HEALTHCARE BUSINESS ANALYST) - EWA, OAHU](https://jobright.ai/jobs/info/69a0227681476f6176ba2e96?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu County, HI | On Site | Feb 26 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/699fb62dce78e77b4fe59ae4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | On Site | Feb 25 |
@@ -108,10 +109,8 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998f6c881476f6176b16377?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, ON | Hybrid | Feb 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 20 |
 | **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Analyst - BCG Vantage](https://jobright.ai/jobs/info/6998b4a3ce78e77b4fdd4c14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 | **[Fragrance.com](https://www.fragrancenet.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/699963e581476f6176b214b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Deer Park, NY | Hybrid | Feb 19 |
 | **[Connecticut Judicial Branch](https://jud.ct.gov/)** | **[Information Technology Business Analyst](https://jobright.ai/jobs/info/6997e81dce78e77b4fdc675a?utm_campaign=Business%20Analyst&utm_source=1103)** | East Hartford, CT | On Site | Feb 19 |
 | **[University of Arizona](https://www.arizona.edu)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/699818da81476f6176b0859f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 19 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6997d9e7ce78e77b4fdc4bc2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
