@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a0c2d25218a8167671ee44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 26 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Analyst (Process and Performance Reporting), Business Analysis](https://jobright.ai/jobs/info/69a0c0a65218a8167671ebe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Feb 26 |
+| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a0d6e581476f6176bb2448?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Feb 26 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6966bf897a34f5392055418e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a083415218a8167671a468?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States | On Site | Feb 26 |
 | **[Apartment List](http://www.apartmentlist.com)** | **[Business Analyst, Partnerships](https://jobright.ai/jobs/info/69a069ac5218a81676718864?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area | Remote | Feb 26 |
