@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69a1bf0eb600907a9628217c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Feb 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a1ab790da45516f16b0d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | Hybrid | Feb 27 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6968d45ff25a38006697636a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 27 |
@@ -95,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699edc4494ef206f184ddf85?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
