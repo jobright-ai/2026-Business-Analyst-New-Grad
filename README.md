@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a0f86b5218a81676723347?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Feb 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a0c2d25218a8167671ee44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 26 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Analyst (Process and Performance Reporting), Business Analysis](https://jobright.ai/jobs/info/69a0c0a65218a8167671ebe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a0d6e581476f6176bb2448?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Feb 26 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[HUB International](https://www.hubinternational.com)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998f6c881476f6176b16377?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodbridge, ON | Hybrid | Feb 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Pega Business Analyst](https://jobright.ai/jobs/info/6982b8b90f6f7e7a2cdc0b7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 20 |
 | **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Feb 20 |
-| **[WHOOP](http://www.whoop.com/)** | **[Business Analyst I (Membership Services)](https://jobright.ai/jobs/info/697c21e81423772304ec828a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
