@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a1e2d9b600907a96283792?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Feb 27 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Feb 27 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69a1bf0eb600907a9628217c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Feb 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a1ab790da45516f16b0d4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mays Landing, NJ | Hybrid | Feb 27 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
@@ -107,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69658c38a112b40266137ece?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst, Junior](https://jobright.ai/jobs/info/6997059fe0bddb6acac5b386?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 24 |
-| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/699d0afbce78e77b4fe1d952?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Clara, CA | Hybrid | Feb 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Feb 23 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
