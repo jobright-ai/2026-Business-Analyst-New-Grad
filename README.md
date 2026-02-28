@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Feb 23 |
 | **[DLA Careers](https://www.dla.mil/Careers/)** | **[Business Analyst](https://jobright.ai/jobs/info/69979862ce78e77b4fdbea0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Belvoir, VA | Hybrid | Feb 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cb588e0bddb6acacbc5b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Joint Base Langley-Eustis, VA | On Site | Feb 23 |
-| **[The Hatch Group, Inc.](https://www.hatchasphalt.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/699a60e2e0bddb6acac969a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plainville, MA | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
