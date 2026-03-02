@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a5b14c0da45516f16e5f45?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Mar 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 02 |
 | **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a59536359fe034b1d02fe3?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-Falls Church | On Site | Mar 02 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a59cd70da45516f16e4b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA, US | On Site | Mar 02 |
