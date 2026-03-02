@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a5683d359fe034b1d010ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Mar 02 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Process Analyst](https://jobright.ai/jobs/info/69a557950da45516f16dffcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 02 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a5507cb600907a962aeb6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Mar 02 |
 | **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst CCV](https://jobright.ai/jobs/info/69a4cc06359fe034b1cf694d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 01 |
@@ -68,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69a40cd0b600907a962a1ca2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Mar 01 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69a3003cb600907a962965a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Feb 28 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst, Marketing](https://jobright.ai/jobs/info/691526c7286ccf0a1512bb84?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Feb 28 |
+| **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a5632f359fe034b1d00853?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Feb 28 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/69a29b710da45516f16bf352?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Feb 27 |
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst (Candidates must be located on Long Island)](https://jobright.ai/jobs/info/69a28ed1b600907a9628e906?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Hybrid | Feb 27 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69a29959359fe034b1cde453?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Feb 27 |
