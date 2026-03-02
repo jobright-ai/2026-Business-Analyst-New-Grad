@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a59536359fe034b1d02fe3?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-Falls Church | On Site | Mar 02 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a59cd70da45516f16e4b7f?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA, US | On Site | Mar 02 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a5683d359fe034b1d010ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Mar 02 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Process Analyst](https://jobright.ai/jobs/info/69a557950da45516f16dffcb?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 02 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a5507cb600907a962aeb6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Mar 02 |
