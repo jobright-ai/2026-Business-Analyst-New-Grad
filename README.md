@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a5d953359fe034b1d0843f?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Mar 02 |
+| ↳ | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a5d5f8359fe034b1d07c88?utm_campaign=Business%20Analyst&utm_source=1103)** | Ancaster, Ontario, Canada | Hybrid | Mar 02 |
 | **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a5b14c0da45516f16e5f45?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Mar 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 02 |
 | **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a59536359fe034b1d02fe3?utm_campaign=Business%20Analyst&utm_source=1103)** | US-VA-Falls Church | On Site | Mar 02 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Forum Solutions LLC](http://www.forumsolutionsllc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/699f0f9ace78e77b4fe4c577?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Feb 24 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699edc4494ef206f184ddf85?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
