@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cotiviti](http://www.cotiviti.com)** | **[Business Operations Analyst CCV](https://jobright.ai/jobs/info/69a4cc06359fe034b1cf694d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 01 |
 | **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a47489359fe034b1cf3cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Mar 01 |
 | **[Acosta](https://www.acosta.com)** | **[Business Manager](https://jobright.ai/jobs/info/696af1065fc86241853a3483?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | On Site | Mar 01 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/6999296881476f6176b1b0ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 01 |
