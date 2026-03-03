@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a647f3e567421f42573e07?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a614adb600907a962bf78c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a606ef0da45516f16edefe?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 02 |
 | **[Ferrero](https://www.ferrero.com)** | **[Retail Business Analyst](https://jobright.ai/jobs/info/69a5e666b600907a962bb03c?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | On Site | Mar 02 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
 | **[Agora Data, Inc.](https://www.agoradata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a15ae5359fe034b1cc960b?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters - Arlington, TX 76013 | On Site | Feb 26 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69a1202f6b458d060735d8dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 26 |
+| **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator, Engineering Business Center-North](https://jobright.ai/jobs/info/69a652c6e567421f42575073?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 26 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a0f86b5218a81676723347?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Feb 26 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a1180581476f6176bb6fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lorton, VA | Hybrid | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a1350f5218a81676727189?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | Hybrid | Feb 26 |
@@ -126,10 +128,9 @@ For a complete list, click the following sortable link below:
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699edc4494ef206f184ddf85?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
-| **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e2b97ce78e77b4fe33cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
+| ↳ | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
-| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f2a8359fe034b1d0b33f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
-| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f7cc0da45516f16ec6b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
+| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f7cc0da45516f16ec6b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
+| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f2a8359fe034b1d0b33f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
 | **[Caltrans District 3](https://dot.ca.gov/caltrans-near-me/district-3)** | **[ANALYST I](https://jobright.ai/jobs/info/699df20f81476f6176b6e5bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
