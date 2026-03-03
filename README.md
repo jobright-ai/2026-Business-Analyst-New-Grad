@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a69a6d1a944544ef634516?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Mar 02 |
 | **[Odyssey Systems](https://www.odysseyconsult.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a647f3e567421f42573e07?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 | **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a614adb600907a962bf78c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a606ef0da45516f16edefe?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 02 |
@@ -125,13 +126,11 @@ For a complete list, click the following sortable link below:
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e8609e0bddb6acace34b4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | Feb 24 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/699e897a81476f6176b7bc9a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | Feb 24 |
 | **[Lake Havasu City - Municipal Government](https://www.lhcaz.gov)** | **[BUSINESS ANALYST - OPEN UNTIL FILLED](https://jobright.ai/jobs/info/699e3bbae0bddb6acacd9776?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Havasu City, AZ | On Site | Feb 24 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Feb 24 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699edc4494ef206f184ddf85?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Feb 24 |
 | ↳ | **[Public Health Business Analyst](https://jobright.ai/jobs/info/699e649cce78e77b4fe39b88?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Feb 24 |
 | ↳ | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/699df490ce78e77b4fe31889?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Feb 24 |
-| **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f2a8359fe034b1d0b33f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Pensacola | Hybrid | Feb 24 |
-| ↳ | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a5f7cc0da45516f16ec6b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL, US | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
