@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecclesiastical Insurance](https://ecclesiastical.ca/)** | **[Business Associate](https://jobright.ai/jobs/info/69a7175e2672cb0acb4b83b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a6f30c1fc3d83b7809279a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 03 |
 | **[WTW](https://www.willistowerswatson.com)** | **[Early Careers: Benefits Outsourcing Business Analyst - 2026](https://jobright.ai/jobs/info/69a6b10076bbe83d3afa1154?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 03 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a6cb431fc3d83b78091ff4?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA | On Site | Mar 03 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/69a29b710da45516f16bf352?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Feb 27 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69a690a5f707784310afe4d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, MD | On Site | Feb 27 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 27 |
-| **[Softheon](http://softheon.com)** | **[Business Operations Analyst (Candidates must be located on Long Island)](https://jobright.ai/jobs/info/69a28ed1b600907a9628e906?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Hybrid | Feb 27 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69a29959359fe034b1cde453?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Feb 27 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a3cfa50da45516f16cc83e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
 | **[Frederick Goldman, Inc.](http://fgoldman.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a283b80da45516f16bd670?utm_campaign=Business%20Analyst&utm_source=1103)** | Secaucus, NJ | On Site | Feb 27 |
@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/699f87b3ce78e77b4fe553b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Feb 25 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | Feb 25 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6996454881476f6176ae04ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Feb 25 |
-| **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
