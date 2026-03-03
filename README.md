@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hudson Insurance Group](http://www.hudsoninsgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a614adb600907a962bf78c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 02 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a606ef0da45516f16edefe?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 02 |
 | **[Ferrero](https://www.ferrero.com)** | **[Retail Business Analyst](https://jobright.ai/jobs/info/69a5e666b600907a962bb03c?utm_campaign=Business%20Analyst&utm_source=1103)** | North York, Ontario, Canada | On Site | Mar 02 |
 | **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a5d953359fe034b1d0843f?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, Alberta, Canada | Hybrid | Mar 02 |
