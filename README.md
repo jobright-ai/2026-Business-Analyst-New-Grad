@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chase](https://www.chase.com/)** | **[Business Manager - Associate](https://jobright.ai/jobs/info/69a8aa897ac93962b70868be?utm_campaign=Business%20Analyst&utm_source=1103)** | 1230 Avenue Of The Americas, New York, NY, 10020, US | On Site | Mar 04 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a8a0312580d3183f00a2a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Mar 04 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a89db07ac93962b7085a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Mar 04 |
 | **[FDM Group](http://www.fdmgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a8922c79f3f4037f427dc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Mar 04 |
+| **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Manager / Remote](https://jobright.ai/jobs/info/69a8a5f82580d3183f00a7be?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 04 |
 | **[Master's Transportation](http://masterstransportation.com)** | **[Associate Business Coordinator GSA](https://jobright.ai/jobs/info/69a89a0f2580d3183f009cc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Mar 04 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a876a67ac93962b70840e5?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Mar 04 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a861597ac93962b70836cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Mar 04 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Airship](https://www.airship.com/)** | **[Business Value Analyst](https://jobright.ai/jobs/info/69a7b33976bbe83d3afb2252?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - U.S. | Remote | Mar 03 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a78fa12672cb0acb4c041a?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
 | ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a833dd1dfc787e9aa34dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Mar 03 |
-| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a779682672cb0acb4bf129?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Mar 03 |
 | **[Ecclesiastical Insurance](https://ecclesiastical.ca/)** | **[Business Associate](https://jobright.ai/jobs/info/69a7175e2672cb0acb4b83b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
