@@ -116,6 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/698e6473f64d441a165098d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Feb 25 |
 | **[Commerce Casino](https://commercecasino.com/)** | **[Business Communications Analyst $85k-$107k Annual](https://jobright.ai/jobs/info/699feba053d97f23ee657ba2?utm_campaign=Business%20Analyst&utm_source=1103)** | 6131 Telegraph Rd, Commerce, CA 90040, USA | On Site | Feb 25 |
 | **[BRMi](http://brmi.com/)** | **[Business Analyst (Adobe)](https://jobright.ai/jobs/info/69a607b00da45516f16ee046?utm_campaign=Business%20Analyst&utm_source=1103)** | Pensacola, FL | Hybrid | Feb 25 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/699a6624ce78e77b4fdf244c?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f4eaf81476f6176b8ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
