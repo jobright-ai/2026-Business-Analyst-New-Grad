@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a78fa12672cb0acb4c041a?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a779682672cb0acb4bf129?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Mar 03 |
 | **[Ecclesiastical Insurance](https://ecclesiastical.ca/)** | **[Business Associate](https://jobright.ai/jobs/info/69a7175e2672cb0acb4b83b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Mar 03 |
@@ -103,8 +104,8 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a1180581476f6176bb6fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lorton, VA | Hybrid | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a1350f5218a81676727189?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | Hybrid | Feb 26 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a15cf2b600907a9627b540?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 26 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
-| ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
+| ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a0c2d25218a8167671ee44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 26 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Analyst (Process and Performance Reporting), Business Analysis](https://jobright.ai/jobs/info/69a0c0a65218a8167671ebe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a0d6e581476f6176bb2448?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Feb 26 |
