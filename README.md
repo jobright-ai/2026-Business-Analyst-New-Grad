@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 04 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698cafab78b4502f12a32bc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Mar 04 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9da378b4502f12a31cf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN | On Site | Mar 04 |
+| ↳ | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698c9e12f64d441a164e87f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 04 |
 | **[Airship](https://www.airship.com/)** | **[Business Value Analyst](https://jobright.ai/jobs/info/69a7b33976bbe83d3afb2252?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - U.S. | Remote | Mar 03 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/699f87b3ce78e77b4fe553b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
 | ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a78fa12672cb0acb4c041a?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
