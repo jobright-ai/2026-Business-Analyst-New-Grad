@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/699a6624ce78e77b4fdf244c?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Feb 25 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f4eaf81476f6176b8ee68?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Feb 25 |
 | ↳ | **[Analyst, Business Operations](https://jobright.ai/jobs/info/699f6ee5ce78e77b4fe531e5?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Feb 25 |
-| **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/699fec9153d97f23ee657ced?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Feb 25 |
-| **[Dallas County](https://www.dallascounty.org/)** | **[0000009420.BUSINESS ANALYST II.DISTRICT CLERK](https://jobright.ai/jobs/info/699f34df81476f6176b8d653?utm_campaign=Business%20Analyst&utm_source=1103)** | 133 N Riverfront Blvd, Dallas, TX, 75207, US | On Site | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
