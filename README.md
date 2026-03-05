@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6992a50181476f6176aa1de7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 05 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a92efc79f3f4037f43f144?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Mar 04 |
 | ↳ | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a947b62615b60842abc5bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Mar 04 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Business Manager - Associate](https://jobright.ai/jobs/info/69a8d83c2580d3183f00f8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | 1230 Avenue Of The Americas, New York, NY, 10020, US | On Site | Mar 04 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a949260bc35444388b36da?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | On Site | Mar 04 |
 | **[FDM Group](http://www.fdmgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a8922c79f3f4037f427dc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Mar 04 |
+| **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a9890df2055e05d171c147?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Mar 04 |
 | **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Manager / Remote](https://jobright.ai/jobs/info/69a8a5f82580d3183f00a7be?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 04 |
 | **[Master's Transportation](http://masterstransportation.com)** | **[Associate Business Coordinator GSA](https://jobright.ai/jobs/info/69a89a0f2580d3183f009cc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Mar 04 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a876a67ac93962b70840e5?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Mar 04 |
@@ -87,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a78fa12672cb0acb4c041a?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
 | ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a833dd1dfc787e9aa34dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Mar 03 |
 | **[VertexOne](https://www.vertexone.net)** | **[Business Analyst, I](https://jobright.ai/jobs/info/69a8c06e79f3f4037f433340?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
-| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a779682672cb0acb4bf129?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Mar 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a6f30c1fc3d83b7809279a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 03 |
@@ -127,6 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a1180581476f6176bb6fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lorton, VA | Hybrid | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a1350f5218a81676727189?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | Hybrid | Feb 26 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a15cf2b600907a9627b540?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 26 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
-| ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
+| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
+| ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
