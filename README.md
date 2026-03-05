@@ -125,8 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Agora Data, Inc.](https://www.agoradata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a15ae5359fe034b1cc960b?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters - Arlington, TX 76013 | On Site | Feb 26 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69a1202f6b458d060735d8dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 26 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator, Engineering Business Center-North](https://jobright.ai/jobs/info/69a652c6e567421f42575073?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Feb 26 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a0f86b5218a81676723347?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Feb 26 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a1180581476f6176bb6fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lorton, VA | Hybrid | Feb 26 |
-| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a1350f5218a81676727189?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | Hybrid | Feb 26 |
-| **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a15cf2b600907a9627b540?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
