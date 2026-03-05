@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a9e3961f59c56275e2a70e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 05 |
+| **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69a9dca11f59c56275e2997f?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Mar 05 |
+| **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a9d7ac9ca4e908ec65090d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cb1680f6f7e7a2ce866c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 05 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6992a50181476f6176aa1de7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 05 |
@@ -70,9 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a8a0312580d3183f00a2a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Mar 04 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a89db07ac93962b7085a67?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Mar 04 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Business Manager - Associate](https://jobright.ai/jobs/info/69a8d83c2580d3183f00f8a1?utm_campaign=Business%20Analyst&utm_source=1103)** | 1230 Avenue Of The Americas, New York, NY, 10020, US | On Site | Mar 04 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a949260bc35444388b36da?utm_campaign=Business%20Analyst&utm_source=1103)** | Villa Park, IL | On Site | Mar 04 |
 | **[FDM Group](http://www.fdmgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a8922c79f3f4037f427dc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Mar 04 |
-| **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/69a9890df2055e05d171c147?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | Mar 04 |
 | **[Master's Transportation](http://masterstransportation.com)** | **[Associate Business Coordinator GSA](https://jobright.ai/jobs/info/69a89a0f2580d3183f009cc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Mar 04 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a876a67ac93962b70840e5?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Mar 04 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a861597ac93962b70836cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Mar 04 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Feb 27 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a21310b600907a96286126?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 27 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
-| **[Agora Data, Inc.](https://www.agoradata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a15ae5359fe034b1cc960b?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters - Arlington, TX 76013 | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
