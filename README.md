@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 05 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a92efc79f3f4037f43f144?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Mar 04 |
 | ↳ | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a947b62615b60842abc5bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Mar 04 |
 | **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a909102580d3183f013c98?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 04 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a15cf2b600907a9627b540?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 26 |
 | **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
 | ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a0c2d25218a8167671ee44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
