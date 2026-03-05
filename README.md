@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/699032fd0cc8ea15f1daf27a?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 05 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a9e3961f59c56275e2a70e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 05 |
-| **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69a9dca11f59c56275e2997f?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Mar 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a9d7ac9ca4e908ec65090d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 05 |
+| **[T. Rowe Price Singapore](https://www.troweprice.com/sg)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69a9f2a29ca4e908ec653abd?utm_campaign=Business%20Analyst&utm_source=1103)** | Owings Mills, MD | Hybrid | Mar 05 |
+| **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69a9dca11f59c56275e2997f?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cb1680f6f7e7a2ce866c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 05 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6992a50181476f6176aa1de7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 05 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a78fa12672cb0acb4c041a?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Mar 03 |
 | ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/69a833dd1dfc787e9aa34dd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Mar 03 |
 | **[VertexOne](https://www.vertexone.net)** | **[Business Analyst, I](https://jobright.ai/jobs/info/69a8c06e79f3f4037f433340?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
-| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a88b527ac93962b7084b17?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a779682672cb0acb4bf129?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Mar 03 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a6f30c1fc3d83b7809279a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 03 |
