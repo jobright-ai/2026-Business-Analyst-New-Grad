@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst , Production Planning, PLEX](https://jobright.ai/jobs/info/698cb1680f6f7e7a2ce866c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, WA | On Site | Mar 05 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6992a50181476f6176aa1de7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, PLEX-PPT](https://jobright.ai/jobs/info/698c9cebf64d441a164e86f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 05 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a92efc79f3f4037f43f144?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Mar 04 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Catalyst Consulting Group, Inc.](http://www.catconsult.com/centers/cv.html)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/69a28099359fe034b1cdc653?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Feb 27 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Feb 27 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a21310b600907a96286126?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Feb 27 |
-| **[Canadian Blood Services](https://www.blood.ca/)** | **[Business Systems Analyst I - Blood Management Solutions](https://jobright.ai/jobs/info/69a1e598b600907a962838ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | Hybrid | Feb 27 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Feb 27 |
 | **[Agora Data, Inc.](https://www.agoradata.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a15ae5359fe034b1cc960b?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters - Arlington, TX 76013 | On Site | Feb 26 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69a1202f6b458d060735d8dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Feb 26 |
@@ -129,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a1180581476f6176bb6fa0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lorton, VA | Hybrid | Feb 26 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69a1350f5218a81676727189?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian, ID | Hybrid | Feb 26 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a15cf2b600907a9627b540?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 12365 Riata Trace Pkwy, ACN OPS | Hybrid | Feb 26 |
-| **[State of Ohio](http://www.bmv.ohio.gov)** | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a1010e81476f6176bb5a11?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America-OHIO-Stark County | On Site | Feb 26 |
-| ↳ | **[Strategy Process Analyst (Business Process Analyst 1)- 20083010](https://jobright.ai/jobs/info/69a113605218a816767249b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Canton Service Office339 East Maple Street | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
