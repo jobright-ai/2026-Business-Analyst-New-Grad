@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Mar 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698e6ec10f6f7e7a2cea7ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Mar 06 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 06 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Mar 06 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[FDM Group](http://www.fdmgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a8922c79f3f4037f427dc6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Mar 04 |
 | **[Master's Transportation](http://masterstransportation.com)** | **[Associate Business Coordinator GSA](https://jobright.ai/jobs/info/69a89a0f2580d3183f009cc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO | On Site | Mar 04 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a876a67ac93962b70840e5?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Mar 04 |
-| **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69a861597ac93962b70836cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Mar 04 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 04 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a867487ac93962b70839b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntsville, AL | On Site | Mar 04 |
 | **[Airship](https://www.airship.com/)** | **[Business Value Analyst](https://jobright.ai/jobs/info/69a7b33976bbe83d3afb2252?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - U.S. | Remote | Mar 03 |
