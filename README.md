@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
+| **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69ab1a1e7e1fab39d382a24f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 06 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab07197e1fab39d38294d3?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | On Site | Mar 06 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 06 |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
-| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Mar 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698e6ec10f6f7e7a2cea7ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Mar 06 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 06 |
@@ -111,9 +113,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69a897d279f3f4037f429a58?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Mar 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a779682672cb0acb4bf129?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Mar 03 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a6f30c1fc3d83b7809279a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | Mar 03 |
 | **[PENNYMAC](https://www.pennymac.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a6cb431fc3d83b78091ff4?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA | On Site | Mar 03 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Amazon Intermodal, Amazon Intermodal](https://jobright.ai/jobs/info/69a69a6d1a944544ef634516?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | Mar 02 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a606ef0da45516f16edefe?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 02 |
 | **[Aptive Resources](https://www.aptiveresources.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a5b14c0da45516f16e5f45?utm_campaign=Business%20Analyst&utm_source=1103)** | Falls Church, VA | On Site | Mar 02 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 02 |
@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Feb 27 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69a29959359fe034b1cde453?utm_campaign=Business%20Analyst&utm_source=1103)** | USA LA Bossier City | Hybrid | Feb 27 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69a3cfa50da45516f16cc83e?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Feb 27 |
-| **[Frederick Goldman, Inc.](http://fgoldman.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a283b80da45516f16bd670?utm_campaign=Business%20Analyst&utm_source=1103)** | Secaucus, NJ | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
