@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/6999296881476f6176b1b0ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Mar 01 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696b0014db26b618950e75f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, Canada | On Site | Mar 01 |
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/696afee9350cf43803123d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatoon, Saskatchewan, Canada | On Site | Mar 01 |
-| **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69a40cd0b600907a962a1ca2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Mar 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
