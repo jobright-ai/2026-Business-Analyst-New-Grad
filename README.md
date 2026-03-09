@@ -58,9 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Sphinx Life Solutions](www.sphinxlifesolutions.com)** | **[Business Manager / Remote](https://jobright.ai/jobs/info/69aefd37dfaeda6ff597030f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 09 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Process Analyst (171855)](https://jobright.ai/jobs/info/69aee3df74950064509352c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | Hybrid | Mar 09 |
-| **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69aee3b86b21de023e5ffba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 09 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69aee29e6b21de023e5ff90d?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY | Hybrid | Mar 09 |
+| **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69aee3b86b21de023e5ffba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 09 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69585c5caa05c26e7ab23c73?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Mar 07 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Mar 07 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 07 |
@@ -95,7 +94,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69aa02142ebd316bece1c04f?utm_campaign=Business%20Analyst&utm_source=1103)** | Owings Mills, MD | Hybrid | Mar 05 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Associate Business Performance Analyst/Business Performance Analyst/Sr Business Performance Analyst](https://jobright.ai/jobs/info/69aeda056b21de023e5fe4bd?utm_campaign=Business%20Analyst&utm_source=1103)** | 121 Moore Hopkins Ln, Columbia, SC, 29210, US | On Site | Mar 05 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a9e3961f59c56275e2a70e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 05 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/699032fd0cc8ea15f1daf27a?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a9d7ac9ca4e908ec65090d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 05 |
