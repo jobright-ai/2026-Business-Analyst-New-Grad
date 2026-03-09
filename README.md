@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Process Analyst (171855)](https://jobright.ai/jobs/info/69aee3df74950064509352c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | Hybrid | Mar 09 |
+| **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69aee3b86b21de023e5ffba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 09 |
+| **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69aee29e6b21de023e5ff90d?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY | Hybrid | Mar 09 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69585c5caa05c26e7ab23c73?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Mar 07 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Mar 07 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 07 |
@@ -86,11 +89,12 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
 | **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69aa06c62ebd316bece1c3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Mar 05 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
 | **[T. Rowe Price](http://www.troweprice.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69aa02142ebd316bece1c04f?utm_campaign=Business%20Analyst&utm_source=1103)** | Owings Mills, MD | Hybrid | Mar 05 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Associate Business Performance Analyst/Business Performance Analyst/Sr Business Performance Analyst](https://jobright.ai/jobs/info/69aeda056b21de023e5fe4bd?utm_campaign=Business%20Analyst&utm_source=1103)** | 121 Moore Hopkins Ln, Columbia, SC, 29210, US | On Site | Mar 05 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Information Technology Business Systems Analyst/Coordinator](https://jobright.ai/jobs/info/69a9e3961f59c56275e2a70e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincoln, NE | On Site | Mar 05 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/699032fd0cc8ea15f1daf27a?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a9d7ac9ca4e908ec65090d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 05 |
@@ -101,7 +105,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a947b62615b60842abc5bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Mar 04 |
 | **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a909102580d3183f013c98?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 04 |
 | ↳ | **[Business Analyst (East Coast Remote)](https://jobright.ai/jobs/info/69a908267ac93962b708f5ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 04 |
-| **[HCA Healthcare](https://hcahealthcare.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69a8f0eb7ac93962b708d7a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Henderson, NV | On Site | Mar 04 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69a8dd6c2580d3183f01011b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 04 |
 | **[Chase](https://www.chase.com/)** | **[Business Manager - Associate](https://jobright.ai/jobs/info/69a8aa897ac93962b70868be?utm_campaign=Business%20Analyst&utm_source=1103)** | 1230 Avenue Of The Americas, New York, NY, 10020, US | On Site | Mar 04 |
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a8a0312580d3183f00a2a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississippi, United States | On Site | Mar 04 |
