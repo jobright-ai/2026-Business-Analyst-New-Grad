@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jeppesen ForeFlight](https://www.jeppesenforeflight.com)** | **[Jr. Business Operations Analyst](https://jobright.ai/jobs/info/69b08522749500645096f09c?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | Hybrid | Mar 10 |
 | **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69aa06c62ebd316bece1c3a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Mar 10 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69b077600b2db6275c04732e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Mar 10 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Operations BI Analyst](https://jobright.ai/jobs/info/69b02dc9dfaeda6ff59996ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 10 |
+| **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b08624dfaeda6ff59a894f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
 | **[The Research Foundation for SUNY](http://www.rfsuny.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69afb03d7495006450948fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Mar 09 |
 | **[Redwood Materials](https://www.redwoodmaterials.com)** | **[Business Operations Analyst, Energy Storage](https://jobright.ai/jobs/info/69af85a5749500645094048c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 09 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69af7803749500645093f2f4?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Mar 09 |
@@ -79,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69aba983142d5b4265fcdd37?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Mar 06 |
 | **[RxSense](https://rxsense.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab3238142d5b4265fc7871?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Mar 06 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
-| **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69ab1a1e7e1fab39d382a24f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 06 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab07197e1fab39d38294d3?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | On Site | Mar 06 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 06 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
@@ -99,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Manager](https://jobright.ai/jobs/info/69ab64cf7e1fab39d382e9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Mar 05 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Associate Business Performance Analyst/Business Performance Analyst/Sr Business Performance Analyst](https://jobright.ai/jobs/info/69affbe10b2db6275c032a87?utm_campaign=Business%20Analyst&utm_source=1103)** | 121 Moore Hopkins Ln, Columbia, SC, 29210, US | On Site | Mar 05 |
