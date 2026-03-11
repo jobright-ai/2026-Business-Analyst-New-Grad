@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ion Solar](http://ionsolar.com/locations/utah/)** | **[Procurement Buyer/Planner](https://jobright.ai/jobs/info/69b0b06974950064509774ea?utm_campaign=Business%20Analyst&utm_source=1103)** | UT Corp - Orem, UT 84057 | On Site | Mar 10 |
-| **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69b0af747495006450977302?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Mar 10 |
 | **[Georgia Institute of Technology](http://gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/69a29b710da45516f16bf352?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b094d50b2db6275c04cbdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
 | **[Jeppesen ForeFlight](https://www.jeppesenforeflight.com)** | **[Jr. Business Operations Analyst](https://jobright.ai/jobs/info/69b08522749500645096f09c?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | Hybrid | Mar 10 |
@@ -102,10 +101,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | On Site | Mar 05 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[MPower Business Process Analyst](https://jobright.ai/jobs/info/69aa2d6b9ca4e908ec657761?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Mar 05 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Manager](https://jobright.ai/jobs/info/69ab64cf7e1fab39d382e9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Mar 05 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Associate Business Performance Analyst/Business Performance Analyst/Sr Business Performance Analyst](https://jobright.ai/jobs/info/69affbe10b2db6275c032a87?utm_campaign=Business%20Analyst&utm_source=1103)** | 121 Moore Hopkins Ln, Columbia, SC, 29210, US | On Site | Mar 05 |
