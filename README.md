@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b186d2d04c69566c73d7ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston Office | Hybrid | Mar 11 |
+| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/69a3debbb600907a9629d512?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Mar 11 |
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6978ebb352f3c27ec6452775?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Mar 11 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Ion Solar](http://ionsolar.com/locations/utah/)** | **[Procurement Buyer/Planner](https://jobright.ai/jobs/info/69b0b06974950064509774ea?utm_campaign=Business%20Analyst&utm_source=1103)** | UT Corp - Orem, UT 84057 | On Site | Mar 10 |
