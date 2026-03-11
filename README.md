@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35822ebd316bece1f9ee?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35742ebd316bece1f9cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | On Site | Mar 05 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[MPower Business Process Analyst](https://jobright.ai/jobs/info/69aa2d6b9ca4e908ec657761?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Mar 05 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Manager](https://jobright.ai/jobs/info/69ab64cf7e1fab39d382e9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Mar 05 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
@@ -117,5 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (Engineering)](https://jobright.ai/jobs/info/69a947b62615b60842abc5bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Mar 04 |
 | **[HockeyStack](https://hockeystack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69a909102580d3183f013c98?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 04 |
 | ↳ | **[Business Analyst (East Coast Remote)](https://jobright.ai/jobs/info/69a908267ac93962b708f5ac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 04 |
-| **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69a8dd6c2580d3183f01011b?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
