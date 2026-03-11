@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
+| **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b1959665de58104c70a07e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Mar 11 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 11 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Mar 11 |
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b186d2d04c69566c73d7ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston Office | Hybrid | Mar 11 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab07197e1fab39d38294d3?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | On Site | Mar 06 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 06 |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
-| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Mar 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698e6ec10f6f7e7a2cea7ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Mar 06 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 06 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35742ebd316bece1f9cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | On Site | Mar 05 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Manager](https://jobright.ai/jobs/info/69ab64cf7e1fab39d382e9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Mar 05 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
