@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2c1eea8ac8e70ff66c3de?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, CA | Hybrid | Mar 12 |
 | **[WD](https://www.westerndigital.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69966f7a81476f6176ae41b1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Mar 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69b279c0ad360c0340a756d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Mar 12 |
@@ -110,14 +111,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 06 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab07197e1fab39d38294d3?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, Sioux Falls | On Site | Mar 06 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 06 |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
-| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 06 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 06 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Mar 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/698e6ec10f6f7e7a2cea7ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brea, CA | On Site | Mar 06 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 06 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Mar 06 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/69b1120274950064509859ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 05 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/699032fd0cc8ea15f1daf27a?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 05 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c3c2ebd316bece1ff92?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c219ca4e908ec65923d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
