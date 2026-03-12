@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69b2a7c8ad360c0340a78f3e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 12 |
 | **[WD](https://www.westerndigital.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69966f7a81476f6176ae41b1?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Mar 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69b279c0ad360c0340a756d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Mar 12 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b25a89ad360c0340a7211a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69b203c8d04c69566c74a97f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b1fac1548f140066e8278a?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Mar 11 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Insights Analyst I (US)](https://jobright.ai/jobs/info/69b1d568d04c69566c74345d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
-| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Mar 11 |
 | **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b1caeed04c69566c74164e?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
@@ -123,10 +124,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35742ebd316bece1f9cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | On Site | Mar 05 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Business Manager](https://jobright.ai/jobs/info/69ab64cf7e1fab39d382e9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | On Site | Mar 05 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Mar 05 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa07142ebd316bece1c49b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a7?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, California, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05e49ca4e908ec6553a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, US | Remote | Mar 05 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa05cb1f59c56275e2d7c7?utm_campaign=Business%20Analyst&utm_source=1103)** | RTP, North Carolina, US | Remote | Mar 05 |
-| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
