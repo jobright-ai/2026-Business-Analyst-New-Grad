@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
+| **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3681da8ac8e70ff67a147?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Hatch](https://www.hatch.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69b352e8ae2a534885eab588?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 12 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69b203c8d04c69566c74a97f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b1fac1548f140066e8278a?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Mar 11 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Business Insights Analyst I (US)](https://jobright.ai/jobs/info/69b1d568d04c69566c74345d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
-| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Mar 11 |
 | **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b1caeed04c69566c74164e?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
