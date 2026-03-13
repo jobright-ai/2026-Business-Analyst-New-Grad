@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
+| **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b46bed3b74eb1e2c81abc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b37d50ad360c0340a8a5a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Mar 10 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36c49a8ac8e70ff67b0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Mar 10 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36ce8ae2a534885ead979?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | Mar 10 |
 | ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36bbfad360c0340a892cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Mar 10 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36ce8ae2a534885ead979?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | Mar 10 |
 | **[Ion Solar](http://ionsolar.com/locations/utah/)** | **[Procurement Buyer/Planner](https://jobright.ai/jobs/info/69b0b06974950064509774ea?utm_campaign=Business%20Analyst&utm_source=1103)** | UT Corp - Orem, UT 84057 | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b094d50b2db6275c04cbdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69b077600b2db6275c04732e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Mar 10 |
