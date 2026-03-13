@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3681da8ac8e70ff67a147?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Hatch](https://www.hatch.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69b352e8ae2a534885eab588?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 12 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2c1eea8ac8e70ff66c3de?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, CA | Hybrid | Mar 12 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3f44f06c1ba00c54519a8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Mar 12 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3d944ae2a534885eb52c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69b279c0ad360c0340a756d7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Mar 12 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b25a89ad360c0340a7211a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
@@ -83,8 +85,8 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b37d50ad360c0340a8a5a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Mar 10 |
 | **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36bbfad360c0340a892cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Mar 10 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36c49a8ac8e70ff67b0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Mar 10 |
 | ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36ce8ae2a534885ead979?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | Mar 10 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36c49a8ac8e70ff67b0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Mar 10 |
 | **[Ion Solar](http://ionsolar.com/locations/utah/)** | **[Procurement Buyer/Planner](https://jobright.ai/jobs/info/69b0b06974950064509774ea?utm_campaign=Business%20Analyst&utm_source=1103)** | UT Corp - Orem, UT 84057 | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b094d50b2db6275c04cbdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69b077600b2db6275c04732e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Mar 10 |
