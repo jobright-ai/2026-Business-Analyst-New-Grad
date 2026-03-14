@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RiskSolutions](https://www.risksolutions.be)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69b4d7a306c1ba00c54657dc?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | On Site | Mar 13 |
 | **[RIVO Holdings, LLC](https://www.rivoholdings.com/careers)** | **[Business Systems Analyst (LMS)](https://jobright.ai/jobs/info/69b4caef3b74eb1e2c822767?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 13 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4ca1d3b74eb1e2c8225bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Mar 13 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4c3013b74eb1e2c8220ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
@@ -96,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6978ebb352f3c27ec6452775?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Mar 11 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 | **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b37d50ad360c0340a8a5a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Mar 10 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36c49a8ac8e70ff67b0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Mar 10 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36bbfad360c0340a892cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Mar 10 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36bbfad360c0340a892cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Mar 10 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36c49a8ac8e70ff67b0cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Mar 10 |
 | ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69b36ce8ae2a534885ead979?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | Mar 10 |
 | **[Ion Solar](http://ionsolar.com/locations/utah/)** | **[Procurement Buyer/Planner](https://jobright.ai/jobs/info/69b0b06974950064509774ea?utm_campaign=Business%20Analyst&utm_source=1103)** | UT Corp - Orem, UT 84057 | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b094d50b2db6275c04cbdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
@@ -114,7 +115,5 @@ For a complete list, click the following sortable link below:
 | **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69af3bd46b21de023e606e8f?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Mar 09 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69aee29e6b21de023e5ff90d?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY | Hybrid | Mar 09 |
 | **[Sutton Bank](http://suttonbank.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69aee3b86b21de023e5ffba4?utm_campaign=Business%20Analyst&utm_source=1103)** | Attica, OH | On Site | Mar 09 |
-| **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst (Mass Tort)](https://jobright.ai/jobs/info/6969ce94639b452fb57fd1f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, New York, United States | On Site | Mar 09 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69585c5caa05c26e7ab23c73?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, Ontario, Canada | On Site | Mar 07 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/698fea480f6f7e7a2cec2f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
