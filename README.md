@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Mar 16 |
 | **[Modis](https://www.modis.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b6ce9006c1ba00c548a5eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 15 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/69b577eb06c1ba00c5475247?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Mar 14 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/6961615ce7ed9a5731ba27be?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Mar 14 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3681da8ac8e70ff67a147?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
-| **[Hatch](https://www.hatch.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69b352e8ae2a534885eab588?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Mar 12 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[AccumTech](https://www.accumtech.com/)** | **[Business Analyst (ClaimGen)](https://jobright.ai/jobs/info/69b42cb0569738374138c762?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 12 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b22dea65de58104c71a38f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Mar 11 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69b203c8d04c69566c74a97f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b1fac1548f140066e8278a?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
-| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
+| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Mar 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b1959665de58104c70a07e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Mar 11 |
