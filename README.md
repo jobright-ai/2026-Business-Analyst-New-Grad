@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City and County of San Francisco](https://sf.gov/)** | **[Provisional to Permanent - IS Business Analyst (1052) - Citywide (164702)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e40?utm_campaign=Business%20Analyst&utm_source=1103)** | 49 S Van Ness Ave, San Francisco, CA 94103, USA | Hybrid | Mar 16 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright.ai/jobs/info/69b84d3c56973837413d75a2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-Illinois-Rolling Meadows | On Site | Mar 16 |
 | **[Conduent](https://www.conduent.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69b833a556973837413d5d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, FL, 00000, US | Remote | Mar 16 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Mar 16 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b22dea65de58104c71a38f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Mar 11 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69b203c8d04c69566c74a97f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b1fac1548f140066e8278a?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
-| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
+| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Mar 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b1959665de58104c70a07e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Mar 11 |
@@ -107,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69b077600b2db6275c04732e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Mar 10 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Operations BI Analyst](https://jobright.ai/jobs/info/69b02dc9dfaeda6ff59996ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 10 |
-| **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b08624dfaeda6ff59a894f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
