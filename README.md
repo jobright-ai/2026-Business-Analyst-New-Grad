@@ -108,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Operations BI Analyst](https://jobright.ai/jobs/info/69b02dc9dfaeda6ff59996ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b08624dfaeda6ff59a894f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
-| **[The Research Foundation for SUNY](http://www.rfsuny.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69afb03d7495006450948fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
