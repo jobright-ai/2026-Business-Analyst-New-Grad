@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69af7803749500645093f2f4?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Mar 09 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69af7714dfaeda6ff5979750?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Mar 09 |
 | **[CA Department of Corrections & Rehabilitation](https://www.cdcr.ca.gov/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69af33e7749500645093b175?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 09 |
-| **[Regal Medical Group](https://www.regalmed.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69af3bd46b21de023e606e8f?utm_campaign=Business%20Analyst&utm_source=1103)** | West Hills, CA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
