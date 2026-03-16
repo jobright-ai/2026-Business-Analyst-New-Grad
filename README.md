@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
-| **[Hatch](https://www.hatch.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69b8361b06c1ba00c549fab8?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, CA | On Site | Mar 12 |
 | **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3681da8ac8e70ff67a147?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
@@ -109,5 +108,4 @@ For a complete list, click the following sortable link below:
 | **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Operations BI Analyst](https://jobright.ai/jobs/info/69b02dc9dfaeda6ff59996ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b08624dfaeda6ff59a894f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 09 |
 | **[The Research Foundation for SUNY](http://www.rfsuny.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69afb03d7495006450948fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | On Site | Mar 09 |
-| **[CAI](http://www.compaid.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b22d5665de58104c71a2c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
