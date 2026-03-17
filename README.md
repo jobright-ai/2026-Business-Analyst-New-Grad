@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright.ai/jobs/info/69b98eac3b74eb1e2c877353?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Mar 17 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977fd06c1ba00c54b8a18?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, NJ, US | Remote | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f83b74eb1e2c87689c?utm_campaign=Business%20Analyst&utm_source=1103)** | MORRISTOWN, NJ, US | Hybrid | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f606c1ba00c54b8a0d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-MORRISTOWN | Hybrid | Mar 17 |
-| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b97f9f56973837413efe3d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-Remote | Remote | Mar 17 |
+| **[Bonneville Power Administration](https://www.bpa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b98eeb06c1ba00c54b9645?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | Mar 17 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b97f9f56973837413efe3d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-Remote | Remote | Mar 17 |
+| **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Mar 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/69b89a7156973837413dfcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Mar 16 |
 | **[Acosta](https://www.acosta.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69b890fc3b74eb1e2c8665b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | Hybrid | Mar 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Provisional to Permanent - IS Business Analyst (1052) - Citywide (164702)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e40?utm_campaign=Business%20Analyst&utm_source=1103)** | 49 S Van Ness Ave, San Francisco, CA 94103, USA | Hybrid | Mar 16 |
