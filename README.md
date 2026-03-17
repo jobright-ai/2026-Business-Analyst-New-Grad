@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977fd06c1ba00c54b8a18?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, NJ, US | Remote | Mar 17 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f83b74eb1e2c87689c?utm_campaign=Business%20Analyst&utm_source=1103)** | MORRISTOWN, NJ, US | Hybrid | Mar 17 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f606c1ba00c54b8a0d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-MORRISTOWN | Hybrid | Mar 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/69b89a7156973837413dfcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Mar 16 |
 | **[Acosta](https://www.acosta.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69b890fc3b74eb1e2c8665b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | Hybrid | Mar 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Provisional to Permanent - IS Business Analyst (1052) - Citywide (164702)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e40?utm_campaign=Business%20Analyst&utm_source=1103)** | 49 S Van Ness Ave, San Francisco, CA 94103, USA | Hybrid | Mar 16 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b22dea65de58104c71a38f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Mar 11 |
 | **[OMERS](http://www.omers.com)** | **[Business Analyst (12 Month Contract)](https://jobright.ai/jobs/info/69b203c8d04c69566c74a97f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Mar 11 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b1fac1548f140066e8278a?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Mar 11 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
-| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2007cd04c69566c74a7ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn | Hybrid | Mar 11 |
+| ↳ | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2008a65de58104c717098?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Regional SC | Hybrid | Mar 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst- Onsite Newport News, VA](https://jobright.ai/jobs/info/699cc99581476f6176b55b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Langley Forest, VA | On Site | Mar 11 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 11 |
 | **[E*TRADE from Morgan Stanley](https://us.etrade.com/home)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b1959665de58104c70a07e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Mar 11 |
