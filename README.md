@@ -109,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69b644513b74eb1e2c8400d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Mar 10 |
 | **[Logic20/20, Inc.](https://www.logic2020.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69b094d50b2db6275c04cbdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 10 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69b077600b2db6275c04732e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Mar 10 |
-| **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 10 |
-| **[Colgate-Palmolive](http://colgatepalmolive.com)** | **[Commercial Operations BI Analyst](https://jobright.ai/jobs/info/69b02dc9dfaeda6ff59996ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Piscataway, NJ | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
