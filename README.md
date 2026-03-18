@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Miami University](https://www.miamioh.edu/fsb/academics/entrepreneurship/focus-areas/startup-entrepreneurship/redhawk-launch-accelerator/index.html)** | **[Business Analyst I/Business Analyst II](https://jobright.ai/jobs/info/69ba05be56973837413f91b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoyt Hall | Hybrid | Mar 17 |
+| **[Miami University](https://www.miamioh.edu/fsb/academics/entrepreneurship/focus-areas/startup-entrepreneurship/redhawk-launch-accelerator/index.html)** | **[Business Analyst I/Business Analyst II](https://jobright.ai/jobs/info/69ba112906c1ba00c54c314a?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxford, OH | On Site | Mar 17 |
+| ↳ | **[Business Analyst I/Business Analyst II](https://jobright.ai/jobs/info/69ba05be56973837413f91b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoyt Hall | Hybrid | Mar 17 |
+| **[Eurofins](http://eurofins.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69ba14b23b74eb1e2c881104?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, USA | On Site | Mar 17 |
 | **[Eurofins Discovery](https://www.eurofinsdiscoveryservices.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69b9f78456973837413f7f17?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Mar 17 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4ca1d3b74eb1e2c8225bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Mar 17 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright.ai/jobs/info/69b98eac3b74eb1e2c877353?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Mar 17 |
@@ -111,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 11 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Mar 11 |
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6978ebb352f3c27ec6452775?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Mar 11 |
-| **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69955a64ce78e77b4fd97e6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
