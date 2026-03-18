@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b25a89ad360c0340a7211a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69b4fd0456973837413a0ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Mar 11 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b24934a8ac8e70ff6619e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69b22dea65de58104c71a38f?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
