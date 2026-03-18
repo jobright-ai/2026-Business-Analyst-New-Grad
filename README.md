@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ba99065697383741405c7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Mar 18 |
+| **[AA Medical](https://www.aamedicalstore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ba9c2e3b74eb1e2c88befe?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 18 |
+| **[Arizona Financial Credit Union](https://www.arizonafinancial.org)** | **[Business and Development Analyst](https://jobright.ai/jobs/info/69ba955c3b74eb1e2c88a195?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 18 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Mar 17 |
 | **[Florida International University](https://www.fiu.edu)** | **[Applications Business Analyst](https://jobright.ai/jobs/info/69ba90cd3b74eb1e2c888e35?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Mar 17 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4ca1d3b74eb1e2c8225bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Mar 17 |
+| **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69ba95503b74eb1e2c88a157?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 17 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Mar 17 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ba8d925697383741403510?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Mar 17 |
 | **[Miami University](https://www.miamioh.edu/fsb/academics/entrepreneurship/focus-areas/startup-entrepreneurship/redhawk-launch-accelerator/index.html)** | **[Business Analyst I/Business Analyst II](https://jobright.ai/jobs/info/69ba902b06c1ba00c54caa19?utm_campaign=Business%20Analyst&utm_source=1103)** | Oxford, OH | On Site | Mar 17 |
@@ -107,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[AccumTech](https://www.accumtech.com/)** | **[Business Analyst (ClaimGen)](https://jobright.ai/jobs/info/69b42cb0569738374138c762?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 12 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Power Generation Asset Strategy Analyst, Associate - Flexible Location](https://jobright.ai/jobs/info/69b2c1eea8ac8e70ff66c3de?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn, CA | Hybrid | Mar 12 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3f44f06c1ba00c54519a8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Mar 12 |
 | **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b25a89ad360c0340a7211a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69b4fd0456973837413a0ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Mar 11 |
