@@ -112,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[AccumTech](https://www.accumtech.com/)** | **[Business Analyst (ClaimGen)](https://jobright.ai/jobs/info/69b42cb0569738374138c762?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 12 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3f44f06c1ba00c54519a8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Mar 12 |
-| **[North Carolina Department of Public Safety](https://www.ncdps.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b25a89ad360c0340a7211a?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
 | **[CGI](https://www.cgi.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69b4fd0456973837413a0ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Mar 11 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69b24934a8ac8e70ff6619e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Mar 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
