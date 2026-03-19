@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Strategy and Execution - Business Execution Administrator 2 - Contingent](https://jobright.ai/jobs/info/69bb3be45697383741413f57?utm_campaign=Business%20Analyst&utm_source=1103)** | WEST DES MOINES, IA | On Site | Mar 18 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69bb3b7206c1ba00c54db71a?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL | On Site | Mar 18 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69bb152f3b74eb1e2c897831?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 18 |
 | **[City of Chicago Office of Inspector General](https://igchicago.org)** | **[Performance analyst (APR)](https://jobright.ai/jobs/info/69bb0cc3569738374140fbca?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bb1fc85697383741411de8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
