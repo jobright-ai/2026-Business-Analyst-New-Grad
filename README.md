@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcf18c42b5f05329204fb?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 19 |
+| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
+| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcfb27ac0602a372c8e6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
 | ↳ | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb582106c1ba00c54dd200?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Miami | On Site | Mar 18 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69bb152f3b74eb1e2c897831?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 18 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Mar 18 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Mar 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69bacf61569738374140a5f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Mar 18 |
-| **[Eurofins](http://eurofins.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69bbbc2106c1ba00c54e4df1?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Mar 18 |
 | **[AA Medical](https://www.aamedicalstore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ba9c2e3b74eb1e2c88befe?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 18 |
 | **[Arizona Financial Credit Union](https://www.arizonafinancial.org)** | **[Business and Development Analyst](https://jobright.ai/jobs/info/69ba955c3b74eb1e2c88a195?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 18 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Mar 17 |
