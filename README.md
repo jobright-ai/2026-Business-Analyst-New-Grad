@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fiserv](http://www.fiserv.com)** | **[Analyst Program - Business Analyst (New York, NY)](https://jobright.ai/jobs/info/69bc68664828227293fe3a2d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 19 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69bc611e5b89c002acf1fdc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Mar 19 |
 | **[Mosaic Health](www.mosaichealth.com)** | **[Technology Business Operations Analyst](https://jobright.ai/jobs/info/69bc5ea15b89c002acf1f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Myers, FL | On Site | Mar 19 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69bc5a2a4828227293fe14f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Mar 19 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Miami University](https://www.miamioh.edu/fsb/academics/entrepreneurship/focus-areas/startup-entrepreneurship/redhawk-launch-accelerator/index.html)** | **[Business Analyst I/Business Analyst II](https://jobright.ai/jobs/info/69ba05be56973837413f91b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoyt Hall | Hybrid | Mar 17 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69ba90873b74eb1e2c888cc8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 17 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Mar 17 |
+| **[Crusoe](https://crusoe.ai)** | **[Analyst, Real Estate Strategy](https://jobright.ai/jobs/info/69bc6abe5b89c002acf214e5?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Mar 17 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Requirements Analyst](https://jobright.ai/jobs/info/69bb8a685697383741419533?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, OK | Hybrid | Mar 17 |
 | **[Acosta](https://www.acosta.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69ba88fc06c1ba00c54c95f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 17 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977fd06c1ba00c54b8a18?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, NJ, US | Remote | Mar 17 |
