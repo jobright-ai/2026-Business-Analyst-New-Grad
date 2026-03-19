@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
+| ↳ | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb582106c1ba00c54dd200?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Miami | On Site | Mar 18 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/69bb3b7206c1ba00c54db71a?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL | On Site | Mar 18 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Strategy and Execution - Business Execution Administrator 2 - Contingent](https://jobright.ai/jobs/info/69bb46f756973837414147e9?utm_campaign=Business%20Analyst&utm_source=1103)** | WEST DES MOINES, IA | On Site | Mar 18 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69bb152f3b74eb1e2c897831?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 18 |
 | **[City of Chicago Office of Inspector General](https://igchicago.org)** | **[Performance analyst (APR)](https://jobright.ai/jobs/info/69bb0cc3569738374140fbca?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 18 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bb1fc85697383741411de8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 18 |
@@ -83,8 +84,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69ba90873b74eb1e2c888cc8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 17 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Mar 17 |
 | **[Acosta](https://www.acosta.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69ba88fc06c1ba00c54c95f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 17 |
-| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69ba8b5a3b74eb1e2c887472?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 17 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright.ai/jobs/info/69b98eac3b74eb1e2c877353?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Mar 17 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977fd06c1ba00c54b8a18?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, NJ, US | Remote | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f83b74eb1e2c87689c?utm_campaign=Business%20Analyst&utm_source=1103)** | MORRISTOWN, NJ, US | Hybrid | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f606c1ba00c54b8a0d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-MORRISTOWN | Hybrid | Mar 17 |
@@ -113,9 +112,7 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
-| **[3Rivers Federal Credit Union](http://3riversfcu.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3681da8ac8e70ff67a147?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN | On Site | Mar 12 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 | **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 | **[AccumTech](https://www.accumtech.com/)** | **[Business Analyst (ClaimGen)](https://jobright.ai/jobs/info/69b42cb0569738374138c762?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Mar 12 |
-| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b3f44f06c1ba00c54519a8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | Remote | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
