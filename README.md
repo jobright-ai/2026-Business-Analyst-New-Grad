@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bbee5e45e08b3dc1f7c039?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 19 |
 | **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbe01345e08b3dc1f79a2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcf18c42b5f05329204fb?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
-| **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
