@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 12 |
-| **[California State University, Bakersfield](https://www.csub.edu/)** | **[Business Analyst - Records & Advising](https://jobright.ai/jobs/info/696aa8dc5fc862418539a091?utm_campaign=Business%20Analyst&utm_source=1103)** | Bakersfield, CA | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
