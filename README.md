@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bc15ed45e08b3dc1f80d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Mar 19 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bbee5e45e08b3dc1f7c039?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 19 |
 | **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbe01345e08b3dc1f79a2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 19 |
-| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcf18c42b5f05329204fb?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcfb27ac0602a372c8e6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f83b74eb1e2c87689c?utm_campaign=Business%20Analyst&utm_source=1103)** | MORRISTOWN, NJ, US | Hybrid | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b977f606c1ba00c54b8a0d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-MORRISTOWN | Hybrid | Mar 17 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/69b97f9f56973837413efe3d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NJ-Remote | Remote | Mar 17 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Process Analyst and Knowledge Management Specialist](https://jobright.ai/jobs/info/69b89a7156973837413dfcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Aberdeen Proving Ground, MD | On Site | Mar 16 |
 | **[Acosta](https://www.acosta.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69b890fc3b74eb1e2c8665b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | Hybrid | Mar 16 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[Provisional to Permanent - IS Business Analyst (1052) - Citywide (164702)](https://jobright.ai/jobs/info/69b879663b74eb1e2c864e40?utm_campaign=Business%20Analyst&utm_source=1103)** | 49 S Van Ness Ave, San Francisco, CA 94103, USA | Hybrid | Mar 16 |
 | **[Conduent](https://www.conduent.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69b833a556973837413d5d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, FL, 00000, US | Remote | Mar 16 |
@@ -114,6 +113,5 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b46bed3b74eb1e2c81abc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
-| **[Supernova](http://supernova.xyz/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b44c9e569738374138fbd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 13 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
