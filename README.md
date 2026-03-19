@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcf18c42b5f05329204fb?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 19 |
+| **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbe01345e08b3dc1f79a2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 19 |
+| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcf18c42b5f05329204fb?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcfb27ac0602a372c8e6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
