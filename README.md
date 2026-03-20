@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bcedff4828227293ff02f9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
+| **[Marvin Engineering Company](https://marvineng.com)** | **[BUSINESS ANALYST I](https://jobright.ai/jobs/info/69bce9204828227293ff017c?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | On Site | Mar 19 |
 | **[The Marvin Group](http://www.marvingroup.com)** | **[BUSINESS ANALYST I](https://jobright.ai/jobs/info/69bcd17a45e08b3dc1f9ac94?utm_campaign=Business%20Analyst&utm_source=1103)** | Inglewood, CA | On Site | Mar 19 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69bcae0ae6a0d9792584b06a?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 19 |
 | **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I, Office of Financial Aid](https://jobright.ai/jobs/info/69bca78fe6a0d9792584abce?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Mar 19 |
@@ -86,6 +88,7 @@ For a complete list, click the following sortable link below:
 | **[AA Medical](https://www.aamedicalstore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ba9c2e3b74eb1e2c88befe?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Mar 18 |
 | **[Global Cellulose Fibers](https://www.globalcellulosefibers.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69a3b0910da45516f16cb28b?utm_campaign=Business%20Analyst&utm_source=1103)** | Memphis, TN | Hybrid | Mar 17 |
 | **[Florida International University](https://www.fiu.edu)** | **[Applications Business Analyst](https://jobright.ai/jobs/info/69ba90cd3b74eb1e2c888e35?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL | On Site | Mar 17 |
+| **[Cincinnati Children's Office of Academic Affairs and Career Development](https://www.cincinnatichildrens.org/research/support/academic-affairs-career-development/career-development)** | **[EBA Technical Business Analyst I](https://jobright.ai/jobs/info/69bce8d945e08b3dc1f9dd46?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | Remote | Mar 17 |
 | **[Qualified Health](https://www.qualifiedhealthai.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4ca1d3b74eb1e2c8225bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Mar 17 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69ba95503b74eb1e2c88a157?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Mar 17 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Mar 17 |
