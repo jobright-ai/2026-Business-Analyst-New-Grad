@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69bbee5e45e08b3dc1f7c039?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 19 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 19 |
 | **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
-| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcfb27ac0602a372c8e6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 19 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
 | ↳ | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb582106c1ba00c54dd200?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Miami | On Site | Mar 18 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69bb152f3b74eb1e2c897831?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 18 |
@@ -128,5 +127,4 @@ For a complete list, click the following sortable link below:
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69a40cd0b600907a962a1ca2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Mar 13 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b46bed3b74eb1e2c81abc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
-| **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
