@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 19 |
 | **[Mosaic Health](www.mosaichealth.com)** | **[Technology Business Operations Analyst](https://jobright.ai/jobs/info/69bc5ea15b89c002acf1f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Myers, FL | On Site | Mar 19 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69bc5a2a4828227293fe14f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Mar 19 |
 | **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/699a6624ce78e77b4fdf244c?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 19 |
