@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[FDM Group](http://www.fdmgroup.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/69b47e3c5697383741395db9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Toronto Area, Canada | On Site | Mar 13 |
 | **[Framatome North America](www.framatome.com/en)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69a40cd0b600907a962a1ca2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lynchburg, VA | On Site | Mar 13 |
 | **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b46bed3b74eb1e2c81abc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
