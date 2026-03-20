@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Marvin Group](http://www.marvingroup.com)** | **[BUSINESS ANALYST I](https://jobright.ai/jobs/info/69bcd17a45e08b3dc1f9ac94?utm_campaign=Business%20Analyst&utm_source=1103)** | Inglewood, CA | On Site | Mar 19 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69bcae0ae6a0d9792584b06a?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 19 |
 | **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I, Office of Financial Aid](https://jobright.ai/jobs/info/69bca78fe6a0d9792584abce?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Mar 19 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 19 |
@@ -72,10 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Foley Hoag LLP](http://www.foleyhoag.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bc15ed45e08b3dc1f80d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Mar 19 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b4eae93b74eb1e2c8267a6?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Mar 19 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 19 |
-| **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbe01345e08b3dc1f79a2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 19 |
-| ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
+| **[Acosta Group](https://www.acosta.group)** | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcc6678a5df4797fd6f5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | Hybrid | Mar 19 |
 | ↳ | **[Business Analyst II](https://jobright.ai/jobs/info/69bbcfb27ac0602a372c8e6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Mar 19 |
-| **[Nelson Miller Group](https://nelsonmillergroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bcccfc4828227293feccbb?utm_campaign=Business%20Analyst&utm_source=1103)** | Fitchburg, MA | On Site | Mar 18 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb58245697383741415b3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, FL, US | On Site | Mar 18 |
 | ↳ | **[Media Business Operations Analyst](https://jobright.ai/jobs/info/69bb582106c1ba00c54dd200?utm_campaign=Business%20Analyst&utm_source=1103)** | US-FL-Miami | On Site | Mar 18 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69bb152f3b74eb1e2c897831?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 18 |
