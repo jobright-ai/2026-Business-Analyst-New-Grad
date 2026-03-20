@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I, Office of Financial Aid](https://jobright.ai/jobs/info/69bca78fe6a0d9792584abce?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Mar 19 |
+| **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 19 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 19 |
 | **[Mosaic Health](www.mosaichealth.com)** | **[Technology Business Operations Analyst](https://jobright.ai/jobs/info/69bc5ea15b89c002acf1f8a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Myers, FL | On Site | Mar 19 |
 | **[Ford Motor Company](https://www.ford.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69bc5a2a4828227293fe14f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI | Hybrid | Mar 19 |
