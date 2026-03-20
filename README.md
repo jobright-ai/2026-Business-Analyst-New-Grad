@@ -126,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[City of New York](http://www1.nyc.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69b46bed3b74eb1e2c81abc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69b464993b74eb1e2c819b25?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, NY | On Site | Mar 13 |
 | **[FanDuel](http://www.fanduel.com)** | **[Business Control Analyst](https://jobright.ai/jobs/info/6997447581476f6176af5e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 13 |
-| **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
