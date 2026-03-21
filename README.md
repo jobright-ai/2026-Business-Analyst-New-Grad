@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 21 |
+| **[Main Sail, LLC](http://mainsailgroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bed6c848282272930193b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Mar 21 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Mar 21 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69be5b36393a1008f744571e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 21 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/69bdfb43b10602456283610e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 20 |
@@ -68,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69bdd1f44828227293006204?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 20 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, CAN | Hybrid | Mar 20 |
-| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504393a1008f74350f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, Quebec, CAN | Hybrid | Mar 20 |
+| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ajax, Ontario, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CAN | Hybrid | Mar 20 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bd84ab4828227293ffba40?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago,  IL | Hybrid | Mar 20 |
