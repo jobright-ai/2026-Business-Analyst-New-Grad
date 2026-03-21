@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Main Sail, LLC](http://mainsailgroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69beba7d4828227293017886?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Mar 21 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 21 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Mar 21 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69be5b36393a1008f744571e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 21 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/69bdfb43b10602456283610e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 20 |
