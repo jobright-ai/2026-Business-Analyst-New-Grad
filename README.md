@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enloe Health](https://www.enloe.org/)** | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69c19f9c79e36d3a847e9c33?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA - Business Services Center | Hybrid | Mar 23 |
+| **[Enloe Health](https://www.enloe.org/)** | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69c1b5c079e36d3a847eba5d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA | On Site | Mar 23 |
+| ↳ | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69c19f9c79e36d3a847e9c33?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA - Business Services Center | Hybrid | Mar 23 |
 | **[Centurion](https://centurioncg.com/)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69c196f679e36d3a847e7f05?utm_campaign=Business%20Analyst&utm_source=1103)** | USA | Remote | Mar 23 |
 | **[Hydro One](http://www.hydroone.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c17e0e75f7ff1cd80f9104?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Mar 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 23 |
@@ -71,9 +72,9 @@ For a complete list, click the following sortable link below:
 | **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69bde8ccb106024562834bd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Mar 20 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69bdd1f44828227293006204?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 20 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504393a1008f74350f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, Quebec, CAN | Hybrid | Mar 20 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, CAN | Hybrid | Mar 20 |
-| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, CAN | Hybrid | Mar 20 |
+| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504393a1008f74350f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, Quebec, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ajax, Ontario, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CAN | Hybrid | Mar 20 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bd84ab4828227293ffba40?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago,  IL | Hybrid | Mar 20 |
