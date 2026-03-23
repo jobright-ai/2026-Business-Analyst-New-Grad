@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hydro One](http://www.hydroone.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c17e0e75f7ff1cd80f9104?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Mar 23 |
 | **[Red Ventures](http://www.redventures.com)** | **[2026 Launch Program: Business Analyst](https://jobright.ai/jobs/info/68f31fd176a51a4307bcb598?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Mar 23 |
 | **[Utility Partners of America](http://utilitypartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c1539175f7ff1cd80f3a80?utm_campaign=Business%20Analyst&utm_source=1103)** | Northborough, MA | On Site | Mar 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69a3003cb600907a962965a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Mar 22 |
@@ -69,18 +70,18 @@ For a complete list, click the following sortable link below:
 | **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69bde8ccb106024562834bd2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Mar 20 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Keller Postman LLC](https://www.kellerpostman.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69bdd1f44828227293006204?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 20 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504393a1008f74350f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, Quebec, CAN | Hybrid | Mar 20 |
-| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, CAN | Hybrid | Mar 20 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edc0?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, CAN | Hybrid | Mar 20 |
+| ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504393a1008f74350f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, Quebec, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc504b10602456282edbf?utm_campaign=Business%20Analyst&utm_source=1103)** | Calgary, Alberta, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CAN | Hybrid | Mar 20 |
 | ↳ | **[Business Analyst II, OPL (Personal lines)](https://jobright.ai/jobs/info/69bdc4f448282272930030bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Ajax, Ontario, CAN | Hybrid | Mar 20 |
+| **[VARITE INC](http://www.varite.com)** | **[CAN_Business Analyst](https://jobright.ai/jobs/info/69c1847c2c312363dcd476e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Mar 20 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bd84ab4828227293ffba40?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago,  IL | Hybrid | Mar 20 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Business Planning Analyst, TRS](https://jobright.ai/jobs/info/69a0c2d25218a8167671ee44?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | Mar 20 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/69bd39ddb106024562822522?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, Delaware, United States | On Site | Mar 20 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bfc2692c312363dcd2882d?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Mar 20 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69ba90873b74eb1e2c888cc8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 19 |
-| **[SanMar](http://www.sanmar.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69c17caf2c312363dcd469e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 19 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69bcae0ae6a0d9792584b06a?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 19 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 19 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 19 |
