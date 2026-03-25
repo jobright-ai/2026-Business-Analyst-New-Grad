@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Achievement Centers for Children](https://achievementcenters.org/)** | **[Development Data & Administrative Coordinator](https://jobright.ai/jobs/info/69c440986f4f855eeda6ac56?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, OH | On Site | Mar 25 |
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 25 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c41aee33eecf310794394c?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Mar 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c4124a33eecf3107943142?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Mar 25 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Foresters Financial](http://www.foresters.com/)** | **[New Business Administrator](https://jobright.ai/jobs/info/69c2eff5753c101b21565fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | Hybrid | Mar 24 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69c2ec1294007a2195defeb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Mar 24 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69c2c88bec22f8310ab0aef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 24 |
-| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
+| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
+| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6993c9f7ce78e77b4fd79e80?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 24 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 23 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c417c933eecf31079434bf?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Mar 23 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Hybrid in Bossier City, LA](https://jobright.ai/jobs/info/69c34c3294007a2195df9e77?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA | Hybrid | Mar 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6968d6db639b452fb57e9eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Mar 21 |
+| **[Main Sail, LLC](http://mainsailgroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c4480d6f4f855eeda6b6dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | Remote | Mar 21 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Mar 21 |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | Mar 20 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/69bdfb43b10602456283610e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 20 |
