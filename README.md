@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 20 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69bfc2692c312363dcd2882d?utm_campaign=Business%20Analyst&utm_source=1103)** | El Paso, TX | Hybrid | Mar 20 |
 | **[The University of Texas at San Antonio](http://www.utsa.edu/)** | **[IT Business Analyst I, Office of Financial Aid](https://jobright.ai/jobs/info/69c21033c9ad035e829ab4f0?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | On Site | Mar 19 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69bcae0ae6a0d9792584b06a?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
