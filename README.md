@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst-PHSO](https://jobright.ai/jobs/info/69c5f5701818a24cd84bcb73?utm_campaign=Business%20Analyst&utm_source=1103)** | Maitland, FL | On Site | Mar 26 |
+| **[SanMar](http://www.sanmar.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5f4d6aa3c2c1995e064cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
+| **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69c5ef40e565c26a7001695d?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Mar 26 |
 | **[Armstrong World Industries](https://www.armstrong.com)** | **[AS Business Analyst Job](https://jobright.ai/jobs/info/69c5d8b51b5ad0288737a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, PA | On Site | Mar 26 |
 | ↳ | **[AS Business Analyst](https://jobright.ai/jobs/info/69c5d6a0e565c26a70015f8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, Pennsylvania, United States, 17603 | On Site | Mar 26 |
-| **[SanMar](http://www.sanmar.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5d2dbaa9a29199e80ae13?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
-| ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5d29ce565c26a70015a98?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
+| **[SanMar](http://www.sanmar.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5d29ce565c26a70015a98?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
 | **[Welldoc](https://www.welldoc.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/69c5c92c1818a24cd84bb29f?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD | Hybrid | Mar 26 |
 | ↳ | **[Jr. Business Analyst](https://jobright.ai/jobs/info/69c5aa89e565c26a70013819?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, Maryland, United States | Hybrid | Mar 26 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c5a9411b5ad0288737787c?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 26 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[Foresters Financial](http://www.foresters.com/)** | **[New Business Administrator](https://jobright.ai/jobs/info/69c2eff5753c101b21565fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | Hybrid | Mar 24 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69c2ec1294007a2195defeb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Mar 24 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69c2c88bec22f8310ab0aef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 24 |
-| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
-| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
+| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
+| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 23 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69c2195a2c312363dcd5ac3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Mar 23 |
