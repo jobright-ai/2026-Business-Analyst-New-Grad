@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | Hybrid | Mar 27 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69bdeff1b106024562834e40?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 26 |
 | **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst-PHSO](https://jobright.ai/jobs/info/69c5f5701818a24cd84bcb73?utm_campaign=Business%20Analyst&utm_source=1103)** | Maitland, FL | On Site | Mar 26 |
 | **[SanMar](http://www.sanmar.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5f4d6aa3c2c1995e064cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
