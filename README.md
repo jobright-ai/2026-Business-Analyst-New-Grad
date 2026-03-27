@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 27 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Mar 27 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 27 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c3c2ebd316bece1ff92?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 27 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/69c68e4aaa3c2c1995e107b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, Delaware, United States | On Site | Mar 27 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c219ca4e908ec65923d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 27 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35742ebd316bece1f9cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Mar 27 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35822ebd316bece1f9ee?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | Hybrid | Mar 27 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c219ca4e908ec65923d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 27 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa35542ebd316bece1f994?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | Hybrid | Mar 27 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69bdeff1b106024562834e40?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | Mar 26 |
 | **[SanMar](http://www.sanmar.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69c5f4d6aa3c2c1995e064cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Issaquah, WA | Hybrid | Mar 26 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6968932d1703f05405aa5bb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 26 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69c2195a2c312363dcd5ac3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ | Hybrid | Mar 25 |
 | **[CGI](https://www.cgi.com)** | **[Business Specialist I](https://jobright.ai/jobs/info/69c47bbc6f4f855eeda70d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL | On Site | Mar 25 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2 - Finance Test Lead](https://jobright.ai/jobs/info/69c658121b5ad0288738427e?utm_campaign=Business%20Analyst&utm_source=1103)** | 6226 W Sahara Ave, Las Vegas, NV, 89146, US | On Site | Mar 25 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/69c4669d6f4f855eeda6f2ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Mar 25 |
 | **[Achievement Centers for Children](https://achievementcenters.org/)** | **[Development Data & Administrative Coordinator](https://jobright.ai/jobs/info/69c440986f4f855eeda6ac56?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, OH | On Site | Mar 25 |
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 25 |
@@ -104,9 +106,9 @@ For a complete list, click the following sortable link below:
 | **[Foresters Financial](http://www.foresters.com/)** | **[New Business Administrator](https://jobright.ai/jobs/info/69c2eff5753c101b21565fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | Hybrid | Mar 24 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69c2ec1294007a2195defeb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Mar 24 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69c2c88bec22f8310ab0aef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 24 |
-| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
+| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
+| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
-| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 23 |
 | **[Verda Healthcare](https://verdahealthcare.com/)** | **[Business Analyst (Junior/Entry Level) - no C2C](https://jobright.ai/jobs/info/69c20697c9ad035e829a7727?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntington Beach,CA,US | On Site | Mar 23 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c201a72c312363dcd54e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Mar 23 |
