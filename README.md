@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 27 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c3c2ebd316bece1ff92?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Mar 27 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/69c68e4aaa3c2c1995e107b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, Delaware, United States | On Site | Mar 27 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69aa3c219ca4e908ec65923d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | Hybrid | Mar 27 |
@@ -121,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/69a69091f707784310afe469?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Mar 21 |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | Mar 20 |
 | **[Gensler](http://www.gensler.com)** | **[Design Strategist - Data Analytics + Insights](https://jobright.ai/jobs/info/69bdfb43b10602456283610e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 20 |
-| **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
