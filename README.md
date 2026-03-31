@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[University of Tennessee System](http://www.tennessee.edu)** | **[DASH Research Business Analyst (Level 1-4) - Department of Technology Solutions, UT System Administration](https://jobright.ai/jobs/info/69c918f9e565c26a70034018?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN | On Site | Mar 25 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/69c7a4b11b5ad0288738ee15?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | Mar 25 |
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb97808130af1ac83346cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Mar 25 |
-| **[PEAK6](https://www.peak6.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c759a1e565c26a70027ffe?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
