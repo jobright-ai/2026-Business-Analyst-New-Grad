@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cb0454e565c26a70043846?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Mar 30 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/69cafa748fc6090c5d453801?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Mar 30 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69caf0a58fc6090c5d452f49?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69caf0988fc6090c5d452ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville-MA | Hybrid | Mar 30 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[Business Analyst (Recent Graduate)](https://jobright.ai/jobs/info/69caacc71b5ad028873a3e61?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69caacb3a8c1822476e1f16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | Mar 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69caa0a3aa3c2c1995e2e3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Mar 30 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Analyst – UAT / Testing](https://jobright.ai/jobs/info/69cb0bc31b5ad028873a83ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 30 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 29 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
@@ -125,7 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2f3cfec22f8310ab0f7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | **[Foresters Financial](http://www.foresters.com/)** | **[New Business Administrator](https://jobright.ai/jobs/info/69c2eff5753c101b21565fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | Hybrid | Mar 24 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69c2c88bec22f8310ab0aef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 24 |
-| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
+| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
-| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
+| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
