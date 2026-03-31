@@ -81,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[Crown Linen Service, Inc.](https://www.crownlinen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c711a3b773006330b75ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Mar 27 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c6f3d2e565c26a70024813?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Mar 27 |
-| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/Business Systems Analyst 2/Business Systems Analyst 3](https://jobright.ai/jobs/info/69caa0f81b5ad028873a3223?utm_campaign=Business%20Analyst&utm_source=1103)** | 10700 Energy Way, Glen Allen, VA, 23060, US | On Site | Mar 27 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 27 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Mar 27 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c6caf8b773006330b72f82?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Mar 27 |
@@ -130,6 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Foresters Financial](http://www.foresters.com/)** | **[New Business Administrator](https://jobright.ai/jobs/info/69c2eff5753c101b21565fa7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | Hybrid | Mar 24 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69c2c88bec22f8310ab0aef9?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Mar 24 |
 | **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d466753c101b21562c13?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Mar 24 |
-| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d3d894007a2195ded469?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Mar 24 |
+| ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/69c2d223ec22f8310ab0c042?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
