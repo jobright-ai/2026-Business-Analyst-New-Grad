@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69cc9b0b8130af1ac833d0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 31 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cc9865cdb525785fb7f98a?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Mar 31 |
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cc91b5891d7b11cfcb0118?utm_campaign=Business%20Analyst&utm_source=1103)** | Missouri, United States | Remote | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69cc79c5cfdc6132f940c791?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Mar 31 |
+| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
 | **[United Airlines](https://www.united.com)** | **[Associate Business Analyst – GenAI](https://jobright.ai/jobs/info/69cc7abce1921223acc761a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cc4f87891d7b11cfcaba01?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Mar 31 |
 | ↳ | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cc4f86cfdc6132f940b825?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Mar 31 |
@@ -126,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 25 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c41aee33eecf310794394c?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Mar 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c4124a33eecf3107943142?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulare, CA | Hybrid | Mar 25 |
+| **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69cc9803cfdc6132f94104d3?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Mar 25 |
 | **[Crown Linen Service, Inc.](https://www.crownlinen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c423efd5a1016e98db2fa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Mar 25 |
 | **[Pereira O'Dell](http://www.pereiraodell.com)** | **[Business Affairs Coordinator](https://jobright.ai/jobs/info/69c400c8d5a1016e98db07d1?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | Remote | Mar 25 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Mar 25 |
