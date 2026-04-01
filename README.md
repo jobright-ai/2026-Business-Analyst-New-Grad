@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69c794d51b5ad0288738e37b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 01 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69cc9b0b8130af1ac833d0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 31 |
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[Business Analyst (Recent Graduate)](https://jobright.ai/jobs/info/69caacc71b5ad028873a3e61?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69caacb3a8c1822476e1f16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | Mar 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69caa0a3aa3c2c1995e2e3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Mar 30 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Analyst – UAT / Testing](https://jobright.ai/jobs/info/69ccdf91cfdc6132f9414c09?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 30 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 29 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
@@ -123,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2 - Finance Test Lead](https://jobright.ai/jobs/info/69cce2c4cfdc6132f9414d3f?utm_campaign=Business%20Analyst&utm_source=1103)** | 6226 W Sahara Ave, Las Vegas, NV, 89146, US | On Site | Mar 25 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/69c4669d6f4f855eeda6f2ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | Mar 25 |
 | **[Achievement Centers for Children](https://achievementcenters.org/)** | **[Development Data & Administrative Coordinator](https://jobright.ai/jobs/info/69c440986f4f855eeda6ac56?utm_campaign=Business%20Analyst&utm_source=1103)** | Westlake, OH | On Site | Mar 25 |
-| **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
