@@ -57,75 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69cd72eccfdc6132f9418c04?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Apr 01 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level](https://jobright.ai/jobs/info/69cd600f366bb95ba54fb1e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Apr 01 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/69cd5ffb366bb95ba54fb1ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Apr 01 |
 | **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/69cd5813891d7b11cfcb7fff?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Apr 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[SO_Analyst Charge RIO_T3508](https://jobright.ai/jobs/info/69b0cb56749500645097c1ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Newtown, PA | Remote | Apr 01 |
-| **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/69cd5516891d7b11cfcb7f2f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69cd5516891d7b11cfcb7f2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, CO | On Site | Apr 01 |
+| **[Gong](https://www.gong.io)** | **[Business Analyst](https://jobright.ai/jobs/info/69cd5516891d7b11cfcb7f2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, CO | On Site | Apr 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69cd5516891d7b11cfcb7f2f?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69cd5513cdb525785fb87040?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69cd5501366bb95ba54fae3d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 01 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e29?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-KS | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MN | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-GA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e30?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MD | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2e?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NE | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MT | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-ID | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3c23cdb525785fb85e2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-DC | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NM | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cda?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-VA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-WI | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9ce4?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-PA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-OH | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9ce1?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-AK | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-AZ | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bda366bb95ba54f9cd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-SD | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf73223?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-LA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf73217?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-SC | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf73218?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-WA State | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7321c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NY | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7321d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-OR | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf73222?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-AR | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf73219?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-WY | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bd4398fb071abf7321a?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NJ | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-DE | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169de?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-HI | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-CO | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IL | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NC | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NH | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bc0cfdc6132f94169e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TX | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced673?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MS | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced672?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-UT | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced66f?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced671?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-CT | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced66d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IN | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced677?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-IA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced670?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MI | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bbc54f00230c6ced674?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-ND | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-KY | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-CA | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d72?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-NV | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d74?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-VT | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d73?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-RI | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d71?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-OK | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d76?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-TN | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d79?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-WV | Remote | Apr 01 |
-| ↳ | **[Business Analyst I Claims, Excel, PM](https://jobright.ai/jobs/info/69cd3bac891d7b11cfcb6d77?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-AL | Remote | Apr 01 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69cd3ba7891d7b11cfcb6d5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Apr 01 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6c8a9aa3c2c1995e11ecf?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 01 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69c794d51b5ad0288738e37b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 01 |
-| **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69cc9b0b8130af1ac833d0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 31 |
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69cc79c5cfdc6132f940c791?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Mar 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
 | **[United Airlines](https://www.united.com)** | **[Associate Business Analyst – GenAI](https://jobright.ai/jobs/info/69cc7abce1921223acc761a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[UBS](https://www.ubs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cc7614891d7b11cfcac769?utm_campaign=Business%20Analyst&utm_source=1103)** | Weehawken, NJ | On Site | Mar 31 |
-| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cd3bb3cfdc6132f9416995?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-MO | Remote | Mar 31 |
-| ↳ | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69cd3b9f891d7b11cfcb6d2c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote-FL | Remote | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc4ba6891d7b11cfcab95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69cc7930cfdc6132f940c702?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY | Hybrid | Mar 31 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc0dc1cfdc6132f940a1c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
@@ -133,7 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Mar 31 |
