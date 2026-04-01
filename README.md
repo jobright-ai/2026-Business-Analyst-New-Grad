@@ -59,6 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69cc9b0b8130af1ac833d0a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Mar 31 |
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
+| **[Centene Corporation](http://www.centene.com)** | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69ccb80d366bb95ba54f58dc?utm_campaign=Business%20Analyst&utm_source=1103)** | FL | Remote | Mar 31 |
+| ↳ | **[Business Analyst I Provider Data, SQL, Excel](https://jobright.ai/jobs/info/69ccb7dde1921223acc7c082?utm_campaign=Business%20Analyst&utm_source=1103)** | MO | Remote | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69cc79c5cfdc6132f940c791?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Mar 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
@@ -71,7 +73,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/698eb2180f6f7e7a2cead2e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Mar 31 |
