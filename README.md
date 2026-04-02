@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ce417c366bb95ba5509a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Apr 02 |
+| ↳ | **[Business Operations Analysis I/II](https://jobright.ai/jobs/info/69ce4054cdb525785fb958b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ventura, CA | On Site | Apr 02 |
 | **[Qcells North America](http://www.qcells.com/us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ce0c8ccfdc6132f9423e6a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69ce0a47cfdc6132f9423d9e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c63a8983ea553769fd6c06?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 30 |
 | **[Article](https://www.article.com)** | **[Business Analysts (Junior & Intermediate)](https://jobright.ai/jobs/info/69cb111c8fc6090c5d4547f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver | Hybrid | Mar 30 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c58f7daa9a29199e80724c?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Mar 26 |
 | **[Balise Motor Sales](http://baliseauto.com)** | **[Western, MA Automotive Business Analyst](https://jobright.ai/jobs/info/69c582f41b5ad0288737560c?utm_campaign=Business%20Analyst&utm_source=1103)** | BDS - Springfield, MA 01103 | On Site | Mar 26 |
 | ↳ | **[Western, MA Automotive Business Analyst](https://jobright.ai/jobs/info/69c582f31818a24cd84b6ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | BDS - Springfield, MA 01103 | On Site | Mar 26 |
-| **[Covered California](http://www.coveredca.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c57d091818a24cd84b5f9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
