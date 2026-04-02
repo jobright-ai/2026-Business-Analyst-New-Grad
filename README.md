@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 02 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Business Analyst, GenAI & Engagement](https://jobright.ai/jobs/info/69ca3a13e565c26a7003c116?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/69bc12d44828227293fd398c?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 02 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ce5ff7366bb95ba550adac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69ce4d0d54f00230c6cfe48e?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
@@ -134,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Wilson Elser](http://www.wilsonelser.com)** | **[Business Intake Coordinator](https://jobright.ai/jobs/info/69c6c2391b5ad02887386b63?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | Hybrid | Mar 27 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
 | **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/69c68e4aaa3c2c1995e107b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, Delaware, United States | On Site | Mar 27 |
-| **[Armstrong World Industries](https://www.armstrong.com)** | **[AS Business Analyst Job](https://jobright.ai/jobs/info/69c5d8b51b5ad0288737a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, PA | On Site | Mar 26 |
-| ↳ | **[AS Business Analyst](https://jobright.ai/jobs/info/69c5d6a0e565c26a70015f8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, Pennsylvania, United States, 17603 | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
