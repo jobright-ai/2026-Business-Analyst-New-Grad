@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qcells North America](http://www.qcells.com/us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ce0c8ccfdc6132f9423e6a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
+| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69ce0a47cfdc6132f9423d9e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69cdb09b891d7b11cfcbed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Apr 01 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cdac47cfdc6132f941e423?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive) | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd9d91cfdc6132f941dad3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
+| **[City of Chicago Office of Inspector General](https://igchicago.org)** | **[Performance analyst (APR)](https://jobright.ai/jobs/info/69ce0e72366bb95ba5507205?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69cd8c29366bb95ba5500064?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home | Remote | Apr 01 |
