@@ -94,7 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c63a8983ea553769fd6c06?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Mar 31 |
@@ -137,5 +137,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Western, MA Automotive Business Analyst](https://jobright.ai/jobs/info/69c582f31818a24cd84b6ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | BDS - Springfield, MA 01103 | On Site | Mar 26 |
 | **[Covered California](http://www.coveredca.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c57d091818a24cd84b5f9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Mar 26 |
 | **[Morgan & Morgan, P.A.](https://www.forthepeople.com)** | **[Business Analyst (Mass Tort)](https://jobright.ai/jobs/info/69c56591aa3c2c1995dfe6e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, New York, United States | On Site | Mar 26 |
-| ↳ | **[Business Analyst (Mass Tort)](https://jobright.ai/jobs/info/69c55f76e565c26a7000ec9e?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, NY | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
