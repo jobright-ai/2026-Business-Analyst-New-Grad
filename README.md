@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 02 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/69bc12d44828227293fd398c?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 02 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ce5ff7366bb95ba550adac?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69ce4d0d54f00230c6cfe48e?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
@@ -75,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd9d91cfdc6132f941dad3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[City of Chicago Office of Inspector General](https://igchicago.org)** | **[Performance analyst (APR)](https://jobright.ai/jobs/info/69ce0e72366bb95ba5507205?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69cd8c29366bb95ba5500064?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home | Remote | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 30 |
-| **[Article](https://www.article.com)** | **[Business Analysts (Junior & Intermediate)](https://jobright.ai/jobs/info/69cb111c8fc6090c5d4547f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver | Hybrid | Mar 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cb0454e565c26a70043846?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Mar 30 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/69cafa748fc6090c5d453801?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Mar 30 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69caf0a58fc6090c5d452f49?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
@@ -118,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[Business Analyst (Recent Graduate)](https://jobright.ai/jobs/info/69caacc71b5ad028873a3e61?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69caacb3a8c1822476e1f16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | Mar 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69caa0a3aa3c2c1995e2e3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Mar 30 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Analyst – UAT / Testing](https://jobright.ai/jobs/info/69ce8185cfdc6132f9429098?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 30 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 29 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
