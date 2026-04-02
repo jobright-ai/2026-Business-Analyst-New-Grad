@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ceee84cdb525785fb9d251?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst -Business Analyst](https://jobright.ai/jobs/info/69cee422366bb95ba5510b1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Apr 02 |
 | **[KeyBank](https://www.key.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69cec894891d7b11cfccc9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | Hybrid | Apr 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceba0554f00230c6d023a7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 02 |
