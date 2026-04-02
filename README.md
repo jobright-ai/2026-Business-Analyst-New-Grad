@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst â Entry Level (Top Secret Clearance Required)](https://jobright.ai/jobs/info/69cdc11dcfdc6132f941f4b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairfax, VA | Hybrid | Apr 01 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69cdbde1cfdc6132f941eea4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69cdb09b891d7b11cfcbed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cdac47cfdc6132f941e423?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive) | On Site | Apr 01 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69cd8c29366bb95ba5500064?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home | Remote | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
+| **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
 | **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69cd72eccfdc6132f9418c04?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Apr 01 |
 | **[Ally](http://www.ally.com/)** | **[Analyst - Advanced Business Analytics](https://jobright.ai/jobs/info/69cd5ffb366bb95ba54fb1ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | On Site | Apr 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[SO_Analyst Charge RIO_T3508](https://jobright.ai/jobs/info/69b0cb56749500645097c1ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Newtown, PA | Remote | Apr 01 |
