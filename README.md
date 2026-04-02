@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69ce4d0d54f00230c6cfe48e?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ce417c366bb95ba5509a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Apr 02 |
 | ↳ | **[Business Operations Analysis I/II](https://jobright.ai/jobs/info/69ce4054cdb525785fb958b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ventura, CA | On Site | Apr 02 |
 | **[Qcells North America](http://www.qcells.com/us)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ce0c8ccfdc6132f9423e6a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 01 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Associate Business Analyst – GenAI](https://jobright.ai/jobs/info/69cc7abce1921223acc761a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[UBS](https://www.ubs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cc7614891d7b11cfcac769?utm_campaign=Business%20Analyst&utm_source=1103)** | Weehawken, NJ | On Site | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc4ba6891d7b11cfcab95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
-| **[NYCM Insurance](https://www.nycm.com)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69cc7930cfdc6132f940c702?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmeston, NY | Hybrid | Mar 31 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc0dc1cfdc6132f940a1c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc1a0a366bb95ba54ed95d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
@@ -113,6 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[Business Analyst (Recent Graduate)](https://jobright.ai/jobs/info/69caacc71b5ad028873a3e61?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69caacb3a8c1822476e1f16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | Mar 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69caa0a3aa3c2c1995e2e3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Mar 30 |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Analyst – UAT / Testing](https://jobright.ai/jobs/info/69ce4b75cfdc6132f942733e?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | Remote | Mar 30 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 29 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
@@ -133,6 +134,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AS Business Analyst](https://jobright.ai/jobs/info/69c5d6a0e565c26a70015f8c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, Pennsylvania, United States, 17603 | On Site | Mar 26 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c5a9411b5ad0288737787c?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Mar 26 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c58f7daa9a29199e80724c?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Mar 26 |
-| **[Balise Motor Sales](http://baliseauto.com)** | **[Western, MA Automotive Business Analyst](https://jobright.ai/jobs/info/69c582f41b5ad0288737560c?utm_campaign=Business%20Analyst&utm_source=1103)** | BDS - Springfield, MA 01103 | On Site | Mar 26 |
-| ↳ | **[Western, MA Automotive Business Analyst](https://jobright.ai/jobs/info/69c582f31818a24cd84b6ebb?utm_campaign=Business%20Analyst&utm_source=1103)** | BDS - Springfield, MA 01103 | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
