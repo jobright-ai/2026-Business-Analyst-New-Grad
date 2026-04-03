@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d033a0366bb95ba551c996?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 03 |
+| **[Wiley X](https://www.wileyx.com)** | **[Business Systems & Reporting Analyst I](https://jobright.ai/jobs/info/69d02aa80b098b7a67077302?utm_campaign=Business%20Analyst&utm_source=1103)** | Wiley X Inc - Frisco, TX 75033 | On Site | Apr 03 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d01a26cdb525785fba759f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Apr 03 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69cfed1acdb525785fba5c2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 03 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69cfce6054f00230c6d0c796?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 03 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69cfcd8ccdb525785fba4c85?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
@@ -111,6 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69cf2b78cdb525785fb9f3bf?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 30 |
