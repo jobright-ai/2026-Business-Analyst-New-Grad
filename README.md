@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69cfed1acdb525785fba5c2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 03 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69cfce6054f00230c6d0c796?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 03 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69cfcd8ccdb525785fba4c85?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 03 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
