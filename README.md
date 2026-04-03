@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf02db891d7b11cfccf3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Apr 02 |
+| **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf1976cdb525785fb9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 02 |
+| ↳ | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf02db891d7b11cfccf3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Apr 02 |
 | **[KeyBank](https://www.key.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69cef372398fb071abf8b20e?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | Hybrid | Apr 02 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ceee84cdb525785fb9d251?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 02 |
 | **[Fiserv](http://www.fiserv.com)** | **[Corporate Analyst -Business Analyst](https://jobright.ai/jobs/info/69cee422366bb95ba5510b1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Apr 02 |
