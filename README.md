@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
+| **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
+| ↳ | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf1976cdb525785fb9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 02 |
 | ↳ | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf02db891d7b11cfccf3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Apr 02 |
 | **[KeyBank](https://www.key.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69cef372398fb071abf8b20e?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | Hybrid | Apr 02 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd9d91cfdc6132f941dad3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Mar 27 |
 | **[Wilson Elser](http://www.wilsonelser.com)** | **[Business Intake Coordinator](https://jobright.ai/jobs/info/69c6c2391b5ad02887386b63?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | Hybrid | Mar 27 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 27 |
-| **[DecisivEdge, LLC](https://www.decisivedge.com)** | **[Junior Healthcare BA](https://jobright.ai/jobs/info/69c68e4aaa3c2c1995e107b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, Delaware, United States | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
