@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69cfb3ba891d7b11cfcd542b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
@@ -84,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd9d91cfdc6132f941dad3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Mar 28 |
 | **[Crown Linen Service, Inc.](https://www.crownlinen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c711a3b773006330b75ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Mar 27 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c6f3d2e565c26a70024813?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Mar 27 |
-| **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
