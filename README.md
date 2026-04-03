@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf1976cdb525785fb9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 02 |
@@ -83,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd9d91cfdc6132f941dad3?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Fiserv](http://www.fiserv.com)** | **[Business Analysis, Analyst](https://jobright.ai/jobs/info/69cbebadcdb525785fb78af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Hagerstown, Maryland | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
@@ -124,15 +125,11 @@ For a complete list, click the following sortable link below:
 | **[Blue Star Partners](https://www.bluestarpartners.com/)** | **[Business Analyst (Recent Graduate)](https://jobright.ai/jobs/info/69caacc71b5ad028873a3e61?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | On Site | Mar 30 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69caacb3a8c1822476e1f16f?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | Mar 30 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69caa0a3aa3c2c1995e2e3ff?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | On Site | Mar 30 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab209d142d5b4265fc595b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 29 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Mar 28 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ab0ab27e1fab39d382982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Mar 28 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Mar 28 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control Analyst](https://jobright.ai/jobs/info/697273519b83b424830e62c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Perry, GA | On Site | Mar 28 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69cf662f891d7b11cfcd32a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC | Hybrid | Mar 27 |
 | **[Crown Linen Service, Inc.](https://www.crownlinen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69c711a3b773006330b75ac3?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Mar 27 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c6f3d2e565c26a70024813?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Mar 27 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69a9fc3f2ebd316bece1bb99?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Mar 27 |
-| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Mar 27 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69c6caf8b773006330b72f82?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
