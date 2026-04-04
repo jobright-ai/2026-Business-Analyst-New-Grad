@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69d1450c0b098b7a67080bbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 04 |
+| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/69d09e5acdb525785fbac35f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Apr 04 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d12786cdb525785fbb10a0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 04 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid), Line of Business](https://jobright.ai/jobs/info/69cace57e565c26a7004103e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 04 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 04 |
