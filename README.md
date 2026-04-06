@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d34e92891d7b11cfcefc24?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Apr 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, New York, United States | Hybrid | Apr 05 |
-| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/69d38ef9cdb525785fbc08f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Apr 05 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69d1450c0b098b7a67080bbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 04 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid), Line of Business](https://jobright.ai/jobs/info/69cace57e565c26a7004103e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 04 |
@@ -121,11 +120,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cb3766e565c26a70045a30?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69cf2b78cdb525785fb9f3bf?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Mar 30 |
-| **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
