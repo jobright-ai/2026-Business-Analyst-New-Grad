@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MUFG](http://www.mufg.jp/english/ourbrand/index.html)** | **[Analyst - Business Management, Global Corporate & Investment Banking](https://jobright.ai/jobs/info/69d3b720cfdc6132f9453215?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 06 |
+| **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d3acf4891d7b11cfcf2688?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Apr 06 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d34e92891d7b11cfcefc24?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Apr 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, New York, United States | Hybrid | Apr 05 |
@@ -127,6 +129,4 @@ For a complete list, click the following sortable link below:
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Mar 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cb0454e565c26a70043846?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | Hybrid | Mar 30 |
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/69cafa748fc6090c5d453801?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Mar 30 |
-| **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69caf0a58fc6090c5d452f49?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
-| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69caf0988fc6090c5d452ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville-MA | Hybrid | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
