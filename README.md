@@ -114,12 +114,11 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Associate Business Analyst – GenAI](https://jobright.ai/jobs/info/69cc7abce1921223acc761a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0463e0b098b7a6707808a?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d03700cfdc6132f9439908?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
-| **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc4ba6891d7b11cfcab95e?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc0dc1cfdc6132f940a1c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
@@ -130,7 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Ohio Department of Medicaid](http://medicaid.ohio.gov)** | **[Business Process Analyst 1 - Project Management Office](https://jobright.ai/jobs/info/69cafa748fc6090c5d453801?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH | On Site | Mar 30 |
 | **[Skechers](http://www.skechers.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69caf0a58fc6090c5d452f49?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan Beach, CA | On Site | Mar 30 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69caf0988fc6090c5d452ef4?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville-MA | Hybrid | Mar 30 |
-| **[Southern New Hampshire University](http://www.snhu.edu)** | **[ITS Business Operations Coordinator I](https://jobright.ai/jobs/info/69cad527e565c26a7004136f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Mar 30 |
-| **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cad276a8c1822476e208f7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Mar 30 |
-| **[BMO](http://www.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cac9f3aa3c2c1995e2ffa3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
