@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d50789cdb525785fbcdfb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | Apr 07 |
+| ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
 | **[NeighborHealth](https://www.neighborhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4ab27891d7b11cfcfc839?utm_campaign=Business%20Analyst&utm_source=1103)** | Revere, MA | On Site | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
@@ -100,12 +102,11 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69cdb09b891d7b11cfcbed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cd8bf9cfdc6132f941cdff?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home | Remote | Apr 01 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 01 |
 | **[Egon Zehnder](http://www.egonzehnder.com/)** | **[Business Analyst Program, Executive Search](https://jobright.ai/jobs/info/69ced1c4398fb071abf894c2?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Ottawa Metropolitan Area | Hybrid | Apr 01 |
-| **[Auto Glass Now](https://www.bestautoglassbeaumont.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69cd72eccfdc6132f9418c04?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - United States | Remote | Apr 01 |
 | **[Trinity Health](http://www.trinity-health.org)** | **[SO_Analyst Charge RIO_T3508](https://jobright.ai/jobs/info/69b0cb56749500645097c1ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Newtown, PA | Remote | Apr 01 |
 | **[NC Department of Health and Human Services](https://www.ncdhhs.gov/)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69cd8f06366bb95ba5500508?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Apr 01 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69cd3ba7891d7b11cfcb6d5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC | Hybrid | Apr 01 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0463e0b098b7a6707808a?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d03700cfdc6132f9439908?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
