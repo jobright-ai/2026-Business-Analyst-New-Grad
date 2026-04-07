@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/69d54b7dcfdc6132f9461219?utm_campaign=Business%20Analyst&utm_source=1103)** | Solano County, CA | On Site | Apr 07 |
 | **[Bellwether](https://www.bellwetheram.com)** | **[Analyst, Sustainability](https://jobright.ai/jobs/info/69d53df4cfdc6132f9460a91?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Apr 07 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst- Optum COVE](https://jobright.ai/jobs/info/69d52ac7706f771673ba0f74?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Apr 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 07 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69d1f5dacfdc6132f9447e5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Mar 31 |
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
-| **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
