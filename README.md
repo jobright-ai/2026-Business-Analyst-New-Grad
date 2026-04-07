@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NeighborHealth](https://www.neighborhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4ab27891d7b11cfcfc839?utm_campaign=Business%20Analyst&utm_source=1103)** | Revere, MA | On Site | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
 | **[Pacific Guardian Life](https://www.pacificguardian.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69d4751a891d7b11cfcfa8db?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Apr 06 |
-| **[Optum](https://www.optum.com/)** | **[Business Analyst- Optum COVE](https://jobright.ai/jobs/info/69d46c0154f00230c6d30cc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d4404254f00230c6d2f88c?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, South Carolina | On Site | Apr 06 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69d43a8ecdb525785fbc7adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 06 |
 | **[LTI (Logic Technology Inc.)](http://www.ltionline.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69d444b5891d7b11cfcf8f2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 06 |
@@ -127,7 +127,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b14?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
