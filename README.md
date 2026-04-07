@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bellwether](https://www.bellwetheram.com)** | **[Analyst, Sustainability](https://jobright.ai/jobs/info/69d53df4cfdc6132f9460a91?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Apr 07 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst- Optum COVE](https://jobright.ai/jobs/info/69d52ac7706f771673ba0f74?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Apr 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 07 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d515f9cdb525785fbce341?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ce417c366bb95ba5509a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Jurupa Valley, CA | On Site | Apr 02 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69c4aeb033eecf3107951874?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Apr 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Operations Analysis I/II](https://jobright.ai/jobs/info/69ce4054cdb525785fb958b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ventura, CA | On Site | Apr 02 |
-| **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69ce0a47cfdc6132f9423d9e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 01 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Business Analyst](https://jobright.ai/jobs/info/69d0971154f00230c6d1385b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Business Analyst, Operational Excellence & Strategy](https://jobright.ai/jobs/info/69cc935ecfdc6132f940ffe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | On Site | Mar 31 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
-| **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
