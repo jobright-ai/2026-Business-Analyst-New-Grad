@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
+| **[Pacific Guardian Life](https://www.pacificguardian.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69d4751a891d7b11cfcfa8db?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Apr 06 |
 | **[Optum](https://www.optum.com/)** | **[Business Analyst- Optum COVE](https://jobright.ai/jobs/info/69d46c0154f00230c6d30cc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Apr 06 |
-| **[LTI (Logic Technology Inc.)](http://www.ltionline.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69d444b5891d7b11cfcf8f2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d4404254f00230c6d2f88c?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, South Carolina | On Site | Apr 06 |
 | **[Accenture](https://www.accenture.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69d43a8ecdb525785fbc7adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 06 |
+| **[LTI (Logic Technology Inc.)](http://www.ltionline.com)** | **[Business Process Delivery Analyst](https://jobright.ai/jobs/info/69d444b5891d7b11cfcf8f2f?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 06 |
 | **[Nordstrom](http://www.nordstrom.com)** | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d424dccfdc6132f945829b?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
 | ↳ | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d41bb354f00230c6d2dfda?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 06 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Driven Brands Inc.](http://www.drivenbrands.com/)** | **[Analyst, Operational Analytics](https://jobright.ai/jobs/info/69ce0a47cfdc6132f9423d9e?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Apr 01 |
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Business Analyst](https://jobright.ai/jobs/info/69d0971154f00230c6d1385b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/69d4791e891d7b11cfcfabe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Lansing, MI | Hybrid | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69cdb09b891d7b11cfcbed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cdac47cfdc6132f941e423?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive) | On Site | Apr 01 |
@@ -127,6 +130,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfe19e1921223acc735f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd4dcfdc6132f9409b13?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Mar 31 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cbfd3c8130af1ac8335eab?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Mar 31 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
-| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
+| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d029a9cdb525785fba7c55?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
+| ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0298e366bb95ba551bbf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, ID | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
