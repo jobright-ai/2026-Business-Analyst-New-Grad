@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5897dcdb525785fbd1a5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY | Hybrid | Apr 07 |
+| **[Citi](https://www.citi.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69d581accfdc6132f9462dcd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 07 |
 | **[Randstad Enterprise](https://www.randstadenterprise.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69d57491706f771673ba34f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst (Secret)](https://jobright.ai/jobs/info/69d570aae63cea7a8b661533?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Apr 07 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d56acdcfdc6132f946223e?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Apr 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst (Secret)](https://jobright.ai/jobs/info/69d568a6366bb95ba5544d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Apr 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5602ecfdc6132f9461b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538c366bb95ba554422b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538a706f771673ba2392?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Apr 07 |
 | **[KeyBank](https://www.key.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5533e366bb95ba55440f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY | Hybrid | Apr 07 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d41bb354f00230c6d2dfda?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 06 |
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4e94fe63cea7a8b65db71?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Apr 06 |
+| **[Crown Linen Service, Inc.](https://www.crownlinen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d58523e63cea7a8b661f17?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Apr 06 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d3acf4891d7b11cfcf2688?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Apr 06 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, New York, United States | Hybrid | Apr 05 |
@@ -94,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 04 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 04 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69d4f6a0706f771673b9fcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 04 |
+| **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69d586efcdb525785fbd18f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 03 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d04d70cfdc6132f943a654?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 03 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d01a26cdb525785fba759f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Apr 03 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Tr 2 (SG-16), Business Systems Analyst Tr 1 (SG-14) (NYHELPS) Item# 03751](https://jobright.ai/jobs/info/69d04a74cdb525785fba95d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 03 |
@@ -122,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Prophix](http://www.prophix.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ccb188366bb95ba54f54d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, ON | Hybrid | Apr 01 |
 | **[Legends Global](http://legends.net)** | **[Manager, Business Intelligence (SoFi Stadium)](https://jobright.ai/jobs/info/69c794d51b5ad0288738e37b?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 01 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf702c54f00230c6d0a2fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Apr 01 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
