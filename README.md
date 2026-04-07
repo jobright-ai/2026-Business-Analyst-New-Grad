@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d515f9cdb525785fbce341?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
+| ↳ | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d50789cdb525785fbcdfb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | Apr 07 |
 | ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
-| **[NeighborHealth](https://www.neighborhealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4ab27891d7b11cfcfc839?utm_campaign=Business%20Analyst&utm_source=1103)** | Revere, MA | On Site | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
 | **[Pacific Guardian Life](https://www.pacificguardian.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69d4751a891d7b11cfcfa8db?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | On Site | Apr 06 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d4404254f00230c6d2f88c?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, South Carolina | On Site | Apr 06 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Tr 2 (SG-16), Business Systems Analyst Tr 1 (SG-14) (NYHELPS) Item# 03751](https://jobright.ai/jobs/info/69d04a74cdb525785fba95d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 | ↳ | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf4092cdb525785fba0b29?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69cf1976cdb525785fb9eb2a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceba0554f00230c6d023a7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 02 |
 | ↳ | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceb9eb366bb95ba550e679?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, New Jersey, United States of America | Hybrid | Apr 02 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 02 |
@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Business Analyst](https://jobright.ai/jobs/info/69d0971154f00230c6d1385b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 01 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
-| **[Blue Cross of Idaho](https://www.bcidaho.com/)** | **[Business Analyst I/II](https://jobright.ai/jobs/info/69cdb09b891d7b11cfcbed17?utm_campaign=Business%20Analyst&utm_source=1103)** | Meridian - Main | Hybrid | Apr 01 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analytics - Associate](https://jobright.ai/jobs/info/69cda5b254f00230c6cf50af?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | On Site | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
@@ -119,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Mar 31 |
 | **[Farmers Insurance](https://www.farmers.com)** | **[Sr Assoc Business Solutions Analyst](https://jobright.ai/jobs/info/69cc7c3e891d7b11cfcaca2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ | Hybrid | Mar 31 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69cca2ff366bb95ba54f46de?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Mar 31 |
-| **[Marvell Technology](https://www.marvell.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d0463e0b098b7a6707808a?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, VT | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
