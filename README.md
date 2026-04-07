@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Optum](https://www.optum.com/)** | **[Business Analyst- Optum COVE](https://jobright.ai/jobs/info/69d52ac7706f771673ba0f74?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | Hybrid | Apr 07 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 07 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d515f9cdb525785fbce341?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
 | ↳ | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
+| **[Ford Pro](https://www.fordpro.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69d53262e63cea7a8b65f626?utm_campaign=Business%20Analyst&utm_source=1103)** | 2001 15th St, Detroit, MI, 48216, US | Hybrid | Apr 07 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d50789cdb525785fbcdfb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | Apr 07 |
 | ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 04 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69d4f6a0706f771673b9fcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 04 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d04d70cfdc6132f943a654?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 03 |
-| **[Wiley X](https://www.wileyx.com)** | **[Business Systems & Reporting Analyst I](https://jobright.ai/jobs/info/69d02aa80b098b7a67077302?utm_campaign=Business%20Analyst&utm_source=1103)** | Wiley X Inc - Frisco, TX 75033 | On Site | Apr 03 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d01a26cdb525785fba759f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Apr 03 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Tr 2 (SG-16), Business Systems Analyst Tr 1 (SG-14) (NYHELPS) Item# 03751](https://jobright.ai/jobs/info/69d04a74cdb525785fba95d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
