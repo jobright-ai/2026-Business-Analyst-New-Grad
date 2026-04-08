@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d68e5f366bb95ba554d623?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 08 |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d689a0cfdc6132f946a74a?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Springhill Medical Center (Mobile, AL) | On Site | Apr 08 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d671d2706f771673baab47?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office | Hybrid | Apr 08 |
 | **[Unum](http://www.unum.com)** | **[IT Associate - Business Analyst](https://jobright.ai/jobs/info/69d6652de63cea7a8b668a65?utm_campaign=Business%20Analyst&utm_source=1103)** | Chattanooga, TN | On Site | Apr 08 |
 | **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[IT Associate - Business Analyst](https://jobright.ai/jobs/info/69d65c37cfdc6132f94698dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Chattanooga, Tennessee, USA | On Site | Apr 08 |
@@ -68,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d56acdcfdc6132f946223e?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Apr 07 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst (Secret)](https://jobright.ai/jobs/info/69d568a6366bb95ba5544d75?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | Apr 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5602ecfdc6132f9461b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538c366bb95ba554422b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538a706f771673ba2392?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Apr 07 |
 | **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/69d54b7dcfdc6132f9461219?utm_campaign=Business%20Analyst&utm_source=1103)** | Solano County, CA | On Site | Apr 07 |
@@ -83,7 +85,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d424dccfdc6132f945829b?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
+| **[Nordstrom](http://www.nordstrom.com)** | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d6902d52a5bf5800129854?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 06 |
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4e94fe63cea7a8b65db71?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Apr 06 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d3acf4891d7b11cfcf2688?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Apr 06 |
