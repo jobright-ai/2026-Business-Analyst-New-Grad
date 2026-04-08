@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNUM GROUP](https://www.linkedin.com/company/57075544)** | **[IT Associate - Business Analyst](https://jobright.ai/jobs/info/69d65c37cfdc6132f94698dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Chattanooga, Tennessee, USA | On Site | Apr 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ccd174891d7b11cfcb3f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Apr 08 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 08 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d58f0c891d7b11cfd02f14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Apr 07 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d6178ea5c9786095e4955a?utm_campaign=Business%20Analyst&utm_source=1103)** | Brockton, MA | On Site | Apr 06 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, New York, United States | Hybrid | Apr 05 |
-| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/69d5d4b14a12eb12c5e13af2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Apr 04 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Apr 04 |
 | **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69d1450c0b098b7a67080bbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 04 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid), Line of Business](https://jobright.ai/jobs/info/69cace57e565c26a7004103e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 04 |
@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cde380cfdc6132f9420db3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 01 |
 | **[Mutual of Omaha](http://www.mutualofomaha.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cdb98dcdb525785fb8e0d1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 01 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 01 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69cd92b254f00230c6cf428e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago - Illinois - Wacker | On Site | Apr 01 |
-| **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
