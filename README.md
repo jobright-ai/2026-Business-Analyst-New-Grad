@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ccd174891d7b11cfcb3f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Creve Coeur, MO | On Site | Apr 08 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 08 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d58f0c891d7b11cfd02f14?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Apr 07 |
 | **[KeyBank](https://www.key.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d58a71cfdc6132f9463129?utm_campaign=Business%20Analyst&utm_source=1103)** | Brooklyn, OH | Hybrid | Apr 07 |
