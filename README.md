@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altera Digital Health APAC](apac.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d6b73352a5bf580012b53a?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 08 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d6b609366bb95ba554f2c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | Apr 08 |
 | **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Tr 2 (SG-16), Business Systems Analyst Tr 1 (SG-14) (NYHELPS) Item# 03751](https://jobright.ai/jobs/info/69d04a74cdb525785fba95d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 08 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d6a58c52a5bf580012a10f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 08 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL](https://jobright.ai/jobs/info/69d6a4a6cfdc6132f946b1ec?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-Illinois-Rolling Meadows | On Site | Apr 08 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69c4aeb033eecf3107951874?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Apr 02 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Business Operations Analysis I/II](https://jobright.ai/jobs/info/69ce4054cdb525785fb958b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Ventura, CA | On Site | Apr 02 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d5e85acfdc6132f94671d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 01 |
-| **[TT Electronics plc](http://www.ttelectronics.com/welwyn)** | **[Business Analyst](https://jobright.ai/jobs/info/69d0971154f00230c6d1385b?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN | Hybrid | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
