@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Apr 08 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d68e5f366bb95ba554d623?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 08 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d689a0cfdc6132f946a74a?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Springhill Medical Center (Mobile, AL) | On Site | Apr 08 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d671d2706f771673baab47?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office | Hybrid | Apr 08 |
@@ -80,12 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 07 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d515f9cdb525785fbce341?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
 | ↳ | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 07 |
-| **[Ford Pro](https://www.fordpro.com)** | **[Business Solutions Analyst - Data & Projects](https://jobright.ai/jobs/info/69d53262e63cea7a8b65f626?utm_campaign=Business%20Analyst&utm_source=1103)** | 2001 15th St, Detroit, MI, 48216, US | Hybrid | Apr 07 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d50789cdb525785fbcdfb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Possible | On Site | Apr 07 |
 | ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
-| **[Nordstrom](http://www.nordstrom.com)** | **[Business Analyst - Inventory Integrity & Quality Assurance - West Coast Omni Center](https://jobright.ai/jobs/info/69d6902d52a5bf5800129854?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverside, CA | On Site | Apr 06 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 06 |
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4e94fe63cea7a8b65db71?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Apr 06 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d3acf4891d7b11cfcf2688?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Apr 06 |
@@ -93,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 05 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69993db8e0bddb6acac8541b?utm_campaign=Business%20Analyst&utm_source=1103)** | Manhattan, New York, United States | Hybrid | Apr 05 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | Hybrid | Apr 04 |
-| **[Optum](https://www.optum.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/69d1450c0b098b7a67080bbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 04 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid), Line of Business](https://jobright.ai/jobs/info/69cace57e565c26a7004103e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 04 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 04 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 04 |
