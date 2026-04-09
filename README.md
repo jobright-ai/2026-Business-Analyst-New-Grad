@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d7f3aa9f97a42dc9c1928a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee | On Site | Apr 09 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d7f39ab67cec4f9b0996a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee | On Site | Apr 09 |
 | **[Roastar](https://www.roastar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d7f02f738f2f099e899556?utm_campaign=Business%20Analyst&utm_source=1103)** | Wausau, WI | Hybrid | Apr 09 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Analyst - LPS (Limited Partner Services)](https://jobright.ai/jobs/info/69d7d0d2869c7e25d859142b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | On Site | Apr 09 |
