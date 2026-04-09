@@ -112,6 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/69d5e838366bb95ba5549da6?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 02 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69d5e0874a12eb12c5e1446d?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 02 |
 | ↳ | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69d525ec891d7b11cfcff973?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Apr 02 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceba0554f00230c6d023a7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 02 |
-| ↳ | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceb9eb366bb95ba550e679?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, New Jersey, United States of America | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
