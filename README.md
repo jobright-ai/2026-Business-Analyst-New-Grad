@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/69d7123452a5bf580012da3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | Apr 08 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Generation Reshaping/Very Large Customer](https://jobright.ai/jobs/info/69d707bfcfdc6132f946e80b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 08 |
 | **[Harris Computer Systems](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d70566e63cea7a8b66d7fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 08 |
 | **[Morgan Stanley](http://www.morganstanley.com)** | **[IBD Desk Strat - Associate, Vice President](https://jobright.ai/jobs/info/69b19d47548f140066e76e7b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 08 |
@@ -95,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69d506ec366bb95ba55422ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Apr 07 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 07 |
 | **[Movement Mortgage](https://movement.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d47c45366bb95ba553e208?utm_campaign=Business%20Analyst&utm_source=1103)** | Indian Land, SC | On Site | Apr 06 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d71c6152a5bf580012de67?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON | On Site | Apr 06 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 06 |
 | **[Crown Uniform & Linen Service](https://crownuniform.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69d4e94fe63cea7a8b65db71?utm_campaign=Business%20Analyst&utm_source=1103)** | 309 Battles Street, Brockton, MA, USA | On Site | Apr 06 |
 | **[Scotlynn](http://scotlynn.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d3acf4891d7b11cfcf2688?utm_campaign=Business%20Analyst&utm_source=1103)** | Vittoria, ON | On Site | Apr 06 |
@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/69d525ec891d7b11cfcff973?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois | Hybrid | Apr 02 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceba0554f00230c6d023a7?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, New Jersey, United States of America | Hybrid | Apr 02 |
 | ↳ | **[Business Analyst, Supply Chain Excellence](https://jobright.ai/jobs/info/69ceb9eb366bb95ba550e679?utm_campaign=Business%20Analyst&utm_source=1103)** | Raritan, New Jersey, United States of America | Hybrid | Apr 02 |
-| **[Ventura Foods](http://www.venturafoods.com/)** | **[Salesforce Service Cloud Business Analyst](https://jobright.ai/jobs/info/69ce4d0d54f00230c6cfe48e?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
