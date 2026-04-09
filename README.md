@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Roastar](https://www.roastar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d7f02f738f2f099e899556?utm_campaign=Business%20Analyst&utm_source=1103)** | Wausau, WI | Hybrid | Apr 09 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
-| **[National Fuel Gas Company](https://www.nationalfuel.com/)** | **[Business Analyst - Williamsville, NY](https://jobright.ai/jobs/info/69d7d11cf4ea471a51fe16e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Apr 09 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Analyst - LPS (Limited Partner Services)](https://jobright.ai/jobs/info/69d7d0d2869c7e25d859142b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | On Site | Apr 09 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 09 |
 | **[VIR Properties](https://www.linkedin.com/company/109510125)** | **[Business Analyst at VIR Properties](https://jobright.ai/jobs/info/69d783bdcfdc6132f94735af?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, United States | On Site | Apr 09 |
