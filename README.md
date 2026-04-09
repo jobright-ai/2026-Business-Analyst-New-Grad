@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d817b0b861c42857c48a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Marysville, OH | On Site | Apr 09 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d80fd9738f2f099e89a798?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 09 |
 | **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Junior Business Analyst - Maryland](https://jobright.ai/jobs/info/69d807efb861c42857c47ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD, US | On Site | Apr 09 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d7f3aa9f97a42dc9c1928a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee | On Site | Apr 09 |
@@ -116,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69d4f6a0706f771673b9fcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 04 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d04d70cfdc6132f943a654?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 03 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d01a26cdb525785fba759f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Apr 03 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
