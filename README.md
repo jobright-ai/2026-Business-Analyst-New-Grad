@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d817b0b861c42857c48a5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Marysville, OH | On Site | Apr 09 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d80fd9738f2f099e89a798?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 09 |
 | **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Junior Business Analyst - Maryland](https://jobright.ai/jobs/info/69d807efb861c42857c47ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD, US | On Site | Apr 09 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d7f3aa9f97a42dc9c1928a?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee | On Site | Apr 09 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d7f39ab67cec4f9b0996a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee | On Site | Apr 09 |
-| **[Roastar](https://www.roastar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d7f02f738f2f099e899556?utm_campaign=Business%20Analyst&utm_source=1103)** | Wausau, WI | Hybrid | Apr 09 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
+| **[Roastar](https://www.roastar.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d7f02f738f2f099e899556?utm_campaign=Business%20Analyst&utm_source=1103)** | Wausau, WI | Hybrid | Apr 09 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Analyst - LPS (Limited Partner Services)](https://jobright.ai/jobs/info/69d7d0d2869c7e25d859142b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | On Site | Apr 09 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 09 |
 | **[VIR Properties](https://www.linkedin.com/company/109510125)** | **[Business Analyst at VIR Properties](https://jobright.ai/jobs/info/69d783bdcfdc6132f94735af?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, United States | On Site | Apr 09 |
@@ -115,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d04d70cfdc6132f943a654?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 03 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69d01a26cdb525785fba759f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp | On Site | Apr 03 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Business Operations Analyst – Temp (SFD / Story and Franchise Development)](https://jobright.ai/jobs/info/69cf5d2c54f00230c6d093b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | Hybrid | Apr 02 |
-| **[Equitable](https://equitable.com/)** | **[New Business Manager](https://jobright.ai/jobs/info/69d5e838366bb95ba5549da6?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
