@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 09 |
 | **[National Fuel Gas Company](https://www.nationalfuel.com/)** | **[Business Analyst - Williamsville, NY](https://jobright.ai/jobs/info/69d7d11cf4ea471a51fe16e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Williamsville, NY | Hybrid | Apr 09 |
 | **[Alpha FMC](http://alphafmc.com)** | **[Analyst - LPS (Limited Partner Services)](https://jobright.ai/jobs/info/69d7d0d2869c7e25d859142b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto | On Site | Apr 09 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON | On Site | Apr 09 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad Enterprise](https://www.randstadenterprise.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69d57491706f771673ba34f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d56acdcfdc6132f946223e?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Apr 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5602ecfdc6132f9461b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538c366bb95ba554422b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538a706f771673ba2392?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Apr 07 |
 | **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/69d54b7dcfdc6132f9461219?utm_campaign=Business%20Analyst&utm_source=1103)** | Solano County, CA | On Site | Apr 07 |
