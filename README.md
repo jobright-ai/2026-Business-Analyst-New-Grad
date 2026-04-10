@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/Business Systems Analyst 2/Business Systems Analyst 3/Sr Business Systems Analyst](https://jobright.ai/jobs/info/69d90991b67cec4f9b09fa6b?utm_campaign=Business%20Analyst&utm_source=1103)** | 925 White Oaks Blvd, Bridgeport, WV, 26330, US | On Site | Apr 10 |
+| **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 10 |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 10 |
 | **[Sciens Logistics](www.scienslogistics.com/)** | **[BUSINESS PROCESS ANALYST / Deerfield Beach, FL (On-Site)](https://jobright.ai/jobs/info/69d8b26b738f2f099e89e409?utm_campaign=Business%20Analyst&utm_source=1103)** | Deerfield Beach, FL | On Site | Apr 10 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69d87bfdf4ea471a51fe62b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Apr 09 |
 | **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d87832869c7e25d8595e82?utm_campaign=Business%20Analyst&utm_source=1103)** | TN | On Site | Apr 09 |
