@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sciens Logistics](www.scienslogistics.com/)** | **[BUSINESS PROCESS ANALYST / Deerfield Beach, FL (On-Site)](https://jobright.ai/jobs/info/69d8b26b738f2f099e89e409?utm_campaign=Business%20Analyst&utm_source=1103)** | Deerfield Beach, FL | On Site | Apr 10 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69d87bfdf4ea471a51fe62b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Apr 09 |
 | **[RiskSolutions](https://www.risksolutions.be)** | **[Business Analyst I](https://jobright.ai/jobs/info/69d87832869c7e25d8595e82?utm_campaign=Business%20Analyst&utm_source=1103)** | TN | On Site | Apr 09 |
 | **[Live! Casino & Hotel Maryland](https://maryland.livecasinohotel.com)** | **[Junior Business Analyst - Maryland](https://jobright.ai/jobs/info/69d83724738f2f099e89b69d?utm_campaign=Business%20Analyst&utm_source=1103)** | Hanover, MD | On Site | Apr 09 |
