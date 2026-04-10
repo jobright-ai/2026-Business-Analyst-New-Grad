@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad Enterprise](https://www.randstadenterprise.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69d57491706f771673ba34f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d56acdcfdc6132f946223e?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Apr 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5602ecfdc6132f9461b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538c366bb95ba554422b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538a706f771673ba2392?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Apr 07 |
 | **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/69d54b7dcfdc6132f9461219?utm_campaign=Business%20Analyst&utm_source=1103)** | Solano County, CA | On Site | Apr 07 |
@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 04 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 04 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/69d4f6a0706f771673b9fcf7?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 04 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d04d70cfdc6132f943a654?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
