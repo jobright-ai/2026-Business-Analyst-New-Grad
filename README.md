@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/69d9192ff748bc5d08a48a53?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | On Site | Apr 10 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/Business Systems Analyst 2/Business Systems Analyst 3/Sr Business Systems Analyst](https://jobright.ai/jobs/info/69d90991b67cec4f9b09fa6b?utm_campaign=Business%20Analyst&utm_source=1103)** | 925 White Oaks Blvd, Bridgeport, WV, 26330, US | On Site | Apr 10 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 10 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 10 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Randstad Enterprise](https://www.randstadenterprise.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69d57491706f771673ba34f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 07 |
 | **[Cerberus Capital Management](http://www.cerberus.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69d56acdcfdc6132f946223e?utm_campaign=Business%20Analyst&utm_source=1103)** | NYC Metro Area | On Site | Apr 07 |
 | **[HarbourVest Partners](http://www.harbourvest.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5602ecfdc6132f9461b11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston | Hybrid | Apr 07 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d5538de63cea7a8b660569?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | Apr 07 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538dcdb525785fbcfea9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538c366bb95ba554422b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | On Site | Apr 07 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69d5538a706f771673ba2392?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | On Site | Apr 07 |
 | **[State Compensation Insurance Fund](https://www.statefundca.com/)** | **[Business Services Assistant](https://jobright.ai/jobs/info/69d54b7dcfdc6132f9461219?utm_campaign=Business%20Analyst&utm_source=1103)** | Solano County, CA | On Site | Apr 07 |
