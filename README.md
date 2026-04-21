@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 21 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 21 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e71c8e3aa0c47964396df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 18 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 | **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 18 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 17 |
 | **[Zachary Piper Solutions](http://zacharypiper.com/)** | **[Banking Business Analyst](https://jobright.ai/jobs/info/69e32fb53770bd5361cdad32?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | Apr 17 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69e651203aa0c47964393308?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 17 |
 | **[Global Partners LP](http://www.globalp.com)** | **[IT Business Analyst, Salesforce](https://jobright.ai/jobs/info/69e2db46be46fa3a4ef592ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Apr 17 |
@@ -119,7 +119,4 @@ For a complete list, click the following sortable link below:
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcf0114bf245fc7a6de84?utm_campaign=Business%20Analyst&utm_source=1103)** | Ohio | Hybrid | Apr 15 |
 | ↳ | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcda6433ac8430e0e253b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | Hybrid | Apr 15 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d6a58c52a5bf580012a10f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 15 |
-| **[Baker Tilly US](http://www.bakertilly.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69debda2aba61f141731779e?utm_campaign=Business%20Analyst&utm_source=1103)** | Georgia, United States | On Site | Apr 14 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69deb9825913ad339813f219?utm_campaign=Business%20Analyst&utm_source=1103)** | Iowa, United States | On Site | Apr 14 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69deb9685913ad339813f1a5?utm_campaign=Business%20Analyst&utm_source=1103)** | West Virginia, United States | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
