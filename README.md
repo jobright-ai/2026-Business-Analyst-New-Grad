@@ -75,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e653619b6eb37e26f7f788?utm_campaign=Business%20Analyst&utm_source=1103)** | MN, City - Remote MN | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533f3aa0c479643934ff?utm_campaign=Business%20Analyst&utm_source=1103)** | NE, City - Remote NE | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533ef8fa2f3ec32a0fbd?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Bismarck | Remote | Apr 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e31?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e30?utm_campaign=Business%20Analyst&utm_source=1103)** | WI, City - Remote WI | Remote | Apr 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e31?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6532c7820c036924cf9a2?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e65300e0cd471b2f124e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | IA, City - Remote IA | Remote | Apr 20 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69e6493f9b6eb37e26f7f0c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas | On Site | Apr 20 |
@@ -111,6 +111,8 @@ For a complete list, click the following sortable link below:
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e110706c20aa114953f3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Whitestown IN 46075 | On Site | Apr 16 |
+| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Business Systems Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/69e60cfbe0cd471b2f123627?utm_campaign=Business%20Analyst&utm_source=1103)** | South Medford Support Services, Medford, OR, US | On Site | Apr 15 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 15 |
