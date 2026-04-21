@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 21 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 21 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 21 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e653619b6eb37e26f7f788?utm_campaign=Business%20Analyst&utm_source=1103)** | MN, City - Remote MN | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533f3aa0c479643934ff?utm_campaign=Business%20Analyst&utm_source=1103)** | NE, City - Remote NE | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533ef8fa2f3ec32a0fbd?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Bismarck | Remote | Apr 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e30?utm_campaign=Business%20Analyst&utm_source=1103)** | WI, City - Remote WI | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e31?utm_campaign=Business%20Analyst&utm_source=1103)** | SD, City - Remote SD | Remote | Apr 20 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6533c3cfd986aa6f84e30?utm_campaign=Business%20Analyst&utm_source=1103)** | WI, City - Remote WI | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e6532c7820c036924cf9a2?utm_campaign=Business%20Analyst&utm_source=1103)** | ND, Fargo | Remote | Apr 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e65300e0cd471b2f124e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | IA, City - Remote IA | Remote | Apr 20 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69e6493f9b6eb37e26f7f0c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas | On Site | Apr 20 |
