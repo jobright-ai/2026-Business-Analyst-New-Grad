@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7fe1158811370cb11fbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69e7e20058811370cb11efb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Apr 21 |
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
 | **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/69e7db14e0cd471b2f12db70?utm_campaign=Business%20Analyst&utm_source=1103)** | Minnesota, United States | Remote | Apr 21 |
 | ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/69e7db137820c036924d8832?utm_campaign=Business%20Analyst&utm_source=1103)** | Wisconsin, United States | Remote | Apr 21 |
-| ↳ | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/69e7db033aa0c4796439c183?utm_campaign=Business%20Analyst&utm_source=1103)** | South Dakota, United States | Remote | Apr 21 |
+| **[Osprey Management](https://www.osprey-management.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7fddbe0cd471b2f12eafb?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV | On Site | Apr 21 |
 | **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cad276a8c1822476e208f7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 21 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 21 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e110706c20aa114953f3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Whitestown IN 46075 | On Site | Apr 16 |
-| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
+| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Business Systems Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/69e60cfbe0cd471b2f123627?utm_campaign=Business%20Analyst&utm_source=1103)** | South Medford Support Services, Medford, OR, US | On Site | Apr 15 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 15 |
@@ -118,7 +119,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69dfe33614bf245fc7a6e551?utm_campaign=Business%20Analyst&utm_source=1103)** | 80 Arkay Dr, Hauppauge, NY 11788, USA | On Site | Apr 15 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69dfe32eaba61f141731df99?utm_campaign=Business%20Analyst&utm_source=1103)** | 8480 E Orchard Rd, Greenwood Village, CO 80111, USA | On Site | Apr 15 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69dfe3255913ad339814643f?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 Easton Oval, Columbus, OH 43219, USA | On Site | Apr 15 |
-| **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69e7e7bee0cd471b2f12e235?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ | Hybrid | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcf0114bf245fc7a6de84?utm_campaign=Business%20Analyst&utm_source=1103)** | Ohio | Hybrid | Apr 15 |
 | ↳ | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcda6433ac8430e0e253b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | Hybrid | Apr 15 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d6a58c52a5bf580012a10f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 15 |
