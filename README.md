@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69e8196c3aa0c4796439de52?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7fe1158811370cb11fbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69e7e20058811370cb11efb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Apr 21 |
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Wilson Elser](http://www.wilsonelser.com)** | **[Business Intake Coordinator](https://jobright.ai/jobs/info/69c6c2391b5ad02887386b63?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | Hybrid | Apr 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 18 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
-| **[Moelis & Company](http://moelis.com)** | **[Business Management , Private Equity Solutions Group, Business Analyst - New York](https://jobright.ai/jobs/info/69a7c38f637232443f651f62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Apr 18 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69e651203aa0c47964393308?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 17 |
 | **[Global Partners LP](http://www.globalp.com)** | **[IT Business Analyst, Salesforce](https://jobright.ai/jobs/info/69e2db46be46fa3a4ef592ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Apr 17 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69e4c1567820c036924cbc95?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | Apr 17 |
