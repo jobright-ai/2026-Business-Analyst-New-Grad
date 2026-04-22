@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e92dbee0cd471b2f13b95d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 22 |
+| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/69e92cb37820c036924e6350?utm_campaign=Business%20Analyst&utm_source=1103)** | ADVENTHEALTH HEADQUARTERS, US | On Site | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69e9040b58811370cb129eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid), US | Hybrid | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Apr 22 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Apr 22 |
