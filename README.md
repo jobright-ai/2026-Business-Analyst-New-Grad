@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Maricopa County](http://www.maricopa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69e9046c3aa0c479643a684b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2901 W Durango St, Phoenix, AZ 85009, US | Hybrid | Apr 22 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e9040b58811370cb129eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid), US | Hybrid | Apr 22 |
+| **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69e9040b58811370cb129eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid), US | Hybrid | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Apr 22 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Apr 22 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6caf8b773006330b72f82?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d5ceab706f771673ba6e31?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 18 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 18 |
-| **[Wilson Elser](http://www.wilsonelser.com)** | **[Business Intake Coordinator](https://jobright.ai/jobs/info/69c6c2391b5ad02887386b63?utm_campaign=Business%20Analyst&utm_source=1103)** | White Plains, NY | Hybrid | Apr 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 18 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69e651203aa0c47964393308?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 17 |
@@ -108,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e110706c20aa114953f3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Whitestown IN 46075 | On Site | Apr 16 |
-| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
+| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
