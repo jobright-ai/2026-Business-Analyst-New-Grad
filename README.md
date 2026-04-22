@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e241353ce36005badbdad4?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | Hybrid | Apr 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e241162f2865359307620b?utm_campaign=Business%20Analyst&utm_source=1103)** | ${34271}-Remote), UNAVAILABLE, Hidden (${12781} | Remote | Apr 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e24114be46fa3a4ef56bb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | Hybrid | Apr 17 |
-| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69e3936091e75b75f04efbb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA | On Site | Apr 17 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Apr 17 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e443421ec29c5920b965ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Whitestown, IN | On Site | Apr 16 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/69e1834d40a62c1fa93b8c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
@@ -120,5 +119,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69dfe3255913ad339814643f?utm_campaign=Business%20Analyst&utm_source=1103)** | 2 Easton Oval, Columbus, OH 43219, USA | On Site | Apr 15 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcf0114bf245fc7a6de84?utm_campaign=Business%20Analyst&utm_source=1103)** | Ohio | Hybrid | Apr 15 |
 | ↳ | **[Aspire Graduate Go-To-Market Business Analyst (Large Law)](https://jobright.ai/jobs/info/69dfcda6433ac8430e0e253b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dayton, OH | Hybrid | Apr 15 |
-| **[Altera Digital Health](http://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/69d6a58c52a5bf580012a10f?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
