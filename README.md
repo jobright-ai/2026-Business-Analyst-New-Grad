@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maricopa County](http://www.maricopa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69e9046c3aa0c479643a684b?utm_campaign=Business%20Analyst&utm_source=1103)** | 2901 W Durango St, Phoenix, AZ 85009, US | Hybrid | Apr 22 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e9040b58811370cb129eff?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ (Hybrid), US | Hybrid | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Apr 22 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Apr 22 |
