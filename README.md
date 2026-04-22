@@ -57,13 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69e8196c3aa0c4796439de52?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | On Site | Apr 21 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7fe1158811370cb11fbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69e7e20058811370cb11efb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Apr 21 |
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
 | **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cad276a8c1822476e208f7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69e8b3f00a6e095553035d00?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Apr 21 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69e8b350e0cd471b2f137723?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 21 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
@@ -71,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 21 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e71c8e3aa0c47964396df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69e6e3553cfd986aa6f87dc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 20 |
-| **[Sanford Health](http://www.sanfordhealth.org)** | **[Business Analyst - Health Plan](https://jobright.ai/jobs/info/69e6d54a9b6eb37e26f823c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Bismarck, ND | Remote | Apr 20 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6d4ad3aa0c47964396052?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA 90040 | Hybrid | Apr 20 |
 | **[Osprey Management](https://www.osprey-management.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e73952f8fa2f3ec32a6a7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas,NV,US | On Site | Apr 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6a95a7820c036924d1c72?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
@@ -110,5 +106,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Business Systems Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/69e60cfbe0cd471b2f123627?utm_campaign=Business%20Analyst&utm_source=1103)** | South Medford Support Services, Medford, OR, US | On Site | Apr 15 |
-| **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
