@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/69d1f5dacfdc6132f9447e5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | Apr 22 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7fe1158811370cb11fbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69e7e20058811370cb11efb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Apr 21 |
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e241162f2865359307620b?utm_campaign=Business%20Analyst&utm_source=1103)** | ${34271}-Remote), UNAVAILABLE, Hidden (${12781} | Remote | Apr 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e24114be46fa3a4ef56bb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | Hybrid | Apr 17 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Apr 17 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e443421ec29c5920b965ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Whitestown, IN | On Site | Apr 16 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/69e1834d40a62c1fa93b8c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/69e182fcacc736112f5c3ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69e15419d612782e6114822d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON | On Site | Apr 16 |
