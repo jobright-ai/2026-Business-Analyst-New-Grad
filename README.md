@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of Michigan](https://www.umich.edu)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69e95d55e0cd471b2f13d05a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Apr 22 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Lead Business Analyst – Insurity Center of Excellence (CoE)](https://jobright.ai/jobs/info/69e96133e0cd471b2f13d11e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst/Change Management Analyst](https://jobright.ai/jobs/info/69e9507858811370cb12c9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Apr 22 |
+| **[University of Michigan](https://www.umich.edu)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69e95d55e0cd471b2f13d05a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Apr 22 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e9641458811370cb12d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 22 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e961160a6e09555303b906?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 22 |
+| ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/69e92cb37820c036924e6350?utm_campaign=Business%20Analyst&utm_source=1103)** | ADVENTHEALTH HEADQUARTERS, US | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e92dbee0cd471b2f13b95d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | Hybrid | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
@@ -113,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e110706c20aa114953f3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Whitestown IN 46075 | On Site | Apr 16 |
-| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
+| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
