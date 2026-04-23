@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea4b5c7820c036924ecccb?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Nassau (East Meadow, NY), US | On Site | Apr 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
@@ -83,11 +84,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
 | **[RVO Health](https://rvohealth.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/69c714191b5ad02887389f48?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 21 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 21 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e71c8e3aa0c47964396df6?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69e6e3553cfd986aa6f87dc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 20 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6d4ad3aa0c47964396052?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA 90040 | Hybrid | Apr 20 |
 | **[Osprey Management](https://www.osprey-management.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e73952f8fa2f3ec32a6a7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas,NV,US | On Site | Apr 20 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6a95a7820c036924d1c72?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 20 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/69e67bb99b6eb37e26f807a6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[State of Utah](http://www.utah.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6f15b7820c036924d2c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 20 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69e6493f9b6eb37e26f7f0c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas | On Site | Apr 20 |
@@ -110,6 +109,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e241162f2865359307620b?utm_campaign=Business%20Analyst&utm_source=1103)** | ${34271}-Remote), UNAVAILABLE, Hidden (${12781} | Remote | Apr 17 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e24114be46fa3a4ef56bb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | Hybrid | Apr 17 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Apr 17 |
-| **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/69e1834d40a62c1fa93b8c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
-| ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/69e182fcacc736112f5c3ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
