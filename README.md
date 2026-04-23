@@ -117,6 +117,5 @@ For a complete list, click the following sortable link below:
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Warehouse Business Analyst](https://jobright.ai/jobs/info/69e110706c20aa114953f3d0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Whitestown IN 46075 | On Site | Apr 16 |
 | **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7b77820c036924d797d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, UNAVAILABLE, US | Remote | Apr 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e7a7fbf8fa2f3ec32a8ea6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-Remote | Remote | Apr 16 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6951f13229655e4dd65abb99?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
