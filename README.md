@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69e95d55e0cd471b2f13d05a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | On Site | Apr 22 |
+| **[Crew](http://theboomlab.com)** | **[Business Analyst/Change Management Analyst](https://jobright.ai/jobs/info/69e9507858811370cb12c9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Apr 22 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/69e92cb37820c036924e6350?utm_campaign=Business%20Analyst&utm_source=1103)** | ADVENTHEALTH HEADQUARTERS, US | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
