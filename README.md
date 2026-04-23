@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea67a1dc35f7132c4a9d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 23 |
+| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea5d924b0fa35a70773a28?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - New Jersey, US | Remote | Apr 23 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea4b5c7820c036924ecccb?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Nassau (East Meadow, NY), US | On Site | Apr 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 21 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/69e6e3553cfd986aa6f87dc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 20 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6d4ad3aa0c47964396052?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA 90040 | Hybrid | Apr 20 |
-| **[Osprey Management](https://www.osprey-management.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e73952f8fa2f3ec32a6a7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas,NV,US | On Site | Apr 20 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/69e67bb99b6eb37e26f807a6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[State of Utah](http://www.utah.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6f15b7820c036924d2c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 20 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69e6493f9b6eb37e26f7f0c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas | On Site | Apr 20 |
