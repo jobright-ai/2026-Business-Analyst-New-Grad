@@ -113,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69e15419d612782e6114822d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON | On Site | Apr 16 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69e149d3fd1c0456f3fad94c?utm_campaign=Business%20Analyst&utm_source=1103)** | Peoria, IL | On Site | Apr 16 |
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
-| **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Business Administrator](https://jobright.ai/jobs/info/69e1213d40a62c1fa93b6b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
