@@ -59,8 +59,8 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea67a1dc35f7132c4a9d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 23 |
-| **[Ryan Specialty](https://ryanspecialty.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea5d924b0fa35a70773a28?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - New Jersey, US | Remote | Apr 23 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea4b5c7820c036924ecccb?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Nassau (East Meadow, NY), US | On Site | Apr 23 |
+| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea7a4f58811370cb133af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
