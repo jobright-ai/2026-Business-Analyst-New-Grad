@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e9641458811370cb12d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 22 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e961160a6e09555303b906?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX | On Site | Apr 22 |
 | ↳ | **[Business Analyst II (Full-Time) - United States](https://jobright.ai/jobs/info/69e961393aa0c479643a9a38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
-| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/69e92cb37820c036924e6350?utm_campaign=Business%20Analyst&utm_source=1103)** | ADVENTHEALTH HEADQUARTERS, US | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
@@ -113,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Apr 17 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/69e1834d40a62c1fa93b8c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/69e182fcacc736112f5c3ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
-| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69e15419d612782e6114822d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
