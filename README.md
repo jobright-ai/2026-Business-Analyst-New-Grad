@@ -101,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69e651203aa0c47964393308?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 17 |
 | **[Global Partners LP](http://www.globalp.com)** | **[IT Business Analyst, Salesforce](https://jobright.ai/jobs/info/69e2db46be46fa3a4ef592ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | On Site | Apr 17 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I (REMOTE - Austin Texas)](https://jobright.ai/jobs/info/69ea09340a6e09555303e6a9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 17 |
 | **[Crew](http://theboomlab.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69e2b1d42f28653593077b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 17 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Apr 17 |
 | **[Armstrong World Industries](https://www.armstrong.com)** | **[AS Business Analyst Job](https://jobright.ai/jobs/info/69c5d8b51b5ad0288737a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, PA | On Site | Apr 17 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/69e1834d40a62c1fa93b8c4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/69e182fcacc736112f5c3ff9?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN | On Site | Apr 16 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69e15419d612782e6114822d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON | On Site | Apr 16 |
-| **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69e22a9f6523147bd0d87d81?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
