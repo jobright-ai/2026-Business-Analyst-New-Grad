@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 24 |
+| **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 24 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[business analyst](https://jobright.ai/jobs/info/69eba15e7820c036924f5a6a?utm_campaign=Business%20Analyst&utm_source=1103)** | FS AH SUMMIT BLDG ORANGE CITY, US | Hybrid | Apr 24 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Apr 24 |
@@ -100,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69e7e20058811370cb11efb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, Nebraska | Hybrid | Apr 21 |
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
 | **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cad276a8c1822476e208f7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
-| **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69eaaf7a0a6e095553042740?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Apr 21 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69eaaf6adc35f7132c4ab909?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Apr 21 |
+| **[Performance Food Group](http://www.pfgc.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69eaaf6adc35f7132c4ab909?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | Apr 21 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69eaaf7a0a6e095553042740?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | Apr 21 |
 | ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69eaaf7358811370cb134ba0?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 21 |
 | ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d5ceab706f771673ba6e31?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Apr 18 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698ea89278b4502f12a58106?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Apr 18 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Functional MKTG II - AMZ23862.4](https://jobright.ai/jobs/info/698ea81278b4502f12a580aa?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 18 |
-| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
