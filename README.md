@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ea9d093aa0c479643b0ea0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Riverwoods, IL, US | Hybrid | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
-| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea67a1dc35f7132c4a9d4e?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | Apr 23 |
+| **[Axon](https://www.axon.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69cdb95bcfdc6132f941ed3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Remote | Apr 23 |
 | **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea4b5c7820c036924ecccb?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Nassau (East Meadow, NY), US | On Site | Apr 23 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea7a4f58811370cb133af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I (REMOTE - Austin Texas)](https://jobright.ai/jobs/info/69ea09340a6e09555303e6a9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 17 |
 | **[Crew](http://theboomlab.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69e2b1d42f28653593077b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 17 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Apr 17 |
-| **[Armstrong World Industries](https://www.armstrong.com)** | **[AS Business Analyst Job](https://jobright.ai/jobs/info/69c5d8b51b5ad0288737a4d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, PA | On Site | Apr 17 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
 | ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 17 |
 | **[Liberty Mutual Insurance](http://www.libertymutualgroup.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69e241353ce36005badbdad4?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | Hybrid | Apr 17 |
