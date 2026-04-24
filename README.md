@@ -119,6 +119,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Business Analyst I (REMOTE - Austin Texas)](https://jobright.ai/jobs/info/69ea09340a6e09555303e6a9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 17 |
 | **[Crew](http://theboomlab.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/69e2b1d42f28653593077b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | Hybrid | Apr 17 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | Apr 17 |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Apr 17 |
-| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e7fde0f6f7e7a2cea9c4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
