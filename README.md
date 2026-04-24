@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIVO Holdings, LLC](https://www.rivoholdings.com/careers)** | **[Business Systems Analyst (LMS)](https://jobright.ai/jobs/info/69eaacaedc35f7132c4ab82a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 23 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ea9d093aa0c479643b0ea0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Riverwoods, IL, US | Hybrid | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst II](https://jobright.ai/jobs/info/69cdb95bcfdc6132f941ed3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | Remote | Apr 23 |
