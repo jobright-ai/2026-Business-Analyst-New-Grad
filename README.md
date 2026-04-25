@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[State of Utah](http://www.utah.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6f15b7820c036924d2c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 20 |
 | **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 20 |
 | **[Amazon Web Services (AWS)](http://aws.amazon.com)** | **[Business Analyst - Lease Administration, Amazon Web Services](https://jobright.ai/jobs/info/69ac0e6a2747003c3d51e333?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA | On Site | Apr 19 |
-| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6caf8b773006330b72f82?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
