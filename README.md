@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 25 |
-| **[Deutsche Bank](https://www.db.com)** | **[Business Monitoring & Control Associate - Associate](https://jobright.ai/jobs/info/69ebe4e758811370cb13d60f?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL | Hybrid | Apr 25 |
 | **[Curinos](https://curinos.com/)** | **[Associate (Hybrid), Line of Business](https://jobright.ai/jobs/info/69cace57e565c26a7004103e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 25 |
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ec176916b2612c2a120c95?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ebef2616b2612c2a11fe36?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 24 |
