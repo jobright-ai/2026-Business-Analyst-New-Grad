@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Loenbro](http://loenbro.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69efa8e94b0fa35a7078ace4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
+| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
+| **[Loenbro](http://loenbro.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69efb88de624fe645d532e93?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69efa8e94b0fa35a7078ace4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69ef6751e624fe645d530d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | Apr 27 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 27 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69db1a61738f2f099e8ad270?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 27 |
@@ -90,11 +92,7 @@ For a complete list, click the following sortable link below:
 | **[Equitable](https://equitable.com/)** | **[New Business Manager- Financial Services](https://jobright.ai/jobs/info/69d5e838366bb95ba5549da6?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 23 |
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69eb0be77820c036924f0b53?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 23 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/69eafddc58811370cb1362e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Apr 23 |
-| **[Altera Digital Health APAC](apac.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69eae81716b2612c2a11818f?utm_campaign=Business%20Analyst&utm_source=1103)** | East Meadow, NY | On Site | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
-| **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69eae81716b2612c2a118190?utm_campaign=Business%20Analyst&utm_source=1103)** | East Meadow, NY | On Site | Apr 23 |
-| **[Harris Computer](http://www.harriscomputer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69eae80edc35f7132c4ace20?utm_campaign=Business%20Analyst&utm_source=1103)** | East Meadow, NY | On Site | Apr 23 |
-| **[Altera Digital Health](http://www.alterahealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea4b5c7820c036924ecccb?utm_campaign=Business%20Analyst&utm_source=1103)** | Office - Nassau (East Meadow, NY), US | On Site | Apr 23 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea7a4f58811370cb133af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 23 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 23 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
