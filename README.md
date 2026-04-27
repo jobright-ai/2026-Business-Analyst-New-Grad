@@ -120,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6d4ad3aa0c47964396052?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA 90040 | Hybrid | Apr 20 |
 | **[City National Bank](http://www.cnb.com)** | **[BIS-Banking Support Operations Analyst](https://jobright.ai/jobs/info/69e67bb99b6eb37e26f807a6?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 20 |
 | **[State of Utah](http://www.utah.gov/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e6f15b7820c036924d2c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT | Hybrid | Apr 20 |
-| **[IDC Worldsource Insurance Network Inc.](https://www.idcwin.ca/)** | **[New Business Administrator](https://jobright.ai/jobs/info/6998c6f0ce78e77b4fdd58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
