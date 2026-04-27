@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ee737e4b0fa35a70786d5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Apr 26 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 26 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 26 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed7aab0a6e09555304fd9f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Apr 25 |
