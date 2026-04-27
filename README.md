@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69ef73214b0fa35a707894af?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69ef6751e624fe645d530d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | Apr 27 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 27 |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69db1a61738f2f099e8ad270?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 27 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 26 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 26 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed7aab0a6e09555304fd9f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Apr 25 |
