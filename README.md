@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 27 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Business Technician Portfolio Management - Any FE Location](https://jobright.ai/jobs/info/69bf68ca7798f73e35e43e8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairmont, WV | On Site | Apr 26 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 26 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed7aab0a6e09555304fd9f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Apr 25 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Toastmasters International](http://www.toastmasters.org/)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebd4524b0fa35a7077efbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Apr 24 |
 | ↳ | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebd3360a6e09555304aa77?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | Hybrid | Apr 24 |
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Apr 24 |
-| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 24 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 24 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Apr 24 |
