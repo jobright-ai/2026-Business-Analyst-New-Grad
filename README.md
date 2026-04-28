@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 28 |
 | **[MUFG](http://www.mufg.jp)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69f0fc1062b48c6838792ee7?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ, US | Hybrid | Apr 28 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 28 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 28 |
