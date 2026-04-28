@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[BMO](http://www.bmo.com)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7ddb40a6e09555302c96e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | On Site | Apr 21 |
 | **[BMO Capital Markets](https://capitalmarkets.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/69cad276a8c1822476e208f7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Apr 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | Apr 21 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
