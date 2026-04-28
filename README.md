@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 28 |
+| **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69f0c460825a315d7ca33b7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC, US | Hybrid | Apr 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69f04b6da4aa3545d8a5deb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Apr 27 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69eff0fc58811370cb149e18?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, Pennsylvania, United States of America | On Site | Apr 27 |
 | ↳ | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69eff0f716b2612c2a12cdeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, Ohio, United States of America | On Site | Apr 27 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Lead Business Analyst – Insurity Center of Excellence (CoE)](https://jobright.ai/jobs/info/69e96133e0cd471b2f13d11e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst/Change Management Analyst](https://jobright.ai/jobs/info/69e9507858811370cb12c9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Apr 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
-| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
+| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
@@ -114,6 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Apr 22 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69d5e0d3cfdc6132f9466cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69f09ff2ecbc8c2f73200136?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County | On Site | Apr 21 |
-| **[BMO U.S.](http://www.bmoharris.com/us)** | **[Business and Process Analyst (New or Recent Graduate Opportunity)](https://jobright.ai/jobs/info/69e7fe1158811370cb11fbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 21 |
-| **[TOPS Products LLC](https://www.tops-products.com/)** | **[IT Business Analyst 1](https://jobright.ai/jobs/info/69e9f6607820c036924ea18f?utm_campaign=Business%20Analyst&utm_source=1103)** | 184 Shuman Blvd, Naperville, IL 60563, USA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
