@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 28 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 28 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69f0c460825a315d7ca33b7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC, US | Hybrid | Apr 28 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69f04b6da4aa3545d8a5deb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Apr 27 |
