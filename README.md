@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[Business Analyst (17320-1)](https://jobright.ai/jobs/info/69f23c7b825a315d7ca3b713?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Apr 29 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f22a6a825a315d7ca3b1bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 29 |
 | ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f2245d8feca91f14923434?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Apr 29 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f13636b27fee43e8cd7fcd?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 28 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f1362762b48c68387946c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 28 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69f12978b27fee43e8cd77cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Apr 28 |
-| **[MUFG](http://www.mufg.jp)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/69f12d05ecbc8c2f73203fce?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | Hybrid | Apr 28 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 28 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 28 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 28 |
@@ -113,7 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/69eafddc58811370cb1362e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 23 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
