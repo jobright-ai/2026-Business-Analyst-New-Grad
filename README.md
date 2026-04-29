@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 24 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Apr 24 |
+| **[Equitable](https://equitable.com/)** | **[New Business Manager- Financial Services](https://jobright.ai/jobs/info/69f1c01fecbc8c2f73207ff1?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 23 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 23 |
 | **[Lloyds Banking Group](http://www.lloydsbankinggroup.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9a7dc35f7132c4abd80?utm_campaign=Business%20Analyst&utm_source=1103)** | Leeds Wellington Place, GB | Hybrid | Apr 23 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9a64b0fa35a70775fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Cardiff, GB | Hybrid | Apr 23 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
 | **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea7a4f58811370cb133af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 23 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 23 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
@@ -121,6 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
