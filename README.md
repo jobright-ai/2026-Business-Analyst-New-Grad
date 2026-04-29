@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f173c8b27fee43e8cd8fde?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Apr 28 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Operations OR Business Support professionals looking to transition into Salesforce Business Analyst](https://jobright.ai/jobs/info/69f1402962b48c683879494f?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 28 |
 | **[Bernhard](https://bernhard.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f13636b27fee43e8cd7fcd?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 28 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f1362762b48c68387946c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 28 |
