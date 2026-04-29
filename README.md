@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f21582f154d768fbaa5238?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | Apr 29 |
+| **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f2245d8feca91f14923434?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Apr 29 |
+| ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f21582f154d768fbaa5238?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | Apr 29 |
 | ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f2157d8d8d624381a9f108?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | Apr 29 |
-| **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/69f2161e8feca91f1492302e?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL | On Site | Apr 29 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 29 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f173c8b27fee43e8cd8fde?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Apr 28 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Operations OR Business Support professionals looking to transition into Salesforce Business Analyst](https://jobright.ai/jobs/info/69f1402962b48c683879494f?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 28 |
@@ -111,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69eb0be77820c036924f0b53?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 23 |
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/69eafddc58811370cb1362e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
-| **[Affinity Group, Sales & Marketing Agency](http://www.affinitysales.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69ea7a4f58811370cb133af9?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 23 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 23 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
