@@ -114,8 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Red Bull Distribution Company](https://www.redbull.com/in-en/)** | **[Business Analyst](https://jobright.ai/jobs/info/69eafddc58811370cb1362e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA | On Site | Apr 23 |
 | **[Knight Insurance Group](https://knightinsurancegroup.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69ea72cc7820c036924edbdc?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, California, United States | On Site | Apr 23 |
 | **[AltaMed Health Services](http://www.altamed.org/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e74f6fe0cd471b2f12acfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, CA | Hybrid | Apr 23 |
-| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
+| **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f136628d8d624381a9b19e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 22 |
+| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f13643b27fee43e8cd8004?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 22 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Apr 22 |
-| **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
