@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Lead Business Analyst – Insurity Center of Excellence (CoE)](https://jobright.ai/jobs/info/69e96133e0cd471b2f13d11e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst/Change Management Analyst](https://jobright.ai/jobs/info/69e9507858811370cb12c9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Apr 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
-| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
+| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Apr 22 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e9418c3aa0c479643a8b61?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | Apr 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
@@ -124,5 +124,4 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Associate Business Operations Analyst](https://jobright.ai/jobs/info/69e8fbdc0a6e095553037d5a?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Apr 22 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | Apr 22 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | Apr 22 |
-| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69d5e0d3cfdc6132f9466cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
