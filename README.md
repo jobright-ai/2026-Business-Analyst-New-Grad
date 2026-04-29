@@ -117,6 +117,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69e78fc058811370cb11d5db?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | Apr 22 |
 | **[Ryan Specialty](https://ryanspecialty.com)** | **[Lead Business Analyst – Insurity Center of Excellence (CoE)](https://jobright.ai/jobs/info/69e96133e0cd471b2f13d11e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 22 |
 | **[Crew](http://theboomlab.com)** | **[Business Analyst/Change Management Analyst](https://jobright.ai/jobs/info/69e9507858811370cb12c9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Remote | Apr 22 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
-| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a028ecbc8c2f732001f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor Campus | Hybrid | Apr 22 |
+| ↳ | **[Business Process Technology Analyst (3-year limited-term)](https://jobright.ai/jobs/info/69f0a0018feca91f1491b4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
