@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[ERP Junior Business Analyst](https://jobright.ai/jobs/info/69f277a98feca91f14924c94?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | On Site | Apr 29 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[Business Analyst (17320-1)](https://jobright.ai/jobs/info/69f23c7b825a315d7ca3b713?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Apr 29 |
 | **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f22a6a825a315d7ca3b1bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 29 |
@@ -66,8 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 29 |
 | **[ENFRA](https://enfrasolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f173c8b27fee43e8cd8fde?utm_campaign=Business%20Analyst&utm_source=1103)** | The Woodlands, TX | On Site | Apr 28 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Operations OR Business Support professionals looking to transition into Salesforce Business Analyst](https://jobright.ai/jobs/info/69f1402962b48c683879494f?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 28 |
-| **[Bernhard](https://bernhard.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f13636b27fee43e8cd7fcd?utm_campaign=Business%20Analyst&utm_source=1103)** | US-TX-Woodlands | On Site | Apr 28 |
-| ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/69f1362762b48c68387946c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodlands, TX, US | On Site | Apr 28 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69f12978b27fee43e8cd77cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Apr 28 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | Apr 28 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[Business Management – Associate](https://jobright.ai/jobs/info/69d51436366bb95ba5542637?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwich, CT | On Site | Apr 28 |
