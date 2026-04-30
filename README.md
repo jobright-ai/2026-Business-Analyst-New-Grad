@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rich Products Corporation](https://rich.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f2b652ab4ec4779fffa74c?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 29 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f29a21825a315d7ca3d8e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Apr 29 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69f29a19ecbc8c2f7320b8b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Off-Site | Remote | Apr 29 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
