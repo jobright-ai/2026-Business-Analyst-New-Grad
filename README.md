@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/69f2f716ab4ec4779fffdc99?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Remote | Apr 29 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f367db343eef4fb0a9a3fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f2b652ab4ec4779fffa74c?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 29 |
 | **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f29a21825a315d7ca3d8e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Apr 29 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69f29a19ecbc8c2f7320b8b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Off-Site | Remote | Apr 29 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
-| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst 1](https://jobright.ai/jobs/info/69f28136ecbc8c2f7320abe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, Wisconsin, United States of America | Remote | Apr 29 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[ERP Junior Business Analyst](https://jobright.ai/jobs/info/69f277a98feca91f14924c94?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | On Site | Apr 29 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[Business Analyst (17320-1)](https://jobright.ai/jobs/info/69f23c7b825a315d7ca3b713?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Apr 29 |
@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9467820c036924ef703?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Tredegar Park, GB | Hybrid | Apr 23 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69eabb717820c036924ef4b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive), CA | On Site | Apr 23 |
 | **[RIVO Holdings, LLC](https://www.rivoholdings.com/careers)** | **[Business Systems Analyst (LMS)](https://jobright.ai/jobs/info/69eaacaedc35f7132c4ab82a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 23 |
-| **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ea9d093aa0c479643b0ea0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Riverwoods, IL, US | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
