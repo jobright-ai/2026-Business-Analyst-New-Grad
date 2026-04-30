@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/69f3c961c78b9e4518957b30?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Apr 30 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/69f3ac0d1f90bd6ae23d13b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 30 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69f14091b27fee43e8cd81d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 30 |
 | **[Newmont Corporation](https://www.newmont.com)** | **[Business Analyst​](https://jobright.ai/jobs/info/69f397041f90bd6ae23d0d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Apr 30 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/69f3ac0d1f90bd6ae23d13b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 30 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2/3](https://jobright.ai/jobs/info/69f394396942c746fa692e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 1111 S 103rd St, Omaha, NE, 68124, US | On Site | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
