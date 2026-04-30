@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f367db343eef4fb0a9a3fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac98916b2612c2a1170ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, GB | Hybrid | Apr 23 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac94858811370cb134ffc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol Harbourside, GB | Hybrid | Apr 23 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9467820c036924ef703?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Tredegar Park, GB | Hybrid | Apr 23 |
-| **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69eabb717820c036924ef4b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive), CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
