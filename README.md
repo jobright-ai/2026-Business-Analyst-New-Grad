@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2/3](https://jobright.ai/jobs/info/69f394396942c746fa692e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 1111 S 103rd St, Omaha, NE, 68124, US | On Site | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f367db343eef4fb0a9a3fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
@@ -105,13 +106,9 @@ For a complete list, click the following sortable link below:
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Apr 24 |
 | **[Gold Coast Health Plan](https://www.goldcoasthealthplan.org/)** | **[Operations Business Analyst I](https://jobright.ai/jobs/info/69f330c4c78b9e4518953a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | California-Remote, US | Remote | Apr 24 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | Apr 24 |
-| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ9442344](https://jobright.ai/jobs/info/69f3890d461b9b613a620ba6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia, USA | On Site | Apr 24 |
+| **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Apr 24 |
 | **[Equitable](https://equitable.com/)** | **[New Business Manager- Financial Services](https://jobright.ai/jobs/info/69f1c01fecbc8c2f73207ff1?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 23 |
 | **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 23 |
-| **[Lloyds Banking Group](http://www.lloydsbankinggroup.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9a7dc35f7132c4abd80?utm_campaign=Business%20Analyst&utm_source=1103)** | Leeds Wellington Place, GB | Hybrid | Apr 23 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9a64b0fa35a70775fd8?utm_campaign=Business%20Analyst&utm_source=1103)** | Cardiff, GB | Hybrid | Apr 23 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac98916b2612c2a1170ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Halifax, GB | Hybrid | Apr 23 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac94858811370cb134ffc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol Harbourside, GB | Hybrid | Apr 23 |
-| ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9467820c036924ef703?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Tredegar Park, GB | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
