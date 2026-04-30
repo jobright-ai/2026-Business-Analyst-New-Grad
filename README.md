@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3d94d461b9b613a6247d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Apr 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/69f3c961c78b9e4518957b30?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Apr 30 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 28 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 28 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69f0c460825a315d7ca33b7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC, US | Hybrid | Apr 28 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst/Business Management Analyst Rolling Meadows IL - R10225992](https://jobright.ai/jobs/info/69f04b6da4aa3545d8a5deb5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL | On Site | Apr 27 |
 | **[Loenbro](http://loenbro.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69f18b76ecbc8c2f73206559?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69eff0fc58811370cb149e18?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, Pennsylvania, United States of America | On Site | Apr 27 |
 | ↳ | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69eff0f716b2612c2a12cdeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, Ohio, United States of America | On Site | Apr 27 |
@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ9442344](https://jobright.ai/jobs/info/69f3890d461b9b613a620ba6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia, USA | On Site | Apr 24 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69eb9903dc35f7132c4b1ed4?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Apr 24 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | Apr 24 |
-| **[Equitable](https://equitable.com/)** | **[New Business Manager- Financial Services](https://jobright.ai/jobs/info/69f1c01fecbc8c2f73207ff1?utm_campaign=Business%20Analyst&utm_source=1103)** | Melville, NY | On Site | Apr 23 |
-| **[Univest](http://www.univest.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69cd87a9891d7b11cfcbc9f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Souderton, PA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
