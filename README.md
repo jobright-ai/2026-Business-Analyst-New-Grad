@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
+| **[Newmont Corporation](https://www.newmont.com)** | **[Business Analyst​](https://jobright.ai/jobs/info/69f397041f90bd6ae23d0d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Apr 30 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2/3](https://jobright.ai/jobs/info/69f394396942c746fa692e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 1111 S 103rd St, Omaha, NE, 68124, US | On Site | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f367db343eef4fb0a9a3fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f2b652ab4ec4779fffa74c?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 29 |
-| **[Conversio Health](http://conversiohealth.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f29a21825a315d7ca3d8e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Apr 29 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/69f29a19ecbc8c2f7320b8b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Off-Site | Remote | Apr 29 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[ERP Junior Business Analyst](https://jobright.ai/jobs/info/69f277a98feca91f14924c94?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | On Site | Apr 29 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
