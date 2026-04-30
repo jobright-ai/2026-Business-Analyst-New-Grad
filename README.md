@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69eabb717820c036924ef4b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive), CA | On Site | Apr 23 |
 | **[RIVO Holdings, LLC](https://www.rivoholdings.com/careers)** | **[Business Systems Analyst (LMS)](https://jobright.ai/jobs/info/69eaacaedc35f7132c4ab82a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 23 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ea9d093aa0c479643b0ea0?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Riverwoods, IL, US | Hybrid | Apr 23 |
-| **[Cambridge Associates](http://www.cambridgeassociates.com)** | **[Business Analyst, Digital Solutions](https://jobright.ai/jobs/info/69eb0be77820c036924f0b53?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
