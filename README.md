@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
+| **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/69f3ac0d1f90bd6ae23d13b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 30 |
+| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
 | **[Newmont Corporation](https://www.newmont.com)** | **[Business Analyst​](https://jobright.ai/jobs/info/69f397041f90bd6ae23d0d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Apr 30 |
 | **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Systems Analyst 1/2/3](https://jobright.ai/jobs/info/69f394396942c746fa692e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | 1111 S 103rd St, Omaha, NE, 68124, US | On Site | Apr 30 |
@@ -88,6 +91,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst (GOV)](https://jobright.ai/jobs/info/69eff0f716b2612c2a12cdeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, Ohio, United States of America | On Site | Apr 27 |
 | **[Action for Boston Community Development, Inc.](https://bostonabcd.org)** | **[Business Administrator (52 Weeks)](https://jobright.ai/jobs/info/69efe39416b2612c2a12c450?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Apr 27 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ10118786](https://jobright.ai/jobs/info/69f3a5466942c746fa693399?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 27 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69ef6751e624fe645d530d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | Apr 27 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | Apr 27 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/69db1a61738f2f099e8ad270?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 27 |
