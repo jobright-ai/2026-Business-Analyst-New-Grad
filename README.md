@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f367db343eef4fb0a9a3fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Apr 30 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f2b652ab4ec4779fffa74c?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 29 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac94858811370cb134ffc?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol Harbourside, GB | Hybrid | Apr 23 |
 | ↳ | **[Technical Business Analyst](https://jobright.ai/jobs/info/69eac9467820c036924ef703?utm_campaign=Business%20Analyst&utm_source=1103)** | Newport Tredegar Park, GB | Hybrid | Apr 23 |
 | **[Lineage](https://www.onelineage.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69eabb717820c036924ef4b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, ON (High Point Drive), CA | On Site | Apr 23 |
-| **[RIVO Holdings, LLC](https://www.rivoholdings.com/careers)** | **[Business Systems Analyst (LMS)](https://jobright.ai/jobs/info/69eaacaedc35f7132c4ab82a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
