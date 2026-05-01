@@ -107,5 +107,4 @@ For a complete list, click the following sortable link below:
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed7aab0a6e09555304fd9f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Apr 25 |
 | ↳ | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed752258811370cb141abb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 25 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 25 |
-| **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ec176916b2612c2a120c95?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
