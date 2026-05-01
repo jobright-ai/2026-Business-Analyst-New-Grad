@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/69f51c650b36ff03547509ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | May 01 |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f50d5d0b36ff03547504db?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, US | On Site | May 01 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f50d420b36ff03547504ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, US | On Site | May 01 |
 | **[Equitable](http://equitable.ca/)** | **[Business System Analyst, Enterprise Platforms](https://jobright.ai/jobs/info/69f505ee81706a5bd216459d?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | May 01 |
+| **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | May 01 |
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f51008a3d34b4f76f53655?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | May 01 |
 | **[Pereira O'Dell](http://www.pereiraodell.com)** | **[Business Affairs Coordinator](https://jobright.ai/jobs/info/69c400c8d5a1016e98db07d1?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | Remote | May 01 |
 | **[Gridiron IT](https://gridironit.com)** | **[Business Analyst - ServiceNow](https://jobright.ai/jobs/info/69f4c6920b36ff035474ed0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | May 01 |
@@ -75,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Leidos](https://www.leidos.com)** | **[Business Analyst (PA23)](https://jobright.ai/jobs/info/69f42b7658b23a2329da9cfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol, Gloucestershire, UK, GB | Hybrid | Apr 30 |
 | **[Customers Bank](https://www.customersbank.com/)** | **[Analyst, Business Management & Operational Effectiveness](https://jobright.ai/jobs/info/69f40512343eef4fb0a9f78d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3d94d461b9b613a6247d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Apr 30 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/69f3c961c78b9e4518957b30?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Apr 30 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69f14091b27fee43e8cd81d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 30 |
