@@ -116,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Toastmasters International](http://www.toastmasters.org/)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebd4524b0fa35a7077efbd?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Apr 24 |
 | ↳ | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebd3360a6e09555304aa77?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | Hybrid | Apr 24 |
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Apr 24 |
-| **[Gold Coast Health Plan](https://www.goldcoasthealthplan.org/)** | **[Operations Business Analyst I](https://jobright.ai/jobs/info/69f330c4c78b9e4518953a0e?utm_campaign=Business%20Analyst&utm_source=1103)** | California-Remote, US | Remote | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
