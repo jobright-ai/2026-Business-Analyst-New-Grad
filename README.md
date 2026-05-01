@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gridiron IT](https://gridironit.com)** | **[Business Analyst - ServiceNow](https://jobright.ai/jobs/info/69f4c6920b36ff035474ed0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | May 01 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | May 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Business Systems Analyst I (Business Systems Analyst I), Information Technology Services-2 Positions](https://jobright.ai/jobs/info/69f425c46942c746fa696e13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino, CA | On Site | Apr 30 |
@@ -72,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69f14091b27fee43e8cd81d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 30 |
 | **[Newmont Corporation](https://www.newmont.com)** | **[Business Analyst​](https://jobright.ai/jobs/info/69f397041f90bd6ae23d0d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Apr 30 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/69f3761d461b9b613a620600?utm_campaign=Business%20Analyst&utm_source=1103)** | Default Remote, Remote, TX, 00000, US | Remote | Apr 30 |
 | **[Qdos Training Ltd](https://www.qdostraining.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f449196942c746fa697410?utm_campaign=Business%20Analyst&utm_source=1103)** | Mansfield, England, United Kingdom | On Site | Apr 30 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
