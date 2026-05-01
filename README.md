@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Business Systems Analyst I (Business Systems Analyst I), Information Technology Services-2 Positions](https://jobright.ai/jobs/info/69f425c46942c746fa696e13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino, CA | On Site | Apr 30 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f40582343eef4fb0a9f877?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | Apr 30 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/69f3ebb2461b9b613a625151?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 30 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/69f3c961c78b9e4518957b30?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Apr 30 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst](https://jobright.ai/jobs/info/69f3abfe6942c746fa69352b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Apr 30 |
-| **[Saatchi & Saatchi Wellness](http://www.saatchiwellness.com)** | **[Business Manager](https://jobright.ai/jobs/info/699e3753ce78e77b4fe34b2f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Apr 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/69f14091b27fee43e8cd81d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA | On Site | Apr 30 |
 | **[Newmont Corporation](https://www.newmont.com)** | **[Business Analyst​](https://jobright.ai/jobs/info/69f397041f90bd6ae23d0d68?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Apr 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f384d9343eef4fb0a9aa7b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Apr 30 |
@@ -110,6 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 25 |
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ec176916b2612c2a120c95?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Apr 24 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ebef2616b2612c2a11fe36?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Apr 24 |
-| **[Toastmasters International](http://www.toastmasters.org/)** | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebdc6616b2612c2a11f4c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO | Hybrid | Apr 24 |
-| ↳ | **[Business Analyst (Hybrid)](https://jobright.ai/jobs/info/69ebdc290a6e09555304abe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
