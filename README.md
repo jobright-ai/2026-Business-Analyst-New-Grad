@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Gridiron IT](https://gridironit.com)** | **[Business Analyst - ServiceNow](https://jobright.ai/jobs/info/69f4c6920b36ff035474ed0f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | May 01 |
+| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Equipment](https://jobright.ai/jobs/info/698253d70a9e07331f8d51f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, Ontario, Canada | On Site | May 01 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | May 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Business Systems Analyst I (Business Systems Analyst I), Information Technology Services-2 Positions](https://jobright.ai/jobs/info/69f425c46942c746fa696e13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino, CA | On Site | Apr 30 |
