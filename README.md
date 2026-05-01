@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The California State University](http://www.calstate.edu)** | **[Business Systems Analyst I (Business Systems Analyst I), Information Technology Services-2 Positions](https://jobright.ai/jobs/info/69f3dae11f90bd6ae23d2459?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino, CA | On Site | Apr 30 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3d94d461b9b613a6247d1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Home, MO | Hybrid | Apr 30 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/69f3c961c78b9e4518957b30?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Apr 30 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst in Louisiana](https://jobright.ai/jobs/info/69f3acc8461b9b613a6225dd?utm_campaign=Business%20Analyst&utm_source=1103)** | Home Office, Louisiana | Hybrid | Apr 30 |
