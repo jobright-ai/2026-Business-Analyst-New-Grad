@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diablo Canyon Power Plant](https://www.pge.com/en/about/pge-systems/nuclear-power.html)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f5c985db88714bcdfb4ad1?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 02 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 | **[BEDGEAR](http://bedgear.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69f58be0db88714bcdfb3fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Hill, SC | On Site | May 01 |
 | **[CGI](https://www.cgi.com)** | **[Junior-Level Business Analyst](https://jobright.ai/jobs/info/69f574eadb88714bcdfb3d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | May 01 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Business Analyst I - Casual 4 month limited term](https://jobright.ai/jobs/info/69f58c9adb88714bcdfb40ab?utm_campaign=Business%20Analyst&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Business Analyst - Temporary Casual](https://jobright.ai/jobs/info/69f55c5f43a25828a8d18663?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton, CA | On Site | May 01 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
-| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
 | **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | May 01 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/69a157900da45516f16aa423?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Apr 26 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed7aab0a6e09555304fd9f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Apr 25 |
 | ↳ | **[Business Analyst (2026)](https://jobright.ai/jobs/info/69ed752258811370cb141abb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 25 |
-| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
