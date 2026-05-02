@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | May 02 |
-| **[Diablo Canyon Power Plant](https://www.pge.com/en/about/pge-systems/nuclear-power.html)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f5c985db88714bcdfb4ad1?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 02 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 | **[BEDGEAR](http://bedgear.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69f58be0db88714bcdfb3fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Hill, SC | On Site | May 01 |
 | **[CGI](https://www.cgi.com)** | **[Junior-Level Business Analyst](https://jobright.ai/jobs/info/69f574eadb88714bcdfb3d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | May 01 |
