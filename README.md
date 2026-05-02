@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | May 01 |
 | **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/69f51c650b36ff03547509ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f50d5d0b36ff03547504db?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, US | On Site | May 01 |
