@@ -114,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Action for Boston Community Development, Inc.](https://bostonabcd.org)** | **[Business Administrator (52 Weeks)](https://jobright.ai/jobs/info/69efe39416b2612c2a12c450?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | Apr 27 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst II - AMZ10118786](https://jobright.ai/jobs/info/69f3a5466942c746fa693399?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, Washington, USA | On Site | Apr 27 |
-| **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69ef6751e624fe645d530d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
