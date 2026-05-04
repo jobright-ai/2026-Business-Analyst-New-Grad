@@ -71,8 +71,6 @@ For a complete list, click the following sortable link below:
 | **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | May 01 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f50d5d0b36ff03547504db?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, US | On Site | May 01 |
-| **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69f50d420b36ff03547504ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Tennessee, US | On Site | May 01 |
 | **[Equitable](http://equitable.ca/)** | **[Business System Analyst, Enterprise Platforms](https://jobright.ai/jobs/info/69f505ee81706a5bd216459d?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | May 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | May 01 |
 | **[Wallaby Search & Placement](http://www.wallabysearch.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69f51008a3d34b4f76f53655?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta Metro | On Site | May 01 |
@@ -111,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69b820c806c1ba00c549e7d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Apr 28 |
 | **[EdgeCore Digital Infrastructure](https://www.edgecore.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69cdecc8366bb95ba5504848?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver Metropolitan Area | On Site | Apr 28 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Analyst](https://jobright.ai/jobs/info/69f0c460825a315d7ca33b7d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC, US | Hybrid | Apr 28 |
-| **[Loenbro](http://loenbro.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69f58c9e43a25828a8d1911e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Apr 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
