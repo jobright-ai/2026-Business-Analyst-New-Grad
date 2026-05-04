@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86ed?utm_campaign=Business%20Analyst&utm_source=1103)** | 920 East Sheridan Avenue, Laramie, WY, 82070, US | Hybrid | May 04 |
 | **[Myriad](https://www.myriadpartners.co.uk/)** | **[Business management](https://jobright.ai/jobs/info/69f858630b36ff035475946a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chelmsford, England, United Kingdom | On Site | May 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f75bd30b36ff0354757d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 03 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
