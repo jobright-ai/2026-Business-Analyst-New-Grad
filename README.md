@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ecolab](http://www.ecolab.com)** | **[Associate Commercial Business Analyst](https://jobright.ai/jobs/info/69f91b12db88714bcdfbdc8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, Minnesota, United States of America | On Site | May 04 |
 | **[Abbott](https://www.abbott.com)** | **[Gross Margin Business Analyst](https://jobright.ai/jobs/info/69f907e581706a5bd216ff6d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Illinois - Chicago, US | On Site | May 04 |
 | **[Cisco](http://www.cisco.com)** | **[Business Operations Analyst I (Full-Time) - United States](https://jobright.ai/jobs/info/69f8c288b1fc847fc1ae889d?utm_campaign=Business%20Analyst&utm_source=1103)** | Milpitas, California, US | On Site | May 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86ed?utm_campaign=Business%20Analyst&utm_source=1103)** | 920 East Sheridan Avenue, Laramie, WY, 82070, US | Hybrid | May 04 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | May 02 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
-| **[BEDGEAR](http://bedgear.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69f58be0db88714bcdfb3fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Hill, SC | On Site | May 01 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Business Analyst I - Casual 4 month limited term](https://jobright.ai/jobs/info/69f58c9adb88714bcdfb40ab?utm_campaign=Business%20Analyst&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Business Analyst - Temporary Casual](https://jobright.ai/jobs/info/69f55c5f43a25828a8d18663?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton, CA | On Site | May 01 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
