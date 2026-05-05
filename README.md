@@ -102,11 +102,6 @@ For a complete list, click the following sortable link below:
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/69d69fc6cfdc6132f946aff3?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 29 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[Business Analyst (17320-1)](https://jobright.ai/jobs/info/69f23c7b825a315d7ca3b713?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Apr 29 |
-| **[ONEOK](http://www.oneok.com)** | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f22a6a825a315d7ca3b1bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | Apr 29 |
-| ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f2245d8feca91f14923434?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | Apr 29 |
-| ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f21582f154d768fbaa5238?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | Apr 29 |
-| ↳ | **[Commercial Business Analyst](https://jobright.ai/jobs/info/69f2157d8d8d624381a9f108?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | Apr 29 |
 | **[Cathay Bank](https://www.cathaybank.com/)** | **[nCino Business Systems Analyst](https://jobright.ai/jobs/info/69656627a112b4026613414d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemead, CA | On Site | Apr 29 |
 | **[JND Inc.](http://www.jndsolutions.net/)** | **[Business Analyst (17320-1)](https://jobright.ai/jobs/info/69f2a62af154d768fbaa82ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Ana, CA | On Site | Apr 28 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Operations OR Business Support professionals looking to transition into Salesforce Business Analyst](https://jobright.ai/jobs/info/69f1402962b48c683879494f?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
