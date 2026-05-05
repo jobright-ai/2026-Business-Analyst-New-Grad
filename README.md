@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
+| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4c3881706a5bd2175296?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, US | On Site | May 05 |
+| ↳ | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4beadb88714bcdfc26f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, US | On Site | May 05 |
 | **[Sage | Marketing Agency](www.sageassociates.uk)** | **[Entry-Level Business Manager (Immediate Start)](https://jobright.ai/jobs/info/69fa369981706a5bd217460d?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | May 05 |
+| **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[RedPeak](https://redpeak.com/)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/69a8304d7ac93962b707edc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 04 |
 | **[Ecolab](http://www.ecolab.com)** | **[Associate Commercial Business Analyst](https://jobright.ai/jobs/info/69f91b12db88714bcdfbdc8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, Minnesota, United States of America | On Site | May 04 |
 | **[Abbott](https://www.abbott.com)** | **[Gross Margin Business Analyst](https://jobright.ai/jobs/info/69f907e581706a5bd216ff6d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Illinois - Chicago, US | On Site | May 04 |
