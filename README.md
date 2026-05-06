@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fb505338179b6f1ae776c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | May 05 |
+| **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4aa7ffa73664aeafe593?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 05 |
+| ↳ | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4a1e38179b6f1ae77555?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | May 05 |
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69fa8205b1fc847fc1af084f?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | May 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
@@ -114,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Crum & Forster](https://www.cfins.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/69ba85565697383741400adb?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ | On Site | Apr 30 |
 | **[SiloSmashers, Inc.](http://silosmashers.com)** | **[Jr. IT Business Analyst](https://jobright.ai/jobs/info/69faaf3418b94b2515bdbef0?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA | On Site | Apr 30 |
 | **[Rich Products Corporation](https://rich.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69f2b652ab4ec4779fffa74c?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | On Site | Apr 29 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/69cf3868cdb525785fb9ffe7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
