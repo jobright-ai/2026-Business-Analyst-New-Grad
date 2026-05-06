@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | May 06 |
+| **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb655a18b94b2515be22da?utm_campaign=Business%20Analyst&utm_source=1103)** | JD Alexander Florida Polytechnic Main Campus, US | On Site | May 06 |
+| **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69fb650f87a4820e6da87e74?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home, US | Remote | May 06 |
+| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c201a72c312363dcd54e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fb505338179b6f1ae776c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | May 05 |
 | **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4aa7ffa73664aeafe593?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 05 |
 | ↳ | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4a1e38179b6f1ae77555?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | May 05 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4c3881706a5bd2175296?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, US | On Site | May 05 |
 | ↳ | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4beadb88714bcdfc26f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, US | On Site | May 05 |
-| **[New Jersey Courts](https://www.njcourts.gov/)** | **[Business Analyst (Information Technology Analyst 2)](https://jobright.ai/jobs/info/69fb1e0be156000841156713?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | May 05 |
 | **[Sage | Marketing Agency](www.sageassociates.uk)** | **[Entry-Level Business Manager (Immediate Start)](https://jobright.ai/jobs/info/69fa369981706a5bd217460d?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | May 05 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[RedPeak](https://redpeak.com/)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/69a8304d7ac93962b707edc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 04 |
@@ -81,6 +84,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst I (Full-Time) - United States](https://jobright.ai/jobs/info/69fac29418b94b2515bdc480?utm_campaign=Business%20Analyst&utm_source=1103)** | Milpitas, CA | On Site | May 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86ed?utm_campaign=Business%20Analyst&utm_source=1103)** | 920 East Sheridan Avenue, Laramie, WY, 82070, US | Hybrid | May 04 |
 | **[CEI](https://www.thinkcei.com)** | **[Business Systems Analyst Associate](https://jobright.ai/jobs/info/69fa866c0b36ff0354762d3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 04 |
+| **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior with Security Clearance](https://jobright.ai/jobs/info/69fb615038179b6f1ae77e2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f75bd30b36ff0354757d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 03 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | May 02 |
