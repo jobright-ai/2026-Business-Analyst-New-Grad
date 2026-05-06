@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb9e2887a4820e6da89f75?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeland, FL | On Site | May 06 |
+| **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69fb9d4b18b94b2515be4103?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69fb91a486d5cd46527d66f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 06 |
+| **[World Wide Technology](http://www.wwt.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/69fb99a587a4820e6da8982c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA | On Site | May 06 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 06 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | May 06 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb655a18b94b2515be22da?utm_campaign=Business%20Analyst&utm_source=1103)** | JD Alexander Florida Polytechnic Main Campus, US | On Site | May 06 |
-| **[Cigna Healthcare](http://www.cigna.com)** | **[Business Analyst- Evernorth](https://jobright.ai/jobs/info/69fb650f87a4820e6da87e74?utm_campaign=Business%20Analyst&utm_source=1103)** | United States Work at Home, US | Remote | May 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c201a72c312363dcd54e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fb505338179b6f1ae776c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | May 05 |
 | **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4aa7ffa73664aeafe593?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 05 |
 | ↳ | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4a1e38179b6f1ae77555?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | May 05 |
-| **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69fa8205b1fc847fc1af084f?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | May 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
