@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69fa8d68db88714bcdfc371e?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 05 |
 | **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69fa8205b1fc847fc1af084f?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | May 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
