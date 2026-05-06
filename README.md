@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ENCON Heating & A/C](http://goencon.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69fa8205b1fc847fc1af084f?utm_campaign=Business%20Analyst&utm_source=1103)** | Stratford,CT,US | On Site | May 05 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
@@ -70,14 +71,15 @@ For a complete list, click the following sortable link below:
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Salesforce](https://jobright.ai/jobs/info/69f9963cdb88714bcdfbf342?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | May 04 |
 | **[Cisco](http://www.cisco.com)** | **[Business Operations Analyst I (Full-Time) - United States](https://jobright.ai/jobs/info/69f8c288b1fc847fc1ae889d?utm_campaign=Business%20Analyst&utm_source=1103)** | Milpitas, California, US | On Site | May 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86ed?utm_campaign=Business%20Analyst&utm_source=1103)** | 920 East Sheridan Avenue, Laramie, WY, 82070, US | Hybrid | May 04 |
+| **[CEI](https://www.thinkcei.com)** | **[Business Systems Analyst Associate](https://jobright.ai/jobs/info/69fa866c0b36ff0354762d3f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 04 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f75bd30b36ff0354757d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 03 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
 | **[Amazon](https://amazon.com)** | **[Business Affairs Coordinator, Amazon MGM Studios Business Affairs](https://jobright.ai/jobs/info/69a15f9b0da45516f16ab696?utm_campaign=Business%20Analyst&utm_source=1103)** | Culver City, CA | On Site | May 02 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Business Analyst I - Casual 4 month limited term](https://jobright.ai/jobs/info/69f58c9adb88714bcdfb40ab?utm_campaign=Business%20Analyst&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[University of the Pacific](http://www.pacific.edu/)** | **[Business Analyst - Temporary Casual](https://jobright.ai/jobs/info/69f55c5f43a25828a8d18663?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton, CA | On Site | May 01 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
-| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
+| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
 | **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | May 01 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
