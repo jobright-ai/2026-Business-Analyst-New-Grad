@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stran Promotional Solutions](https://stran.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fcef5f6b788e7e7a5c3cb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | May 07 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Digital Operations Analyst](https://jobright.ai/jobs/info/69fcde8b938a651755f97401?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland Heights, MO, 63146, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcda64b113035a9f8ec2b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69fcd6d46b788e7e7a5c2d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, AB | On Site | May 07 |
@@ -116,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | May 01 |
 | **[Mosaic Financial Group](http://mosaicfingroup.com/)** | **[New Business Processor](https://jobright.ai/jobs/info/69ba373356973837413fb2fd?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL | On Site | May 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 01 |
-| **[Mjolnir Security Inc](https://mjolnirsecurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fc34d12275c9640f52ca3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
