@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Inventory-(Mon-Fri: 8:00 AM-4:30 PM)](https://jobright.ai/jobs/info/69fbec0276c60e7b70af057b?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | May 06 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fbee3976c60e7b70af06d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 06 |
+| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Inventory-(Mon-Fri: 8:00 AM-4:30 PM)](https://jobright.ai/jobs/info/69fbee58a5949019c55b1899?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | May 06 |
+| **[University of Arkansas](http://uark.edu)** | **[Business Process Specialist – HCM & Finance](https://jobright.ai/jobs/info/69fbf032a5949019c55b1c86?utm_campaign=Business%20Analyst&utm_source=1103)** | Fayetteville, AR | On Site | May 06 |
+| ↳ | **[Business Process Specialist – HCM & Finance](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e30?utm_campaign=Business%20Analyst&utm_source=1103)** | Fayetteville, AR, US | On Site | May 06 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb9e2887a4820e6da89f75?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeland, FL | On Site | May 06 |
 | **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69fb9d4b18b94b2515be4103?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69fb91a486d5cd46527d66f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 06 |
@@ -94,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Business Analyst I - Casual 4 month limited term](https://jobright.ai/jobs/info/69f58c9adb88714bcdfb40ab?utm_campaign=Business%20Analyst&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Business Analyst - Temporary Casual](https://jobright.ai/jobs/info/69f55c5f43a25828a8d18663?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton, CA | On Site | May 01 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
-| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
 | **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/69f539ac43a25828a8d17eba?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | On Site | May 01 |
 | **[KeyBank](https://www.key.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/69ebae6c0a6e095553049867?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
