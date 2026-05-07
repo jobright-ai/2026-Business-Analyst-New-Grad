@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stran Promotional Solutions](https://stran.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fcef5f6b788e7e7a5c3cb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | May 07 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Digital Operations Analyst](https://jobright.ai/jobs/info/69fcde8b938a651755f97401?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland Heights, MO, 63146, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcda64b113035a9f8ec2b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69fcd6d46b788e7e7a5c2d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, AB | On Site | May 07 |
@@ -106,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Business Analyst I - Casual 4 month limited term](https://jobright.ai/jobs/info/69f58c9adb88714bcdfb40ab?utm_campaign=Business%20Analyst&utm_source=1103)** | North Vancouver, British Columbia, Canada | On Site | May 01 |
 | **[University of the Pacific](https://www.pacific.edu)** | **[Business Analyst - Temporary Casual](https://jobright.ai/jobs/info/69f55c5f43a25828a8d18663?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton, CA | On Site | May 01 |
-| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
-| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c281706a5bd2165caf?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland | Hybrid | May 01 |
+| ↳ | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f546c2db88714bcdfb317d?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland General Office (OGO) | Hybrid | May 01 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
 | **[Equitable](http://equitable.ca/)** | **[Business System Analyst, Enterprise Platforms](https://jobright.ai/jobs/info/69f505ee81706a5bd216459d?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | May 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | May 01 |
