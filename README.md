@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ICE](https://www.ice.com)** | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/69fcc9ab938a651755f969e6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 07 |
+| ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/69fcc9a2b113035a9f8ebaf0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 07 |
+| **[Transform Group](https://transformgroup.com)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcc8f16b788e7e7a5c2768?utm_campaign=Business%20Analyst&utm_source=1103)** | REMOTE-United States | Remote | May 07 |
 | **[Walsall Council](https://go.walsall.gov.uk)** | **[Customer Business Analyst - Ref: EE02526](https://jobright.ai/jobs/info/69fca74f5cff890b03f32b35?utm_campaign=Business%20Analyst&utm_source=1103)** | Walsall, West Midlands, United Kingdom | On Site | May 07 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst - Part time](https://jobright.ai/jobs/info/69fcb765938a651755f96043?utm_campaign=Business%20Analyst&utm_source=1103)** | CT - Hartford, US | Hybrid | May 07 |
 | **[LIXIL](http://www.lixil.com)** | **[Business Analyst, Menards](https://jobright.ai/jobs/info/69fc214d2f9f6b7cf69114d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eau Claire, WI | On Site | May 06 |
