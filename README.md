@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walsall Council](https://go.walsall.gov.uk)** | **[Customer Business Analyst - Ref: EE02526](https://jobright.ai/jobs/info/69fca74f5cff890b03f32b35?utm_campaign=Business%20Analyst&utm_source=1103)** | Walsall, West Midlands, United Kingdom | On Site | May 07 |
 | **[LIXIL](http://www.lixil.com)** | **[Business Analyst, Menards](https://jobright.ai/jobs/info/69fc214d2f9f6b7cf69114d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eau Claire, WI | On Site | May 06 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fbee3976c60e7b70af06d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 06 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Inventory-(Mon-Fri: 8:00 AM-4:30 PM)](https://jobright.ai/jobs/info/69fbee58a5949019c55b1899?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | May 06 |
@@ -111,8 +112,4 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 01 |
 | **[Mjolnir Security Inc](https://mjolnirsecurity.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fc34d12275c9640f52ca3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Apr 30 |
 | **[California State University-San Bernardino](https://csusb.edu)** | **[Business Systems Analyst I (Business Systems Analyst I), Information Technology Services-2 Positions](https://jobright.ai/jobs/info/69f425c46942c746fa696e13?utm_campaign=Business%20Analyst&utm_source=1103)** | San Bernardino, CA | On Site | Apr 30 |
-| **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/69f3ebb2461b9b613a625151?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | Apr 30 |
-| **[Lennox](http://www.lennox.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/69f3eb946942c746fa69612c?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR | On Site | Apr 30 |
-| **[Office of the NYS Comptroller Thomas P. DiNapoli](https://www.osc.ny.gov/common-retirement-fund)** | **[Business System Analyst 1 (SG-18), Business System Analyst Trainee 2 (SG-16), Business System Analyst Trainee 1 (SG-14)(NYHELPS) Item# 01077](https://jobright.ai/jobs/info/69f456b36942c746fa6976f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY | Hybrid | Apr 30 |
-| **[Leidos](https://www.leidos.com)** | **[Business Analyst (PA23)](https://jobright.ai/jobs/info/69f42b7658b23a2329da9cfa?utm_campaign=Business%20Analyst&utm_source=1103)** | Bristol, Gloucestershire, UK, GB | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
