@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[World Wide Technology](http://www.wwt.com)** | **[Digital Operations Analyst](https://jobright.ai/jobs/info/69fcde8b938a651755f97401?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland Heights, MO, 63146, United States | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcda64b113035a9f8ec2b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 07 |
+| **[Government of Alberta](http://alberta.ca/)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69fcd6d46b788e7e7a5c2d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, AB | On Site | May 07 |
+| **[VSolvit](http://www.vsolvit.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/69fcd0cc432a3c4da8dff349?utm_campaign=Business%20Analyst&utm_source=1103)** | GOVT - CA CORONA, Norco, CA, US | On Site | May 07 |
 | **[ICE](https://www.ice.com)** | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/69fcc9ab938a651755f969e6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 07 |
 | ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/69fcc9a2b113035a9f8ebaf0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[Transform Group](https://transformgroup.com)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcc8f16b788e7e7a5c2768?utm_campaign=Business%20Analyst&utm_source=1103)** | REMOTE-United States | Remote | May 07 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69fb9d4b18b94b2515be4103?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69fb91a486d5cd46527d66f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 06 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 06 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Associate Business Services Analyst](https://jobright.ai/jobs/info/69eb715116b2612c2a11be98?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE | Hybrid | May 06 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb655a18b94b2515be22da?utm_campaign=Business%20Analyst&utm_source=1103)** | JD Alexander Florida Polytechnic Main Campus, US | On Site | May 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c201a72c312363dcd54e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fb505338179b6f1ae776c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | May 05 |
