@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Process & Systems Analyst (S)](https://jobright.ai/jobs/info/69fd14055cff890b03f36062?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | May 07 |
 | **[World Wide Technology](http://www.wwt.com)** | **[Digital Operations Analyst](https://jobright.ai/jobs/info/69fcde8b938a651755f97401?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland Heights, MO, 63146, United States | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcda64b113035a9f8ec2b3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 07 |
 | **[Government of Alberta](http://alberta.ca/)** | **[Business Services Analyst](https://jobright.ai/jobs/info/69fcd6d46b788e7e7a5c2d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edmonton, AB | On Site | May 07 |
