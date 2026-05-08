@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMW Group US](http://www.bmwusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe166a6bcf315dc8f54a63?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodcliff Lake, New, US | Hybrid | May 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | May 08 |
 | **[Enloe Health](https://www.enloe.org/)** | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69fd95517714cd50b90fb6c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA - Business Services Center, US | Hybrid | May 08 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69fd1ed25cff890b03f3631e?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo County | Hybrid | May 07 |
