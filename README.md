@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Professional (US) - Business Analyst 1](https://jobright.ai/jobs/info/69fd9fc34b9bbf21744abc1d?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE, CA | On Site | May 08 |
 | **[Enloe Health](https://www.enloe.org/)** | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69fd95517714cd50b90fb6c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA - Business Services Center, US | Hybrid | May 08 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69fd1ed25cff890b03f3631e?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo County | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Process & Systems Analyst (S)](https://jobright.ai/jobs/info/69fd14055cff890b03f36062?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | May 07 |
@@ -98,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69fae3c286d5cd46527d0830?utm_campaign=Business%20Analyst&utm_source=1103)** | Laramie, WY | Hybrid | May 04 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Salesforce](https://jobright.ai/jobs/info/69fad37ae156000841153639?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 04 |
 | **[Fidelity International](https://www.fidelityinternational.com)** | **[Business Analyst - Salesforce](https://jobright.ai/jobs/info/69f9963cdb88714bcdfbf342?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto Office, CA | Hybrid | May 04 |
-| **[Cisco](http://www.cisco.com)** | **[Business Operations Analyst I (Full-Time) - United States](https://jobright.ai/jobs/info/69fac29418b94b2515bdc480?utm_campaign=Business%20Analyst&utm_source=1103)** | Milpitas, CA | On Site | May 04 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Business Analyst-Technical Writer 1](https://jobright.ai/jobs/info/69f8bcc8b1fc847fc1ae86ed?utm_campaign=Business%20Analyst&utm_source=1103)** | 920 East Sheridan Avenue, Laramie, WY, 82070, US | Hybrid | May 04 |
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior with Security Clearance](https://jobright.ai/jobs/info/69fb615038179b6f1ae77e2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f75bd30b36ff0354757d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 03 |
@@ -111,5 +111,4 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f51b3643a25828a8d16da6?utm_campaign=Business%20Analyst&utm_source=1103)** | 01801 - Team Evergreen-Remote, US | Remote | May 01 |
 | **[Equitable](http://equitable.ca/)** | **[Business System Analyst, Enterprise Platforms](https://jobright.ai/jobs/info/69f505ee81706a5bd216459d?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, ON, Canada | Hybrid | May 01 |
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e983990a6e09555303ca5e?utm_campaign=Business%20Analyst&utm_source=1103)** | Neenah, WI | On Site | May 01 |
-| **[Pereira O'Dell](http://www.pereiraodell.com)** | **[Business Affairs Coordinator](https://jobright.ai/jobs/info/69c400c8d5a1016e98db07d1?utm_campaign=Business%20Analyst&utm_source=1103)** | LA Metro Area | Remote | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
