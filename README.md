@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gridiron IT](https://gridironit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe31bf6bcf315dc8f555e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | May 08 |
 | **[Englewood Lab](http://www.englewoodlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe2a2e4b9bbf21744aebdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Totowa, NJ | On Site | May 08 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe166a6bcf315dc8f54a63?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodcliff Lake, New, US | Hybrid | May 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | May 08 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Process Specialist – HCM & Finance](https://jobright.ai/jobs/info/69fbf00776c60e7b70af0e30?utm_campaign=Business%20Analyst&utm_source=1103)** | Fayetteville, AR, US | On Site | May 06 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb9e2887a4820e6da89f75?utm_campaign=Business%20Analyst&utm_source=1103)** | Lakeland, FL | On Site | May 06 |
 | **[LMI](http://www.lmi.org)** | **[Business Analyst](https://jobright.ai/jobs/info/69fb9d4b18b94b2515be4103?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 06 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69fb91a486d5cd46527d66f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 06 |
 | **[College of Health and Human Sciences at Texas Tech University](http://www.hs.ttu.edu)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 06 |
 | **[Florida Polytechnic University](https://floridapolytechnic.org)** | **[Business Systems Analyst I – Student Systems](https://jobright.ai/jobs/info/69fb655a18b94b2515be22da?utm_campaign=Business%20Analyst&utm_source=1103)** | JD Alexander Florida Polytechnic Main Campus, US | On Site | May 06 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69c201a72c312363dcd54e7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | May 06 |
