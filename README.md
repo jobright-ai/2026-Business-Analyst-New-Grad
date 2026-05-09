@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69fe67847714cd50b9100f8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | May 08 |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67477714cd50b9100efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | May 08 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67467714cd50b9100ef2?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | May 08 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67467714cd50b9100ef6?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | May 08 |
 | **[Gridiron IT](https://gridironit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe31bf6bcf315dc8f555e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | May 08 |
 | **[Englewood Lab](http://www.englewoodlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe2a2e4b9bbf21744aebdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Totowa, NJ | On Site | May 08 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe166a6bcf315dc8f54a63?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodcliff Lake, New, US | Hybrid | May 08 |
+| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Business Administrator](https://jobright.ai/jobs/info/69e15419d612782e6114822d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | May 08 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69d55628cfdc6132f9461681?utm_campaign=Business%20Analyst&utm_source=1103)** | St Louis, MO | Hybrid | May 08 |
 | **[Enloe Health](https://www.enloe.org/)** | **[Continuous Improvement Business Analyst (Full-Time, Exempt)](https://jobright.ai/jobs/info/69fd95517714cd50b90fb6c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chico, CA - Business Services Center, US | Hybrid | May 08 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/69fd1ed25cff890b03f3631e?utm_campaign=Business%20Analyst&utm_source=1103)** | Yolo County | Hybrid | May 07 |
@@ -104,5 +109,4 @@ For a complete list, click the following sortable link below:
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior with Security Clearance](https://jobright.ai/jobs/info/69fb615038179b6f1ae77e2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 03 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Analyst, Associate](https://jobright.ai/jobs/info/69f75bd30b36ff0354757d78?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 03 |
 | **[Harrison Street Asset Management](http://www.harrisonst.com)** | **[Sr. Associate, Business Liaison](https://jobright.ai/jobs/info/69bde38fb1060245628346a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 02 |
-| **[DaVita Kidney Care](http://www.davita.com)** | **[Associate Analyst, Business (ROPS)](https://jobright.ai/jobs/info/69f5a08281706a5bd2166d13?utm_campaign=Business%20Analyst&utm_source=1103)** | Brentwood, TN | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
