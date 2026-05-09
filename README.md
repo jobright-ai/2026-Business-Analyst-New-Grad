@@ -58,9 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/69fe67847714cd50b9100f8a?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | May 08 |
-| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67477714cd50b9100efe?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | May 08 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67467714cd50b9100ef2?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | May 08 |
-| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/69fe67467714cd50b9100ef6?utm_campaign=Business%20Analyst&utm_source=1103)** | 188 Inverness Drive West | On Site | May 08 |
 | **[Gridiron IT](https://gridironit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe31bf6bcf315dc8f555e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Hybrid | May 08 |
 | **[Englewood Lab](http://www.englewoodlab.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe2a2e4b9bbf21744aebdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Totowa, NJ | On Site | May 08 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/69fe166a6bcf315dc8f54a63?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodcliff Lake, New, US | Hybrid | May 08 |
