@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b5874b5407dd4675a11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | On Site | May 09 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b51a0eddc08c23999ab?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | On Site | May 09 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d5ceab706f771673ba6e31?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | May 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | May 09 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst  - Troy, AL](https://jobright.ai/jobs/info/69ff2f18fa1aa73213d8aba6?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, AL | On Site | May 09 |
