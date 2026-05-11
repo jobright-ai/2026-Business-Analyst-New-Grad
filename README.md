@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
 | **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d5df52f1450d847311?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 11 |
 | ↳ | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d2c4b08448a0b229b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | May 11 |
 | **[Open House Texas/Atlanta Realty & Investments](https://openhouse-us.com/)** | **[Business Process Coordinator (47232)](https://jobright.ai/jobs/info/6a0206f7df52f1450d846d7b?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW - Dallas, TX 75254 | On Site | May 11 |
@@ -93,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/69fcc9a2b113035a9f8ebaf0?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 07 |
 | **[Transform Group](https://transformgroup.com)** | **[Entry-Level Business Analyst Remote - Part-Time](https://jobright.ai/jobs/info/69fcc8f16b788e7e7a5c2768?utm_campaign=Business%20Analyst&utm_source=1103)** | REMOTE-United States | Remote | May 07 |
 | **[Walsall Council](https://go.walsall.gov.uk)** | **[Customer Business Analyst - Ref: EE02526](https://jobright.ai/jobs/info/69fca74f5cff890b03f32b35?utm_campaign=Business%20Analyst&utm_source=1103)** | Walsall, West Midlands, United Kingdom | On Site | May 07 |
+| **[ThinkTek](https://www.thinktekllc.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a023ef2c4b08448a0b24972?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA | On Site | May 06 |
 | **[LIXIL](http://www.lixil.com)** | **[Business Analyst, Menards](https://jobright.ai/jobs/info/69fc214d2f9f6b7cf69114d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Eau Claire, WI | On Site | May 06 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Inventory-(Mon-Fri: 8:00 AM-4:30 PM)](https://jobright.ai/jobs/info/69fbee58a5949019c55b1899?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | May 06 |
 | **[University of Arkansas](http://uark.edu)** | **[Business Process Specialist – HCM & Finance](https://jobright.ai/jobs/info/69fbf032a5949019c55b1c86?utm_campaign=Business%20Analyst&utm_source=1103)** | Fayetteville, AR | On Site | May 06 |
@@ -110,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4c3881706a5bd2175296?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, US | On Site | May 05 |
 | ↳ | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4beadb88714bcdfc26f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, US | On Site | May 05 |
 | **[Sage | Marketing Agency](www.sageassociates.uk)** | **[Entry-Level Business Manager (Immediate Start)](https://jobright.ai/jobs/info/69fa369981706a5bd217460d?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | May 05 |
+| **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a024cc0fa1aa73213d98e4a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America, United States | On Site | May 05 |
 | **[Ross Stores, Inc.](http://rossstores.com/#)** | **[Analyst, Merchant Operations](https://jobright.ai/jobs/info/69c279a294007a2195de548d?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 05 |
 | **[RedPeak](https://redpeak.com/)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/69a8304d7ac93962b707edc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
