@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 09 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b5874b5407dd4675a11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | On Site | May 09 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b51a0eddc08c23999ab?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | On Site | May 09 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d5ceab706f771673ba6e31?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | May 09 |
