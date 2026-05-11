@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d5df52f1450d847311?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 11 |
+| ↳ | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d2c4b08448a0b229b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | May 11 |
+| **[Open House Texas/Atlanta Realty & Investments](https://openhouse-us.com/)** | **[Business Process Coordinator (47232)](https://jobright.ai/jobs/info/6a0206f7df52f1450d846d7b?utm_campaign=Business%20Analyst&utm_source=1103)** | DFW - Dallas, TX 75254 | On Site | May 11 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | May 11 |
 | **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a01e465c4b08448a0b2142f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 09 |
