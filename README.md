@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | May 11 |
+| **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a01e465c4b08448a0b2142f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 09 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b5874b5407dd4675a11?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, US | On Site | May 09 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69ff8b51a0eddc08c23999ab?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MA-Boston | On Site | May 09 |
@@ -108,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[RedPeak](https://redpeak.com/)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/69a8304d7ac93962b707edc5?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 04 |
 | **[Ecolab](http://www.ecolab.com)** | **[Associate Commercial Business Analyst](https://jobright.ai/jobs/info/69faf42b18b94b2515bddec9?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, MN | On Site | May 04 |
 | **[Abbott](https://www.abbott.com)** | **[Gross Margin Business Analyst](https://jobright.ai/jobs/info/69fae77186d5cd46527d0eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 04 |
-| **[Ecolab](http://www.ecolab.com)** | **[Associate Commercial Business Analyst](https://jobright.ai/jobs/info/69f91b12db88714bcdfbdc8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Eagan, Minnesota, United States of America | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
