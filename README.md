@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
 | **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d5df52f1450d847311?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 11 |
 | ↳ | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d2c4b08448a0b229b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | May 11 |
