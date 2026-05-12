@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a033c7bbc4184089f2305d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY, US | Hybrid | May 12 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Senior Associate, Client Operations](https://jobright.ai/jobs/info/6a03237d6c07461fe1700f09?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 12 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 12 |
 | **[SubSea Craft Limited](https://www.subseacraft.com)** | **[Process Business Analyst](https://jobright.ai/jobs/info/6a03035b22395b6dc6d8ff84?utm_campaign=Business%20Analyst&utm_source=1103)** | Portsmouth, Hampshire, United Kingdom | On Site | May 12 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a032da3ed6a637463f4d261?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Lennox India Technology Centre](http://www.lennoxindia.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3df3d6cc51d6370e1e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-AR-Stuttgart | On Site | May 11 |
 | ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0331febc4184089f22fc83?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 11 |
+| ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | May 11 |
 | **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
 | **[Coca-Cola Canada Bottling Limited](https://cokecanada.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0314107c753c287f6e3991?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
@@ -122,6 +125,4 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fb505338179b6f1ae776c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, Canada | Hybrid | May 05 |
 | **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4aa7ffa73664aeafe593?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 05 |
 | ↳ | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4a1e38179b6f1ae77555?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | May 05 |
-| **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
