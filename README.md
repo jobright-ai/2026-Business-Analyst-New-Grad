@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lennox India Technology Centre](http://www.lennoxindia.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3df3d6cc51d6370e1e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-AR-Stuttgart | On Site | May 11 |
+| ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
 | **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
 | **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d5df52f1450d847311?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 11 |
@@ -118,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4c3881706a5bd2175296?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, US | On Site | May 05 |
 | ↳ | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4beadb88714bcdfc26f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, US | On Site | May 05 |
 | **[Sage | Marketing Agency](www.sageassociates.uk)** | **[Entry-Level Business Manager (Immediate Start)](https://jobright.ai/jobs/info/69fa369981706a5bd217460d?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | May 05 |
-| **[Advarra](https://www.advarra.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a024cc0fa1aa73213d98e4a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States of America, United States | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
