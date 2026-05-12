@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Senior Associate, Client Operations](https://jobright.ai/jobs/info/6a03237d6c07461fe1700f09?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 12 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 12 |
 | **[SubSea Craft Limited](https://www.subseacraft.com)** | **[Process Business Analyst](https://jobright.ai/jobs/info/6a03035b22395b6dc6d8ff84?utm_campaign=Business%20Analyst&utm_source=1103)** | Portsmouth, Hampshire, United Kingdom | On Site | May 12 |
+| **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a032da3ed6a637463f4d261?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 12 |
 | **[Lennox India Technology Centre](http://www.lennoxindia.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3df3d6cc51d6370e1e?utm_campaign=Business%20Analyst&utm_source=1103)** | US-AR-Stuttgart | On Site | May 11 |
 | ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
 | **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
