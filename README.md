@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KeyBank](https://www.key.com)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a0365d17c753c287f6e68cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY | Hybrid | May 12 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Early Career](https://jobright.ai/jobs/info/6a035657bc4184089f231739?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, Pennsylvania, Texas | Remote | May 12 |
 | **[KeyBank](https://www.key.com)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a033c7bbc4184089f2305d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY, US | Hybrid | May 12 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Senior Associate, Client Operations](https://jobright.ai/jobs/info/6a03237d6c07461fe1700f09?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 12 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0331febc4184089f22fc83?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 11 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | May 11 |
-| **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
 | **[Coca-Cola Canada Bottling Limited](https://cokecanada.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0314107c753c287f6e3991?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/6a0311a1f3d6cc51d63732ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 11 |
