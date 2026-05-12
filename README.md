@@ -62,6 +62,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
 | **[Vero Networks](https://web.veronetworks.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a027a46fa1aa73213d9a6cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
+| **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a030b63f3d6cc51d6372c87?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK | On Site | May 11 |
+| ↳ | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a030c4822395b6dc6d908e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 11 |
 | **[Coca-Cola Canada Bottling Limited](https://cokecanada.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0303ef22395b6dc6d90177?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 11 |
 | **[ONEOK](http://www.oneok.com)** | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d5df52f1450d847311?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, US | On Site | May 11 |
 | ↳ | **[Rotational Commercial Business Analyst](https://jobright.ai/jobs/info/6a0213d2c4b08448a0b229b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Tulsa, OK, US | On Site | May 11 |
@@ -119,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703f582f810f9c8d60c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Waterloo, Ontario, CA | Hybrid | May 05 |
 | ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69fa703c81706a5bd2175d1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, CA | Hybrid | May 05 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69b0301d0b2db6275c03ad56?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 05 |
-| **[Ameriprise Financial Services, LLC](https://www.kpsinc.net)** | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4c3881706a5bd2175296?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, Minnesota, US | On Site | May 05 |
-| ↳ | **[Business Anaylst](https://jobright.ai/jobs/info/69fa4beadb88714bcdfc26f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
