@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst- Early Career](https://jobright.ai/jobs/info/6a035657bc4184089f231739?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, Pennsylvania, Texas | Remote | May 12 |
 | **[KeyBank](https://www.key.com)** | **[IT Associate Business Analyst](https://jobright.ai/jobs/info/6a033c7bbc4184089f2305d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Amherst, NY, US | Hybrid | May 12 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Senior Associate, Client Operations](https://jobright.ai/jobs/info/6a03237d6c07461fe1700f09?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 12 |
 | **[Texas Tech University](http://www.depts.ttu.edu/icfie/)** | **[Enterprise IT Business Analyst](https://jobright.ai/jobs/info/69fb7a9a86d5cd46527d5f1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lubbock | On Site | May 12 |
