@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6a0620bc7c753c287f6ff796?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | May 14 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a06147cf3d6cc51d638eaf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | May 14 |
 | **[ICF Next](https://www.icf.com/next)** | **[Business Systems Analyst (Future Opportunities)](https://jobright.ai/jobs/info/6a060c27a88ea73abf7f6886?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA | Remote | May 14 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Claims Business Insights Analyst, Associate - Hybrid](https://jobright.ai/jobs/info/6a060b3ca88ea73abf7f66cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ | Hybrid | May 14 |
@@ -120,37 +121,37 @@ For a complete list, click the following sortable link below:
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233302?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, 7300 W 110th Street, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038532bc4184089f2332ed?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, 415 Mission Street, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038532bc4184089f2332ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, 69 State St, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377697?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, 555 Fayetteville, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, One Manhattan West, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d637769c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377697?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, 555 Fayetteville, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a5?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Pete, 140 Fountain Pkwy, Tampa Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, One Manhattan West, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, 800 N Glebe, AFS, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377696?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, 999 18th St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038525f3d6cc51d6377694?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, 12680 High Bluff Dr, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, 333 S 7th, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377696?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, 999 18th St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, 790 N Milwaukee St, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, 280 Trumbull, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, 888 Boylston, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, 280 Trumbull, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, 1400 W 10th Street, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385147c753c287f6e7ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, 8383 158th Avenue NE, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, 333 S 7th, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Walnut Creek, 1255 Treat Blvd, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557b?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, 525 NW 11th St, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385147c753c287f6e7ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, 8383 158th Avenue NE, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95576?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, 11939 N Meridian St., Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557b?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, 525 NW 11th St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95578?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, 1001 Liberty Ave, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, 805 S Walton Blvd., Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95579?utm_campaign=Business%20Analyst&utm_source=1103)** | Mountain View, 650 Castro, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95574?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, 5205 N OConnor Las Colinas, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95579?utm_campaign=Business%20Analyst&utm_source=1103)** | Mountain View, 650 Castro, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95577?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, 2001 Market St, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f3?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, 1191 2nd Avenue, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, 909 Locust, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, 400 W. Nationwide Blvd, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f3?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, 15279 N Scottsdale Rd, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Beaverton, 15220 NW Greenbrier, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 323 Congress Avenue, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, 15279 N Scottsdale Rd, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d25?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, 400 W. Nationwide Blvd, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d23?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, 1201 Wilson, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d25?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f96c07461fe1704d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, 1610 R Street, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f86c07461fe1704d18?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, 1240 Woodward, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f76c07461fe1704cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, 4th Street, Corp, US | Remote | May 12 |
