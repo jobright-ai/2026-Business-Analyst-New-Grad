@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Compu-Vision Consulting Inc.](http://www.compuvis.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a07f65b8f3e371eb617bd64?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, LA | Remote | May 15 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d269b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 15 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d2698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 15 |
+| **[TULK | Swift·Wise·Counsel](http://tulk.us)** | **[Business Analyst Junior](https://jobright.ai/jobs/info/6a07d678403fc339507e867f?utm_campaign=Business%20Analyst&utm_source=1103)** | Client Site - Springfield, VA, Springfield, VA, US | On Site | May 15 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d36186f46859883153?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | May 15 |
+| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f4685988314f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, USA | On Site | May 15 |
+| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883151?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | May 15 |
+| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883152?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
+| **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07ce4aa203b1052e43eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York,New York,United States | Hybrid | May 15 |
 | **[Northwell Health](https://www.northwell.edu/)** | **[Business Strategy Analyst](https://jobright.ai/jobs/info/6a078c556186f468598806a6?utm_campaign=Business%20Analyst&utm_source=1103)** | 600 Community Drive, Manhasset, NY, 11030, US | On Site | May 15 |
 | **[EkoMovers](https://www.ekomovers.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a0775af403fc339507e4f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Monroe, OH | On Site | May 15 |
 | **[DeepHealth](https://deep.health)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6a076d7b6186f4685987e36a?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, US | On Site | May 15 |
@@ -83,9 +92,9 @@ For a complete list, click the following sortable link below:
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a06fb449f57175bd581bd53?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston (1001 Boylston Street) | Hybrid | May 15 |
 | ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | May 15 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | May 15 |
-| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 15 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 15 |
+| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 15 |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a06eb8c4b07a86277877d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego | On Site | May 15 |
@@ -127,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/6a04a2bbf3d6cc51d638130e?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI | Hybrid | May 13 |
 | **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc09fb8130af1ac833641e?utm_campaign=Business%20Analyst&utm_source=1103)** | Wilmington, DE | On Site | May 13 |
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69d5e0d3cfdc6132f9466cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | May 13 |
-| **[Aramark UK](aramark.co.uk)** | **[Business Services Analyst](https://jobright.ai/jobs/info/6a049a4ff3d6cc51d63810b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, US, 19103 | On Site | May 13 |
-| **[WSFS Bank](http://www.wsfsbank.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | May 13 |
+| ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/69cc72e9cfdc6132f940c4a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Wayne, PA | On Site | May 13 |
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | May 13 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69d0c7dacdb525785fbae682?utm_campaign=Business%20Analyst&utm_source=1103)** | Eden Prairie, MN | On Site | May 13 |
 | **[RBC](https://www.rbc.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/6a0431a46c07461fe170a9d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | May 13 |
@@ -140,44 +148,44 @@ For a complete list, click the following sortable link below:
 | **[Abbott](https://www.abbott.com)** | **[Gross Margin Business Analyst](https://jobright.ai/jobs/info/69fae77186d5cd46527d0eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 12 |
 | **[Great Falls Public Schools](http://www.gfps.k12.mt.us)** | **[Assistant Business System Analyst](https://jobright.ai/jobs/info/6a03b97bbc4184089f2354af?utm_campaign=Business%20Analyst&utm_source=1103)** | Great Falls, MT | On Site | May 12 |
 | **[RBC](https://www.rbc.com)** | **[Analyst, Business Transformation](https://jobright.ai/jobs/info/6a03abd77c753c287f6e9699?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 12 |
-| **[Accenture](https://www.accenture.com)** | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233303?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, 1301 Fannin, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233302?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, 7300 W 110th Street, Corp, US | Remote | May 12 |
+| **[Accenture](https://www.accenture.com)** | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233302?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, 7300 W 110th Street, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233303?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, 1301 Fannin, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f233304?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, 4101 Charlotte Ave., Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f2332ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, 777 Brickell Ave, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038533bc4184089f2332fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Kirkland, 416 6th Street South, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038532bc4184089f2332ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, 69 State St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038532bc4184089f2332ed?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, 415 Mission Street, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038532bc4184089f2332ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, 69 State St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d637769c?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, 75 Fifth, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, One Manhattan West, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, 800 N Glebe, AFS, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a5?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Pete, 140 Fountain Pkwy, Tampa Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, 1120 S Tryon St., Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377697?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, 555 Fayetteville, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038525f3d6cc51d6377694?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, 12680 High Bluff Dr, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a5?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Pete, 140 Fountain Pkwy, Tampa Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d63776a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, 800 N Glebe, AFS, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, One Manhattan West, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038526f3d6cc51d6377696?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, 999 18th St, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, 888 Boylston, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a038525f3d6cc51d6377694?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, 12680 High Bluff Dr, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd4?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, 333 S 7th, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, 280 Trumbull, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, 790 N Milwaukee St, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd9?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, 280 Trumbull, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, 888 Boylston, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd5?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, 1400 W 10th Street, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385157c753c287f6e7cd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Walnut Creek, 1255 Treat Blvd, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0385147c753c287f6e7ccf?utm_campaign=Business%20Analyst&utm_source=1103)** | Redmond, 8383 158th Avenue NE, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95576?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, 11939 N Meridian St., Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95579?utm_campaign=Business%20Analyst&utm_source=1103)** | Mountain View, 650 Castro, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, 805 S Walton Blvd., Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95577?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, 2001 Market St, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95574?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, 5205 N OConnor Las Colinas, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95578?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, 1001 Liberty Ave, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557b?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma City, 525 NW 11th St, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 323 Congress Avenue, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f3?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Beaverton, 15220 NW Greenbrier, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95577?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, 2001 Market St, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d9557a?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, 805 S Walton Blvd., Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95576?utm_campaign=Business%20Analyst&utm_source=1103)** | Carmel, 11939 N Meridian St., Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03851322395b6dc6d95578?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, 1001 Liberty Ave, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, 15279 N Scottsdale Rd, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Beaverton, 15220 NW Greenbrier, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, 400 W. Nationwide Blvd, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, 323 Congress Avenue, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f0?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, 909 Locust, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f3?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, 4220 Duncan Avenue, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a03850f8ecfd93cd9c0f0f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, 1191 2nd Avenue, Corp, US | Remote | May 12 |
-| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d25?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d23?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, 1201 Wilson, Corp, US | Remote | May 12 |
+| ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384fa6c07461fe1704d25?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Accenture Tower, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f96c07461fe1704d1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, 1610 R Street, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f86c07461fe1704d18?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, 1240 Woodward, Corp, US | Remote | May 12 |
 | ↳ | **[^Business Analyst - 6300316](https://jobright.ai/jobs/info/6a0384f76c07461fe1704cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, 4th Street, Corp, US | Remote | May 12 |
@@ -195,7 +203,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/6a02ce3cf3d6cc51d6370e1d?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR, US | On Site | May 11 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0331febc4184089f22fc83?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 11 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | On Site | May 11 |
-| **[State of Indiana](https://www.in.gov)** | **[Business Systems Cnslt Assoc](https://jobright.ai/jobs/info/6a04141ebc4184089f237e77?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN | On Site | May 11 |
+| **[Kekst CNC](https://www.kekstcnc.com)** | **[Senior Associate, Client Operations](https://jobright.ai/jobs/info/6a07ce196186f46859882fb2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago,Illinois,United States | Hybrid | May 11 |
 | **[State of Wisconsin](http://www.wisconsin.gov/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a03b5606c07461fe1706e4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Madison, WI | Hybrid | May 11 |
 | **[RBC](https://www.rbc.com)** | **[Associate, Measurement & Reporting Analyst](https://jobright.ai/jobs/info/6a024df0df52f1450d84998a?utm_campaign=Business%20Analyst&utm_source=1103)** | TORONTO, Ontario, Canada | On Site | May 11 |
 | **[Illinois Housing Development Authority](https://www.ihda.org/)** | **[Business Systems Analyst I - HP](https://jobright.ai/jobs/info/6a0311a1f3d6cc51d63732ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | May 11 |
@@ -213,5 +221,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a02ba54f3d6cc51d636fb94?utm_campaign=Business%20Analyst&utm_source=1103)** | Hunt Valley, MD | On Site | May 09 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | May 09 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6caf8b773006330b72f82?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | May 09 |
-| **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69e28e3a5c44d4710fe25b41?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | Hybrid | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
