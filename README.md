@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0ccda822d0d34036c98811?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond | On Site | May 19 |
+| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a0cb601538d03366dc903b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | May 19 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d269b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 15 |
 | **[TULK | Swift·Wise·Counsel](http://tulk.us)** | **[Business Analyst Junior](https://jobright.ai/jobs/info/6a07d678403fc339507e867f?utm_campaign=Business%20Analyst&utm_source=1103)** | Client Site - Springfield, VA, Springfield, VA, US | On Site | May 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d36186f46859883153?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | May 15 |
-| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f4685988314f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, USA | On Site | May 15 |
 | ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883152?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
+| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f4685988314f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, USA | On Site | May 15 |
 | ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883151?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | May 15 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07ce4aa203b1052e43eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York,New York,United States | Hybrid | May 15 |
 | **[EkoMovers](https://www.ekomovers.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a0775af403fc339507e4f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Monroe, OH | On Site | May 15 |
