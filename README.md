@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/6a0c95a70411d7417a1ba3f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Colorado | On Site | May 19 |
+| ↳ | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/6a0c95a40411d7417a1ba3f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, Colorado (CO) | On Site | May 19 |
 | **[Walmart](http://www.walmart.com)** | **[Coordinator, Enterprise Business Services](https://jobright.ai/jobs/info/6a0c3f4d22d0d34036c9234f?utm_campaign=Business%20Analyst&utm_source=1103)** | Bentonville, AR | On Site | May 19 |
 | **[Odoo](http://www.odoo.com)** | **[Business Analyst - ERP](https://jobright.ai/jobs/info/6a0bec76963f7a67d95d3f95?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY | Hybrid | May 18 |
 | **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a07c18f3b54ed42d74d1b6f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | On Site | May 18 |
@@ -76,13 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a0864fd3b54ed42d74d75f9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, AZ | On Site | May 16 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a085075403fc339507ecf3e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, US | On Site | May 16 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6a085073403fc339507ecf3b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Ontario | On Site | May 16 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d2698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 15 |
-| ↳ | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d269b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 15 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d269b?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 15 |
+| ↳ | **[Business Manager](https://jobright.ai/jobs/info/6a07dd6b3b54ed42d74d2698?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 15 |
 | **[TULK | Swift·Wise·Counsel](http://tulk.us)** | **[Business Analyst Junior](https://jobright.ai/jobs/info/6a07d678403fc339507e867f?utm_campaign=Business%20Analyst&utm_source=1103)** | Client Site - Springfield, VA, Springfield, VA, US | On Site | May 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d36186f46859883153?utm_campaign=Business%20Analyst&utm_source=1103)** | Bellevue, Washington, USA | On Site | May 15 |
 | ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883151?utm_campaign=Business%20Analyst&utm_source=1103)** | Tempe, Arizona, USA | On Site | May 15 |
-| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883152?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
 | ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f4685988314f?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, USA | On Site | May 15 |
+| ↳ | **[Business Analyst, Customer Delivery Excellence](https://jobright.ai/jobs/info/6a07d1d26186f46859883152?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | May 15 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a07ce4aa203b1052e43eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York,New York,United States | Hybrid | May 15 |
 | **[EkoMovers](https://www.ekomovers.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a0775af403fc339507e4f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Monroe, OH | On Site | May 15 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a077f908f3e371eb6177c49?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverwoods, IL | Hybrid | May 15 |
@@ -91,8 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a07016924dcb03739f1d6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 15 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a06fef41f7fa33581c98ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | May 15 |
 | ↳ | **[ServiceNow Business Analyst/Tester](https://jobright.ai/jobs/info/6a06fed6152f493123c4bcd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 15 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a06fecc078fec52738a4723?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 15 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a06fec9078fec52738a46f9?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO | Hybrid | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a06fec9078fec52738a4706?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio, TX | Hybrid | May 15 |
 | **[AlixPartners](http://www.alixpartners.com)** | **[Performance Analyst](https://jobright.ai/jobs/info/69ebd46e4b0fa35a7077f02e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago | Hybrid | May 15 |
 | **[Airship](https://www.airship.com/)** | **[Business Value Analyst](https://jobright.ai/jobs/info/69a7b33976bbe83d3afb2252?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - U.S. | Remote | May 15 |
@@ -109,9 +109,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | May 15 |
 | **[Definitive Healthcare](http://www.definitivehc.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69c6cef91b5ad02887387295?utm_campaign=Business%20Analyst&utm_source=1103)** | Framingham, MA | Hybrid | May 15 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 15 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 15 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 15 |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a06eb8c4b07a86277877d8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego | On Site | May 15 |
 | ↳ | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a06eb884b07a86277877d84?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | May 15 |
