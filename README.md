@@ -57,15 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Backroads](https://www.backroads.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0cf9a322d0d34036c9a806?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley, California, US | Hybrid | May 19 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Business Process Analyst I (DWM Information Systems)](https://jobright.ai/jobs/info/6a0cf5c4538d03366dc92f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 19 |
 | **[Premier Cooperative](http://premiercooperative.com)** | **[On Site BUSINESS ANALYST I - Mt. Horeb, WI](https://jobright.ai/jobs/info/6a0ce960538d03366dc929a7?utm_campaign=Business%20Analyst&utm_source=1103)** | 501 W MAIN ST - MT HOREB, WI 53572 | On Site | May 19 |
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6a0cdd5e4d9320363687cd1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook University, NY | Remote | May 19 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6a0cdd11a235d749afa913bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Remote | May 19 |
 | **[UST HealthProof](https://usthealthproof.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0ccda822d0d34036c98811?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond | On Site | May 19 |
-| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
+| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a0cb601538d03366dc903b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | May 19 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control (BPC) Analyst/Purchasing](https://jobright.ai/jobs/info/6a0cb2e6a235d749afa8f6ad?utm_campaign=Business%20Analyst&utm_source=1103)** | 210 N 1st St, Laurens, IA 50554, USA | On Site | May 19 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[EkoMovers](https://www.ekomovers.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a0775af403fc339507e4f34?utm_campaign=Business%20Analyst&utm_source=1103)** | Monroe, OH | On Site | May 15 |
 | **[Wolters Kluwer](http://www.wolterskluwer.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a077f908f3e371eb6177c49?utm_campaign=Business%20Analyst&utm_source=1103)** | Riverwoods, IL | Hybrid | May 15 |
 | **[Wandata Tech](www.wandatatech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a07581f8f3e371eb6175f62?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | On Site | May 15 |
-| **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a0739ada203b1052e438ba2?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 15 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a07016924dcb03739f1d6f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 15 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a06fef41f7fa33581c98ec1?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | May 15 |
 | ↳ | **[ServiceNow Business Analyst/Tester](https://jobright.ai/jobs/info/6a06fed6152f493123c4bcd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | May 15 |
