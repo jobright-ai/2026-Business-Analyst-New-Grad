@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BHE Compression Services](https://www.bhecompressionservices.com)** | **[Business Reporting and Insights Analyst, Sr. Analyst, Lead Analyst](https://jobright.ai/jobs/info/6a1216c29f654b3359cf26a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | May 23 |
 | **[Bonneville Power Administration](https://www.bpa.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6a11353469bd827926af2e83?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 22 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Key Accounts](https://jobright.ai/jobs/info/6a111dd69fdbf21f36cb2f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | May 22 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a111b8083d714428982a816?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | May 22 |
@@ -118,10 +119,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdc80bf0430c762815e?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Moon Township, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628158?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - San Antonio, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628157?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Blue Bell, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628152?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628151?utm_campaign=Business%20Analyst&utm_source=1103)** | NC - High Point, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628150?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Jacksonville, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628153?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - Irving, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628152?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628151?utm_campaign=Business%20Analyst&utm_source=1103)** | NC - High Point, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbda80bf0430c762814e?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814c?utm_campaign=Business%20Analyst&utm_source=1103)** | NY - New York, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford-Farmington Ave Atrium, US | Hybrid | May 20 |
@@ -137,11 +138,11 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Business Process Analyst I (DWM Information Systems)](https://jobright.ai/jobs/info/6a0cf5c4538d03366dc92f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 19 |
 | **[Premier Cooperative](http://premiercooperative.com)** | **[On Site BUSINESS ANALYST I - Mt. Horeb, WI](https://jobright.ai/jobs/info/6a0ce960538d03366dc929a7?utm_campaign=Business%20Analyst&utm_source=1103)** | 501 W MAIN ST - MT HOREB, WI 53572 | On Site | May 19 |
 | **[Seneca Resources Company, LLC](http://www.natfuel.com/seneca/default.aspx)** | **[Jr. Technical Business Analyst - GIS](https://jobright.ai/jobs/info/6a0de97280bf0430c7627759?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
-| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
+| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 19 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a0cb601538d03366dc903b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | May 19 |
 | **[Jack Link's Protein Snacks](http://www.jacklinks.com)** | **[Business Process Control (BPC) Analyst/Purchasing](https://jobright.ai/jobs/info/6a0cb2e6a235d749afa8f6ad?utm_campaign=Business%20Analyst&utm_source=1103)** | 210 N 1st St, Laurens, IA 50554, USA | On Site | May 19 |
