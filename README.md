@@ -118,17 +118,17 @@ For a complete list, click the following sortable link below:
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdc80bf0430c762815d?utm_campaign=Business%20Analyst&utm_source=1103)** | MA - Wellesley, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdc80bf0430c762815e?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Moon Township, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628151?utm_campaign=Business%20Analyst&utm_source=1103)** | NC - High Point, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628150?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Jacksonville, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628157?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Blue Bell, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628158?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - San Antonio, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628157?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Blue Bell, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628153?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - Irving, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628150?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Jacksonville, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628152?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbda80bf0430c762814e?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814c?utm_campaign=Business%20Analyst&utm_source=1103)** | NY - New York, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford-Farmington Ave Atrium, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd880bf0430c762814a?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Plantation, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd880bf0430c7628149?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - Plymouth, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd780bf0430c7628147?utm_campaign=Business%20Analyst&utm_source=1103)** | IL - Chicago, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd880bf0430c7628149?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - Plymouth, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd680bf0430c7628146?utm_campaign=Business%20Analyst&utm_source=1103)** | TN - Franklin, US | Hybrid | May 20 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst-Information Systems](https://jobright.ai/jobs/info/6a0dbbc109ecfd704b3e22a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY | On Site | May 20 |
 | **[Mercy Cedar Rapids](http://www.mercycare.org/)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a0d80f7d516b5204a377227?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore, MD | On Site | May 20 |
@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[DWM Business Process Analyst I (DWM Information Systems)](https://jobright.ai/jobs/info/6a0cf5c4538d03366dc92f20?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA | On Site | May 19 |
 | **[Premier Cooperative](http://premiercooperative.com)** | **[On Site BUSINESS ANALYST I - Mt. Horeb, WI](https://jobright.ai/jobs/info/6a0ce960538d03366dc929a7?utm_campaign=Business%20Analyst&utm_source=1103)** | 501 W MAIN ST - MT HOREB, WI 53572 | On Site | May 19 |
 | **[Seneca Resources Company, LLC](http://www.natfuel.com/seneca/default.aspx)** | **[Jr. Technical Business Analyst - GIS](https://jobright.ai/jobs/info/6a0de97280bf0430c7627759?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
-| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
+| **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d82553f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | May 19 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072aa84a0a6a7e7d825540?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825524?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825522?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | May 19 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a072a9d4a0a6a7e7d825527?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | May 19 |
