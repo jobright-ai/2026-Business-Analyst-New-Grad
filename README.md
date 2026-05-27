@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a17185cf45c6530ce9a8a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a16adeba429fd279da9a1ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a169ea5a429fd279da999c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
@@ -117,6 +118,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a165a8fdc845f4be5bded58?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | May 20 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e6d9883d7144289818f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | May 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6a0e66fbbeb4d73cb6231fb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | May 20 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Commercial, Road US](https://jobright.ai/jobs/info/6a0e4f1947fea1610bca918b?utm_campaign=Business%20Analyst&utm_source=1103)** | USA - Lancaster, Midpoint Dr | On Site | May 20 |
-| **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
