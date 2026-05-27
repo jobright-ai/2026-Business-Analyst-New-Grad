@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a175b02b091c7417c4fddaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a17581bb091c7417c4fdc38?utm_campaign=Business%20Analyst&utm_source=1103)** | LAKE FOREST, IL, US, 60045-5202 | Hybrid | May 27 |
 | **[Honda Canada Inc.](https://www.honda.ca/)** | **[Business Support Analyst, Parts & Service Business Planning](https://jobright.ai/jobs/info/6a0e095780bf0430c7628a72?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | May 27 |
