@@ -120,7 +120,4 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst, Investly](https://jobright.ai/jobs/info/69b4c4873b74eb1e2c82238e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 20 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6a0e2495beb4d73cb622f8d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | May 20 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[IT Business Systems Analyst I](https://jobright.ai/jobs/info/6a0e23efc152ac7824483aeb?utm_campaign=Business%20Analyst&utm_source=1103)** | Wake County, NC, US | Hybrid | May 20 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | May 20 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | May 20 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst III - AMZ9675300](https://jobright.ai/jobs/info/6a10b84d9fdbf21f36cb03e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia, USA | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
