@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ComEd](https://www.comed.com)** | **[Assoc Business Analyst-Safety (Oakbrook Terrace, IL)](https://jobright.ai/jobs/info/6a174772d6a04f21602e50b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL | On Site | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | May 27 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a17185cf45c6530ce9a8a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
@@ -114,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0f3a0680bf0430c7631cb1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | May 21 |
 | ↳ | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0edd6083d714428981ba16?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | May 21 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a12b33069bd827926af680b?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036, US | Hybrid | May 21 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Commercial, Road US](https://jobright.ai/jobs/info/6a0e87c147fea1610bcaabd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, TX | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
