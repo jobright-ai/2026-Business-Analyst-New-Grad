@@ -126,15 +126,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Support Analyst, Parts & Service Business Planning](https://jobright.ai/jobs/info/6a0dfc5147fea1610bca5bfd?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, CA | Hybrid | May 20 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdc80bf0430c762815d?utm_campaign=Business%20Analyst&utm_source=1103)** | MA - Wellesley, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdc80bf0430c762815e?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Moon Township, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628158?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - San Antonio, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628150?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Jacksonville, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628151?utm_campaign=Business%20Analyst&utm_source=1103)** | NC - High Point, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628158?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - San Antonio, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628152?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Phoenix, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628153?utm_campaign=Business%20Analyst&utm_source=1103)** | TX - Irving, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628151?utm_campaign=Business%20Analyst&utm_source=1103)** | NC - High Point, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbdb80bf0430c7628157?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Blue Bell, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbda80bf0430c762814e?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Scottsdale, US | Hybrid | May 20 |
-| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford-Farmington Ave Atrium, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814c?utm_campaign=Business%20Analyst&utm_source=1103)** | NY - New York, US | Hybrid | May 20 |
+| ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd980bf0430c762814b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford-Farmington Ave Atrium, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd880bf0430c762814a?utm_campaign=Business%20Analyst&utm_source=1103)** | FL - Plantation, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd880bf0430c7628149?utm_campaign=Business%20Analyst&utm_source=1103)** | MN - Plymouth, US | Hybrid | May 20 |
 | ↳ | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0dfbd780bf0430c7628147?utm_campaign=Business%20Analyst&utm_source=1103)** | IL - Chicago, US | Hybrid | May 20 |
