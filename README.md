@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a16adeba429fd279da9a1ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a169ea5a429fd279da999c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a165dc5128680351d96a4a3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 26 |
