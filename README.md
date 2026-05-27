@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | May 27 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a17185cf45c6530ce9a8a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a16adeba429fd279da9a1ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
@@ -115,7 +116,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0edd6083d714428981ba16?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | May 21 |
 | **[KnitWell Group](https://www.knitwellgroup.com)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a12b33069bd827926af680b?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036, US | Hybrid | May 21 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Commercial, Road US](https://jobright.ai/jobs/info/6a0e87c147fea1610bcaabd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, TX | On Site | May 20 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a165a8fdc845f4be5bded58?utm_campaign=Business%20Analyst&utm_source=1103)** | Frankfort, KY | Hybrid | May 20 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e6d9883d7144289818f18?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | May 20 |
-| **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6a0e66fbbeb4d73cb6231fb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
