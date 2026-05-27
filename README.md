@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a16adeba429fd279da9a1ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a169ea5a429fd279da999c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a165dc5128680351d96a4a3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 26 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business Technology Analyst](https://jobright.ai/jobs/info/6a164bbe1935fa61b3c706c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | May 26 |
@@ -122,6 +123,4 @@ For a complete list, click the following sortable link below:
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | May 20 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | May 20 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst III - AMZ9675300](https://jobright.ai/jobs/info/6a10b84d9fdbf21f36cb03e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, Virginia, USA | On Site | May 20 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Business analyst](https://jobright.ai/jobs/info/69d51c31cfdc6132f945fc5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | Hybrid | May 20 |
-| **[Honda Canada Inc.](https://www.honda.ca/)** | **[Business Support Analyst, Parts & Service Business Planning](https://jobright.ai/jobs/info/6a0e095780bf0430c7628a72?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
