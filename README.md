@@ -107,10 +107,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0fbc5f72b52f7225f401ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, Michigan,United States,Troy | Hybrid | May 21 |
 | **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (hybrid)](https://jobright.ai/jobs/info/6a0facdd12f8b43cf3980faf?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | May 21 |
 | **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0f91a180bf0430c7635229?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | May 21 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d29f654b3359ce4880?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | May 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d19f654b3359ce487f?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | Hybrid | May 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d09f654b3359ce487d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | Hybrid | May 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55cf9f654b3359ce487c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | May 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55ce9f654b3359ce487a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | May 21 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55cd9f654b3359ce4879?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
