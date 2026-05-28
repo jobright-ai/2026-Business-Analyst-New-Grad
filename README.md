@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a177c0e1430333075cd1a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a177436b091c7417c4fee14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Forest, IL | Hybrid | May 27 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a177220b091c7417c4fed22?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | May 27 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
@@ -119,5 +120,4 @@ For a complete list, click the following sortable link below:
 | **[IP Consulting, Inc.](http://www.ipconsultinginc.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a0eddcd83d714428981ba2e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 21 |
 | **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0f3a0680bf0430c7631cb1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | May 21 |
 | ↳ | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0edd6083d714428981ba16?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | May 21 |
-| **[KnitWell Group](https://www.knitwellgroup.com)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a12b33069bd827926af680b?utm_campaign=Business%20Analyst&utm_source=1103)** | Times Square Tower-ANN-New York, NY 10036, US | Hybrid | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
