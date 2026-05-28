@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY | On Site | May 27 |
 | **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a177c0e1430333075cd1a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a177436b091c7417c4fee14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Forest, IL | Hybrid | May 27 |
@@ -117,8 +118,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6a0f11c672b52f7225f3ab02?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | May 21 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Analyst, Business Analytics](https://jobright.ai/jobs/info/6a0f0cd783d714428981c91f?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | May 21 |
 | **[Gellert Global Group](https://www.gellertglobalgroup.com)** | **[ERP Junior Business Analyst](https://jobright.ai/jobs/info/6a0f071172b52f7225f3a868?utm_campaign=Business%20Analyst&utm_source=1103)** | Elizabeth, NJ | Hybrid | May 21 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0edde872b52f7225f393a2?utm_campaign=Business%20Analyst&utm_source=1103)** | Raynham, MA | On Site | May 21 |
-| **[IP Consulting, Inc.](http://www.ipconsultinginc.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a0eddcd83d714428981ba2e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 21 |
-| **[Johnson & Johnson MedTech](https://thenext.jnjmedtech.com)** | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0f3a0680bf0430c7631cb1?utm_campaign=Business%20Analyst&utm_source=1103)** | New Brunswick, NJ | On Site | May 21 |
-| ↳ | **[Performance Analytics & Reporting](https://jobright.ai/jobs/info/6a0edd6083d714428981ba16?utm_campaign=Business%20Analyst&utm_source=1103)** | West Chester, PA | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
