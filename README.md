@@ -114,6 +114,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55cd9f654b3359ce4879?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | Hybrid | May 21 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6a0f3dd572b52f7225f3c10c?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | May 21 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Performance Analyst, Associate](https://jobright.ai/jobs/info/6a0f299383d714428981d391?utm_campaign=Business%20Analyst&utm_source=1103)** | Avila Beach | Hybrid | May 21 |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6a0f11c972b52f7225f3ab05?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL - Riverchase Operations Center (Birmingham, AL), US | On Site | May 21 |
-| ↳ | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6a0f11c672b52f7225f3ab02?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
