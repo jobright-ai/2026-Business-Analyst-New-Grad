@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4954a441713ae83794?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 28 |
+| **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1859d66243320e8d162f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Herndon, VA, US | On Site | May 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184c03abc8f63abac763af?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | Hybrid | May 28 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a184c0354a441713ae820db?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | On Site | May 28 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184bf3c2a87d6cd3deeaf5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, IL | Hybrid | May 28 |
@@ -90,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | May 23 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | May 23 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Key Accounts](https://jobright.ai/jobs/info/6a111dd69fdbf21f36cb2f1b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI | On Site | May 22 |
-| **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a111b8083d714428982a816?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH | On Site | May 22 |
 | **[RadNet](https://www.radnet.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a1117049f654b3359cefe29?utm_campaign=Business%20Analyst&utm_source=1103)** | Somerville, MA | On Site | May 22 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Key Accounts](https://jobright.ai/jobs/info/6a10dc2169bd827926af0c51?utm_campaign=Business%20Analyst&utm_source=1103)** | Milwaukee, WI, US, 53203 | On Site | May 22 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Analyst, Management Reporting](https://jobright.ai/jobs/info/6a10f17b619335383fb35816?utm_campaign=Business%20Analyst&utm_source=1103)** | Waltham, MA | Hybrid | May 22 |
@@ -98,8 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/6a07038824dcb03739f1dcff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 22 |
 | **[NewLane Finance](https://newlanefinance.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/69e91aac7820c036924e5083?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | On Site | May 22 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69f425b458b23a2329da9b30?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | May 22 |
-| **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1055c59f654b3359ceaf07?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | May 22 |
-| ↳ | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1055c49f654b3359ceaf06?utm_campaign=Business%20Analyst&utm_source=1103)** | US-SC-North Charleston | Hybrid | May 22 |
 | **[Lennox](http://www.lennox.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/69f3eb946942c746fa69612c?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR | On Site | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst 2](https://jobright.ai/jobs/info/6a0fe14412f8b43cf3982194?utm_campaign=Business%20Analyst&utm_source=1103)** | Dauphin County, PA | Hybrid | May 21 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0fbc6372b52f7225f401be?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois,United States,Chicago | Hybrid | May 21 |
