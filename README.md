@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1801cfc8110e28b75b1fef?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 28 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY | On Site | May 27 |
 | **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a177c0e1430333075cd1a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | May 27 |
@@ -112,5 +113,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55cf9f654b3359ce487c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | Hybrid | May 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55ce9f654b3359ce487a?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | Hybrid | May 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55cd9f654b3359ce4879?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | Hybrid | May 21 |
-| **[Regions Bank](https://www.regionsinsurance.com/)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6a0f3dd572b52f7225f3c10c?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
