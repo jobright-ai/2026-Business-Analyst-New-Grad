@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a177436b091c7417c4fee14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Forest, IL | Hybrid | May 27 |
+| **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a177220b091c7417c4fed22?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | May 27 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a175b02b091c7417c4fddaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a17581bb091c7417c4fdc38?utm_campaign=Business%20Analyst&utm_source=1103)** | LAKE FOREST, IL, US, 60045-5202 | Hybrid | May 27 |
@@ -99,7 +101,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0fbc5f72b52f7225f401ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, Michigan,United States,Troy | Hybrid | May 21 |
 | **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (hybrid)](https://jobright.ai/jobs/info/6a0facf212f8b43cf3980fb3?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC | Hybrid | May 21 |
 | ↳ | **[Business Analyst (hybrid)](https://jobright.ai/jobs/info/6a0facdd12f8b43cf3980faf?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | May 21 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Buiness Analyst](https://jobright.ai/jobs/info/6a0f91a180bf0430c7635229?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | May 21 |
+| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0f91a180bf0430c7635229?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | May 21 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d29f654b3359ce4880?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | May 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d19f654b3359ce487f?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, MI, US | Hybrid | May 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0f55d09f654b3359ce487d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-MI-Troy | Hybrid | May 21 |
