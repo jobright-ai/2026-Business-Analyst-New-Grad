@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a177c0e1430333075cd1a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a177436b091c7417c4fee14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Forest, IL | Hybrid | May 27 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a177220b091c7417c4fed22?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | May 27 |
