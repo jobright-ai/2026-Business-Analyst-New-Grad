@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184c0354a441713ae820db?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | On Site | May 28 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a184c03abc8f63abac763af?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | Hybrid | May 28 |
+| **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184bf3c2a87d6cd3deeaf5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, IL | Hybrid | May 28 |
+| **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4a1e38179b6f1ae77555?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, TX | On Site | May 28 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1801cfc8110e28b75b1fef?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 28 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY | On Site | May 27 |
 | **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
@@ -71,8 +75,6 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | May 27 |
 | **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a17185cf45c6530ce9a8a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
-| **[Exelon](http://www.exeloncorp.com/)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a16adeba429fd279da9a1ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
-| **[Pepco Holdings](http://www.pepcoholdings.com)** | **[Assoc Business Analyst](https://jobright.ai/jobs/info/6a169ea5a429fd279da999c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, DE | On Site | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a165dc5128680351d96a4a3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 26 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6a0620bc7c753c287f6ff796?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | May 26 |
 | **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a1636b21935fa61b3c6fab9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston (1001 Boylston Street) | Hybrid | May 26 |
@@ -98,12 +100,9 @@ For a complete list, click the following sortable link below:
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69f425b458b23a2329da9b30?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | May 22 |
 | **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1055c59f654b3359ceaf07?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | May 22 |
 | ↳ | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1055c49f654b3359ceaf06?utm_campaign=Business%20Analyst&utm_source=1103)** | US-SC-North Charleston | Hybrid | May 22 |
-| ↳ | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1055c19f654b3359ceaf05?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC, US | Hybrid | May 22 |
 | **[Lennox](http://www.lennox.com)** | **[Process Improvement Analyst II](https://jobright.ai/jobs/info/69f3eb946942c746fa69612c?utm_campaign=Business%20Analyst&utm_source=1103)** | Stuttgart, AR | On Site | May 22 |
-| **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (Charleston, SC-Hybrid)](https://jobright.ai/jobs/info/6a1018d083d7144289824107?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | Hybrid | May 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst 2](https://jobright.ai/jobs/info/6a0fe14412f8b43cf3982194?utm_campaign=Business%20Analyst&utm_source=1103)** | Dauphin County, PA | Hybrid | May 21 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0fbc6372b52f7225f401be?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois,United States,Chicago | Hybrid | May 21 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0fbc5f72b52f7225f401ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy, Michigan,United States,Troy | Hybrid | May 21 |
 | **[Ishpi Information Technologies, Inc. (DBA ISHPI)](http://www.ishpi.net)** | **[Business Analyst (hybrid)](https://jobright.ai/jobs/info/6a0facdd12f8b43cf3980faf?utm_campaign=Business%20Analyst&utm_source=1103)** | US | Hybrid | May 21 |
-| **[Campus4Tech](https://campus4tech.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0f91a180bf0430c7635229?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
