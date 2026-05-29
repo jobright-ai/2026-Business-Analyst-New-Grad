@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | May 28 |
+| **[Saatchi & Saatchi Health](http://www.saatchihealth.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a18b1a854a441713ae8748d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | May 28 |
 | **[Softheon](http://softheon.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6a189956c2a87d6cd3df2e86?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook University, NY | Hybrid | May 28 |
 | ↳ | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6a18987adbc80963f9345a22?utm_campaign=Business%20Analyst&utm_source=1103)** | Stony Brook, NY | Hybrid | May 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a18937e17492d3a389b7a48?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 28 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Perfected](https://www.perfectedclaims.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a188867c2a87d6cd3df2571?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 28 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a186adcabc8f63abac78484?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | Hybrid | May 28 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4954a441713ae83794?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 28 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1859d66243320e8d162f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Herndon, VA, US | On Site | May 28 |
@@ -78,14 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a177c0e1430333075cd1a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a177436b091c7417c4fee14?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Forest, IL | Hybrid | May 27 |
-| **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a177220b091c7417c4fed22?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | May 27 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a175b02b091c7417c4fddaf?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 27 |
 | **[Grainger](https://www.grainger.com)** | **[Process Management Analyst](https://jobright.ai/jobs/info/6a17581bb091c7417c4fdc38?utm_campaign=Business%20Analyst&utm_source=1103)** | LAKE FOREST, IL, US, 60045-5202 | Hybrid | May 27 |
 | **[Saatchi & Saatchi Health](http://www.saatchihealth.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a0f481e619335383fb2a82b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 27 |
 | **[Honda Canada Inc.](https://www.honda.ca/)** | **[Business Support Analyst, Parts & Service Business Planning](https://jobright.ai/jobs/info/6a0e095780bf0430c7628a72?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, Ontario, Canada | Hybrid | May 27 |
 | **[DaVita Kidney Care](http://www.davita.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | May 27 |
-| **[Manulife](http://www.manulife.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a17185cf45c6530ce9a8a60?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, US | Hybrid | May 27 |
 | **[Oak Point Partners](https://www.oakpointpartners.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17019b5b0a497d521076f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Chicago Area | Hybrid | May 27 |
 | **[CBRE](https://www.cbre.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a165dc5128680351d96a4a3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | May 26 |
 | **[Arbella Insurance Group](http://arbella.com)** | **[IT Business Analyst I - Hybrid](https://jobright.ai/jobs/info/6a0620bc7c753c287f6ff796?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA | Hybrid | May 26 |
