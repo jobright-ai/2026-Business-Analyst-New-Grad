@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a198d012b206f3955eae8cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Maitland, FL | On Site | May 29 |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Process Analyst, Associate](https://jobright.ai/jobs/info/6a198608c2a87d6cd3df95ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 29 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a198587e24ef36525825497?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 29 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a190f45dbc80963f93497d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 28 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | May 28 |
