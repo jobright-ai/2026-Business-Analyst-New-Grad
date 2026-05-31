@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/6a0bf589a235d749afa8984e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | May 31 |
+| **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/6a0a954ea203b1052e44df54?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | May 31 |
+| ↳ | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/6a0bf589a235d749afa8984e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | May 31 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/6a0adddf963f7a67d95ca3c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | May 31 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a0a67138f3e371eb618896a?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS, United States | Remote | May 31 |
 | **[WisdomTree](http://www.wisdomtree.com)** | **[Portfolio Solutions Business Analyst](https://jobright.ai/jobs/info/6a1bc9949111f771d1a128b1?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | May 30 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/6a1afc0a2b206f3955eb77a2?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 30 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | May 30 |
 | **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | May 30 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 30 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a1abfd5547e292ae139a3e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | May 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[IT Business Analyst (PCN 064949)](https://jobright.ai/jobs/info/6a1aae49547e292ae1399c31?utm_campaign=Business%20Analyst&utm_source=1103)** | Juneau, AK | On Site | May 30 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | May 30 |
