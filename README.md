@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H.C. Wainwright & Co., LLC](https://hcwco.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1d8ea1b524ae49285a6ab8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 01 |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a1d749de24ef36525837b50?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jun 01 |
 | ↳ | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a1d749be24ef36525837b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego | On Site | Jun 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst 1](https://jobright.ai/jobs/info/6a1d0ae9e24ef36525836330?utm_campaign=Business%20Analyst&utm_source=1103)** | Dauphin County, PA | Hybrid | May 31 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Perfected](https://www.perfectedclaims.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a188867c2a87d6cd3df2571?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 28 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a186adcabc8f63abac78484?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | Hybrid | May 28 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4954a441713ae83794?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184c03abc8f63abac763af?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | Hybrid | May 28 |
