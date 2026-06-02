@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a190f45dbc80963f93497d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
 | **[RTX](http://rtx.com/)** | **[2026 Business Operations Analyst I - Onsite](https://jobright.ai/jobs/info/6a1ddbe29111f771d1a1b8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | US-AZ-TUCSON-801 A5 ~ 1151 E Hermans Rd ~ BLDG A5 (External Site), US | On Site | Jun 01 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1dd6a83e538a28c204c4f9?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jun 01 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd48d6b135014dbc98c91?utm_campaign=Business%20Analyst&utm_source=1103)** | South Richland HQ - Richland, WA 99352 | On Site | Jun 01 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6a199dd2547e292ae1393041?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | May 29 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a198587e24ef36525825497?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | May 29 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Business Process Analyst, Associate](https://jobright.ai/jobs/info/6a198608c2a87d6cd3df95ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakland, CA | Hybrid | May 29 |
-| **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a190f45dbc80963f93497d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | May 28 |
 | **[HP](http://www.hp.com)** | **[Business and Non-Technical Graduate Roles](https://jobright.ai/jobs/info/69fb4aa7ffa73664aeafe593?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, WA | On Site | May 28 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | May 28 |
 | **[Saatchi & Saatchi Health](http://www.saatchihealth.com)** | **[Business Manager](https://jobright.ai/jobs/info/6a18b1a854a441713ae8748d?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA | Hybrid | May 28 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Perfected](https://www.perfectedclaims.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a188867c2a87d6cd3df2571?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | May 28 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1dc03ee24ef36525839a3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 28 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a186adcabc8f63abac78484?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | Hybrid | May 28 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4954a441713ae83794?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 28 |
