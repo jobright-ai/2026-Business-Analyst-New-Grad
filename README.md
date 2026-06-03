@@ -57,11 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a204396ca8f0b365d79feed?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | Jun 03 |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a203835ca8f0b365d79f9be?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a2038343a5f0145f4c13044?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a2037edc00e701fe8367da1?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, United States | On Site | Jun 03 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a2037edc00e701fe8367da3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, United States | On Site | Jun 03 |
+| **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2045053a5f0145f4c135a1?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Denver | Remote | Jun 03 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a204396ca8f0b365d79feed?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Remote | Jun 03 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a0a67138f3e371eb618896a?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS, United States | Remote | Jun 03 |
 | **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Jun 03 |
 | **[Airship](https://www.airship.com/)** | **[Business Value Analyst](https://jobright.ai/jobs/info/6a1fe417902d19201c7af8d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote - U.S. | Remote | Jun 03 |
@@ -84,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Raytheon](http://www.bbn.com)** | **[2026 Business Operations Analyst I - Onsite](https://jobright.ai/jobs/info/6a1ea0b3a507373dff6babe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ | On Site | Jun 02 |
 | ↳ | **[2026 Business Operations Analyst I - Onsite](https://jobright.ai/jobs/info/6a1e8129c5277c00c647fb89?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, Arizona, United States | On Site | Jun 02 |
 | ↳ | **[2026 Business Operations Analyst I - Onsite](https://jobright.ai/jobs/info/6a1e8124c5277c00c647fb88?utm_campaign=Business%20Analyst&utm_source=1103)** | tucson, Arizona, United States of America | On Site | Jun 02 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 01 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 01 |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 01 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 01 |
 | **[Allflight Corporation](http://allflight.com/)** | **[Business Analyst - Tarzana](https://jobright.ai/jobs/info/6a1e2739c2a87d6cd3e10530?utm_campaign=Business%20Analyst&utm_source=1103)** | 18321 VENTURA BLVD SUITE 400 - TARZANA, CA 91356 | On Site | Jun 01 |
 | **[Momentum Financial Services Group](https://mfsg.com)** | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a186adcabc8f63abac78484?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | Hybrid | Jun 01 |
 | ↳ | **[Analyst, Business Process](https://jobright.ai/jobs/info/6a190f45dbc80963f93497d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 01 |
@@ -106,8 +103,8 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/6a1afc872b206f3955eb77ce?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 30 |
 | ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/6a1afc0a2b206f3955eb77a2?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 30 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | May 30 |
-| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 30 |
+| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 30 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | May 30 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a1abfd5547e292ae139a3e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway California | Hybrid | May 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[IT Business Analyst (PCN 064949)](https://jobright.ai/jobs/info/6a1aae49547e292ae1399c31?utm_campaign=Business%20Analyst&utm_source=1103)** | Juneau, AK | On Site | May 30 |
@@ -127,9 +124,9 @@ For a complete list, click the following sortable link below:
 | **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a18937e17492d3a389b7a48?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 28 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a1891146243320e8d165d0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | May 28 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1dc03ee24ef36525839a3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | May 28 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | May 28 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | May 28 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae837a6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | May 28 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4954a441713ae83794?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | May 28 |
 | **[Salesforce](https://www.salesforce.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184c03abc8f63abac763af?utm_campaign=Business%20Analyst&utm_source=1103)** | Illinois - Chicago, US | Hybrid | May 28 |
@@ -137,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184bf3c2a87d6cd3deeaf5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, IL | Hybrid | May 28 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a1801cfc8110e28b75b1fef?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | May 28 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a179ce3b091c7417c5001f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY | On Site | May 27 |
-| **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a178c0981fe455c705aa133?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
