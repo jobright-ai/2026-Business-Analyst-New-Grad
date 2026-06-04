@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fifth Third Bank](http://53.com)** | **[Business Analyst I - CRA](https://jobright.ai/jobs/info/6a21eb764bdf8a5a96bd93ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jun 04 |
+| ↳ | **[Business Analyst I - CRA](https://jobright.ai/jobs/info/6a21eb764bdf8a5a96bd93cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Jun 04 |
+| **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[2026 Associate Business Management Analyst - Radford VA](https://jobright.ai/jobs/info/6a21e9f94bdf8a5a96bd9287?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-Virginia-Radford, US | On Site | Jun 04 |
+| **[Healthfirst](https://healthfirst.org)** | **[Business Analyst (Hyphen)](https://jobright.ai/jobs/info/6a21e5a4902d19201c7bad0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 04 |
+| ↳ | **[Hyphen Business Analyst](https://jobright.ai/jobs/info/6a21dceaca8f0b365d7a95fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Hybrid - CT, US | Hybrid | Jun 04 |
 | **[Woodfibre LNG](https://woodfibrelng.ca/)** | **[Corporate HSS Business Analyst](https://jobright.ai/jobs/info/6a21d462ca8f0b365d7a91a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, British Columbia, Canada | On Site | Jun 04 |
 | **[Accenture](https://www.accenture.com)** | **[^Business Analyst 6302083](https://jobright.ai/jobs/info/6a21d115c00e701fe83710b2?utm_campaign=Business%20Analyst&utm_source=1103)** | WA - Seattle, US | Remote | Jun 04 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 04 |
@@ -115,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[ICE](https://www.ice.com)** | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/6a1afc872b206f3955eb77ce?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, US | On Site | May 30 |
 | ↳ | **[Business Analyst, Market Data](https://jobright.ai/jobs/info/6a1afc0a2b206f3955eb77a2?utm_campaign=Business%20Analyst&utm_source=1103)** | US-NY-New York | On Site | May 30 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/698e91e70f6f7e7a2ceab1de?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | May 30 |
-| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | May 30 |
+| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | May 30 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | May 30 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | May 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[IT Business Analyst (PCN 064949)](https://jobright.ai/jobs/info/6a1aae49547e292ae1399c31?utm_campaign=Business%20Analyst&utm_source=1103)** | Juneau, AK | On Site | May 30 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst (2026)](https://jobright.ai/jobs/info/6a1a9d73547e292ae1399926?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | May 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a1a922a6b135014dbc8ab87?utm_campaign=Business%20Analyst&utm_source=1103)** | Throughout San Bernardino County, CA | On Site | May 30 |
