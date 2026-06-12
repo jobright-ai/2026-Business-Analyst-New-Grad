@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First American](http://www.firstam.com)** | **[Business Analyst Associate (Remote in TX)](https://jobright.ai/jobs/info/6a2c22faf1751b183c816fdc?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Arizona, Scottsdale, US | Remote | Jun 12 |
+| ↳ | **[Business Analyst Associate (Remote in TX)](https://jobright.ai/jobs/info/6a2c22f4f1751b183c816fdb?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Oregon, Remote, US | Remote | Jun 12 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2c15697cd40a338fae48fa?utm_campaign=Business%20Analyst&utm_source=1103)** | London, United Kingdom | On Site | Jun 12 |
 | **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 12 |
 | **[University of Iowa](https://clas.uiowa.edu/deos/mailing/february-19-2020/iowa-innovation-challenge)** | **[Business Analysis Coordinator or Business Analyst](https://jobright.ai/jobs/info/6a2b5e13d3ec8317fe14874a?utm_campaign=Business%20Analyst&utm_source=1103)** | Iowa City, IA | Hybrid | Jun 11 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 11 |
@@ -76,7 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2205d4ca8f0b365d7aa856?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Denver | Remote | Jun 10 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[TWDB - 26-92: IT Business Analyst (IT Business Analyst I-III)](https://jobright.ai/jobs/info/6a2903f1fd37e62bb47ac6b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Stephen F. Austin Building, 1700 North Congress Avenue, Austin, Texas 78701 | On Site | Jun 09 |
 | ↳ | **[TWDB - 26-92: IT Business Analyst (IT Business Analyst I-III)](https://jobright.ai/jobs/info/6a2903e9fd37e62bb47ac6b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Jun 09 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a27271612f0202342262fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Jun 09 |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a272766ca77fd3096d25bb2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Jun 09 |
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a28ab487061b51a3a5f739c?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Jun 09 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a289e30fd37e62bb47aa487?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Jun 09 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184bf3c2a87d6cd3deeaf5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, IL | Hybrid | Jun 09 |
