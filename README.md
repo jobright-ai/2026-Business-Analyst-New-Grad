@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 12 |
 | **[University of Iowa](https://clas.uiowa.edu/deos/mailing/february-19-2020/iowa-innovation-challenge)** | **[Business Analysis Coordinator or Business Analyst](https://jobright.ai/jobs/info/6a2b5e13d3ec8317fe14874a?utm_campaign=Business%20Analyst&utm_source=1103)** | Iowa City, IA | Hybrid | Jun 11 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 11 |
 | **[Healthfirst](https://healthfirst.org)** | **[Business Analyst (Hyphen)](https://jobright.ai/jobs/info/6a21e5a4902d19201c7bad0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | Hybrid | Jun 11 |
@@ -70,8 +71,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a29a930c07d4b6ae1c42090?utm_campaign=Business%20Analyst&utm_source=1103)** | SLC Metro Area | On Site | Jun 10 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 10 |
 | **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 10 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 10 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | Jun 10 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 10 |
 | **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2205d4ca8f0b365d7aa856?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Denver | Remote | Jun 10 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[TWDB - 26-92: IT Business Analyst (IT Business Analyst I-III)](https://jobright.ai/jobs/info/6a2903f1fd37e62bb47ac6b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Stephen F. Austin Building, 1700 North Congress Avenue, Austin, Texas 78701 | On Site | Jun 09 |
 | ↳ | **[TWDB - 26-92: IT Business Analyst (IT Business Analyst I-III)](https://jobright.ai/jobs/info/6a2903e9fd37e62bb47ac6b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas | On Site | Jun 09 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Next Generation VT](www.nextgenerationvt.com)** | **[System / Business Analyst (PeopleSoft, ServiceNow, Procurement & Financial Operations) NYC - Month Contract](https://jobright.ai/jobs/info/6a270bdb2056260dd6e84c6e?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Remote | Jun 08 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 08 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a09cf3a8f3e371eb61861a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jun 07 |
-| **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a06fb449f57175bd581bd53?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston (1001 Boylston Street) | Hybrid | Jun 06 |
-| ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Jun 06 |
+| **[CarGurus](http://www.cargurus.com)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/69ebd32516b2612c2a11f331?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Jun 06 |
+| ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a06fb449f57175bd581bd53?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston (1001 Boylston Street) | Hybrid | Jun 06 |
 | ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a1636aa1935fa61b3c6fa88?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, Massachusetts, United States | Hybrid | Jun 06 |
 | ↳ | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6a1636b21935fa61b3c6fab9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston (1001 Boylston Street) | Hybrid | Jun 06 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a2995bb1de59e0682a801cb?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA | On Site | Jun 06 |
