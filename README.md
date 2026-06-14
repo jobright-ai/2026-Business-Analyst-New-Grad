@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
-| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/6a2eb465d3ec94183f4c11d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Jun 14 |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
+| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8f71d3ec94183f4bf988?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
 | **[Chase](https://www.chase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8b73c260bb1b8ae18f6d?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a0a67138f3e371eb618896a?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS, United States | Remote | Jun 13 |
@@ -98,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[FNS, Inc.](https://fnsusa.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a28ab487061b51a3a5f739c?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Jun 09 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a289e30fd37e62bb47aa487?utm_campaign=Business%20Analyst&utm_source=1103)** | Torrance, CA | On Site | Jun 09 |
 | **[Modern Woodmen of America](https://www.modernwoodmen.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a184bf3c2a87d6cd3deeaf5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rock Island, IL | Hybrid | Jun 09 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a28473b7061b51a3a5f4ae6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-El Segundo | On Site | Jun 09 |
-| ↳ | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a28473b7061b51a3a5f4ae5?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, US | On Site | Jun 09 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a28473b7061b51a3a5f4ae5?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, US | On Site | Jun 09 |
+| ↳ | **[Business Operations Assistant Analyst](https://jobright.ai/jobs/info/6a28473b7061b51a3a5f4ae6?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-El Segundo | On Site | Jun 09 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a282eab40ac8e329329f9cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, US | Hybrid | Jun 09 |
 | **[BMO](http://www.bmo.com)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a282fb4883c0d3be65402e3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, USA, US | On Site | Jun 09 |
 | **[We Energies](https://www.we-energies.com)** | **[Business Analyst - Field Operations Support Job Details / Career finder](https://jobright.ai/jobs/info/6a280e64fd37e62bb47a65a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US, 60632 | On Site | Jun 09 |
