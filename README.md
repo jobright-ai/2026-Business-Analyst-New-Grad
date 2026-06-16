@@ -57,6 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222f?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2233?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222a?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut - Darien, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2231?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2235?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2232?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2230?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2236?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2237?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222b?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222e?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b222c?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2238?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jun 15 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3096b2093df201d07b2234?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, United States | On Site | Jun 15 |
 | **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Jun 15 |
 | **[HDI Global SE](https://www.hdi.global/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a30660443732c05812e23be?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 15 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a305d65eace377055eb5ebf?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jun 15 |
@@ -79,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Conduent](https://www.conduent.com/)** | **[Business Operations Analyst II - Fraud](https://jobright.ai/jobs/info/6a07038824dcb03739f1dcff?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 12 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 12 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6a2c4bf9a1d15e3c552fb11c?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Jun 12 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
-| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6a199dd2547e292ae1393041?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6a199dd2547e292ae1393041?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
+| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Procurement Analyst, Business Services](https://jobright.ai/jobs/info/6a2c2d2ba1d15e3c552fa55e?utm_campaign=Business%20Analyst&utm_source=1103)** | 2045 S. San Jacinto Ave., San Jacinto, California, 92583-4322, US | On Site | Jun 12 |
 | **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 12 |
 | **[University of Iowa](http://researchpark.uiowa.edu)** | **[Business Analysis Coordinator or Business Analyst](https://jobright.ai/jobs/info/6a2b5e13d3ec8317fe14874a?utm_campaign=Business%20Analyst&utm_source=1103)** | Iowa City, IA | Hybrid | Jun 11 |
