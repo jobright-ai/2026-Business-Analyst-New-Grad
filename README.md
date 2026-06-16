@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a318b3e0ff23769fdb1e8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Jun 16 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Business Analyst, Operations PMO](https://jobright.ai/jobs/info/6a318ae35958816970015309?utm_campaign=Business%20Analyst&utm_source=1103)** | Bonita Springs, FL | On Site | Jun 16 |
 | **[EXL](http://www.exlservice.com)** | **[Business Analyst -Contractor](https://jobright.ai/jobs/info/6a316455e7b7d514a3bd3343?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 16 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst 1-NR](https://jobright.ai/jobs/info/6a3141fce7b7d514a3bd2671?utm_campaign=Business%20Analyst&utm_source=1103)** | Heywood Office and Operations Facility, Minneapolis, MN | Hybrid | Jun 16 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/6a2eb465d3ec94183f4c11d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Jun 14 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jun 14 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jun 14 |
-| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
+| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69f425b458b23a2329da9b30?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jun 13 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8f71d3ec94183f4bf988?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
 | **[Chase](https://www.chase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8b73c260bb1b8ae18f6d?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[CarParts.com](https://www.carparts.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2a41551de59e0682a83c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA | On Site | Jun 10 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/69d6e29952a5bf580012cb7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Jun 10 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 10 |
-| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 10 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | Jun 10 |
+| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | Jun 10 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 10 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 10 |
 | **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2205d4ca8f0b365d7aa856?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Denver | Remote | Jun 10 |
 | **[Texas Comptroller of Public Accounts](https://comptroller.texas.gov)** | **[TWDB - 26-92: IT Business Analyst (IT Business Analyst I-III)](https://jobright.ai/jobs/info/6a2903f1fd37e62bb47ac6b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Stephen F. Austin Building, 1700 North Congress Avenue, Austin, Texas 78701 | On Site | Jun 09 |
