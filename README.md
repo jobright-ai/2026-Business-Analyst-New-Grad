@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31fd31c477a5075f490268?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Jun 16 |
+| **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31f4be5958816970017c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster,Colorado,United States | Hybrid | Jun 16 |
 | **[EY](https://www.ey.com/en_ie/entrepreneur-of-the-year)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX Job Details / EY](https://jobright.ai/jobs/info/6a31f0f55958816970017ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jun 16 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
-| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Systems Analysis, Associate](https://jobright.ai/jobs/info/6a31b3e7c477a5075f48eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 16 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31bde235e80310003a9226?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Jun 16 |
 | **[EXL](http://www.exlservice.com)** | **[Business Analyst -Contractor](https://jobright.ai/jobs/info/6a316455e7b7d514a3bd3343?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 16 |
@@ -92,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Wolseley Canada Inc.](https://wolseleyinc.ca/)** | **[Business Analyst (Burlington)](https://jobright.ai/jobs/info/6a2c74157cd40a338fae688a?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, CA | On Site | Jun 12 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 12 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6a2c4bf9a1d15e3c552fb11c?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, Illinois, US | Hybrid | Jun 12 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6a199dd2547e292ae1393041?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
-| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
+| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6a199dd2547e292ae1393041?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 12 |
 | **[East Side Union High School District](https://adulteducation.esuhsd.org)** | **[Procurement Analyst, Business Services](https://jobright.ai/jobs/info/6a2c2d2ba1d15e3c552fa55e?utm_campaign=Business%20Analyst&utm_source=1103)** | 2045 S. San Jacinto Ave., San Jacinto, California, 92583-4322, US | On Site | Jun 12 |
 | **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 11 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[CarParts.com](https://www.carparts.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2a41551de59e0682a83c9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA | On Site | Jun 10 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/69d6e29952a5bf580012cb7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Jun 10 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/69efb8a8fbe0994a40eb7f16?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 10 |
-| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 10 |
+| **[Infosys](http://www.infosys.com)** | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | Jun 10 |
+| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a454?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 10 |
 | ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a456?utm_campaign=Business%20Analyst&utm_source=1103)** | Hartford, CT | On Site | Jun 10 |
-| ↳ | **[Business Analyst – Life sciences](https://jobright.ai/jobs/info/6a1ac0c2547e292ae139a455?utm_campaign=Business%20Analyst&utm_source=1103)** | Bridgewater, NJ | On Site | Jun 10 |
 | **[Mortgage Connect, LP](http://mortgageconnectlp.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2205d4ca8f0b365d7aa856?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CO-Denver | Remote | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
