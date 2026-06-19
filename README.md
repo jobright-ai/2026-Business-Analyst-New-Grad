@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Business Analyst (6023)](https://jobright.ai/jobs/info/6a3597c229c90c607e4e2ed8?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA | On Site | Jun 19 |
+| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a30a90a43732c05812e3550?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 18 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Jun 18 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
 | **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
+| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a33299629c90c607e4da8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Texas, Remote, US | Remote | Jun 17 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6a332546910b734910714202?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, US | On Site | Jun 17 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6a33253fce501060b5cec783?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, US | On Site | Jun 17 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[EY](https://www.ey.com/en_gl/entrepreneurial-winning-women)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX Job Details / EY](https://jobright.ai/jobs/info/6a31f0f55958816970017ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jun 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Systems Analysis, Associate](https://jobright.ai/jobs/info/6a31b3e7c477a5075f48eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 16 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31bde235e80310003a9226?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | Hybrid | Jun 16 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a30a90a43732c05812e3550?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/6a31a47a35e80310003a860d?utm_campaign=Business%20Analyst&utm_source=1103)** | Heywood Office and Operations Facility, Minneapolis, MN | Hybrid | Jun 16 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Salesforce](https://jobright.ai/jobs/info/69fad37ae156000841153639?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 16 |
 | **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a3191d8c477a5075f48db03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 16 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/6a2eb465d3ec94183f4c11d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Jun 14 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Junior Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/69bc9e2c5b89c002acf25ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, United States | On Site | Jun 14 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jun 14 |
-| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
+| ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69f425b458b23a2329da9b30?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jun 13 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8f71d3ec94183f4bf988?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
 | **[Chase](https://www.chase.com)** | **[Equity Capital Markets Business Management – Analyst](https://jobright.ai/jobs/info/6a2d8b73c260bb1b8ae18f6d?utm_campaign=Business%20Analyst&utm_source=1103)** | 270 Park Ave, New York, NY, 10017, US | On Site | Jun 13 |
