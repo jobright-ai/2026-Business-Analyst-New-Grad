@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/6a06fcc09f57175bd581c593?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 14 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69f425b458b23a2329da9b30?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS | On Site | Jun 13 |
-| ↳ | **[Associate Business Manager](https://jobright.ai/jobs/info/6a0a67138f3e371eb618896a?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS, United States | Remote | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
