@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/69d6e29952a5bf580012cb7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Jun 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jun 20 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jun 20 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst - CSB (SFPUC) - 1052](https://jobright.ai/jobs/info/6a365f9929c90c607e4e4a91?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jun 19 |
@@ -80,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Jun 18 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
-| **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
+| **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
+| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
+| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a33299629c90c607e4da8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Texas, Remote, US | Remote | Jun 17 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://arcmts.tamu.edu/)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6a332546910b734910714202?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, US | On Site | Jun 17 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6a33253fce501060b5cec783?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, US | On Site | Jun 17 |
