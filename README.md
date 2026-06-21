@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Business Analyst (6023)](https://jobright.ai/jobs/info/6a3597c229c90c607e4e2ed8?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA | On Site | Jun 19 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a30a90a43732c05812e3550?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 18 |
-| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Jun 18 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jun 18 |
 | ↳ | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a3492e6f6b55d12c791d6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jun 18 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Analyst I, Commercial Operations and Sales Enablement](https://jobright.ai/jobs/info/6a345d4d7f3fdd180d4ca34e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, NJ, US | Hybrid | Jun 18 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a305d65eace377055eb5ebf?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jun 15 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a2ff54143732c05812dfdcc?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, US | Hybrid | Jun 15 |
 | **[CGI](https://www.cgi.com/)** | **[Junior-Level Business Analyst](https://jobright.ai/jobs/info/6a2a43e62cde2824469c117a?utm_campaign=Business%20Analyst&utm_source=1103)** | North Charleston, SC | On Site | Jun 14 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/6a2eb465d3ec94183f4c11d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
