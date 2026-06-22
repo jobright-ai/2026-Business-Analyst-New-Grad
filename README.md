@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kravet](http://www.kravet.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a396d11f6b55d12c7927f9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Anderson, 1500 US 29 South, South Carolina, US | On Site | Jun 22 |
+| **[TRANZACT](http://www.tranzact.net)** | **[Business Specialist](https://jobright.ai/jobs/info/69a75da62672cb0acb4bd0df?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Lee, NJ 07024, USA | Hybrid | Jun 22 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Senior IT Business Analyst](https://jobright.ai/jobs/info/6a395f701232144fb156ac39?utm_campaign=Business%20Analyst&utm_source=1103)** | New York - 1166, US | Hybrid | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6a395555214ae004c7a1debc?utm_campaign=Business%20Analyst&utm_source=1103)** | Headquarters - 1 Fire Authority Road, Irvine, CA 92602, CA | On Site | Jun 22 |
 | **[EY](https://www.ey.com/en_ie/entrepreneur-of-the-year)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/6a0a954ea203b1052e44df54?utm_campaign=Business%20Analyst&utm_source=1103)** | Alpharetta, GA | Hybrid | Jun 22 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 22 |
@@ -105,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a32fd7b910b734910713106?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jun 17 |
 | **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Business Analyst (6023)](https://jobright.ai/jobs/info/6a32eb80ce501060b5ceb0eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA 98057 | On Site | Jun 17 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Business Analyst, Operations PMO](https://jobright.ai/jobs/info/6a318ae35958816970015309?utm_campaign=Business%20Analyst&utm_source=1103)** | Bonita Springs, FL | On Site | Jun 17 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
-| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31f4be5958816970017c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster,Colorado,United States | Hybrid | Jun 16 |
 | **[EY](https://www.ey.com/en_ie/entrepreneur-of-the-year)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX Job Details / EY](https://jobright.ai/jobs/info/6a31f0f55958816970017ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jun 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Systems Analysis, Associate](https://jobright.ai/jobs/info/6a31b3e7c477a5075f48eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 16 |
@@ -118,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jun 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst 1-NR](https://jobright.ai/jobs/info/6a3141fce7b7d514a3bd2671?utm_campaign=Business%20Analyst&utm_source=1103)** | Heywood Office and Operations Facility, Minneapolis, MN | Hybrid | Jun 16 |
 | **[EXL](http://www.exlservice.com)** | **[Business Analyst -Contractor](https://jobright.ai/jobs/info/6a365f66a0f3e56e86d6af31?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 15 |
-| **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a30a89c89f8f147d37366d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX | Hybrid | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
