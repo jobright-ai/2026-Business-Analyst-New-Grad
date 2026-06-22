@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Business Analyst - Logistics](https://jobright.ai/jobs/info/6a393fa9649fdf16292ffcbb?utm_campaign=Business%20Analyst&utm_source=1103)** | Conyers, GA | On Site | Jun 22 |
+| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3939c86484fb75f2b3040f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 22 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Process Analyst - Troy, AL](https://jobright.ai/jobs/info/6a39155d1232144fb1569a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Troy Alabama | On Site | Jun 22 |
 | **[EY](https://www.ey.com/en_ie/entrepreneur-of-the-year)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX](https://jobright.ai/jobs/info/6a0bf589a235d749afa8984e?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX | Hybrid | Jun 21 |
 | **[Acosta](https://www.acosta.com)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6a0a67138f3e371eb618896a?utm_campaign=Business%20Analyst&utm_source=1103)** | Overland Park, KS, United States | Remote | Jun 21 |
@@ -76,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - February 2027](https://jobright.ai/jobs/info/6a30a90a43732c05812e3550?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 18 |
-| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Jun 18 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jun 18 |
 | ↳ | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a3492e6f6b55d12c791d6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jun 18 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Analyst I, Commercial Operations and Sales Enablement](https://jobright.ai/jobs/info/6a345d4d7f3fdd180d4ca34e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, NJ, US | Hybrid | Jun 18 |
