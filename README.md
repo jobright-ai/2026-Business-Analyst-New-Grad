@@ -57,21 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd178?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd177?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Jun 23 |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 23 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 23 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd177?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Jun 23 |
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd17a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd171?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd179?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd17b?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd170?utm_campaign=Business%20Analyst&utm_source=1103)** | Connecticut - Darien, United States | On Site | Jun 23 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd178?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, United States | On Site | Jun 23 |
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd175?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, United States | On Site | Jun 23 |
 | ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd172?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd174?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd173?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, United States | On Site | Jun 23 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a419506a4fd4b1fabd176?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | On Site | Jun 23 |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a258106a4fd4b1fabcee9?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, United States | On Site | Jun 22 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a258106a4fd4b1fabceed?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Jun 22 |
-| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3a258106a4fd4b1fabceea?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, United States | On Site | Jun 22 |
 | **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Associate Business System Analyst Student](https://jobright.ai/jobs/info/6a3a03c1214ae004c7a212dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Jun 22 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a39dc8c06a4fd4b1fabc535?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, IL | Hybrid | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a39c5c56484fb75f2b3398d?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Lavaca Street, Austin, TX | Hybrid | Jun 22 |
@@ -127,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a32fd7b910b734910713106?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jun 17 |
 | **[Radiant Logistics Inc.](http://radiantdelivers.com)** | **[Business Analyst (6023)](https://jobright.ai/jobs/info/6a32eb80ce501060b5ceb0eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Renton, WA 98057 | On Site | Jun 17 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Business Analyst, Operations PMO](https://jobright.ai/jobs/info/6a318ae35958816970015309?utm_campaign=Business%20Analyst&utm_source=1103)** | Bonita Springs, FL | On Site | Jun 17 |
-| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
-| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| **[Walker & Dunlop](https://www.walkerdunlop.com)** | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
+| ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd185958816970016b0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, USA | Hybrid | Jun 16 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31f4be5958816970017c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster,Colorado,United States | Hybrid | Jun 16 |
 | **[EY](https://www.ey.com/en_ie/entrepreneur-of-the-year)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX Job Details / EY](https://jobright.ai/jobs/info/6a31f0f55958816970017ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jun 16 |
 | **[Peraton](https://www.peraton.com/)** | **[Business Systems Analysis, Associate](https://jobright.ai/jobs/info/6a31b3e7c477a5075f48eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 16 |
@@ -136,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst 1](https://jobright.ai/jobs/info/6a31a47a35e80310003a860d?utm_campaign=Business%20Analyst&utm_source=1103)** | Heywood Office and Operations Facility, Minneapolis, MN | Hybrid | Jun 16 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Salesforce](https://jobright.ai/jobs/info/69fad37ae156000841153639?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 16 |
 | **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a3191d8c477a5075f48db03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 16 |
-| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a318b3e0ff23769fdb1e8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
