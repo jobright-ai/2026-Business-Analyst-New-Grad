@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst, Regulatory Reporting Solutions (Remote)](https://jobright.ai/jobs/info/6a3a9fecdd879c60912afa47?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home, US | Remote | Jun 23 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd48d6b135014dbc98c91?utm_campaign=Business%20Analyst&utm_source=1103)** | South Richland HQ - Richland, WA 99352 | On Site | Jun 23 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jun 23 |
-| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jun 23 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 23 |
+| ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jun 23 |
 | **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 23 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 23 |
 | **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Associate Business System Analyst Student](https://jobright.ai/jobs/info/6a3a03c1214ae004c7a212dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Jun 22 |
@@ -103,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Jun 18 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
-| **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
+| **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
+| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a33299629c90c607e4da8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Texas, Remote, US | Remote | Jun 17 |
@@ -118,5 +120,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Operations Analytics Analyst – Commercial Real Estate](https://jobright.ai/jobs/info/6a31bd1c5958816970016b0b?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, USA | Hybrid | Jun 16 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31f4be5958816970017c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster,Colorado,United States | Hybrid | Jun 16 |
 | **[EY](https://www.ey.com/en_au)** | **[SDC Business Systems Analyst--Alpharetta, GA, Dallas, TX Job Details / EY](https://jobright.ai/jobs/info/6a31f0f55958816970017ace?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, US | Hybrid | Jun 16 |
-| **[Peraton](https://www.peraton.com/)** | **[Business Systems Analysis, Associate](https://jobright.ai/jobs/info/6a31b3e7c477a5075f48eb0c?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
