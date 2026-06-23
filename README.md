@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Salesforce Business Systems Analyst](https://jobright.ai/jobs/info/6a3ac056dbedbf5680c70e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN 55441, US | Hybrid | Jun 23 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a3aa985dd879c60912afc06?utm_campaign=Business%20Analyst&utm_source=1103)** | ABQ-SF Metro Area | On Site | Jun 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst, Regulatory Reporting Solutions (Remote)](https://jobright.ai/jobs/info/6a3a9fecdd879c60912afa47?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home, US | Remote | Jun 23 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd48d6b135014dbc98c91?utm_campaign=Business%20Analyst&utm_source=1103)** | South Richland HQ - Richland, WA 99352 | On Site | Jun 23 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 19 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 18 |
-| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Jun 18 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 18 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a1a9da02b206f3955eb579b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | Remote | Jun 18 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jun 18 |
 | ↳ | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a3492e6f6b55d12c791d6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jun 18 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Analyst I, Commercial Operations and Sales Enablement](https://jobright.ai/jobs/info/6a345d4d7f3fdd180d4ca34e?utm_campaign=Business%20Analyst&utm_source=1103)** | Ewing, NJ, US | Hybrid | Jun 18 |
