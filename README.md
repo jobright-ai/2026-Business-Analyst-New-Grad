@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 23 |
+| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 24 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Internal Technical Business Analyst](https://jobright.ai/jobs/info/6a3b08db1232144fb15715ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT, United States | Hybrid | Jun 23 |
 | **[Fiserv](https://www.fiserv.com/)** | **[Corporate Analyst Program - Business Analyst (Berkeley Heights, NJ)](https://jobright.ai/jobs/info/6a3ae867797099171917c4ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Berkeley Heights, New Jersey, US | On Site | Jun 23 |
 | **[ATI](https://www.forging.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3adb30dbedbf5680c717a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 23 |
@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jun 23 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jun 23 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jun 23 |
-| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 23 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 23 |
+| **[ITT Inc.](http://www.itt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca755c?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Irvine | On Site | Jun 23 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a0e1f2c47fea1610bca7557?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, US | On Site | Jun 23 |
 | **[First Nations University of Canada](https://www.fnuniv.ca/)** | **[Associate Business System Analyst Student](https://jobright.ai/jobs/info/6a3a03c1214ae004c7a212dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Regina, Saskatchewan, Canada | Hybrid | Jun 22 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a39c5c56484fb75f2b3398d?utm_campaign=Business%20Analyst&utm_source=1103)** | 700 Lavaca Street, Austin, TX | Hybrid | Jun 22 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6a39c5b66484fb75f2b3398c?utm_campaign=Business%20Analyst&utm_source=1103)** | 2433 Ridgepoint Dr., Austin, TX | On Site | Jun 22 |
@@ -93,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/69d6e29952a5bf580012cb7c?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, USA | On Site | Jun 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jun 20 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Jun 20 |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a36c9e81232144fb156692c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jun 20 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst - CSB (SFPUC) - 1052](https://jobright.ai/jobs/info/6a365f9929c90c607e4e4a91?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jun 19 |
 | **[San Francisco Public Utilities Commission](https://www.sfpuc.org/)** | **[IS Business Analyst - CSB (SFPUC) - 1052](https://jobright.ai/jobs/info/6a365f67a0f3e56e86d6af34?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA | On Site | Jun 19 |
 | **[City and County of San Francisco](https://sf.gov/)** | **[IS Business Analyst - CSB (SFPUC) - 1052](https://jobright.ai/jobs/info/6a35e99af6b55d12c7921bcc?utm_campaign=Business%20Analyst&utm_source=1103)** | 525 Golden Gate Ave, San Francisco, CA 94102, USA | On Site | Jun 19 |
@@ -115,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
 | **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
+| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
 | ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a33299629c90c607e4da8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Texas, Remote, US | Remote | Jun 17 |
 | **[Montana-Dakota Utilities Co.](https://www.montana-dakota.com/)** | **[Business Analyst I/II/III/IV](https://jobright.ai/jobs/info/6a330390f6b55d12c79174dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Boise, Idaho, United States | On Site | Jun 17 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a32fd7b910b734910713106?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC | On Site | Jun 17 |
