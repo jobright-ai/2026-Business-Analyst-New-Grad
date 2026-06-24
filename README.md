@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Bilingual Business Administrator](https://jobright.ai/jobs/info/6a3bed774d047136e092ec6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jun 24 |
+| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Salesforce Business Systems Analyst](https://jobright.ai/jobs/info/6a3ac056dbedbf5680c70e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN 55441, US | Hybrid | Jun 24 |
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 24 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Assistant/Associate Business Analyst](https://jobright.ai/jobs/info/6a3bc795982bb239f812d30c?utm_campaign=Business%20Analyst&utm_source=1103)** | Connellsville, PA, United States | On Site | Jun 24 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 24 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3adb30dbedbf5680c717a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 23 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3adb07dd879c60912b0c58?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 23 |
 | **[Calpine](http://www.calpine.com)** | **[Rotation Analyst](https://jobright.ai/jobs/info/6a3ad3df797099171917be1c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California, United States | On Site | Jun 23 |
-| **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Salesforce Business Systems Analyst](https://jobright.ai/jobs/info/6a3ac056dbedbf5680c70e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN 55441, US | Hybrid | Jun 23 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a3aa985dd879c60912afc06?utm_campaign=Business%20Analyst&utm_source=1103)** | ABQ-SF Metro Area | On Site | Jun 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst, Regulatory Reporting Solutions (Remote)](https://jobright.ai/jobs/info/6a3a9fecdd879c60912afa47?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home, US | Remote | Jun 23 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd48d6b135014dbc98c91?utm_campaign=Business%20Analyst&utm_source=1103)** | South Richland HQ - Richland, WA 99352 | On Site | Jun 23 |
@@ -116,9 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Jun 18 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 17 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
-| **[First American](http://www.firstam.com)** | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Nevada, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a829c90c607e4da8ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Oregon, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8ab?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, Arizona, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a3329a729c90c607e4da8aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, Texas, US | Remote | Jun 17 |
-| ↳ | **[Process Improvement Analyst Associate (Remote in TX or AZ)](https://jobright.ai/jobs/info/6a33299629c90c607e4da8a8?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, Texas, Remote, US | Remote | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
