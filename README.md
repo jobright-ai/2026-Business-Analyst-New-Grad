@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c68bfad862bc9993cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 24 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Jun 24 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 24 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 24 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.atimaterials.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3adb30dbedbf5680c717a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 23 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3adb07dd879c60912b0c58?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 23 |
 | **[Calpine](http://www.calpine.com)** | **[Rotation Analyst](https://jobright.ai/jobs/info/6a3ad3df797099171917be1c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, California, United States | On Site | Jun 23 |
+| **[Herc Rentals](http://www.HercRentals.com)** | **[Business Analyst, Operations PMO](https://jobright.ai/jobs/info/6a318ae35958816970015309?utm_campaign=Business%20Analyst&utm_source=1103)** | Bonita Springs, FL | On Site | Jun 23 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a3aa985dd879c60912afc06?utm_campaign=Business%20Analyst&utm_source=1103)** | ABQ-SF Metro Area | On Site | Jun 23 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst, Regulatory Reporting Solutions (Remote)](https://jobright.ai/jobs/info/6a3a9fecdd879c60912afa47?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home, US | Remote | Jun 23 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd48d6b135014dbc98c91?utm_campaign=Business%20Analyst&utm_source=1103)** | South Richland HQ - Richland, WA 99352 | On Site | Jun 23 |
