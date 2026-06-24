@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 24 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Assistant/Associate Business Analyst](https://jobright.ai/jobs/info/6a3bc795982bb239f812d30c?utm_campaign=Business%20Analyst&utm_source=1103)** | Connellsville, PA, United States | On Site | Jun 24 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 24 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Internal Technical Business Analyst](https://jobright.ai/jobs/info/6a3b08db1232144fb15715ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT, United States | Hybrid | Jun 23 |
