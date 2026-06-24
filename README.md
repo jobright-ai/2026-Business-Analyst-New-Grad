@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6a3c0d1a122f340d29cec4da?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, 40 King St W., Corp, CA | On Site | Jun 24 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 24 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 24 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Bilingual Business Administrator](https://jobright.ai/jobs/info/6a3bed774d047136e092ec6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jun 24 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Salesforce Business Systems Analyst](https://jobright.ai/jobs/info/6a3ac056dbedbf5680c70e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN 55441, US | Hybrid | Jun 24 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 24 |
+| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Jun 24 |
+| ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 24 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Assistant/Associate Business Analyst](https://jobright.ai/jobs/info/6a3bc795982bb239f812d30c?utm_campaign=Business%20Analyst&utm_source=1103)** | Connellsville, PA, United States | On Site | Jun 24 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 24 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Internal Technical Business Analyst](https://jobright.ai/jobs/info/6a3b08db1232144fb15715ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Salt Lake City, UT, United States | Hybrid | Jun 23 |
@@ -116,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[DaVita Kidney Care](https://www.davita.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | Jun 18 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a17651d9005d858e94f96c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | On Site | Jun 18 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jun 17 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a32fe567f3fdd180d4c4d9d?utm_campaign=Business%20Analyst&utm_source=1103)** | US | On Site | Jun 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
