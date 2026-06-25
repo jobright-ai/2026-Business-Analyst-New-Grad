@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3ce4908bfad862bc99b68e?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3ce4908bfad862bc99b68d?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, United States | On Site | Jun 25 |
 | **[Lockheed Martin](https://www.lockheedmartin.com)** | **[Business Analyst (Level 2)](https://jobright.ai/jobs/info/6a3c97934d047136e0931413?utm_campaign=Business%20Analyst&utm_source=1103)** | Camden | Hybrid | Jun 24 |
-| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a378888f6b55d12c79245a3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Jun 24 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a3c6098982bb239f812f8e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Weaver, North Carolina, United States | Remote | Jun 24 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a3c6096982bb239f812f8e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States of America | Remote | Jun 24 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a3c6095982bb239f812f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Research Triangle Park, North Carolina, United States of America | Remote | Jun 24 |
