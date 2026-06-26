@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INEOS Olefins & Polymers USA, LLC](https://www.ineos.com/businesses/ineos-olefins-polymers-usa/)** | **[Business Analyst - Polypropylene](https://jobright.ai/jobs/info/6a3dc9e7122f340d29cf20b5?utm_campaign=Business%20Analyst&utm_source=1103)** | League City, TX | On Site | Jun 25 |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59278237a036d5e2b4a?utm_campaign=Business%20Analyst&utm_source=1103)** | Houston, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59278237a036d5e2b4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59278237a036d5e2b49?utm_campaign=Business%20Analyst&utm_source=1103)** | Miami, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59278237a036d5e2b50?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59278237a036d5e2b4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59178237a036d5e2b45?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59178237a036d5e2b48?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59178237a036d5e2b47?utm_campaign=Business%20Analyst&utm_source=1103)** | New Jersey, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59178237a036d5e2b46?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, United States | On Site | Jun 25 |
+| ↳ | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a3dc59178237a036d5e2b44?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, United States | On Site | Jun 25 |
 | **[Hatch](https://www.hatch.com)** | **[Digital - Business Analyst](https://jobright.ai/jobs/info/6a3d949ad261407de98012f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, CA | On Site | Jun 25 |
 | **[Pinnacol Assurance](http://www.pinnacol.com/)** | **[Youth Apprentice - Business Operations Analyst](https://jobright.ai/jobs/info/6a3d51858bfad862bc99c6fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado | Hybrid | Jun 25 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 25 |
@@ -68,11 +79,11 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a3d2e5fd261407de97ff3bd?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA | Hybrid | Jun 24 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I - II (Depending on Experience) Budget & Reporting](https://jobright.ai/jobs/info/6a3da1fad261407de980161a?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, WA | Hybrid | Jun 24 |
 | **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 24 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c68bfad862bc9993cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2958d261407de97fca86?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2959d261407de97fca88?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c68bfad862bc9993cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2959d261407de97fca89?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 24 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2343882f121f56a338bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 24 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a3c6096982bb239f812f8e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, Georgia, United States of America | Remote | Jun 24 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a3c6095982bb239f812f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Research Triangle Park, North Carolina, United States of America | Remote | Jun 24 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jun 24 |
