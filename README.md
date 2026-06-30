@@ -59,12 +59,12 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a43238b78fcb767e2755926?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jun 29 |
 | **[Orvix Engineering](https://orvixengr.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a43044bff87fd527f98654c?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, Florida, United States | Remote | Jun 29 |
-| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2343882f121f56a338bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 29 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c68bfad862bc9993cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 29 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2958d261407de97fca86?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 29 |
+| **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c68bfad862bc9993cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 29 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2959d261407de97fca89?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 29 |
-| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 29 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2959d261407de97fca88?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 29 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c23c38bfad862bc9993ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 29 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2958d261407de97fca86?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 29 |
+| ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2343882f121f56a338bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 29 |
 | **[Eurofins](http://eurofins.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a42a5961cc9cc2b12fec516?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA, USA | On Site | Jun 29 |
 | ↳ | **[Business Analyst I](https://jobright.ai/jobs/info/6a429eb26a9c2774b3fa6a78?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Jun 29 |
 | **[Eurofins DiscoverX](http://www.discoverx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a428cfc6c326942b4e833c9?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Jun 29 |
@@ -121,6 +121,4 @@ For a complete list, click the following sortable link below:
 | **[ATI](https://www.forging.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3adb30dbedbf5680c717a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, OR | On Site | Jun 23 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3adb07dd879c60912b0c58?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Hybrid | Jun 23 |
 | **[Herc Rentals](http://www.HercRentals.com)** | **[Business Analyst, Operations PMO](https://jobright.ai/jobs/info/6a318ae35958816970015309?utm_campaign=Business%20Analyst&utm_source=1103)** | Bonita Springs, FL | On Site | Jun 23 |
-| **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a3aa985dd879c60912afc06?utm_campaign=Business%20Analyst&utm_source=1103)** | ABQ-SF Metro Area | On Site | Jun 23 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Business Analyst, Regulatory Reporting Solutions (Remote)](https://jobright.ai/jobs/info/6a3a9fecdd879c60912afa47?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ - Work from home, US | Remote | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
