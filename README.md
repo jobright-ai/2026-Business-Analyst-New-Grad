@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
-| ↳ | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
+| **[Eurofins DiscoverX](http://www.discoverx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a444bd5ef17a815538a3b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Jun 30 |
+| **[BAE Systems](http://www.baesystems.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a444456b156014e414bc145?utm_campaign=Business%20Analyst&utm_source=1103)** | Broomfield, Colorado | On Site | Jun 30 |
+| **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 30 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
+| ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a441c3f105260150b720d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Analyst, Vehicle Damage Claims](https://jobright.ai/jobs/info/6a3fe02216b14939532829e3?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 Centre Pointe Dr, Virginia Beach, 23462, US | On Site | Jun 30 |
 | **[Stryker](http://www.stryker.com/en-us/index.html)** | **[Business Process Associate - 1st Shift (Hybrid)](https://jobright.ai/jobs/info/6a43fd9e57ffc22029405de7?utm_campaign=Business%20Analyst&utm_source=1103)** | Portage, MI | Hybrid | Jun 30 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Alliant Insurance Services](https://alliant.com)** | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Orange County, CA, USA | Hybrid | Jun 29 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2340882f121f56a338b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, USA | Hybrid | Jun 29 |
 | ↳ | **[Business Analyst - Information Solutions](https://jobright.ai/jobs/info/6a3c2343882f121f56a338bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 29 |
-| **[Eurofins](http://eurofins.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a429eb26a9c2774b3fa6a78?utm_campaign=Business%20Analyst&utm_source=1103)** | Fremont, CA | On Site | Jun 29 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1,(SG-18), Business Systems Analyst Trainee 2 (SG-16), Business Systems Analyst Trainee 1 (SG-14)(NYHELPS) Item# 08682](https://jobright.ai/jobs/info/6a427385ff87fd527f9844a3?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, 12236 | Hybrid | Jun 29 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[Business Scientist, Data Science and Marketing Effectiveness](https://jobright.ai/jobs/info/6a0adddf963f7a67d95ca3c5?utm_campaign=Business%20Analyst&utm_source=1103)** | New York | Hybrid | Jun 29 |
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6a4270331cc9cc2b12feba1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 29 |
@@ -87,12 +89,12 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a05de1bbc4184089f248503?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 27 |
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jun 27 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a3fa97bd528ac2915f95a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County | Hybrid | Jun 27 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Jun 26 |
 | **[Serco](https://www.serco-na.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a3ee92ed261407de980518e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bromwich, England, United Kingdom | On Site | Jun 26 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jun 26 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53dad891d7b11cfd00467?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jun 26 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a423eca557b3862f15e0900?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, Texas, United States | Hybrid | Jun 26 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Process Improvement & Automation, Road US Job Details / DSV](https://jobright.ai/jobs/info/6a3e3dd1882f121f56a39b33?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, US | Hybrid | Jun 26 |
@@ -119,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Jun 24 |
 | ↳ | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a26dc7112f0202342260ec8?utm_campaign=Business%20Analyst&utm_source=1103)** | PAM-TONTITOWN, AR, US | On Site | Jun 24 |
 | **[FirstEnergy](http://www.firstenergycorp.com)** | **[Assistant/Associate Business Analyst](https://jobright.ai/jobs/info/6a3bc795982bb239f812d30c?utm_campaign=Business%20Analyst&utm_source=1103)** | Connellsville, PA, United States | On Site | Jun 24 |
-| **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Resource Analyst I](https://jobright.ai/jobs/info/6a3b16d7649fdf162930744b?utm_campaign=Business%20Analyst&utm_source=1103)** | JPL Campus, US | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
