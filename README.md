@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a05de1bbc4184089f248503?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 27 |
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jun 27 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a3fa97bd528ac2915f95a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County | Hybrid | Jun 27 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Jun 26 |
 | **[Serco](https://www.serco-na.com)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a3ee92ed261407de980518e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bromwich, England, United Kingdom | On Site | Jun 26 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jun 26 |
@@ -121,5 +121,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jun 24 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jun 24 |
 | **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Bilingual Business Administrator](https://jobright.ai/jobs/info/6a3bed774d047136e092ec6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jun 24 |
-| **[PAM Transport](https://www.pamtransport.com/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a18b4e654a441713ae875a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Tontitown, AR | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
