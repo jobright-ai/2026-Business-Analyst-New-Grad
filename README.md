@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst (Information Systems/Business Analyst II) - 61163874](https://jobright.ai/jobs/info/6a4676214f64ba41dcb5365d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington County, SC | Hybrid | Jul 02 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 01 |
 | **[Benda Infotech](https://www.bendainfotech.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a45baef3dbab558e29a20c6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 01 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a425f9cadab21425e9fd694?utm_campaign=Business%20Analyst&utm_source=1103)** | Arden Hills, MN | Hybrid | Jul 01 |
@@ -75,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a44696965e80d3c99f2c955?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 30 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a444456b156014e414bc145?utm_campaign=Business%20Analyst&utm_source=1103)** | Broomfield, Colorado | On Site | Jun 30 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jun 30 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
-| ↳ | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
+| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a330a90ce501060b5cebfe9?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
+| ↳ | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a441c3f105260150b720d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Analyst, Vehicle Damage Claims](https://jobright.ai/jobs/info/6a3fe02216b14939532829e3?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 Centre Pointe Dr, Virginia Beach, 23462, US | On Site | Jun 30 |
 | **[AIG](https://www.aig.ag)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a43d17d65e80d3c99f2912a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jun 30 |
@@ -100,12 +101,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 27 |
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a05de1bbc4184089f248503?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 27 |
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jun 27 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Jun 26 |
 | **[Serco](https://www.shrubhub.com/)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a3ee92ed261407de980518e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bromwich, England, United Kingdom | On Site | Jun 26 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jun 26 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a4543c40dd56c76cc2f2d27?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County | Hybrid | Jun 26 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jun 26 |
 | **[Publicis Montréal](https://www.publicismontreal.ca)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a423eca557b3862f15e0900?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, Texas, United States | Hybrid | Jun 26 |
@@ -113,5 +114,4 @@ For a complete list, click the following sortable link below:
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, Colorado, United States | Hybrid | Jun 25 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaeb8bfad862bc99ee22?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | Hybrid | Jun 25 |
 | **[INEOS Olefins & Polymers USA, LLC](https://www.ineos.com/businesses/ineos-olefins-polymers-usa/)** | **[Business Analyst - Polypropylene](https://jobright.ai/jobs/info/6a3ded754d047136e09354e1?utm_campaign=Business%20Analyst&utm_source=1103)** | League City, TX | On Site | Jun 25 |
-| **[Hatch](https://www.hatch.com)** | **[Digital - Business Analyst](https://jobright.ai/jobs/info/6a3d949ad261407de98012f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, CA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
