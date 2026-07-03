@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Covetrus](https://covetrus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a46e3fe971cd25b06f909d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | Jul 02 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Remote Business Analyst - EDI](https://jobright.ai/jobs/info/6a44c13eb156014e414bd091?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jul 02 |
 | **[AIG](https://www.aig.ag)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, US | On Site | Jul 02 |
