@@ -102,6 +102,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jun 27 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
 | ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
-| **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Jun 26 |
-| **[Serco](https://www.shrubhub.com/)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a3ee92ed261407de980518e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bromwich, England, United Kingdom | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
