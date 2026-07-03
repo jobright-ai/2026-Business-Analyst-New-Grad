@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 03 |
 | **[Judi Health](https://www.judi.health/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a47c000c2d11a6a46672f3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 03 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a47bffd3dbab558e29ab1b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jul 03 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 03 |
@@ -102,6 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 27 |
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a05de1bbc4184089f248503?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | On Site | Jun 27 |
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jun 27 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jun 27 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064987320bff2205eaacf2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, US | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
