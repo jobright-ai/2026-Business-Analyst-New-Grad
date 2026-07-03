@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position)](https://jobright.ai/jobs/info/6a47e66b4f64ba41dcb579fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | Hybrid | Jul 03 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 03 |
 | **[Judi Health](https://www.judi.health/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a47c000c2d11a6a46672f3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 03 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a47bffd3dbab558e29ab1b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jul 03 |
