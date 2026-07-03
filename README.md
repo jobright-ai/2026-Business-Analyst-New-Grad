@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[McKinney Specialty Labs](https://www.mckinneysl.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/6a4694be3dbab558e29a7b66?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond,VA,US | On Site | Jul 02 |
-| **[Covetrus](https://covetrus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a46e3fe971cd25b06f909d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | Jul 02 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Remote Business Analyst - EDI](https://jobright.ai/jobs/info/6a44c13eb156014e414bd091?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jul 02 |
+| **[Covetrus](https://covetrus.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a46e3fe971cd25b06f909d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Canal Winchester, OH | On Site | Jul 02 |
 | **[AIG](https://www.aig.ag)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, US | On Site | Jul 02 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, LTP Model Insights, TOM Planning, TOM Planning](https://jobright.ai/jobs/info/6a46a9a58204a812e98c9672?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, Tennessee, USA | On Site | Jul 02 |
@@ -76,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Performance Analyst](https://jobright.ai/jobs/info/6a3c55a5d261407de97fd690?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Jul 01 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 01 |
 | **[Martin-Brower of Canada Co.](https://jobs.martinbrower.com/)** | **[Remote Business Analyst - VIP](https://jobright.ai/jobs/info/6a44c14857ffc22029407e8e?utm_campaign=Business%20Analyst&utm_source=1103)** | Huntington Beach, CA, US | On Site | Jul 01 |
-| **[UCLA](https://www.ucla.edu)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a4462b2b156014e414bc633?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles,California,United States | Hybrid | Jun 30 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 30 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a44696965e80d3c99f2c955?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 30 |
 | **[BAE Systems](http://www.baesystems.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a444456b156014e414bc145?utm_campaign=Business%20Analyst&utm_source=1103)** | Broomfield, Colorado | On Site | Jun 30 |
@@ -105,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX | Hybrid | Jun 26 |
 | **[Serco](https://www.shrubhub.com/)** | **[Business Administrator Apprentice](https://jobright.ai/jobs/info/6a3ee92ed261407de980518e?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bromwich, England, United Kingdom | On Site | Jun 26 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jun 26 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jun 26 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a4543c40dd56c76cc2f2d27?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County | Hybrid | Jun 26 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
