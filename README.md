@@ -104,5 +104,4 @@ For a complete list, click the following sortable link below:
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a09cf3a8f3e371eb61861a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jun 29 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a404a93d528ac2915f967c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jun 27 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 27 |
-| ↳ | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
