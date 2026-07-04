@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 04 |
 | **[Laveer Engineering](https://laveer.ca/)** | **[Business System Analyst](https://jobright.ai/jobs/info/6a48d8a4f9cbb100d1ab3126?utm_campaign=Business%20Analyst&utm_source=1103)** | Middlesex County, MA | Hybrid | Jul 04 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 04 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position) Job Details / The Canada Life Assurance Company](https://jobright.ai/jobs/info/6a48579bc2d11a6a4667469f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 03 |
