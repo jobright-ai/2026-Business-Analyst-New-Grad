@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 04 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position) Job Details / The Canada Life Assurance Company](https://jobright.ai/jobs/info/6a48579bc2d11a6a4667469f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 03 |
 | **[Effectual](https://www.effectual.ai)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6a3191d8c477a5075f48db03?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 03 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position)](https://jobright.ai/jobs/info/6a47e66b4f64ba41dcb579fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | Hybrid | Jul 03 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 03 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Jul 03 |
 | **[DaVita Kidney Care](https://careers.davita.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | Jul 03 |
-| **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 03 |
 | **[NWSSP Legal & Risk Services](https://nwssp.nhs.wales/ourservices/legal-risk-services/)** | **[Procurement Business Manager](https://jobright.ai/jobs/info/6a482668c2d11a6a46673e65?utm_campaign=Business%20Analyst&utm_source=1103)** | Cardiff, Wales, United Kingdom | Hybrid | Jul 03 |
 | **[Judi Health](https://www.judi.health/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a47c000c2d11a6a46672f3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 03 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a47bffd3dbab558e29ab1b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jul 03 |
@@ -103,5 +103,4 @@ For a complete list, click the following sortable link below:
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6a4270331cc9cc2b12feba1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jun 29 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a09cf3a8f3e371eb61861a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA | On Site | Jun 29 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a404a93d528ac2915f967c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | Hybrid | Jun 27 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e944813aa0c479643a8c4b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
