@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States of America | On Site | Jul 06 |
+| **[Autism Care Partners](https://www.autismcarepartners.com/)** | **[Enterprise Operations Analyst](https://jobright.ai/jobs/info/6a4be0eb5d7b097d2df3e9a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Jul 06 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4bd8304eb370649b27b337?utm_campaign=Business%20Analyst&utm_source=1103)** | Grove City,OH,US | On Site | Jul 06 |
 | **[Cranberry Township](https://www.cranberrytownship.org)** | **[Business Analyst I OR II](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e485?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | On Site | Jul 06 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a4ba07c6189f64e437ef465?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore,Maryland,United States | On Site | Jul 06 |
@@ -111,5 +113,4 @@ For a complete list, click the following sortable link below:
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a281d2140ac8e329329ef1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 30 |
 | **[Northrop Grumman Australia](https://www.northropgrumman.com/australia)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a4623764f64ba41dcb5095e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-California-Redondo Beach, US | On Site | Jun 30 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a462d8d0dd56c76cc2f71f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, US | On Site | Jun 30 |
-| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a43238b78fcb767e2755926?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
