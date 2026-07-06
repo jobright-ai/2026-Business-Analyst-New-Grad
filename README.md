@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 05 |
+| **[Adriana's](http://adrianasinsurance.com)** | **[Business Analyst Assistant](https://jobright.ai/jobs/info/6a4b3bb24eb370649b279b47?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA | On Site | Jul 05 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 05 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Jul 04 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
@@ -84,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst (Information Systems/Business Analyst II) - 61163874](https://jobright.ai/jobs/info/6a4676214f64ba41dcb5365d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington County, SC | Hybrid | Jul 02 |
 | **[AIG](https://www.aig.ag)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 01 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a4b2b1bc2d11a6a46677513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, QC, Canada | Hybrid | Jul 01 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a43c1df0153061b8b3dc7ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-California-Redondo Beach | On Site | Jul 01 |
 | **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a45acb43dbab558e29a1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA | On Site | Jul 01 |
 | **[Optum](https://nm.optum.com)** | **[Senior Business Analyst, Medicare Stars Reporting](https://jobright.ai/jobs/info/6a45922e971cd25b06f893db?utm_campaign=Business%20Analyst&utm_source=1103)** | Schaumburg, IL | Remote | Jul 01 |
