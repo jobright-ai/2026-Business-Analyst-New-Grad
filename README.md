@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| **[Imagine360](https://mibenefits.imagine360.com)** | **[Junior Plan Document Analyst](https://jobright.ai/jobs/info/6a4bf6cb6189f64e437f08c4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 06 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
+| **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 06 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States of America | On Site | Jul 06 |
 | **[Autism Care Partners](https://www.autismcarepartners.com/)** | **[Enterprise Operations Analyst](https://jobright.ai/jobs/info/6a4be0eb5d7b097d2df3e9a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Jul 06 |
@@ -99,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a43c1df0153061b8b3dc7ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-California-Redondo Beach | On Site | Jul 01 |
 | **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a45acb43dbab558e29a1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA | On Site | Jul 01 |
 | **[Optum](https://frontiertherapies.optum.com)** | **[Senior Business Analyst, Medicare Stars Reporting](https://jobright.ai/jobs/info/6a45922e971cd25b06f893db?utm_campaign=Business%20Analyst&utm_source=1103)** | Schaumburg, IL | Remote | Jul 01 |
+| **[Chatham University](http://www.chatham.edu/)** | **[Business Systems Analyst (IT)](https://jobright.ai/jobs/info/6a452245971cd25b06f87d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States of America | On Site | Jul 01 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/6a4529a7c2d11a6a46668426?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bend, WI | Hybrid | Jul 01 |
-| **[Chatham University](http://www.chatham.edu/)** | **[Business Systems Analyst (IT)](https://jobright.ai/jobs/info/6a452245971cd25b06f87d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, US | On Site | Jul 01 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Performance Analyst](https://jobright.ai/jobs/info/6a3c55a5d261407de97fd690?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Jul 01 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 30 |
