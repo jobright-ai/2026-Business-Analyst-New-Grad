@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insurify](http://insurify.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a35de131232144fb1564a96?utm_campaign=Business%20Analyst&utm_source=1103)** | Cambridge, MA, United States | Hybrid | Jul 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 07 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 07 |
-| **[Autism Care Partners](https://www.autismcarepartners.com/)** | **[Enterprise Operations Analyst](https://jobright.ai/jobs/info/6a4be0eb5d7b097d2df3e9a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Jul 07 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 07 |
 | **[Ledcor](http://www.ledcor.com/home)** | **[Business Analyst - Student](https://jobright.ai/jobs/info/6a4c4298971cd25b06f9a20a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 06 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States of America | On Site | Jul 06 |
@@ -115,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/6a4529a7c2d11a6a46668426?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bend, WI | Hybrid | Jul 01 |
 | **[AlixPartners](http://evidenceexchange.com/)** | **[Performance Analyst](https://jobright.ai/jobs/info/6a3c55a5d261407de97fd690?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois | Hybrid | Jul 01 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 01 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 30 |
-| **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a44696965e80d3c99f2c955?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
