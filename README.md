@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 07 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 07 |
 | **[Autism Care Partners](https://www.autismcarepartners.com/)** | **[Enterprise Operations Analyst](https://jobright.ai/jobs/info/6a4be0eb5d7b097d2df3e9a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Jul 07 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 07 |
@@ -84,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 05 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 05 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 04 |
-| **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Jul 04 |
-| **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
+| ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
 | **[Charter](https://charter.ca/)** | **[Junior Business Architect](https://jobright.ai/jobs/info/6a4230986b8f051d296d6a5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Victoria, British Columbia, Canada | Hybrid | Jul 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 04 |
 | **[First American](http://www.firstam.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a3eb6274d047136e093756f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Remote | Jul 04 |
@@ -110,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[AIG](https://www.aig.ag)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a4b2b1bc2d11a6a46677513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, QC, Canada | Hybrid | Jul 01 |
-| **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a43c1df0153061b8b3dc7ea?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-California-Redondo Beach | On Site | Jul 01 |
 | **[Janicki](http://www.janicki.com/)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6a45acb43dbab558e29a1f19?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, WA | On Site | Jul 01 |
 | **[Chatham University](http://www.chatham.edu/)** | **[Business Systems Analyst (IT)](https://jobright.ai/jobs/info/6a452245971cd25b06f87d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States of America | On Site | Jul 01 |
 | **[West Bend Insurance Company](http://www.thesilverlining.com/)** | **[Business Process Specialist - Surety](https://jobright.ai/jobs/info/6a4529a7c2d11a6a46668426?utm_campaign=Business%20Analyst&utm_source=1103)** | West Bend, WI | Hybrid | Jul 01 |
