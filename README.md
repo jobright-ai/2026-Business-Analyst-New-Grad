@@ -117,5 +117,4 @@ For a complete list, click the following sortable link below:
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jun 30 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a44696965e80d3c99f2c955?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | On Site | Jun 30 |
-| **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
