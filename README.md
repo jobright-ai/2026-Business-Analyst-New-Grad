@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gracelight Community Health](https://gracelight.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c65784f64ba41dcb5f5a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA 90015 | On Site | Jul 06 |
 | **[Farmers Insurance](https://www.farmers.com/learn/real-stories/agent-corey-benson/)** | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a4c4ad14f64ba41dcb5f206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 06 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4bd8304eb370649b27b337?utm_campaign=Business%20Analyst&utm_source=1103)** | Grove City,OH,US | On Site | Jul 06 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-III, Energy Supply and Markets (Depends on Experience)](https://jobright.ai/jobs/info/6a4c49d1c2d11a6a4667a917?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, Washington, United States | Hybrid | Jul 06 |
