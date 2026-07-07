@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The University of Alabama](https://thewanderlustgroup.com)** | **[Workday Business Analyst I](https://jobright.ai/jobs/info/6a4c2bee6189f64e437f1614?utm_campaign=Business%20Analyst&utm_source=1103)** | Tuscaloosa, AL | Hybrid | Jul 06 |
+| **[Ledcor](http://www.ledcor.com/home)** | **[Business Analyst - Student](https://jobright.ai/jobs/info/6a4c4298971cd25b06f9a20a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 06 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
-| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | **[Imagine360](https://mibenefits.imagine360.com)** | **[Junior Plan Document Analyst](https://jobright.ai/jobs/info/6a4bf6cb6189f64e437f08c4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
+| **[The University of Alabama](https://thewanderlustgroup.com)** | **[Workday Business Analyst I](https://jobright.ai/jobs/info/6a4c2bee6189f64e437f1614?utm_campaign=Business%20Analyst&utm_source=1103)** | Tuscaloosa, AL | Hybrid | Jul 06 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 06 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States of America | On Site | Jul 06 |
 | **[Autism Care Partners](https://www.autismcarepartners.com/)** | **[Enterprise Operations Analyst](https://jobright.ai/jobs/info/6a4be0eb5d7b097d2df3e9a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Fully Remote | Remote | Jul 06 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 06 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 05 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 05 |
+| **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 04 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States (Remote) | Remote | Jul 04 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
 | **[Charter](https://charter.ca/)** | **[Junior Business Architect](https://jobright.ai/jobs/info/6a4230986b8f051d296d6a5c?utm_campaign=Business%20Analyst&utm_source=1103)** | Victoria, British Columbia, Canada | Hybrid | Jul 04 |
