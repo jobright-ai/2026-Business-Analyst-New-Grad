@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I Job Details / Fluor Careers](https://jobright.ai/jobs/info/6a3f1ed0882f121f56a3c958?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, US | On Site | Jun 30 |
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a441c3f105260150b720d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Analyst, Vehicle Damage Claims](https://jobright.ai/jobs/info/6a3fe02216b14939532829e3?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 Centre Pointe Dr, Virginia Beach, 23462, US | On Site | Jun 30 |
-| **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
