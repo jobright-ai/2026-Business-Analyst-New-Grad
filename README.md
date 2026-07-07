@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ledcor](http://www.ledcor.com/home)** | **[Business Analyst - Student](https://jobright.ai/jobs/info/6a4c4298971cd25b06f9a20a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 06 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States of America | On Site | Jul 06 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a4c74460209ea6fd684f970?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Jul 06 |
 | **[Gracelight Community Health](https://gracelight.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c65784f64ba41dcb5f5a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA 90015 | On Site | Jul 06 |
 | **[Mid-Ohio Food Collective](http://www.mofc.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4bd8304eb370649b27b337?utm_campaign=Business%20Analyst&utm_source=1103)** | Grove City,OH,US | On Site | Jul 06 |
 | **[Farmers Insurance](https://www.farmers.com/learn/real-stories/agent-corey-benson/)** | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a4c4ad14f64ba41dcb5f206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 06 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-III, Energy Supply and Markets (Depends on Experience)](https://jobright.ai/jobs/info/6a4c49d1c2d11a6a4667a917?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, Washington, United States | Hybrid | Jul 06 |
-| **[Ledcor](http://www.ledcor.com/home)** | **[Business Analyst - Student](https://jobright.ai/jobs/info/6a4c4298971cd25b06f9a20a?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Jul 06 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
-| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
 | **[The University of Alabama](https://thewanderlustgroup.com)** | **[Workday Business Analyst I](https://jobright.ai/jobs/info/6a4c2bee6189f64e437f1614?utm_campaign=Business%20Analyst&utm_source=1103)** | Tuscaloosa, AL | Hybrid | Jul 06 |
@@ -122,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Hankey Group](https://www.hankeygroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a441c3f105260150b720d61?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA | On Site | Jun 30 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Business Analyst, Vehicle Damage Claims](https://jobright.ai/jobs/info/6a3fe02216b14939532829e3?utm_campaign=Business%20Analyst&utm_source=1103)** | 300 Centre Pointe Dr, Virginia Beach, 23462, US | On Site | Jun 30 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, US | On Site | Jun 30 |
-| **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a281d2140ac8e329329ef1b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
