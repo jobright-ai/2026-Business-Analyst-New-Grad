@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4eb640fc327f422fef3ea1?utm_campaign=Business%20Analyst&utm_source=1103)** | GLEN ALLEN, VA, US | Hybrid | Jul 08 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a4e94d41544d7246c0d35e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 08 |
+| **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4ead6a9469c0662034c40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Jul 08 |
 | **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs](https://jobright.ai/jobs/info/6a4e918715b4965afd583c90?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, British Columbia, Canada | On Site | Jul 08 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a46b64dc2d11a6a46670387?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 08 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jul 08 |
@@ -114,5 +116,4 @@ For a complete list, click the following sortable link below:
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Remote Business Analyst - EDI](https://jobright.ai/jobs/info/6a44c13eb156014e414bd091?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jul 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst (Information Systems/Business Analyst II) - 61163874](https://jobright.ai/jobs/info/6a4676214f64ba41dcb5365d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington County, SC | Hybrid | Jul 02 |
 | **[AIG](http://www.sunamerica.com)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
