@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 08 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4eb640fc327f422fef3ea1?utm_campaign=Business%20Analyst&utm_source=1103)** | GLEN ALLEN, VA, US | Hybrid | Jul 08 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a4e94d41544d7246c0d35e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 08 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4ead6a9469c0662034c40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Jul 08 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1 / Trainee 1 / 2 - NY HELPS](https://jobright.ai/jobs/info/6a4ba6fa4eb370649b27a7f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, 12233 | Hybrid | Jul 06 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jul 06 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 06 |
-| **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 05 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 05 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 04 |
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
@@ -115,5 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Capgemini](http://www.cpmbraxis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2734112056260dd6e85f3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, US | On Site | Jul 02 |
 | **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Remote Business Analyst - EDI](https://jobright.ai/jobs/info/6a44c13eb156014e414bd091?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jul 02 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Systems Analyst (Information Systems/Business Analyst II) - 61163874](https://jobright.ai/jobs/info/6a4676214f64ba41dcb5365d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lexington County, SC | Hybrid | Jul 02 |
-| **[AIG](http://www.sunamerica.com)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
