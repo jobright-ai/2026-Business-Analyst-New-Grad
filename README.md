@@ -112,5 +112,4 @@ For a complete list, click the following sortable link below:
 | **[AIG](http://www.sunamerica.com)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6a46c1130dd56c76cc2fabac?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Canada | On Site | Jul 02 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 01 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a4b2b1bc2d11a6a46677513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, QC, Canada | Hybrid | Jul 01 |
-| **[Chatham University](http://www.chatham.edu/)** | **[Business Systems Analyst (IT)](https://jobright.ai/jobs/info/6a452245971cd25b06f87d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States of America | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
