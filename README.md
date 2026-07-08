@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 07 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Business Analyst - Global Logistics Operations](https://jobright.ai/jobs/info/6a4d6768c643fd23fed3cf42?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, Illinois, United States of America | Hybrid | Jul 07 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a4d64983122a76a8fd556a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Central New Mexico, Albuquerque, NM, United States of America | On Site | Jul 07 |
 | **[Judi Health](https://www.judi.health/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a47c000c2d11a6a46672f3b?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC | Hybrid | Jul 07 |
