@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Needham Bank](http://needhambank.com)** | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a4f9b7c4649561ec08ae553?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, United States | On Site | Jul 09 |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb68a1544d7246c0d62af?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
 | ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb689397d8d353c28c3f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Power Platform Business Analyst, Junior](https://jobright.ai/jobs/info/6a4fad32fc327f422fef5fd4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States of America | On Site | Jul 09 |
@@ -85,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 07 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Business Analyst - Global Logistics Operations](https://jobright.ai/jobs/info/6a4d6768c643fd23fed3cf42?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, Illinois, United States of America | Hybrid | Jul 07 |
 | **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a4d64983122a76a8fd556a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Central New Mexico, Albuquerque, NM, United States of America | On Site | Jul 07 |
+| **[Aleut Federal](https://aleutfederal.com)** | **[Business Analyst - DOE Brookhaven Site Office](https://jobright.ai/jobs/info/6a4fd205397d8d353c28cbcd?utm_campaign=Business%20Analyst&utm_source=1103)** | Upton, New York, United States | On Site | Jul 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 07 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 07 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 07 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
-| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
 | **[Cranberry Township](https://www.cranberrytownship.org)** | **[Business Analyst I OR II](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e485?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | On Site | Jul 06 |
