@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst Buffalo NY](https://jobright.ai/jobs/info/6a4ecba90ea38951a6ff483f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY, United States | Hybrid | Jul 08 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 08 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 08 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4eb640fc327f422fef3ea1?utm_campaign=Business%20Analyst&utm_source=1103)** | GLEN ALLEN, VA, US | Hybrid | Jul 08 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a4e94d41544d7246c0d35e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 08 |
