@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 09 |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst – Strategy & Analytics](https://jobright.ai/jobs/info/6a4fed909469c0662034f782?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 09 |
+| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 09 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 09 |
 | **[Needham Bank](http://needhambank.com)** | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a4f9b7c4649561ec08ae553?utm_campaign=Business%20Analyst&utm_source=1103)** | Needham, MA, United States | On Site | Jul 09 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb68a1544d7246c0d62af?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
@@ -70,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a4eebb0397d8d353c28ab5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 08 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 08 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst Buffalo NY](https://jobright.ai/jobs/info/6a4ecba90ea38951a6ff483f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY, United States | Hybrid | Jul 08 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 08 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4eb640fc327f422fef3ea1?utm_campaign=Business%20Analyst&utm_source=1103)** | GLEN ALLEN, VA, US | Hybrid | Jul 08 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a4e94d41544d7246c0d35e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 08 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4ead6a9469c0662034c40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Jul 08 |
