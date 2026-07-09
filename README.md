@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4fa3ad397d8d353c28c01d?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Jul 09 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c4d80c2d11a6a4667a9b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Jul 09 |
+| **[California State Association of Counties®](https://www.counties.org/)** | **[Management Analyst I/II](https://jobright.ai/jobs/info/6a4f9d28fc327f422fef5d6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Placer County, CA, United States | Hybrid | Jul 09 |
 | **[University of California, Santa Cruz](https://gpm.soe.ucsc.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4f7707fc327f422fef561e?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | Hybrid | Jul 09 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, United States | Hybrid | Jul 08 |
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a4eebb0397d8d353c28ab5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 08 |
