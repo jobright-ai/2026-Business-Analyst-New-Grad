@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb68a1544d7246c0d62af?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
+| ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb689397d8d353c28c3f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
+| **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Power Platform Business Analyst, Junior](https://jobright.ai/jobs/info/6a4fad32fc327f422fef5fd4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States of America | On Site | Jul 09 |
 | **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4fa3ad397d8d353c28c01d?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Jul 09 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c4d80c2d11a6a4667a9b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Jul 09 |
 | **[California State Association of Counties®](https://www.counties.org/)** | **[Management Analyst I/II](https://jobright.ai/jobs/info/6a4f9d28fc327f422fef5d6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Placer County, CA, United States | Hybrid | Jul 09 |
@@ -120,5 +123,4 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a477e558204a812e98cbef3?utm_campaign=Business%20Analyst&utm_source=1103)** | Montreal, Quebec, Canada | On Site | Jul 02 |
 | **[McKinney Specialty Labs](https://www.mckinneysl.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/6a4694be3dbab558e29a7b66?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond,VA,US | On Site | Jul 02 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 02 |
-| **[Capgemini](http://www.cpmbraxis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2734112056260dd6e85f3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
