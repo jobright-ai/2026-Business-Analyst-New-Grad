@@ -119,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[McKinney Specialty Labs](https://www.mckinneysl.com/)** | **[Business Operations Coordinator](https://jobright.ai/jobs/info/6a4694be3dbab558e29a7b66?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond,VA,US | On Site | Jul 02 |
 | **[PNC](http://www.sterlingfi.com/)** | **[Business Analytics Specialist - C&IB Payments Risk Management](https://jobright.ai/jobs/info/6a47d63d4f64ba41dcb57826?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Pittsburgh (15222), United States of America | On Site | Jul 02 |
 | **[Capgemini](http://www.cpmbraxis.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a2734112056260dd6e85f3c?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, US | On Site | Jul 02 |
-| **[Reyes Holdings](http://www.reyesholdings.com/)** | **[Remote Business Analyst - EDI](https://jobright.ai/jobs/info/6a44c13eb156014e414bd091?utm_campaign=Business%20Analyst&utm_source=1103)** | Rosemont, IL, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
