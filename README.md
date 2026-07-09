@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[University of California, Santa Cruz](https://gpm.soe.ucsc.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4f7707fc327f422fef561e?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | Hybrid | Jul 09 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c4d80c2d11a6a4667a9b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Jul 09 |
+| **[University of California, Santa Cruz](https://gpm.soe.ucsc.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4f7707fc327f422fef561e?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | Hybrid | Jul 09 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | El Segundo, CA, United States | Hybrid | Jul 08 |
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a4eebb0397d8d353c28ab5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 08 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 08 |
@@ -91,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-III, Energy Supply and Markets (Depends on Experience)](https://jobright.ai/jobs/info/6a4c49d1c2d11a6a4667a917?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, Washington, United States | Hybrid | Jul 06 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
-| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
+| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters) | Hybrid | Jul 06 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
 | **[Cranberry Township](https://www.cranberrytownship.org)** | **[Business Analyst I OR II](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e485?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | On Site | Jul 06 |
