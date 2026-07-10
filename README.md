@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Verisk](https://www.verisk.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a452de3971cd25b06f87f9f?utm_campaign=Business%20Analyst&utm_source=1103)** | 545 Washington Blvd, Jersey City, NJ, 07310, United States | Remote | Jul 09 |
 | **[Hillsborough County](https://hcfl.gov)** | **[Business Analyst (Tier 1) -System Support](https://jobright.ai/jobs/info/6a5022ea1544d7246c0d7de3?utm_campaign=Business%20Analyst&utm_source=1103)** | 332 N Falkenburg Rd, Tampa, FL, 33619, US | On Site | Jul 09 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a500b284649561ec08b013d?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, United States | On Site | Jul 09 |
-| **[Verisk](https://www.verisk.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a452de3971cd25b06f87f9f?utm_campaign=Business%20Analyst&utm_source=1103)** | 545 Washington Blvd, Jersey City, NJ, 07310, United States | Remote | Jul 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Power Platform Business Analyst, Junior](https://jobright.ai/jobs/info/6a4fad32fc327f422fef5fd4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States of America | On Site | Jul 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 09 |
