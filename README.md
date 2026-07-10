@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
 | **[Guidehouse](https://guidehouse.com)** | **[Junior Business Requirements Analyst](https://jobright.ai/jobs/info/6a50f84b02522b5b722e63d7?utm_campaign=Business%20Analyst&utm_source=1103)** | US - DC, Washington, United States of America | Hybrid | Jul 10 |
+| **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jul 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Jul 10 |
 | **[Blumark Tax Advisors](https://www.blumarktax.com)** | **[BUSINESS PROCESSING ASSISTANT - WEALTH MANAGEMENT](https://jobright.ai/jobs/info/6a50aa955165966a1161aaf4?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Hills, MI, United States | On Site | Jul 10 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 04 |
 | **[First American](http://www.firstam.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a3eb6274d047136e093756f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Remote | Jul 04 |
 | **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 04 |
-| **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position) Job Details / The Canada Life Assurance Company](https://jobright.ai/jobs/info/6a48579bc2d11a6a4667469f?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
