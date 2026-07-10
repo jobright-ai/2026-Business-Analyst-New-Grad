@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blumark Tax Advisors](https://www.blumarktax.com)** | **[BUSINESS PROCESSING ASSISTANT - WEALTH MANAGEMENT](https://jobright.ai/jobs/info/6a50aa955165966a1161aaf4?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Hills, MI, United States | On Site | Jul 10 |
 | **[H-E-B](https://www.heb.com.mx)** | **[Business Analyst I - Store Inventory](https://jobright.ai/jobs/info/6a3ee134d261407de9804e3c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio,Texas,United States | On Site | Jul 10 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Continuous Improvement Operational Excellence](https://jobright.ai/jobs/info/6a3c54a7122f340d29ced870?utm_campaign=Business%20Analyst&utm_source=1103)** | Goodyear, AZ, United States | On Site | Jul 09 |
 | **[JBS](http://www.jbs.com.br/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a50684af57ed168c3418c41?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO | On Site | Jul 09 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position)](https://jobright.ai/jobs/info/6a47e66b4f64ba41dcb579fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | Hybrid | Jul 03 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 03 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Jul 03 |
-| **[DaVita Kidney Care](https://www.davita.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a172962f45c6530ce9a97e9?utm_campaign=Business%20Analyst&utm_source=1103)** | 05555 - Casa del Mundo Office (Denver HQ), US | Hybrid | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
