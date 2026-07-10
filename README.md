@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[H-E-B](https://www.heb.com.mx)** | **[Business Analyst I - Store Inventory](https://jobright.ai/jobs/info/6a3ee134d261407de9804e3c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio,Texas,United States | On Site | Jul 10 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Continuous Improvement Operational Excellence](https://jobright.ai/jobs/info/6a3c54a7122f340d29ced870?utm_campaign=Business%20Analyst&utm_source=1103)** | Goodyear, AZ, United States | On Site | Jul 09 |
 | **[JBS](http://www.jbs.com.br/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a50684af57ed168c3418c41?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO | On Site | Jul 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
