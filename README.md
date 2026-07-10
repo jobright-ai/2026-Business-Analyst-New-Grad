@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillsborough County](https://hcfl.gov)** | **[Business Analyst (Tier 1) -System Support](https://jobright.ai/jobs/info/6a5022ea1544d7246c0d7de3?utm_campaign=Business%20Analyst&utm_source=1103)** | 332 N Falkenburg Rd, Tampa, FL, 33619, US | On Site | Jul 09 |
 | **[Fluor Corporation](http://www.fluor.com)** | **[Project Business Analyst I](https://jobright.ai/jobs/info/6a500b284649561ec08b013d?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenville, SC, United States | On Site | Jul 09 |
 | **[Verisk](https://www.verisk.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a452de3971cd25b06f87f9f?utm_campaign=Business%20Analyst&utm_source=1103)** | 545 Washington Blvd, Jersey City, NJ, 07310, United States | Remote | Jul 09 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Power Platform Business Analyst, Junior](https://jobright.ai/jobs/info/6a4fad32fc327f422fef5fd4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States of America | On Site | Jul 09 |
@@ -69,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb68a1544d7246c0d62af?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
 | ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb689397d8d353c28c3f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
-| **[AgileGrid Solutions](https://www.agilegridsolution.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4fa3ad397d8d353c28c01d?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Jul 09 |
+| **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6a4f4c101544d7246c0d5559?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Vancouver Metropolitan Area | Hybrid | Jul 09 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c4d80c2d11a6a4667a9b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint Louis, Missouri, USA | Hybrid | Jul 09 |
 | **[California State Association of Counties®](https://www.counties.org/)** | **[Management Analyst I/II](https://jobright.ai/jobs/info/6a4f9d28fc327f422fef5d6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Placer County, CA, United States | Hybrid | Jul 09 |
 | **[University of California, Santa Cruz](https://gpm.soe.ucsc.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4f7707fc327f422fef561e?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Cruz, CA | Hybrid | Jul 09 |
