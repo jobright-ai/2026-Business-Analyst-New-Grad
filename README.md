@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
 | **[Guidehouse](https://guidehouse.com)** | **[Junior Business Requirements Analyst](https://jobright.ai/jobs/info/6a50f84b02522b5b722e63d7?utm_campaign=Business%20Analyst&utm_source=1103)** | US - DC, Washington, United States of America | Hybrid | Jul 10 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jul 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Jul 10 |
@@ -85,9 +86,7 @@ For a complete list, click the following sortable link below:
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a4eebb0397d8d353c28ab5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 08 |
 | **[MedSpeed](http://www.medspeed.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6a3ea493d261407de9803cca?utm_campaign=Business%20Analyst&utm_source=1103)** | Elmhurst, Illinois, United States | Hybrid | Jul 08 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst Buffalo NY](https://jobright.ai/jobs/info/6a4ecba90ea38951a6ff483f?utm_campaign=Business%20Analyst&utm_source=1103)** | Buffalo, NY, United States | Hybrid | Jul 08 |
-| **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4eb640fc327f422fef3ea1?utm_campaign=Business%20Analyst&utm_source=1103)** | GLEN ALLEN, VA, US | Hybrid | Jul 08 |
 | **[Nokia](http://www.nokia.com)** | **[Business Operations Analyst Coop](https://jobright.ai/jobs/info/6a4e94d41544d7246c0d35e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Sunnyvale, CA, United States | On Site | Jul 08 |
-| **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6a4ead6a9469c0662034c40d?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Jul 08 |
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a31bde235e80310003a9226?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO | On Site | Jul 08 |
 | **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs](https://jobright.ai/jobs/info/6a4e918715b4965afd583c90?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, British Columbia, Canada | On Site | Jul 08 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I, Category Pricing](https://jobright.ai/jobs/info/6a2a7e9c0ad4053b108c7bf9?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, Texas, USA | On Site | Jul 08 |
