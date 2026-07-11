@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com/)** | **[New Grad: Business Analyst](https://jobright.ai/jobs/info/6a51c53378e364789ca5c877?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
-| **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 10 |
+| **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f293dbab558e29acf73?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 10 |
+| **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a51c542ae4052672fe9a933?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 10 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst (New Grad Opportunity!)](https://jobright.ai/jobs/info/6a518e4c78e364789ca5a3dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | Hybrid | Jul 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a51a42702522b5b722e9303?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 10 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a513e9f02522b5b722e8c8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 10 |
@@ -129,5 +131,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst](https://jobright.ai/jobs/info/6a31550ec477a5075f48c62d?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, United States | Remote | Jul 04 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 04 |
 | **[First American](http://www.firstam.com)** | **[Entry-Level Process Improvement Analyst - REMOTE](https://jobright.ai/jobs/info/6a3eb6274d047136e093756f?utm_campaign=Business%20Analyst&utm_source=1103)** | Scottsdale, AZ | Remote | Jul 04 |
-| **[LOFT](https://www.loft.com/)** | **[Inventory Planning Analyst](https://jobright.ai/jobs/info/6a2c12207cd40a338fae479c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY | Hybrid | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
