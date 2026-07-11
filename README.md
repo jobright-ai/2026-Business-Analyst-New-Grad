@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a520305ae4052672fe9d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Jul 11 |
 | **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, US | On Site | Jul 10 |
@@ -124,11 +125,11 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Management Analyst – I/II](https://jobright.ai/jobs/info/6a4c1e744eb370649b27c5d4?utm_campaign=Business%20Analyst&utm_source=1103)** | 145 Fulweiler Avenue, 95603, Auburn, CA | Hybrid | Jul 06 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4c1c985d7b097d2df3f8e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 06 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1 / Trainee 1 / 2 - NY HELPS](https://jobright.ai/jobs/info/6a4ba6fa4eb370649b27a7f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Jul 06 |
-| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Port Washington, NY, United States | On Site | Jul 06 |
 | **[Cranberry Township](https://www.cranberrytownship.org)** | **[Business Analyst I OR II](https://jobright.ai/jobs/info/6a4bd2435d7b097d2df3e485?utm_campaign=Business%20Analyst&utm_source=1103)** | Cranberry Township, PA | On Site | Jul 06 |
 | **[Mercy Medical Center, Baltimore, MD](https://mdmercy.com)** | **[Perioperative Systems Business Analyst](https://jobright.ai/jobs/info/6a4ba07c6189f64e437ef465?utm_campaign=Business%20Analyst&utm_source=1103)** | Baltimore,Maryland,United States | On Site | Jul 06 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/68cff023dbd9fb154edec0c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | Remote | Jul 06 |
 | ↳ | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Jul 06 |
+| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4be71d4eb370649b27b7ad?utm_campaign=Business%20Analyst&utm_source=1103)** | USA, NY, Port Washington, HQ, United States of America | On Site | Jul 06 |
 | **[Capital Rx](https://www.judi.health)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3dfaed8bfad862bc99ee23?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | Hybrid | Jul 05 |
 | **[Maximus](http://www.maximus.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a2c54827cd40a338fae5df3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
