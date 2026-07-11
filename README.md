@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a51a42702522b5b722e9303?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 10 |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
+| **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 10 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst (New Grad Opportunity!)](https://jobright.ai/jobs/info/6a518e4c78e364789ca5a3dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | Hybrid | Jul 10 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a51a42702522b5b722e9303?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 10 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a513e9f02522b5b722e8c8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2027](https://jobright.ai/jobs/info/6a4ba11a4f64ba41dcb5ca2a?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA, United States of America | Hybrid | Jul 10 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 10 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[Power Platform Business Analyst, Junior](https://jobright.ai/jobs/info/6a4fad32fc327f422fef5fd4?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States of America | On Site | Jul 09 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst – Strategy & Analytics](https://jobright.ai/jobs/info/6a4fed909469c0662034f782?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA | Hybrid | Jul 09 |
 | **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 09 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 09 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb68a1544d7246c0d62af?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
 | ↳ | **[Junior Business Analyst](https://jobright.ai/jobs/info/6a4fb689397d8d353c28c3f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 09 |
