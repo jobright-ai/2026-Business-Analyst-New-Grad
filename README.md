@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BGIS](https://www.bgis.com)** | **[Business Analyst (New Grad Opportunity!)](https://jobright.ai/jobs/info/6a518e4c78e364789ca5a3dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | Hybrid | Jul 10 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a513e9f02522b5b722e8c8f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 10 |
 | **[Capital One](http://www.capitalone.com)** | **[Business Analyst Associate - August 2027](https://jobright.ai/jobs/info/6a4ba11a4f64ba41dcb5ca2a?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA, United States of America | Hybrid | Jul 10 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6a4ec985fc327f422fef4248?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, California, US | Remote | Jul 10 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jul 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Jul 10 |
 | **[Blumark Tax Advisors](https://www.blumarktax.com)** | **[BUSINESS PROCESSING ASSISTANT - WEALTH MANAGEMENT](https://jobright.ai/jobs/info/6a50aa955165966a1161aaf4?utm_campaign=Business%20Analyst&utm_source=1103)** | Auburn Hills, MI, United States | On Site | Jul 10 |
-| **[H-E-B](https://www.heb.com.mx)** | **[Business Analyst I - Store Inventory](https://jobright.ai/jobs/info/6a3ee134d261407de9804e3c?utm_campaign=Business%20Analyst&utm_source=1103)** | San Antonio,Texas,United States | On Site | Jul 10 |
 | **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Continuous Improvement Operational Excellence](https://jobright.ai/jobs/info/6a3c54a7122f340d29ced870?utm_campaign=Business%20Analyst&utm_source=1103)** | Goodyear, AZ, United States | On Site | Jul 09 |
 | **[JBS](http://www.jbs.com.br/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a50684af57ed168c3418c41?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO | On Site | Jul 09 |
 | **[Camping World](https://investor.campingworld.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4ffeb3fc327f422fef74f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 09 |
