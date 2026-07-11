@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, US | On Site | Jul 10 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 10 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Jul 10 |
 | **[CGI](https://www.cgi.com/)** | **[New Grad: Business Analyst](https://jobright.ai/jobs/info/6a51c53378e364789ca5c877?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
