@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Jul 10 |
 | **[CGI](https://www.cgi.com/)** | **[New Grad: Business Analyst](https://jobright.ai/jobs/info/6a51c53378e364789ca5c877?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
-| **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f293dbab558e29acf73?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 10 |
+| **[CGI](https://www.cgi.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a488f3af9cbb100d1ab2b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, US | Hybrid | Jul 10 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a51c542ae4052672fe9a933?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 10 |
 | **[BGIS](https://www.bgis.com)** | **[Business Analyst (New Grad Opportunity!)](https://jobright.ai/jobs/info/6a518e4c78e364789ca5a3dc?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | Hybrid | Jul 10 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a51a42702522b5b722e9303?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 10 |
