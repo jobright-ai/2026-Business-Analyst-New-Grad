@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a535ea8d007ee02d95fb2fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, United States | On Site | Jul 12 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 11 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Analytics Co-op](https://jobright.ai/jobs/info/6a51a42702522b5b722e9303?utm_campaign=Business%20Analyst&utm_source=1103)** | PA - Philadelphia, 1701 John F Kennedy Blvd, United States of America | On Site | Jul 11 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a52e4059fbdab22fe13d78d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 11 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a508eb1fb1cdf60f4ccd6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 07 |
 | **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 07 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[Business Analyst - Global Logistics Operations](https://jobright.ai/jobs/info/6a4d6768c643fd23fed3cf42?utm_campaign=Business%20Analyst&utm_source=1103)** | Lincolnshire, Illinois, United States of America | Hybrid | Jul 07 |
-| **[Central New Mexico Community College](http://www.cnm.edu/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a4d64983122a76a8fd556a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Central New Mexico, Albuquerque, NM, United States of America | On Site | Jul 07 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Management Analyst Buffalo NY](https://jobright.ai/jobs/info/6a509e0c5165966a11619c8c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States-New York-Buffalo | Hybrid | Jul 07 |
 | **[Aleut Federal](https://aleutfederal.com)** | **[Business Analyst - DOE Brookhaven Site Office](https://jobright.ai/jobs/info/6a4fd205397d8d353c28cbcd?utm_campaign=Business%20Analyst&utm_source=1103)** | Upton, New York, United States | On Site | Jul 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 07 |
