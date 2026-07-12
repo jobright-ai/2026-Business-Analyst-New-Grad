@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a43238b78fcb767e2755926?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, OR, United States | On Site | Jul 12 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a53c5058576ec69c0150dda?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 12 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 12 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 12 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a5273d59fbdab22fe13ba4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, DC | On Site | Jul 11 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a404a93d528ac2915f967c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 11 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 11 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 11 |
-| ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Jul 11 |
+| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Jul 11 |
+| ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 11 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 11 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a36c9e81232144fb156692c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jul 11 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a520305ae4052672fe9d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Jul 11 |
