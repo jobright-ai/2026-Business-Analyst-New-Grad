@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 12 |
 | **[Ask IT Consulting Inc.](https://www.askitc.com/)** | **[Jr.SharePoint Business Analyst](https://jobright.ai/jobs/info/6a5377da9fbdab22fe13f7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | On Site | Jul 12 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a535ea8d007ee02d95fb2fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, United States | On Site | Jul 12 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 11 |
