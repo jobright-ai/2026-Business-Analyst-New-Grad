@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a54f21df2c46727285eec51?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
+| **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs](https://jobright.ai/jobs/info/6a54f095ae07d60a8d00ddd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, British Columbia, Canada | On Site | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a54e0738b24713fc151b5cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
 | ↳ | **[(TCap) Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a54e05fb361d54aceab79b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
 | ↳ | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a54e04a81744f383a313937?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a36c9e81232144fb156692c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jul 11 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a520305ae4052672fe9d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Jul 11 |
 | **[Stellantis](https://media.stellantis.com/)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
-| **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a4fe348f57ed168c341728f?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, Colorado | On Site | Jul 10 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, US | On Site | Jul 10 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 10 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Jul 10 |
