@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Supply Chain Business Analyst I](https://jobright.ai/jobs/info/6a550698f2c46727285ef3d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL, United States | On Site | Jul 13 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Supply Chain Business Analyst I](https://jobright.ai/jobs/info/6a54fca3ae07d60a8d00e28d?utm_campaign=Business%20Analyst&utm_source=1103)** | Altamonte Springs, FL, United States | Hybrid | Jul 13 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a54f21df2c46727285eec51?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
 | **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs](https://jobright.ai/jobs/info/6a54f095ae07d60a8d00ddd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, British Columbia, Canada | On Site | Jul 13 |
@@ -138,7 +139,4 @@ For a complete list, click the following sortable link below:
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Specialist](https://jobright.ai/jobs/info/6a4c74460209ea6fd684f970?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Jul 06 |
 | **[Gracelight Community Health](https://gracelight.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a4c65784f64ba41dcb5f5a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA 90015 | On Site | Jul 06 |
 | **[Judi Health](https://www.judi.health/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a47bffd3dbab558e29ab1b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO | Hybrid | Jul 06 |
-| **[Farmers Insurance](http://www.farmers.com/careers/corporate)** | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a509d165165966a11619968?utm_campaign=Business%20Analyst&utm_source=1103)** | R_US - United States | Remote | Jul 06 |
-| ↳ | **[Associate Business Solutions Analyst](https://jobright.ai/jobs/info/6a4c4ad14f64ba41dcb5f206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 06 |
-| **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-III, Energy Supply and Markets (Depends on Experience)](https://jobright.ai/jobs/info/6a4c49d1c2d11a6a4667a917?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, Washington, United States | Hybrid | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
