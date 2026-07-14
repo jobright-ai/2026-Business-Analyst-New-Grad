@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a555cf4ae07d60a8d010d6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Jul 13 |
 | **[S&A Legal Management Services, Inc](https://www.linkedin.com/company/99229457)** | **[Business Analyst - Legal Analytics / Data Science](https://jobright.ai/jobs/info/6a5551a3ae07d60a8d01084a?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, United States | On Site | Jul 13 |
 | **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a553237268af95237bea07a?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | Hybrid | Jul 13 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a552a26f2c46727285f0367?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Aleut Federal](https://aleutfederal.com)** | **[Business Analyst - DOE Brookhaven Site Office](https://jobright.ai/jobs/info/6a4fd205397d8d353c28cbcd?utm_campaign=Business%20Analyst&utm_source=1103)** | Upton, New York, United States | On Site | Jul 07 |
 | **[Grant Street Group](https://www.grantstreet.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a494b57f9cbb100d1ab388f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 07 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a43ec5b0153061b8b3de99b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 07 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
