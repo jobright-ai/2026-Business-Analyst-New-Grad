@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 14 |
 | **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 14 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a56844ef7517b519ad56452?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 14 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a520305ae4052672fe9d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Jul 11 |
 | **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a51d1fabf63b66c7997d70d?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, US | On Site | Jul 10 |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 10 |
 | **[AmTrust Financial Services, Inc.](https://amtrustfinancial.com/)** | **[Business Analyst I, Underwriting](https://jobright.ai/jobs/info/6a51c8be8d7d3e6cf1cc2e17?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Jul 10 |
 | **[CGI](https://www.cgi.com/)** | **[New Grad: Business Analyst](https://jobright.ai/jobs/info/6a51c53378e364789ca5c877?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a51c542ae4052672fe9a933?utm_campaign=Business%20Analyst&utm_source=1103)** | Lafayette, LA, United States | Hybrid | Jul 10 |
@@ -141,6 +142,4 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Business Analyst - SAP & Supply Chain](https://jobright.ai/jobs/info/6a4e71491544d7246c0d2b73?utm_campaign=Business%20Analyst&utm_source=1103)** | Burlington, MA, United States | On Site | Jul 08 |
 | **[The Depository Trust & Clearing Corporation (DTCC)](http://www.dtcc.com/)** | **[Business Analyst [2027 EDGE Program]](https://jobright.ai/jobs/info/6a4e70a89469c0662034b35f?utm_campaign=Business%20Analyst&utm_source=1103)** | 18301 Bermuda Green Dr, Tampa, FL, 33647, US | On Site | Jul 08 |
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Systems Analyst Associate](https://jobright.ai/jobs/info/6a4e77f515b4965afd5835ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmers Branch, TX, United States | On Site | Jul 08 |
-| **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a508eb1fb1cdf60f4ccd6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 07 |
-| **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a55d40005c65f7c8f4c87d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
