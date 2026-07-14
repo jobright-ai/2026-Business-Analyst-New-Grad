@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56672753b3962b910affb8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Jul 14 |
+| **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a566295efb06a45240d55d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a55cb31fdf4fa71202b5241?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Jul 14 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a535ea8d007ee02d95fb2fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | Jul 14 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 14 |
@@ -69,10 +71,8 @@ For a complete list, click the following sortable link below:
 | **[The Giant Bullseye](www.thegiantbullseye.com)** | **[Job Title: Junior Business Analyst](https://jobright.ai/jobs/info/6a559d1d78611229b823d55f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 13 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate](https://jobright.ai/jobs/info/6a556b9c268af95237bebc8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a555cf4ae07d60a8d010d6e?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Jul 13 |
-| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
-| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
-| **[AdventHealth Colorado](https://networkofcare.adventhealth.com/colorado)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a553237268af95237bea07a?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | Hybrid | Jul 13 |
+| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
+| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a552a26f2c46727285f0367?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
 | **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5529c92084cd792b4768f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a555af7377f983ce8a999ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
