@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a56807aefb06a45240d62d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
+| **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
+| ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 14 |
+| **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a56844ef7517b519ad56452?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 14 |
 | **[CGI](https://www.cgi.com/)** | **[Functional Business Analyst](https://jobright.ai/jobs/info/6a567c49efb06a45240d614c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, United States | Hybrid | Jul 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56672753b3962b910affb8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Jul 14 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a566295efb06a45240d55d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Jul 14 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[The Giant Bullseye](www.thegiantbullseye.com)** | **[Job Title: Junior Business Analyst](https://jobright.ai/jobs/info/6a559d1d78611229b823d55f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 13 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate](https://jobright.ai/jobs/info/6a556b9c268af95237bebc8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
-| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
-| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
+| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
+| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a552a26f2c46727285f0367?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
 | **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5529c92084cd792b4768f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a555af7377f983ce8a999ce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
