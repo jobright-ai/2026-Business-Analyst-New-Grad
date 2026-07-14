@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a56807aefb06a45240d62d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
+| **[CGI](https://www.cgi.com/)** | **[Functional Business Analyst](https://jobright.ai/jobs/info/6a567c49efb06a45240d614c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, United States | Hybrid | Jul 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56672753b3962b910affb8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Jul 14 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a566295efb06a45240d55d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Jul 14 |
+| **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd3a26b135014dbc98c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland, WA | On Site | Jul 14 |
 | **[Marshall+Sterling](https://www.marshallsterling.com/)** | **[Assistant Business Transformation Analyst](https://jobright.ai/jobs/info/6a55cb31fdf4fa71202b5241?utm_campaign=Business%20Analyst&utm_source=1103)** | Poughkeepsie, NY, United States | Hybrid | Jul 14 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a535ea8d007ee02d95fb2fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Beachwood, OH, US | On Site | Jul 14 |
 | **[Moose Toys](https://www.moosetoys.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3660f629c90c607e4e4c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | US-CA-Los Angeles | Hybrid | Jul 14 |
@@ -138,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Scalence L.L.C.](https://www.scalence.com/)** | **[Business Systems Analyst Associate](https://jobright.ai/jobs/info/6a4e77f515b4965afd5835ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Farmers Branch, TX, United States | On Site | Jul 08 |
 | **[OLG](https://www.olg.ca/en/home.html)** | **[Business Analyst Student](https://jobright.ai/jobs/info/6a508eb1fb1cdf60f4ccd6f4?utm_campaign=Business%20Analyst&utm_source=1103)** | Sault Ste. Marie, Ontario, Canada | On Site | Jul 07 |
 | **[Akkodis Group Nordics](http://www.datarespons.com/)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a55d40005c65f7c8f4c87d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Jacksonville, FL, United States | Hybrid | Jul 07 |
-| **[McKinsey & Company](http://www.mckinsey.com/client_service/high_tech/growth_tech)** | **[Business Analyst - Private Capital](https://jobright.ai/jobs/info/6a4dcfd20209ea6fd6853322?utm_campaign=Business%20Analyst&utm_source=1103)** | New York City, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
