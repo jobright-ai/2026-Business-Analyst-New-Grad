@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56a06fe9b77f668bd64b77?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA, United States | On Site | Jul 14 |
+| **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/6a56a3aff7517b519ad57339?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 14 |
+| **[RedGuard](http://redguard.com)** | **[Jr. Business Systems Analyst - LANGE Shared Services](https://jobright.ai/jobs/info/6a56a10ef7517b519ad5718c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wichita, KS, United States | On Site | Jul 14 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 14 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 14 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE-10042020_1-TEMPLATE](https://jobright.ai/jobs/info/6a56844ef7517b519ad56452?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 14 |
-| **[CGI](https://www.cgi.com/)** | **[Functional Business Analyst](https://jobright.ai/jobs/info/6a567c49efb06a45240d614c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, United States | Hybrid | Jul 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56672753b3962b910affb8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Jul 14 |
 | **[Arrive Logistics](http://www.arrivelogistics.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a566295efb06a45240d55d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Jul 14 |
 | **[Gesa Credit Union](https://www.gesa.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a1dd3a26b135014dbc98c3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richland, WA | On Site | Jul 14 |
