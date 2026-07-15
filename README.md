@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a57302321f64463ad3583cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 15 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters), United States | Hybrid | Jul 14 |
 | **[CGI](https://www.cgi.com/)** | **[Functional Business Analyst](https://jobright.ai/jobs/info/6a56f12653b3962b910b3345?utm_campaign=Business%20Analyst&utm_source=1103)** | Lebanon, VA, United States | Hybrid | Jul 14 |
 | **[Henry Schein](http://www.henryschein.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a56672753b3962b910affb8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Jul 14 |
@@ -111,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a5273d59fbdab22fe13ba4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington DC, DC | On Site | Jul 11 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a404a93d528ac2915f967c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Jul 11 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 11 |
-| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Jul 11 |
-| ↳ | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 11 |
+| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, CA | On Site | Jul 11 |
+| ↳ | **[Business Analyst, Co-op](https://jobright.ai/jobs/info/6a1a13ac2b206f3955eb295f?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Head Office | On Site | Jul 11 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a36c9e81232144fb156692c?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH | On Site | Jul 11 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate-100001-TEMPLATE](https://jobright.ai/jobs/info/6a520305ae4052672fe9d2fc?utm_campaign=Business%20Analyst&utm_source=1103)** | Reston, VA, United States | Remote | Jul 11 |
 | **[Stellantis](https://www.stellantis.com/q/stellantis-ventures)** | **[Business Analytics Co-op – Aftersales, Sales & Marketing](https://jobright.ai/jobs/info/6a5102cfae4052672fe96038?utm_campaign=Business%20Analyst&utm_source=1103)** | 6500 Mississauga Rd., Mississauga, ON,L5N 1A8 | On Site | Jul 10 |
