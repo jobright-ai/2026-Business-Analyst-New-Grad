@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Exchange](https://www.shopmyexchange.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a5924fd4da96a42cfd8f5c9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States - Texas - AAFES Headquarters (Dallas) | On Site | Jul 16 |
 | **[University Health Network](https://www.uhn.ca/OurHospitals/PrincessMargaret)** | **[Business Process & Data Analyst](https://jobright.ai/jobs/info/6a58f0bc63a8f619507bf544?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Jul 16 |
 | **[European Energy Exchange AG](https://www.eex.com/en)** | **[Working Student (f/m/d) – IT Strategy & Governance](https://jobright.ai/jobs/info/6a58fef3686b4755d1e0daad?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearing, IL, United States | On Site | Jul 16 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst, Co-op Job Details / Aecon](https://jobright.ai/jobs/info/6a45f0634f64ba41dcb4f64c?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Jul 16 |
+| **[ZOLL Medical Corporation](https://www.lifevest.zoll.com)** | **[Bilingual Business Administrator](https://jobright.ai/jobs/info/6a3bed774d047136e092ec6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jul 16 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Bilingual Business Administrator](https://jobright.ai/jobs/info/6a4618190dd56c76cc2f5cc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Hybrid | Jul 16 |
 | **[Prime Healthcare](http://www.primehealthcare.com/)** | **[Jr Business Analyst](https://jobright.ai/jobs/info/6a58695f68d16a30e24130b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario,California,United States | On Site | Jul 16 |
 | **[Factor_](https://www.factor75.com)** | **[Analyst, Continuous Improvement Operational Excellence](https://jobright.ai/jobs/info/6a589e6968d16a30e2414521?utm_campaign=Business%20Analyst&utm_source=1103)** | Goodyear, AZ, United States | On Site | Jul 16 |
@@ -77,11 +79,11 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 15 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a579fc321f64463ad35a3e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Jul 15 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a578fd221f64463ad359c08?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, United States | On Site | Jul 15 |
-| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters), United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters), United States | Hybrid | Jul 15 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jul 15 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a57302321f64463ad3583cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 15 |
@@ -91,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/6a56a3aff7517b519ad57339?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 14 |
 | **[RedGuard](http://redguard.com)** | **[Jr. Business Systems Analyst - LANGE Shared Services](https://jobright.ai/jobs/info/6a56a10ef7517b519ad5718c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wichita, KS, United States | On Site | Jul 14 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
-| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
@@ -151,5 +153,4 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a3492e6f6b55d12c791d6d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA | Hybrid | Jul 10 |
 | ↳ | **[Salesforce Business Operations Analyst](https://jobright.ai/jobs/info/6a349dad29c90c607e4dffa6?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, USA | Hybrid | Jul 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Jul 10 |
-| **[HelloFresh](http://www.hellofreshgroup.com)** | **[Analyst, Continuous Improvement Operational Excellence](https://jobright.ai/jobs/info/6a3c54a7122f340d29ced870?utm_campaign=Business%20Analyst&utm_source=1103)** | Goodyear, AZ, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
