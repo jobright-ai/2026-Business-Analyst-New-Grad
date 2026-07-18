@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jul 17 |
-| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a529667e726ec56126a3b59?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Jul 17 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a51237778e364789ca593b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Jul 17 |
+| ↳ | **[Business Manager - EGP](https://jobright.ai/jobs/info/6a064986320bff2205eaacf1?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, US | On Site | Jul 17 |
 | **[Gracelight Community Health](https://gracelight.org)** | **[Business Analyst](https://jobright.ai/jobs/info/6a59ec99c8e3a473cb8a8eb0?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Jul 17 |
 | **[ICF](https://www.icf.com)** | **[IT Business Analyst](https://jobright.ai/jobs/info/6a5959b4c8e3a473cb8a6828?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Remote | Jul 17 |
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Business Process & CI Analyst – Finance](https://jobright.ai/jobs/info/6a4b2b1bc2d11a6a46677513?utm_campaign=Business%20Analyst&utm_source=1103)** | Montréal, QC, Canada | Hybrid | Jul 16 |
@@ -92,11 +92,11 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 15 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a579fc321f64463ad35a3e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Jul 15 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a578fd221f64463ad359c08?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, United States | On Site | Jul 15 |
-| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters), United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jul 15 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a57302321f64463ad3583cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 15 |
