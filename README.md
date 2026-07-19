@@ -95,11 +95,11 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 15 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a579fc321f64463ad35a3e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Jul 15 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a578fd221f64463ad359c08?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, United States | On Site | Jul 15 |
-| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago (Headquarters), United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
 | ↳ | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a27e065fd37e62bb47a5d4f?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean,VA,US | Hybrid | Jul 15 |
 | **[Gentiva](https://www.gentivahs.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a57302321f64463ad3583cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Mooresville, NC, United States | On Site | Jul 15 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 14 |
-| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 14 |
+| ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
 | **[Covista](https://www.covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568bd5e9b77f668bd641ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a568b43f7517b519ad566d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, USA | Hybrid | Jul 14 |
@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Jul 12 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/69e32f7b3ce36005badc067d?utm_campaign=Business%20Analyst&utm_source=1103)** | Rogers, AR | On Site | Jul 12 |
 | **[(VETS) Veteran Enhanced Technology Solutions](http://veteranets.com)** | **[(BA-JR) Junior Business Analyst](https://jobright.ai/jobs/info/6a538776e726ec56126a71b8?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 12 |
-| **[Ask IT Consulting Inc.](https://www.askitc.com/)** | **[Jr.SharePoint Business Analyst](https://jobright.ai/jobs/info/6a5377da9fbdab22fe13f7eb?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | On Site | Jul 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
