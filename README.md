@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schools ICT](https://www.schoolsict.services/)** | **[Apprentice Business Administrator](https://jobright.ai/jobs/info/6a5d5e613ac7627fe900c4a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Hailsham, East Sussex, United Kingdom | On Site | Jul 19 |
 | **[Hive](https://thehive.ai/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Jul 19 |
 | **[Western Partitions, Inc.](https://wpibuilds.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a43238b78fcb767e2755926?utm_campaign=Business%20Analyst&utm_source=1103)** | Lake Oswego, Oregon, United States | On Site | Jul 19 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Jul 19 |
@@ -71,7 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a3eedc078237a036d5e604c?utm_campaign=Business%20Analyst&utm_source=1103)** | Irving, TX, United States | On Site | Jul 18 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6a4c26994eb370649b27c743?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 18 |
 | **[Cadence](https://www.cadence.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a06020f320bff2205ea6fe8?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA | On Site | Jul 18 |
-| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d96706f771673ba16f8?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jul 18 |
+| ↳ | **[Business Systems Analyst](https://jobright.ai/jobs/info/69d53d9e366bb95ba554360b?utm_campaign=Business%20Analyst&utm_source=1103)** | SAN JOSE | On Site | Jul 18 |
 | **[RBC](https://www.rbc.com)** | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a524a548a74e077472f3ed7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 18 |
 | ↳ | **[Global Markets Jr. Business Manager](https://jobright.ai/jobs/info/6a0493bef811a0436960c971?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States of America | On Site | Jul 18 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[Business Process Analyst - Level 1](https://jobright.ai/jobs/info/6a5940de63a8f619507c13be?utm_campaign=Business%20Analyst&utm_source=1103)** | Redondo Beach, CA, United States | On Site | Jul 17 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[People, Technology & Processes, LLC](http://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6a57a9b310c4d945d864f8b2?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 15 |
 | **[General Atomics Aeronautical Systems](https://ga-asi.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6a579fc321f64463ad35a3e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Jul 15 |
 | **[Centinela Hospital Medical Center](https://www.centinelamed.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6a578fd221f64463ad359c08?utm_campaign=Business%20Analyst&utm_source=1103)** | Ontario, CA, United States | On Site | Jul 15 |
-| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
-| ↳ | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6a4c269b6189f64e437f14ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6a3d5fd34d047136e09333aa?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6a4c26996189f64e437f14ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6a4c269a5d7b097d2df3fad8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Jul 15 |
 | **[Booz Allen Hamilton](http://www.boozallen.com)** | **[University - IT Business Analyst](https://jobright.ai/jobs/info/6a032dc47c753c287f6e4425?utm_campaign=Business%20Analyst&utm_source=1103)** | McLean, VA | Hybrid | Jul 15 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Business Change Analyst](https://jobright.ai/jobs/info/6a56a3aff7517b519ad57339?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Jul 14 |
 | **[RedGuard](http://redguard.com)** | **[Jr. Business Systems Analyst - LANGE Shared Services](https://jobright.ai/jobs/info/6a56a10ef7517b519ad5718c?utm_campaign=Business%20Analyst&utm_source=1103)** | Wichita, KS, United States | On Site | Jul 14 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69deae24e34484770f1a41e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
-| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/69de937936823d1b425824cd?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6a51d17202522b5b722ec008?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Jul 14 |
 | ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68cc36ff7342c7623ae610a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Jul 14 |
@@ -149,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[The Giant Bullseye](www.thegiantbullseye.com)** | **[Job Title: Junior Business Analyst](https://jobright.ai/jobs/info/6a559d1d78611229b823d55f?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Jul 13 |
 | **[SitusAMC](https://www.situsamc.com)** | **[Business Analyst - Technology Operations & Governance Analyst - Remote US](https://jobright.ai/jobs/info/6a3201fc2ee3ac1b4bef2204?utm_campaign=Business%20Analyst&utm_source=1103)** | Remote, US | Remote | Jul 13 |
 | **[Fannie Mae](http://www.fanniemae.com)** | **[Access Management - Business Analysis - Associate](https://jobright.ai/jobs/info/6a556b9c268af95237bebc8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Jul 13 |
-| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
-| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
+| **[Aversan Inc.](https://www.aversan.com)** | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a4fe402397d8d353c28d049?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Jul 13 |
+| ↳ | **[Junior Odoo Business Analyst](https://jobright.ai/jobs/info/6a52a36d8a74e077472f5679?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | On Site | Jul 13 |
 | **[JBS USA](https://jbsfoodsgroup.com/)** | **[BUSINESS ANALYST](https://jobright.ai/jobs/info/6a552a26f2c46727285f0367?utm_campaign=Business%20Analyst&utm_source=1103)** | Greeley, CO, United States | On Site | Jul 13 |
 | **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a5529c92084cd792b4768f8?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Jul 13 |
 | **[Rainbow Greenhouses Inc](https://www.rainbow.ca)** | **[Business Analyst & Programs](https://jobright.ai/jobs/info/6a54f095ae07d60a8d00ddd1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chilliwack, British Columbia, Canada | On Site | Jul 13 |
