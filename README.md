@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Marcus & Millichap](http://www.marcusmillichap.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a8defc8581f2d7bfdfea057?utm_campaign=Business%20Analyst&utm_source=1103)** | Phoenix, AZ, United States | On Site | Sep 10 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 10 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Sep 10 |
@@ -72,13 +71,13 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 09 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aa151bddbc0e60e37e10b87?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 09 |
+| **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 09 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 09 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Sep 09 |
 | **[Covista](https://covista.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846cedd34f700f87fb8689?utm_campaign=Business%20Analyst&utm_source=1103)** | Lisle, IL, United States | Hybrid | Sep 09 |
 | ↳ | **[Business Process Analyst](https://jobright.ai/jobs/info/6a846ce158ded76ad8fe6faa?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | Hybrid | Sep 09 |
-| **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
-| ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
+| **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
+| ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b24e82cdc5958f53eb002?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
 | **[SC&H](http://www.schgroup.com)** | **[Associate Business Analyst - Enterprise Advisory & Transformation](https://jobright.ai/jobs/info/6aa09045dbc0e60e37e0e718?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Sep 08 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa0b217500b01124c77aa25?utm_campaign=Business%20Analyst&utm_source=1103)** | Allendale, NJ, United States | Hybrid | Sep 08 |
@@ -110,6 +109,4 @@ For a complete list, click the following sortable link below:
 | **[Overchain](https://overchain.io/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9af65e9c24314c35f96aaa?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Sep 04 |
 | **[Parts Town](https://www.partstown.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a885bd6cde3717f9e9b4c66?utm_campaign=Business%20Analyst&utm_source=1103)** | Fort Wayne, IN, United States | Hybrid | Sep 04 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6a7d48e0d77e8156a8e361c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Remote | Sep 04 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a9f819c352f093fc756e821?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Hybrid | Sep 03 |
-| **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a9a36f5040e5c3d0759b250?utm_campaign=Business%20Analyst&utm_source=1103)** | Oak Park Heights, MN, United States | Hybrid | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
