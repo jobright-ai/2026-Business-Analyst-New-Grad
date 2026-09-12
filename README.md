@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Sep 12 |
 | **[HMSA](https://www.hmsa.com)** | **[BlueCard Business Analyst I](https://jobright.ai/jobs/info/6aa4f042a77a53f5a156eb2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI, United States | On Site | Sep 11 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4c8712ed333b4ea5c408d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco Bay Area, United States | Hybrid | Sep 11 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a9f819c352f093fc756e821?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Hybrid | Sep 11 |
@@ -78,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 10 |
 | **[AIG](https://www.aig.com)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6aa3b4604238ea18d430d969?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 10 |
-| **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Improvement Analyst](https://jobright.ai/jobs/info/6aa37bdb6b9ea4538f928bd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint John, NB, Canada | On Site | Sep 10 |
+| **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Improvement Analyst](https://jobright.ai/jobs/info/6aa37fbd4238ea18d430c073?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint John, NB, Canada | On Site | Sep 10 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 10 |
 | **[United Way of Connecticut](http://www.ctunitedway.org)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6aa3b69d5c11cce360365d36?utm_campaign=Business%20Analyst&utm_source=1103)** | Rocky Hill, CT, United States | Hybrid | Sep 10 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Sep 10 |
-| **[IBM](http://www.ibm.com)** | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c3d3dbc0e60e37e137bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
-| ↳ | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c37b2f936e4a53dade51?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c37b2f936e4a53dade51?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
+| ↳ | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c3d3dbc0e60e37e137bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Sep 10 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Sep 10 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 10 |
