@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bending Spoons](http://bendingspoons.com)** | **[Business analyst](https://jobright.ai/jobs/info/6aa5f41482e82a31997bf6b0?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Sep 12 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6aa535e842411952ff9a7ab1?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | Hybrid | Sep 12 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 12 |
 | **[Robinhood](https://www.robinhood.com)** | **[Business Analyst (New Grad)](https://jobright.ai/jobs/info/6a88a83e4afae74a0834cdce?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 12 |
@@ -95,11 +96,10 @@ For a complete list, click the following sortable link below:
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 10 |
 | **[Bertelsmann SE & Co. KGaA](http://www.bertelsmann.com)** | **[Graduate IT & Business Process Analyst Job Details / Apply now!](https://jobright.ai/jobs/info/6aa5dc9b42411952ff9aa08d?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, England, United Kingdom | On Site | Sep 09 |
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 09 |
-| **[Fitch Group, Inc.](https://www.fitch.group/)** | **[Business Analyst, New York](https://jobright.ai/jobs/info/6aa5f099a77a53f5a1572c9a?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 09 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Performance Analyst(Associate, Intermediate, or Senior)](https://jobright.ai/jobs/info/6aa3ac3d4233a2201a2b2cdb?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | Hybrid | Sep 09 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 09 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Sep 09 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
 | ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
