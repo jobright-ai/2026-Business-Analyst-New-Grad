@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa9726b3387a3d9b67d530f?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatchewan, Canada | On Site | Sep 15 |
 | **[Torentify](https://torentify.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa962dc3387a3d9b67d4d2a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Sep 15 |
+| **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Sep 15 |
+| ↳ | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Sep 15 |
 | **[Central Michigan University](http://www.cmich.edu/)** | **[BUSINESS PROCESS ANALYST I/II/III/SR](https://jobright.ai/jobs/info/6aa8dcc410b1cd4f4160435d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Pleasant, MI, United States | Hybrid | Sep 15 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst Graduate](https://jobright.ai/jobs/info/6aa763c7654b2a9424cf8b10?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 14 |
 | ↳ | **[Business Planning Analyst Graduate](https://jobright.ai/jobs/info/6aa7951442411952ff9ad301?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 14 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 10 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 10 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Sep 10 |
-| **[IBM](http://www.ibm.com)** | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c3d3dbc0e60e37e137bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
-| ↳ | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c37b2f936e4a53dade51?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
+| **[IBM](http://www.ibm.com)** | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c37b2f936e4a53dade51?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
+| ↳ | **[Business Analyst (Non - Technical)](https://jobright.ai/jobs/info/6aa1c3d3dbc0e60e37e137bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Sep 10 |
 | **[Hive](https://thehive.ai/)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Sep 10 |
 | ↳ | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Sep 10 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 10 |
@@ -122,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 09 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 09 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Sep 09 |
 | **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
 | ↳ | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
-| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b24e82cdc5958f53eb002?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6a9b2c37fe45b8490f607244?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Sep 08 |
 | **[SC&H](http://www.schgroup.com)** | **[Associate Business Analyst - Enterprise Advisory & Transformation](https://jobright.ai/jobs/info/6aa09045dbc0e60e37e0e718?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
