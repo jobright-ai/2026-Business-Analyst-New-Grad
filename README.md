@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Sep 15 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Improvement Analyst](https://jobright.ai/jobs/info/6aa37bdb6b9ea4538f928bd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint John, NB, Canada | On Site | Sep 15 |
 | **[CGI](https://www.cgi.com)** | **[Winter 2027: Business Analyst Co-op (4 months)](https://jobright.ai/jobs/info/6aa9dfc53387a3d9b67d798b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 15 |
@@ -71,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Vertafore](http://www.vertafore.com)** | **[Business Operations Analyst I - Provisioning & Compliance](https://jobright.ai/jobs/info/6aa9d2af09ae03adcacdf899?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Sep 14 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[ANALYST I](https://jobright.ai/jobs/info/6aa8e8216d0edc2d91b07edc?utm_campaign=Business%20Analyst&utm_source=1103)** | Coalinga, CA, United States | On Site | Sep 14 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Business Technology Analyst I](https://jobright.ai/jobs/info/6aa85c4182e82a31997c5692?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Sep 14 |
+| **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aa9f75809ae03adcace0780?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Hybrid | Sep 14 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 14 |
 | **[CIBC US](https://us.cibc.com/en/home.html)** | **[Analyst, Business Effectiveness](https://jobright.ai/jobs/info/6aa87cc4930bff471a2a7a38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 14 |
 | **[CIBC](https://www.cibc.com)** | **[Analyst, Business Effectiveness](https://jobright.ai/jobs/info/6aa8422b2ed333b4ea5ce447?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Sep 14 |
@@ -109,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 10 |
 | **[TP](https://www.tp.com/en-us/)** | **[Business Analyst](https://jobright.ai/jobs/info/6978f6a339f7f96cc6d14a4a?utm_campaign=Business%20Analyst&utm_source=1103)** | TPCA Toronto | On Site | Sep 10 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 10 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 10 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 10 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 10 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 10 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 10 |
 | **[Hometap](https://www.hometap.com)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a8dc817cc0cf27068525393?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Remote | Sep 10 |
@@ -123,8 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 09 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 09 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Sep 09 |
-| **[EOSYS](https://eosysgroup.com)** | **[BUSINESS ANALYST - CHI](https://jobright.ai/jobs/info/6aa173033272060a8e3efcdf?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 09 |
-| ↳ | **[BUSINESS ANALYST - NYC](https://jobright.ai/jobs/info/6aa173380ffb3d4fea6b4c73?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
