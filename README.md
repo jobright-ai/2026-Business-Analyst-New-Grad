@@ -57,15 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Venmo](http://venmo.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aaa06e128e24cb38513df45?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Remote | Sep 15 |
 | **[Ministry of Justice - New Zealand](https://www.justice.govt.nz)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaa1a9210b1cd4f41609d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wellington, Wellington, New Zealand | On Site | Sep 15 |
 | **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aa9f75809ae03adcace0780?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Hybrid | Sep 15 |
-| **[Venmo](http://venmo.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aaa06e128e24cb38513df45?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Remote | Sep 15 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 15 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 15 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 15 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 15 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 15 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 15 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Sep 15 |
 | **[J.D. Irving, Limited](https://www.jdirving.com)** | **[Business Improvement Analyst](https://jobright.ai/jobs/info/6aa37bdb6b9ea4538f928bd7?utm_campaign=Business%20Analyst&utm_source=1103)** | Saint John, NB, Canada | On Site | Sep 15 |
 | **[CGI](https://www.cgi.com)** | **[Winter 2027: Business Analyst Co-op (4 months)](https://jobright.ai/jobs/info/6aa9dfc53387a3d9b67d798b?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 15 |
@@ -132,6 +132,5 @@ For a complete list, click the following sortable link below:
 | **[Amgen](https://www.amgen.com.sg)** | **[Undergraduate Co-op Student – Business Analyst](https://jobright.ai/jobs/info/6a997e638a8b765bc55f34d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Burnaby, BC, Canada | On Site | Sep 09 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Sep 09 |
 | **[Supernova Technology™](https://www.supernovacompanies.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6a39b70e1232144fb156d020?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Sep 09 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
-| **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Sep 09 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Sep 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
