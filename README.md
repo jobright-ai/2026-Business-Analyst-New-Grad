@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CenturyLink](https://www.lumen.com)** | **[Business Analyst Job Details / Lumen Technologies](https://jobright.ai/jobs/info/6aac89323dbb1f8967ceafae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6aac1c003dbb1f8967ce8dd1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 17 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Risk Process Analyst](https://jobright.ai/jobs/info/6aac64963dbb1f8967cea7ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Sep 17 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Risk Process Analyst](https://jobright.ai/jobs/info/6aac67dd3dbb1f8967cea8b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Sep 17 |
 | **[D&G Solutions](https://www.dngsolutions.com)** | **[Business Management Analyst – Early Career](https://jobright.ai/jobs/info/6aac6efa2e757fcb5c8b58c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | Hybrid | Sep 17 |
 | **[Network Plus](https://networkplus.co.uk/)** | **[Performance Analyst Apprentice](https://jobright.ai/jobs/info/6aac5ec53e3ce93970c7d34a?utm_campaign=Business%20Analyst&utm_source=1103)** | Nelson, Wales, United Kingdom | On Site | Sep 17 |
 | **[Portfolio Aid Inc.](http://portfolioaid.com)** | **[Business System Analyst I](https://jobright.ai/jobs/info/6aac33362e757fcb5c8b4524?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Sep 17 |
@@ -76,11 +77,11 @@ For a complete list, click the following sortable link below:
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Sep 16 |
 | **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0d7040807b73bd3938f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Hybrid | Sep 16 |
 | ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0fed8e1bf0f764af845c?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC, United States | On Site | Sep 16 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Sep 16 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Sep 16 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Sep 16 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Sep 16 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Sep 16 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Sep 16 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Sep 16 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Sep 16 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Sep 16 |
 | **[CR&R Incorporated](http://crrwasteservices.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaae4ce8e1bf0f764af71e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Stanton, CA, United States | On Site | Sep 16 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaab3e3f6bd9d2d17c18c6d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 16 |
 | **[AgWest Farm Credit](https://agwestfc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a98500b11f73b6462c8dd0a?utm_campaign=Business%20Analyst&utm_source=1103)** | Spokane, WA, United States | Hybrid | Sep 16 |
@@ -93,12 +94,12 @@ For a complete list, click the following sortable link below:
 | **[Venmo](http://venmo.com)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aaa06e128e24cb38513df45?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Remote | Sep 15 |
 | **[Ministry of Justice - New Zealand](https://www.justice.govt.nz)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaa1a9210b1cd4f41609d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Wellington, Wellington, New Zealand | On Site | Sep 15 |
 | **[PayPal](https://www.paypal.com/home)** | **[Analyst, Business Operations](https://jobright.ai/jobs/info/6aa9f75809ae03adcace0780?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennsylvania, United States | Hybrid | Sep 15 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 15 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 15 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 15 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 15 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 15 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 15 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 15 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 15 |
 | **[eHealth Saskatchewan](https://www.ehealthsask.ca)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa9726b3387a3d9b67d530f?utm_campaign=Business%20Analyst&utm_source=1103)** | Saskatchewan, Canada | On Site | Sep 15 |
 | **[Public Defence Service - New Zealand](https://www.pds.govt.nz)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaa3c7723b7fdf74007a2e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Wellington, South Australia, Australia | On Site | Sep 15 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Graduate Programme](https://jobright.ai/jobs/info/6aaa59a6db0df577bd2b1e1b?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 15 |
@@ -135,5 +136,4 @@ For a complete list, click the following sortable link below:
 | **[TTC, Inc.](http://ttcin.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa4200dc1928370a285ca52?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 11 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aa151bddbc0e60e37e10b87?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 11 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2026 Associate Business Process Analyst/Business Process Analyst - Redondo Beach CA](https://jobright.ai/jobs/info/6aa193a92f936e4a53daca09?utm_campaign=Business%20Analyst&utm_source=1103)** | Redondo Beach, CA, United States | On Site | Sep 11 |
-| **[Mediq UK](https://www.mediq.co.uk)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa3e7081d92e2d05d112228?utm_campaign=Business%20Analyst&utm_source=1103)** | Castle Donington, England, United Kingdom | On Site | Sep 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
