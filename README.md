@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crown Castle](https://www.crowncastle.com/)** | **[Business Immersion Program](https://jobright.ai/jobs/info/6ab4ec8de9a8f953ef8312d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Canonsburg, PA, United States | Hybrid | Sep 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst - ATM Cash Management](https://jobright.ai/jobs/info/6ab3ecda64816213f2d960d7?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Remote | Sep 23 |
 | **[Arc Aspicio](http://arcaspicio.com)** | **[Business Analyst (Critical Infrastructure)](https://jobright.ai/jobs/info/6ab44dbc64816213f2d987bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 23 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Business Analyst - Digital Commercial Solutions](https://jobright.ai/jobs/info/6ab45ba47bd0813713317685?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN, United States | Hybrid | Sep 23 |
@@ -101,5 +102,4 @@ For a complete list, click the following sortable link below:
 | **[AIG](https://www.aig.com)** | **[Business Analyst, Accident & Health](https://jobright.ai/jobs/info/6aadc3e33dbb1f8967cef731?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 17 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://cmts.tamu.edu/)** | **[Business Technical Analyst](https://jobright.ai/jobs/info/6aad43836956574eac8b4a41?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, TX, United States | On Site | Sep 17 |
 | **[Network Plus](https://networkplus.co.uk/)** | **[Performance Analyst Apprentice](https://jobright.ai/jobs/info/6aac5ec53e3ce93970c7d34a?utm_campaign=Business%20Analyst&utm_source=1103)** | Nelson, Wales, United Kingdom | On Site | Sep 17 |
-| **[Drug Intelligence](http://www.drugintelligence.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aac2a67636cddf7396f2919?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Sep 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
