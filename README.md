@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Peraton](https://www.peraton.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab56a149d4843569fe498da?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Sep 24 |
+| **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6ab5c59c9d4843569fe4c11b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ab59f459d4843569fe4b57d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 24 |
+| **[Peraton](https://www.peraton.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab56a149d4843569fe498da?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Sep 24 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Applications Specialist](https://jobright.ai/jobs/info/6ab4601ed2f5fbd604be349e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 24 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Sep 24 |
 | **[Wurth USA](http://www.wurthusa.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab5667db3db59402d0fc6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Ramsey, NJ, United States | On Site | Sep 24 |
