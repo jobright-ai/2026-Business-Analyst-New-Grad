@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Peraton](https://www.peraton.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab56a149d4843569fe498da?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Sep 24 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ab59f459d4843569fe4b57d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 24 |
 | **[AIR Communities](https://www.aircommunities.com/)** | **[Business Applications Specialist](https://jobright.ai/jobs/info/6ab4601ed2f5fbd604be349e?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 24 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Sep 24 |
 | **[Wurth USA](http://www.wurthusa.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab5667db3db59402d0fc6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Ramsey, NJ, United States | On Site | Sep 24 |
-| **[Peraton](https://www.peraton.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab56a149d4843569fe498da?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Sep 24 |
 | **[Kentro](https://kentro.us)** | **[Junior Performance Analyst](https://jobright.ai/jobs/info/6ab536b64873fd3fd85283c6?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
 | **[Gaines Investment Trust](https://www.gainesinvestmenttrust.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a90b5197c32860d14cfb07e?utm_campaign=Business%20Analyst&utm_source=1103)** | La Jolla, CA, United States | On Site | Sep 24 |
@@ -88,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ab2b9ff30340229a322f601?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | Hybrid | Sep 21 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Graduate Programme](https://jobright.ai/jobs/info/6ab258f878c69ff506c3e5c7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 21 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ab2bd8b1508734c1530baa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Hybrid | Sep 21 |
-| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0fed8e1bf0f764af845c?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC, United States | On Site | Sep 21 |
-| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0d7040807b73bd3938f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Hybrid | Sep 21 |
+| **[Cisco](http://www.cisco.com)** | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0d7040807b73bd3938f5?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Hybrid | Sep 21 |
+| ↳ | **[Business Analyst I (Full Time) United States](https://jobright.ai/jobs/info/6aab0fed8e1bf0f764af845c?utm_campaign=Business%20Analyst&utm_source=1103)** | Triangle, NC, United States | On Site | Sep 21 |
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Business Analytics Specialist, IP](https://jobright.ai/jobs/info/6aae3d103dbb1f8967cf0617?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 21 |
 | **[M Group](https://mgroupltd.com/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6aa39557626f9945308b1ab4?utm_campaign=Business%20Analyst&utm_source=1103)** | Glasgow, Lanarkshire, United Kingdom | On Site | Sep 21 |
 | ↳ | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6aa398e94233a2201a2b251c?utm_campaign=Business%20Analyst&utm_source=1103)** | Peterborough, Cambridgeshire, United Kingdom | On Site | Sep 21 |
