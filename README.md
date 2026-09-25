@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Torentify](https://torentify.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ab66843b3db59402d10051e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
+| **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - Self Audit - HMYOI Feltham (Ref: 22706)](https://jobright.ai/jobs/info/6ab69bbbc6fe0dec811a57b1?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham, England, United Kingdom | On Site | Sep 25 |
+| **[Redmayne Bentley LLP](https://www.redmayne.co.uk/)** | **[Business Resilience Analyst](https://jobright.ai/jobs/info/6ab69a5fd85922de20ce584a?utm_campaign=Business%20Analyst&utm_source=1103)** | Leeds, England, United Kingdom | Hybrid | Sep 25 |
 | **[Kearney](https://www.kearney.com/)** | **[PERL Business Analyst](https://jobright.ai/jobs/info/6ab600a5634ec6aa7c0d1d4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 24 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op, Data Governance](https://jobright.ai/jobs/info/6ab5fb17634ec6aa7c0d1ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Sep 24 |
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6ab5c59c9d4843569fe4c11b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
@@ -96,6 +97,6 @@ For a complete list, click the following sortable link below:
 | **[API - American Petroleum Institute](http://www.api.org)** | **[Business Analytics Specialist, IP](https://jobright.ai/jobs/info/6aae3d103dbb1f8967cf0617?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 21 |
 | **[M Group](https://mgroupltd.com/)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6aa398e94233a2201a2b251c?utm_campaign=Business%20Analyst&utm_source=1103)** | Peterborough, Cambridgeshire, United Kingdom | On Site | Sep 21 |
 | **[Cargill](https://www.cargill.com/home)** | **[Business Management Associate 2027 - Multiple US Locations](https://jobright.ai/jobs/info/6a776d6f7b3417772adea61e?utm_campaign=Business%20Analyst&utm_source=1103)** | Amarillo, TX, United States | Hybrid | Sep 20 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Risk Process Analyst](https://jobright.ai/jobs/info/6aac67dd3dbb1f8967cea8b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Sep 19 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Risk Process Analyst](https://jobright.ai/jobs/info/6aac64963dbb1f8967cea7ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, North Carolina, United States | On Site | Sep 19 |
 | **[D&G Solutions](https://www.dngsolutions.com)** | **[Business Management Analyst – Early Career](https://jobright.ai/jobs/info/6aac6efa2e757fcb5c8b58c5?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
