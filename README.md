@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6da0cba1c25652c610417?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
-| ↳ | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6d03e81e327c4bf20151a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
+| **[Cherokee Federal](https://cherokee-federal.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6d03e81e327c4bf20151a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
+| ↳ | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6da0cba1c25652c610417?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa01806500b01124c776c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 25 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6ab73c0cd7fde2c08ec8b4e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Trident Maritime Systems](https://tridentllc.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6ab6b6a5634ec6aa7c0d41ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 25 |
