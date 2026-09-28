@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valley Bank](https://www.valley.com)** | **[Quantitative Business Analyst](https://jobright.ai/jobs/info/6a63dbf05c7e2d715ebae60c?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ, United States | On Site | Sep 28 |
 | **[KLA](https://www.kla.com)** | **[Supply Chain Business Analyst](https://jobright.ai/jobs/info/6a9742f1e4e60e4b8da5d414?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Sep 28 |
 | **[Beacon Mobility](https://gobeacon.com)** | **[Business Insights Analyst - Safety](https://jobright.ai/jobs/info/6aba5f3eee0b348be72993f1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 27 |
 | **[Hive](https://thehive.ai)** | **[Business Analyst, Hive Models](https://jobright.ai/jobs/info/6a50e01d6a85fe03ca8562e3?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Sep 27 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[PartnerRe](http://www.partnerre.com/)** | **[Business Data Analyst - Retro Administration Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767e63b17cba569035e724?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Sep 27 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Sep 26 |
 | **[CGI](https://www.cgi.com)** | **[Business Systems Analyst (Entry Level to SME) TS/SCI with Poly REQUIRED](https://jobright.ai/jobs/info/6a827afa379c304e892f275b?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | Hybrid | Sep 26 |
-| **[Cherokee Federal](https://cherokee-federal.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6d03e81e327c4bf20151a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
-| ↳ | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6da0cba1c25652c610417?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
+| **[Cherokee Federal](https://cherokee-federal.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6da0cba1c25652c610417?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
+| ↳ | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ab6d03e81e327c4bf20151a?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 25 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa01806500b01124c776c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Sep 25 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op](https://jobright.ai/jobs/info/6ab73c0cd7fde2c08ec8b4e0?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Sep 25 |
 | **[Trident Maritime Systems](https://tridentllc.com/)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6ab6b6a5634ec6aa7c0d41ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 25 |
