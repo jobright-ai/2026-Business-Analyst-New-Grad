@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Torentify](https://torentify.com/)** | **[Business Analyst - Junior](https://jobright.ai/jobs/info/6abb481d1acb8fc6f09c4849?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Remote | Sep 28 |
 | **[Valley Bank](https://www.valley.com)** | **[Quantitative Business Analyst](https://jobright.ai/jobs/info/6abb2cdebe5f1e9325119ead?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ, United States | On Site | Sep 28 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Sep 28 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/6abadefcbe5f1e9325117dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Marysville, OH, United States | Hybrid | Sep 28 |
@@ -64,12 +65,12 @@ For a complete list, click the following sortable link below:
 | **[ASBB Economics and Research](https://asbbeconomicsandresearch.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6abad33cd2914e9273eed859?utm_campaign=Business%20Analyst&utm_source=1103)** | NS, Canada | Remote | Sep 28 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6abad1ff3db4ca81fc7c4b07?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Sep 28 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Sep 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 28 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 28 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Business Analyst I, Full Time, Days, 9am-5pm, AMG Call Center, Morristown, NJ](https://jobright.ai/jobs/info/6aba92bcd2914e9273eebf74?utm_campaign=Business%20Analyst&utm_source=1103)** | Morristown, NJ, United States | On Site | Sep 28 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 28 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aad9ad73d96632d741aee5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 28 |
@@ -120,5 +121,4 @@ For a complete list, click the following sortable link below:
 | **[The Cadmus Group](http://www.cadmusgroup.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aa0453fa2266b538d22f546?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 22 |
 | **[Volkswagen Financial Services (UK)](https://vwfs.co.uk)** | **[Business Control Undergraduate Placement](https://jobright.ai/jobs/info/6a96c46ff5337b2cf731ddc4?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Sep 22 |
 | **[Knowesis Inc.](http://www.knowesis-inc.com/)** | **[Business Management Analyst I (Public Trust)](https://jobright.ai/jobs/info/6a95eb26f28891320e85f085?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Sep 22 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
