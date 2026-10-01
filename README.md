@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Evergy](https://www.evergy.com/)** | **[Distribution Process Analyst](https://jobright.ai/jobs/info/6abe8b210e027c0f3b39972a?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, Missouri, United States | Hybrid | Oct 01 |
+| **[Evergy](https://www.evergy.com/)** | **[Distribution Process Analyst](https://jobright.ai/jobs/info/6abe9047372c01f6cd7245d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, Missouri, United States | Hybrid | Oct 01 |
 | **[Acentra Health](https://acentra.com/)** | **[Clinical Business Analyst, Associate](https://jobright.ai/jobs/info/6abe83e10e027c0f3b399428?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 01 |
 | **[State Technical College of Missouri](https://www.statetechmo.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4e0f1c397d8d353c287d44?utm_campaign=Business%20Analyst&utm_source=1103)** | Linn, Missouri, United States | On Site | Oct 01 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 01 |
@@ -105,12 +105,12 @@ For a complete list, click the following sortable link below:
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/6abadefcbe5f1e9325117dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Marysville, OH, United States | Hybrid | Sep 28 |
 | **[ASBB Economics and Research](https://asbbeconomicsandresearch.ca)** | **[Business Analyst](https://jobright.ai/jobs/info/6abad33cd2914e9273eed859?utm_campaign=Business%20Analyst&utm_source=1103)** | NS, Canada | Remote | Sep 28 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6abad1ff3db4ca81fc7c4b07?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Sep 28 |
-| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 28 |
+| **[CGI](https://www.cgi.com)** | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267b0c12c90443efc9e02?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670c9864261ccd2a0a9d?utm_campaign=Business%20Analyst&utm_source=1103)** | Des Moines, IA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst - Entry Level](https://jobright.ai/jobs/info/6a926726a27a2d3c9848bb59?utm_campaign=Business%20Analyst&utm_source=1103)** | Knoxville, TN, United States | On Site | Sep 28 |
-| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 28 |
 | ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a92670fc12c90443efc9dea?utm_campaign=Business%20Analyst&utm_source=1103)** | Charleston, SC, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9266f7a27a2d3c9848bb4f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Sep 28 |
+| ↳ | **[Business Analyst – Entry Level](https://jobright.ai/jobs/info/6a9267078e596854533796e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Sep 28 |
 | **[Wonderful Pistachios & Almonds](https://www.wonderfulpistachiosandalmonds.com/#ourdifference)** | **[Analyst](https://jobright.ai/jobs/info/6abbe79cd6acfd3dd29fa972?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Sep 28 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/69e918997820c036924e4fe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA | On Site | Sep 28 |
 | **[Guidehouse](https://guidehouse.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aad9ad73d96632d741aee5f?utm_campaign=Business%20Analyst&utm_source=1103)** | Fairview Heights, IL, United States | On Site | Sep 28 |
@@ -135,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[LSEG](https://www.lseg.com/)** | **[Business Graduate Programme (FTSE Russell)](https://jobright.ai/jobs/info/6ab6a4aab3db59402d10170f?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Sep 24 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op, Data Governance](https://jobright.ai/jobs/info/6ab5fb17634ec6aa7c0d1ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Sep 24 |
 | **[Acentra Health](https://acentra.com/)** | **[Business Analyst (HTS), Associate](https://jobright.ai/jobs/info/6ab5c59c9d4843569fe4c11b?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Sep 24 |
-| **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ab59f459d4843569fe4b57d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
