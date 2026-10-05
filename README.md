@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 04 |
 | **[Northline Seafoods](https://www.northlineseafoods.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac2ef97064da25272e0da09?utm_campaign=Business%20Analyst&utm_source=1103)** | California, United States | Remote | Oct 04 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Oct 04 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ab2bd8b1508734c1530baa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Hybrid | Oct 04 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[iVision Consulting](https://www.ivisionconsulting.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac01d80064da25272e07e37?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | Hybrid | Oct 02 |
 | **[Legrand](https://www.legrand.com)** | **[Jr. Business Analyst – ERP Data & Process Support](https://jobright.ai/jobs/info/6ac011e00e027c0f3b39f9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Oct 02 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 02 |
-| **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 02 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Oct 02 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/68c88e3595f5211cd2ce6736?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA | On Site | Oct 02 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6aa01806500b01124c776c60?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 02 |
@@ -91,11 +91,11 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Oct 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6abd5058372c01f6cd71fcb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
 | **[Holman](http://www.holmanauto.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6abee3880e027c0f3b39bbc1?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Laurel, NJ, United States | Hybrid | Sep 30 |
