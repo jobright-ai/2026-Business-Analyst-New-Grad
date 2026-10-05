@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Oct 04 |
+| **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ab2bd8b1508734c1530baa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Hybrid | Oct 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Customer Experience Business Analytics Analyst](https://jobright.ai/jobs/info/6aaf62440ebc8fb2313edb93?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 03 |
 | **[SpaceXAI](https://x.ai)** | **[Human Data - Business Operations Analyst](https://jobright.ai/jobs/info/6a8642184afae74a083445c0?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Oct 03 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 03 |
@@ -90,9 +91,9 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6abd5058372c01f6cd71fcb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
