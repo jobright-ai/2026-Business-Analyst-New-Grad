@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Computacenter](https://www.computacenter.com)** | **[Business Technology Graduate Programme](https://jobright.ai/jobs/info/6ac50d540e027c0f3b3ac8b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Hatfield, England, United Kingdom | On Site | Oct 06 |
+| **[Choate, Hall & Stewart LLP](http://www.choate.com/)** | **[Private Equity Business Analyst](https://jobright.ai/jobs/info/6ac50be34ac55253f5d741ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Oct 06 |
+| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6a7e76f8e51a1e18a240e22a?utm_campaign=Business%20Analyst&utm_source=1103)** | Edison, NJ, United States | On Site | Oct 06 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 06 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 06 |
 | **[Capgemini](https://www.capgemini.com)** | **[Graduate Business Analyst 2027](https://jobright.ai/jobs/info/6ac4db6b8ff3fb9b3bc86859?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 06 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
