@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veracyte, Inc.](http://www.veracyte.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6ac49051d9621c5b283a192c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 05 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Business Systems Specialist,](https://jobright.ai/jobs/info/6ac4454b8ff3fb9b3bc85266?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Oct 05 |
 | **[Mytech Partners](https://mytech.com/)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/6ac42b91d9621c5b283a00a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA, United States | On Site | Oct 05 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abede334ac55253f5d63468?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Oct 05 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[22706 - Business Administrator - Self Audit - HMYOI Feltham](https://jobright.ai/jobs/info/6abfc2d08ff3fb9b3bc78aa8?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham, England, United Kingdom | On Site | Oct 02 |
 | ↳ | **[22684 - Business Administrator](https://jobright.ai/jobs/info/6abfc2cb064da25272e05b96?utm_campaign=Business%20Analyst&utm_source=1103)** | Wotton-under-Edge, England, United Kingdom | On Site | Oct 02 |
 | ↳ | **[22715 - Business Administrator Generic](https://jobright.ai/jobs/info/6abfc2c9064da25272e05b94?utm_campaign=Business%20Analyst&utm_source=1103)** | Arundel, England, United Kingdom | On Site | Oct 02 |
-| ↳ | **[22705 - Business Administrator - HMYOI Feltham B](https://jobright.ai/jobs/info/6abfc2a38ff3fb9b3bc78a99?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham | On Site | Oct 02 |
 | ↳ | **[22842 - Business Administrator - HMP Send](https://jobright.ai/jobs/info/6abfc2a30e027c0f3b39dc89?utm_campaign=Business%20Analyst&utm_source=1103)** | Woking, England, United Kingdom | On Site | Oct 02 |
+| ↳ | **[22705 - Business Administrator - HMYOI Feltham B](https://jobright.ai/jobs/info/6abfc2a38ff3fb9b3bc78a99?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham | On Site | Oct 02 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1, (SG-18), Business Systems Analyst Trainee 2,(SG-16), Business Systems Analyst Trainee 1,(SG-14)(NYHELPS) Item# 08692](https://jobright.ai/jobs/info/6abfc006372c01f6cd728811?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | On Site | Oct 02 |
 | **[ZenPoint Solutions LLC](http://www.zpsolutions.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6abebff84ac55253f5d6261c?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | Hybrid | Oct 02 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Oct 02 |
@@ -100,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Oct 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6abd5058372c01f6cd71fcb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
