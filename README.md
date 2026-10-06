@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealthcare](http://www.uhc.com)** | **[Business Systems Specialist,](https://jobright.ai/jobs/info/6ac4454b8ff3fb9b3bc85266?utm_campaign=Business%20Analyst&utm_source=1103)** | Las Vegas, NV, United States | On Site | Oct 05 |
 | **[Mytech Partners](https://mytech.com/)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/6ac42b91d9621c5b283a00a8?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA, United States | On Site | Oct 05 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abede334ac55253f5d63468?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Oct 05 |
 | **[Mytech Partners](https://mytech.com/)** | **[Business Technology Advisor](https://jobright.ai/jobs/info/6ac41d6e0e027c0f3b3a9594?utm_campaign=Business%20Analyst&utm_source=1103)** | Long Beach, CA, United States | On Site | Oct 05 |
@@ -99,11 +100,11 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Oct 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6abd5058372c01f6cd71fcb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
 | **[Clark Construction Group](https://www.clarkconstruction.com)** | **[Summer Associate - Business Analyst](https://jobright.ai/jobs/info/6abfc61d064da25272e05c9c?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA, United States | On Site | Sep 30 |
@@ -127,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Vistar](http://www.vistar.com)** | **[Business Systems Analyst I - MUST BE LOCAL TO DENVER](https://jobright.ai/jobs/info/6ac3b05a0e027c0f3b3a6de3?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO, United States | On Site | Sep 29 |
 | **[Teach First](https://www.teachfirst.org.uk)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6abbb66ab23c6fb2b81a2a39?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Sep 29 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Sep 29 |
-| **[Civil Aviation Authority](https://www.caa.co.uk)** | **[Business Change Analyst Job Details / Civil Aviation Authority](https://jobright.ai/jobs/info/6abb7f177e39348a2648ec2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Gatwick, England, United Kingdom | Hybrid | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
