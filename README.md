@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crew](http://turnberrysolutions.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6ac5bd048ff3fb9b3bc8b0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Hybrid | Oct 06 |
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 06 |
 | **[Guidehouse](https://guidehouse.com)** | **[DHS Business Analyst](https://jobright.ai/jobs/info/6ac53c90064da25272e15978?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Local to Pittsburgh, Cleveland, Dallas, Phoenix, or Birmingham](https://jobright.ai/jobs/info/6ac55cf74ac55253f5d7642a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 06 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 | **[Trinchero Family Estates](http://www.tfewines.com/)** | **[Business Analyst, Commercial Data & Reporting](https://jobright.ai/jobs/info/6abeff684ac55253f5d63d3a?utm_campaign=Business%20Analyst&utm_source=1103)** | Napa, CA, United States | On Site | Sep 30 |
@@ -138,5 +139,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst I](https://jobright.ai/jobs/info/6abd55514ac55253f5d5cd61?utm_campaign=Business%20Analyst&utm_source=1103)** | Imperial, CA, United States | On Site | Sep 30 |
 | **[BBDO Worldwide](http://www.bbdo.com/)** | **[Business Manager](https://jobright.ai/jobs/info/6abd499bd9621c5b2838b58c?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Sep 30 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6abd06b14ac55253f5d5add5?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Sep 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Data Business Analyst Graduate (GBS) - 2027 Start - Graduate (GBS) - 2027 Start](https://jobright.ai/jobs/info/6abce567372c01f6cd71da24?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Sep 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
