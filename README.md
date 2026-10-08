@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hilton](https://www.hilton.com/en/)** | **[Process Improvement Analyst](https://jobright.ai/jobs/info/6ac6c4f3372c01f6cd73f08a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | Remote | Oct 07 |
+| **[Scania Group](https://www.scania.com)** | **[Business Administrator](https://jobright.ai/jobs/info/6ac6c1110e027c0f3b3b424b?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Oct 07 |
+| ↳ | **[Industrial Placement - Transformation](https://jobright.ai/jobs/info/6ac6c115d9621c5b283aa8f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Oct 07 |
 | **[WHOOP](http://www.whoop.com)** | **[Business Analyst I, Healthcare Product](https://jobright.ai/jobs/info/6ac658028ff3fb9b3bc8ca47?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Oct 07 |
 | **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Business Analyst I, Research Administration](https://jobright.ai/jobs/info/6ac52b150e027c0f3b3ad456?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Oct 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Value Stream Analyst](https://jobright.ai/jobs/info/6ac6680c064da25272e1a344?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | On Site | Oct 07 |
@@ -70,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 06 |
 | **[Vantive](https://www.vantive.com)** | **[Business Analyst – Enterprise Growth](https://jobright.ai/jobs/info/6ac66132064da25272e1a1d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Deerfield, IL, United States | On Site | Oct 06 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[Value Stream Analyst](https://jobright.ai/jobs/info/6ac6963cd9621c5b283a9af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | On Site | Oct 06 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Business Planning Analyst I Graduate](https://jobright.ai/jobs/info/6ac6cc02372c01f6cd73f47e?utm_campaign=Business%20Analyst&utm_source=1103)** | Andover, MA, United States | On Site | Oct 06 |
 | **[Guidehouse](https://guidehouse.com)** | **[DHS Business Analyst](https://jobright.ai/jobs/info/6ac53c90064da25272e15978?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Local to Pittsburgh, Cleveland, Dallas, Phoenix, or Birmingham](https://jobright.ai/jobs/info/6ac55cf74ac55253f5d7642a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 06 |
 | **[Legrand](https://www.legrand.com)** | **[Jr. Business Analyst – ERP Data & Process Support](https://jobright.ai/jobs/info/6ac011e00e027c0f3b39f9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Oct 06 |
@@ -131,10 +135,10 @@ For a complete list, click the following sortable link below:
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Oct 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Business Administrator - SCHIE](https://jobright.ai/jobs/info/6abd5058372c01f6cd71fcb9?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Oct 01 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 01 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 01 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa08b9cea127c3794697c62?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 01 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 01 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Oct 01 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Oct 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
