@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knowesis Inc.](http://www.knowesis-inc.com/)** | **[Business Management Analyst I (Public Trust)](https://jobright.ai/jobs/info/6aca1909002e496d4beebb96?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 10 |
 | **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6ac99cd9d4a5a03707412c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Oct 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6ac991eac3a8af9c54a0b229?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Oct 09 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6ac928c1fe8f33a85d5027fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Suitland, MD, United States | Hybrid | Oct 09 |
