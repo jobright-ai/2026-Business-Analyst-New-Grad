@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6ac99cd9d4a5a03707412c53?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Oct 09 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6ac991eac3a8af9c54a0b229?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Oct 09 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6ac928c1fe8f33a85d5027fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Suitland, MD, United States | Hybrid | Oct 09 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Business Planning Analyst](https://jobright.ai/jobs/info/6abadefcbe5f1e9325117dfe?utm_campaign=Business%20Analyst&utm_source=1103)** | Marysville, OH, United States | Hybrid | Oct 09 |
@@ -78,9 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Christie's](http://www.christies.com/)** | **[Business Analyst - Gooding Christie's (1year Fixed Term Contract)](https://jobright.ai/jobs/info/6ac7e2dc44d6e65604a04eec?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA, United States | On Site | Oct 08 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 08 |
 | **[Quantum Space](https://quantumspace.us/)** | **[Business Operations Specialist I](https://jobright.ai/jobs/info/6a9071ac2e254e06fb9f0f35?utm_campaign=Business%20Analyst&utm_source=1103)** | Rockville, MD, United States | On Site | Oct 08 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analysis](https://jobright.ai/jobs/info/6ac79b14fe8f33a85d4fc1f6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 08 |
-| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6aac252c2e757fcb5c8b3f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 08 |
-| ↳ | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 08 |
+| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 08 |
+| ↳ | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6aac252c2e757fcb5c8b3f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 08 |
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Systems Analyst Co-op](https://jobright.ai/jobs/info/6abc46407119e56191cec602?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Oct 08 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Business Analyst–Fish & Wildlife Ecological Services](https://jobright.ai/jobs/info/6ac80cb844d6e65604a05dda?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 07 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[Business Analyst- Business Management](https://jobright.ai/jobs/info/6ac6f2f1372c01f6cd73fa80?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Oct 07 |
@@ -129,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst - HRSD](https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103)** | Springfield, VA, United States | On Site | Oct 04 |
 | **[TikTok](https://www.tiktok.com)** | **[TikTok Shop - Customer Experience Business Analytics Analyst](https://jobright.ai/jobs/info/6aaf62440ebc8fb2313edb93?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 03 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 03 |
-| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
