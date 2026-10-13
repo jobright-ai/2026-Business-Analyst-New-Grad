@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - HMP Holme House (Ref: 23214)](https://jobright.ai/jobs/info/6ace04afee9da536dc21b82e?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton-on-Tees, England, United Kingdom | On Site | Oct 13 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration NCG](https://jobright.ai/jobs/info/6acd57c63c831dc4086c1d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 12 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Oct 12 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 12 |
 | **[RELX](https://www.relx.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6acd2409e7a1d933321104bb?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 12 |
 | **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6acd1ceea56e5406e57bfab3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 12 |
@@ -108,11 +109,9 @@ For a complete list, click the following sortable link below:
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6ac63a7ed9621c5b283a7b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Oct 07 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business Insights Analyst](https://jobright.ai/jobs/info/6ac5bd048ff3fb9b3bc8b0f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | Hybrid | Oct 06 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/6ac709f88ff3fb9b3bc8fea0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 06 |
-| **[Johnson & Johnson](http://www.jnj.com)** | **[Value Stream Analyst](https://jobright.ai/jobs/info/6ac66f1bd9621c5b283a8b80?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | On Site | Oct 06 |
+| **[Johnson & Johnson](http://www.jnj.com)** | **[Value Stream Analyst](https://jobright.ai/jobs/info/6ac6963cd9621c5b283a9af7?utm_campaign=Business%20Analyst&utm_source=1103)** | Irvine, CA, United States | On Site | Oct 06 |
 | **[Guidehouse](https://guidehouse.com)** | **[DHS Business Analyst](https://jobright.ai/jobs/info/6ac53c90064da25272e15978?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 06 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Local to Pittsburgh, Cleveland, Dallas, Phoenix, or Birmingham](https://jobright.ai/jobs/info/6ac55cf74ac55253f5d7642a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 06 |
 | **[Legrand](https://www.legrand.com)** | **[Jr. Business Analyst – ERP Data & Process Support](https://jobright.ai/jobs/info/6ac011e00e027c0f3b39f9d2?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Oct 06 |
 | **[Choate, Hall & Stewart LLP](http://www.choate.com/)** | **[Private Equity Business Analyst](https://jobright.ai/jobs/info/6ac54866064da25272e15fb7?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Oct 06 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Analyst, Business Effectiveness](https://jobright.ai/jobs/info/6aa87cc4930bff471a2a7a38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Oct 06 |
-| **[Burger King](https://www.bk.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6ac541894ac55253f5d75760?utm_campaign=Business%20Analyst&utm_source=1103)** | Winter Park, FL, United States | On Site | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
