@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Oct 14 |
+| **[CarMax](http://www.carmax.com)** | **[Business Analyst - Strategy & Analytics](https://jobright.ai/jobs/info/6a8ef0bc3ac3a34f92d7ea3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | On Site | Oct 14 |
 | **[Argosy Securities Inc.](https://www.argosynet.ca)** | **[Business Administrator – Investment Operations](https://jobright.ai/jobs/info/6acfbfaa78d51ae69ce07c5b?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond Hill, ON, Canada | On Site | Oct 14 |
 | **[Emerald Transformer](https://www.emeraldtransformer.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6acfa59fc0dd9da253cf3bc3?utm_campaign=Business%20Analyst&utm_source=1103)** | McKinney, TX, United States | Hybrid | Oct 14 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6acf905cfe7a9bd5a6b98a14?utm_campaign=Business%20Analyst&utm_source=1103)** | McKinney, TX, United States | Hybrid | Oct 14 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[HMP Hollesley - Business Administrator (Ref: 23269)](https://jobright.ai/jobs/info/6acf5b6588da220a9e7a5956?utm_campaign=Business%20Analyst&utm_source=1103)** | Hollesley, England, United Kingdom | On Site | Oct 14 |
 | ↳ | **[Business Administrator - People Hub (Ref: 23265)](https://jobright.ai/jobs/info/6acf5b6378d51ae69ce05cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Lowdham, England, United Kingdom | On Site | Oct 14 |
+| **[Ryder System, Inc.](http://ryder.com/en)** | **[Enablement Business Analyst](https://jobright.ai/jobs/info/6acfcc1178d51ae69ce08317?utm_campaign=Business%20Analyst&utm_source=1103)** | Tallahassee, FL, United States | On Site | Oct 13 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Business Analyst, Functional Transformation](https://jobright.ai/jobs/info/6ace580c4f3229123da3b746?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 13 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Oct 13 |
 | ↳ | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acece684f3229123da3e234?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Oct 13 |
@@ -81,11 +85,11 @@ For a complete list, click the following sortable link below:
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - HMP Holme House (Ref: 23214)](https://jobright.ai/jobs/info/6ace04afee9da536dc21b82e?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton-on-Tees, England, United Kingdom | On Site | Oct 13 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst, Associate](https://jobright.ai/jobs/info/6ace66264f3229123da3bd78?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ, United States | Hybrid | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration NCG](https://jobright.ai/jobs/info/6acd57c63c831dc4086c1d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 12 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 12 |
 | **[Nalios US](www.nalios.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6accd781e7a1d9333210ebe3?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Hybrid | Oct 12 |
 | **[GlobalFoundries](https://gf.com/)** | **[Business Analyst (2027 New College Graduate)](https://jobright.ai/jobs/info/6abee0a0372c01f6cd726564?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Oct 11 |
