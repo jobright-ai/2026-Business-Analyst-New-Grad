@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I, Clinical Systems](https://jobright.ai/jobs/info/6ad12254e2d41540d4a6e8a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Belmont, MA, United States | Hybrid | Oct 15 |
+| **[Evergy](https://www.evergy.com/)** | **[Distribution Process Analyst](https://jobright.ai/jobs/info/6abe9047372c01f6cd7245d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, Missouri, United States | Hybrid | Oct 15 |
 | **[Choice Hotels International](http://www.choicehotels.com)** | **[Business Analyst, Strategic Sourcing](https://jobright.ai/jobs/info/6ab405f355e9168cf5ea3efa?utm_campaign=Business%20Analyst&utm_source=1103)** | North Bethesda, MD, United States | On Site | Oct 15 |
 | **[Evergy](https://www.evergy.com/)** | **[Distribution Process Analyst](https://jobright.ai/jobs/info/6abe9836d9621c5b283903db?utm_campaign=Business%20Analyst&utm_source=1103)** | Kansas City, MO, United States | Hybrid | Oct 15 |
 | **[State Technical College of Missouri](https://www.statetechmo.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4e0f1c397d8d353c287d44?utm_campaign=Business%20Analyst&utm_source=1103)** | Linn, Missouri, United States | On Site | Oct 15 |
@@ -97,11 +99,11 @@ For a complete list, click the following sortable link below:
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - HMP Holme House (Ref: 23214)](https://jobright.ai/jobs/info/6ace04afee9da536dc21b82e?utm_campaign=Business%20Analyst&utm_source=1103)** | Stockton-on-Tees, England, United Kingdom | On Site | Oct 13 |
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst, Associate](https://jobright.ai/jobs/info/6ace66264f3229123da3bd78?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ, United States | Hybrid | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration NCG](https://jobright.ai/jobs/info/6acd57c63c831dc4086c1d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 12 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 12 |
 | **[Nalios US](www.nalios.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6accd781e7a1d9333210ebe3?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Hybrid | Oct 12 |
 | **[GlobalFoundries](https://gf.com/)** | **[Business Analyst (2027 New College Graduate)](https://jobright.ai/jobs/info/6abee0a0372c01f6cd726564?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Oct 11 |
@@ -117,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac908a4d4a5a0370741051c?utm_campaign=Business%20Analyst&utm_source=1103)** | Lawrenceville, GA, United States | On Site | Oct 09 |
 | **[Lazard](http://www.lazard.com)** | **[Analyst - Technology - Business Services](https://jobright.ai/jobs/info/6a9095217c32860d14cfa344?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Oct 09 |
 | **[Weill Cornell Medicine](https://careers.weill.cornell.edu)** | **[Business Analyst I, Research Administration](https://jobright.ai/jobs/info/6ac52b150e027c0f3b3ad456?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, New York, United States | On Site | Oct 08 |
-| **[Mars](https://www.mars.com)** | **[Business Performance Analyst](https://jobright.ai/jobs/info/6ac82da251a1b3e4219f0b21?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
