@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad2abf1810010ec72f597a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA, United States | Hybrid | Oct 16 |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Entery Level Business Associate](https://jobright.ai/jobs/info/6ad2a11f25289a0b3bf57f8c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 16 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Oct 16 |
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2790af04335fc70ed5c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
@@ -124,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[NJM Insurance Group](https://www.njm.com)** | **[Business Insights Analyst, Associate](https://jobright.ai/jobs/info/6ace66264f3229123da3bd78?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ, United States | Hybrid | Oct 12 |
 | **[Astera Labs](https://www.asteralabs.com)** | **[Business Acceleration NCG](https://jobright.ai/jobs/info/6acd57c63c831dc4086c1d1a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Jose, CA, United States | On Site | Oct 12 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Oct 12 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Oct 12 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Oct 12 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Oct 12 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6a5d4a2c856af468ab01093a?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 12 |
