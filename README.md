@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6ad6487052aa6152bb6934d9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 19 |
 | **[DRT Strategies](http://drtstrategies.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad62645950ef68d51836898?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - HMP Bullingdon (Ref: 23465)](https://jobright.ai/jobs/info/6ad63abc52aa6152bb692ac2?utm_campaign=Business%20Analyst&utm_source=1103)** | Lower Arncott, England, United Kingdom | On Site | Oct 19 |
 | **[ALTEN Technology USA](https://altenusa.com/)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ad61f6054bbabbab06f4958?utm_campaign=Business%20Analyst&utm_source=1103)** | Westminster, CO, United States | Hybrid | Oct 19 |
 | **[PartnerRe](http://www.partnerre.com/)** | **[Business Data Analyst - Retro Administration Job Details / PartnerRE Ltd.](https://jobright.ai/jobs/info/6a767e63b17cba569035e724?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Oct 19 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6ad5c262cfd70948fba471c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6ad5c25acfd70948fba471b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
-| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
+| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | **[Porsche Retail Group Ltd](https://www.porscheretailgroup.co.uk)** | **[Advisor - Business Analyst](https://jobright.ai/jobs/info/6ad6156252aa6152bb6916ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Reading, England, United Kingdom | On Site | Oct 18 |
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Operations Analyst – KYC Static Data](https://jobright.ai/jobs/info/6ad644ca52aa6152bb6931a4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 18 |
 | **[Nomura](http://www.nomura.com)** | **[Business Management Analyst Job Details / Nomura Holdings, inc.](https://jobright.ai/jobs/info/6ad532e6810010ec72f5fd7a?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | On Site | Oct 18 |
