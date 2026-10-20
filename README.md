@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 20 |
 | **[AkzoNobel](http://www.akzonobel.com)** | **[Industrial Placement  Analyst](https://jobright.ai/jobs/info/6ad75b80e4b94611ab844615?utm_campaign=Business%20Analyst&utm_source=1103)** | Slough, England, United Kingdom | On Site | Oct 20 |
 | **[UNSW](http://www.unsw.edu.au)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6ad7348c950ef68d5183eb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sydney, New South Wales, Australia | Hybrid | Oct 20 |
 | **[CodeGreen](https://codegreensolutions.com/)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/6ad6862c67bec1d0d9c700fb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Oct 19 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op, Data Governance](https://jobright.ai/jobs/info/6ab5fb17634ec6aa7c0d1ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6ad5c262cfd70948fba471c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6ad5c25acfd70948fba471b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
-| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
+| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Business Analyst–Fish & Wildlife Ecological Services](https://jobright.ai/jobs/info/6ad68b37950ef68d5183b29e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 18 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) - HMP Swaleside (Ref: 23403)](https://jobright.ai/jobs/info/6ad6ce263dc655658d8e913a?utm_campaign=Business%20Analyst&utm_source=1103)** | Eastchurch, England, United Kingdom | On Site | Oct 18 |
 | **[Porsche Retail Group Ltd](https://www.porscheretailgroup.co.uk)** | **[Advisor - Business Analyst](https://jobright.ai/jobs/info/6ad6156252aa6152bb6916ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Reading, England, United Kingdom | On Site | Oct 18 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Insights Co-op](https://jobright.ai/jobs/info/6ad18f7c2cb8316516bb1e41?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Oct 16 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2790af04335fc70ed5c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
-| **[Arbella Insurance Group](http://arbella.com)** | **[Operations Business Analyst I](https://jobright.ai/jobs/info/6ad2773e810010ec72f583f7?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA, United States | On Site | Oct 16 |
 | **[Northgate Resorts](https://northgateresorts.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad272b95290d4375c453205?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI, United States | On Site | Oct 16 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6ad2158fc4290cef1412839e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Oct 16 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad25a965290d4375c4528ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Allendale, NJ, United States | On Site | Oct 16 |
