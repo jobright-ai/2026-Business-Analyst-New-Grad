@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNCOMN](https://uncomn.com/)** | **[Business Process Generalist 1 (Junior)](https://jobright.ai/jobs/info/6ad7d3fe54bbabbab0702bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | O'Fallon, IL, United States | On Site | Oct 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright.ai/jobs/info/6ad7c18c52aa6152bb69f0a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ, United States | Hybrid | Oct 20 |
 | **[Global Medical Response](https://www.globalmedicalresponse.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ad7a7dce4b94611ab8475ea?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO, United States | Remote | Oct 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Oct 20 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Meridian OneCap Credit Corp.](https://www.meridianonecap.ca)** | **[Business Application Analyst](https://jobright.ai/jobs/info/6ad69e3054bbabbab06fa1f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Oct 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6ac928c1fe8f33a85d5027fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Suitland, MD, United States | Hybrid | Oct 19 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin I](https://jobright.ai/jobs/info/6ad670a8e4b94611ab83ebc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA, United States | On Site | Oct 19 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
-| ↳ | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 19 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 19 |
+| ↳ | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Strategy Business Analyst NAELFY27](https://jobright.ai/jobs/info/6ac5e3eb4ac55253f5d7862f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Oct 19 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Business Analyst-Fish & Wildlife Ecological Services](https://jobright.ai/jobs/info/6ad658e552aa6152bb6944b2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 19 |
 | **[DRT Strategies](http://drtstrategies.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad62645950ef68d51836898?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
@@ -131,5 +132,4 @@ For a complete list, click the following sortable link below:
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst - Strategy & Analytics](https://jobright.ai/jobs/info/6a8ef0bc3ac3a34f92d7ea3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | On Site | Oct 14 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[HMP Hollesley - Business Administrator (Ref: 23269)](https://jobright.ai/jobs/info/6acf5b6588da220a9e7a5956?utm_campaign=Business%20Analyst&utm_source=1103)** | Hollesley, England, United Kingdom | On Site | Oct 14 |
 | ↳ | **[Business Administrator - People Hub (Ref: 23265)](https://jobright.ai/jobs/info/6acf5b6378d51ae69ce05cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Lowdham, England, United Kingdom | On Site | Oct 14 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Business Analyst, Functional Transformation](https://jobright.ai/jobs/info/6ace580c4f3229123da3b746?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
