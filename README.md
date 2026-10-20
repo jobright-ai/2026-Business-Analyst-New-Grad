@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Effy Jewelry](https://www.effyjewelry.com/)** | **[Business Coordinator](https://jobright.ai/jobs/info/6ad7909552aa6152bb69cbe4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Oct 20 |
+| **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6ad2158fc4290cef1412839e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Oct 20 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Oct 20 |
 | **[Dodge & Cox](https://www.dodgeandcox.com)** | **[Business Solutions Associate](https://jobright.ai/jobs/info/6a664e55e8d8d22e3292fe0e?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 20 |
 | **[AkzoNobel](http://www.akzonobel.com)** | **[Industrial Placement  Analyst](https://jobright.ai/jobs/info/6ad75b80e4b94611ab844615?utm_campaign=Business%20Analyst&utm_source=1103)** | Slough, England, United Kingdom | On Site | Oct 20 |
@@ -67,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Mizuho](https://www.mizuhogroup.com)** | **[Operations Analyst – KYC Static Data](https://jobright.ai/jobs/info/6ad644ca52aa6152bb6931a4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 19 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin I](https://jobright.ai/jobs/info/6ad670a8e4b94611ab83ebc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, CA, United States | On Site | Oct 19 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Oct 19 |
-| **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 19 |
-| ↳ | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
+| **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 19 |
+| ↳ | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 19 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Strategy Business Analyst NAELFY27](https://jobright.ai/jobs/info/6ac5e3eb4ac55253f5d7862f?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Oct 19 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Business Analyst-Fish & Wildlife Ecological Services](https://jobright.ai/jobs/info/6ad658e552aa6152bb6944b2?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 19 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6aba989dee0b348be729a587?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Oct 19 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2790af04335fc70ed5c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 16 |
 | **[Northgate Resorts](https://northgateresorts.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad272b95290d4375c453205?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI, United States | On Site | Oct 16 |
-| **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6ad2158fc4290cef1412839e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Oct 16 |
 | **[Doherty Enterprises](http://dohertyinc.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad25a965290d4375c4528ba?utm_campaign=Business%20Analyst&utm_source=1103)** | Allendale, NJ, United States | On Site | Oct 16 |
 | **[Wurth USA](http://www.wurthusa.com)** | **[Jr. Business Analyst](https://jobright.ai/jobs/info/6ab5667db3db59402d0fc6bf?utm_campaign=Business%20Analyst&utm_source=1103)** | Ramsey, NJ, United States | On Site | Oct 16 |
 | **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6ad2278c5290d4375c450af0?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Oct 16 |
@@ -128,5 +129,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Administrator - People Hub (Ref: 23265)](https://jobright.ai/jobs/info/6acf5b6378d51ae69ce05cff?utm_campaign=Business%20Analyst&utm_source=1103)** | Lowdham, England, United Kingdom | On Site | Oct 14 |
 | **[Deloitte](https://www2.deloitte.com)** | **[Business Analyst, Functional Transformation](https://jobright.ai/jobs/info/6ace580c4f3229123da3b746?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 13 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Oct 13 |
-| ↳ | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acece684f3229123da3e234?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Oct 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
