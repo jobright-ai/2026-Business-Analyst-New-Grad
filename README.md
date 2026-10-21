@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Embrava](https://www.embrava.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ad923c4b0725dc268dda315?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 21 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Oct 21 |
 | **[Fastenal](http://www.fastenal.com/web/home)** | **[Data Business Analyst](https://jobright.ai/jobs/info/6ad912ceb0725dc268dd9782?utm_campaign=Business%20Analyst&utm_source=1103)** | Winona, MN, United States | On Site | Oct 21 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad8f96839284cd5242822a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 21 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6ad7ab403dc655658d8eec16?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 20 |
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2790af04335fc70ed5c2d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 20 |
 | **[Wellington Management](http://wellington.com)** | **[Enterprise Sourcing Analyst Co Op](https://jobright.ai/jobs/info/6ad90ac4950ef68d5184d777?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Oct 20 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 20 |
-| ↳ | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/6ad90a1254bbabbab070c020?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 20 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/6ad90a1254bbabbab070c020?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 20 |
+| ↳ | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 20 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 20 |
 | **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Commercial - LTL Express, Road Transport US](https://jobright.ai/jobs/info/6ad79ed6950ef68d51841f12?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, TX, United States | On Site | Oct 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/6ace22694391691a335ab10e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 20 |
