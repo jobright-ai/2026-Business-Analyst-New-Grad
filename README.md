@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ad8e66554bbabbab0709be6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Remote | Oct 21 |
 | **[Northwest Registered Agent, LLC](http://www.northwestregisteredagent.com)** | **[Business Solutions Specialist - NY](https://jobright.ai/jobs/info/6ad8e1e7e4b94611ab84fedb?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY 12207, United States | On Site | Oct 21 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6ad2158fc4290cef1412839e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Oct 21 |
 | **[South Gloucestershire Council](https://www.southglos.gov.uk/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6ad82b8454bbabbab0705952?utm_campaign=Business%20Analyst&utm_source=1103)** | Yate, England, United Kingdom | Hybrid | Oct 21 |
