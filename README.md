@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6ada59773a69033df22580f6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 22 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[IT Business Analyst – Entry (ITBA-E/ETS)](https://jobright.ai/jobs/info/6ada564ce4b94611ab85b632?utm_campaign=Business%20Analyst&utm_source=1103)** | Olympia, WA, United States | Remote | Oct 22 |
+| **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Operations Research Analyst, Junior](https://jobright.ai/jobs/info/6abd7d3b372c01f6cd720d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 22 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 22 |
 | **[IRIS Software Group](https://www.iris.co.uk)** | **[Business Analyst (US East Coast)](https://jobright.ai/jobs/info/6ada346d54bbabbab07137fc?utm_campaign=Business%20Analyst&utm_source=1103)** | East Coast, United States | Remote | Oct 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 22 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op, Data Governance](https://jobright.ai/jobs/info/6ab5fb17634ec6aa7c0d1ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6ad5c262cfd70948fba471c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6ad5c25acfd70948fba471b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
-| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
+| ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) - HMP Swaleside (Ref: 23403)](https://jobright.ai/jobs/info/6ad6ce263dc655658d8e913a?utm_campaign=Business%20Analyst&utm_source=1103)** | Eastchurch, England, United Kingdom | On Site | Oct 18 |
 | **[Porsche Retail Group Ltd](https://www.porscheretailgroup.co.uk)** | **[Advisor - Business Analyst](https://jobright.ai/jobs/info/6ad6156252aa6152bb6916ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Reading, England, United Kingdom | On Site | Oct 18 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin I](https://jobright.ai/jobs/info/6ad674af54bbabbab06f84a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, California, United States | On Site | Oct 18 |
