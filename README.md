@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IRIS Software Group](https://www.iris.co.uk)** | **[Business Analyst (US East Coast)](https://jobright.ai/jobs/info/6ada346d54bbabbab07137fc?utm_campaign=Business%20Analyst&utm_source=1103)** | East Coast, United States | Remote | Oct 22 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst I,  Global Logistics Domestic First Mile](https://jobright.ai/jobs/info/6a7b65c3b933773d16be6f9a?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 22 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Associate Business Performance Analyst/Business Performance Analyst - Primavera Scheduler](https://jobright.ai/jobs/info/6ada187954bbabbab0712860?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Oct 22 |
 | **[Mosaic North America](http://www.mosaic.com/)** | **[Client Business Analyst I](https://jobright.ai/jobs/info/6a4ccd9899523700cbff39c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | On Site | Oct 22 |
@@ -134,5 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Business Analyst (Year in Industry)](https://jobright.ai/jobs/info/6ad1fb0f53bdfc2d0fdd5912?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Remote | Oct 16 |
 | **[Endeavor Health](https://www.endeavorhealth.org)** | **[Business Analyst I - IT Asset Management](https://jobright.ai/jobs/info/6ad01cd9fe7a9bd5a6b9ba63?utm_campaign=Business%20Analyst&utm_source=1103)** | Warrenville, IL, United States | Hybrid | Oct 16 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Business Analyst I, Clinical Systems](https://jobright.ai/jobs/info/6ad12254e2d41540d4a6e8a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Belmont, MA, United States | Hybrid | Oct 15 |
-| **[PSEG](https://www.pseg.com)** | **[Business Management Associate](https://jobright.ai/jobs/info/6ad25a2ef04335fc70ed504f?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, United States | Hybrid | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
