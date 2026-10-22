@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amey](https://www.ameydefenceservices.co.uk)** | **[Business Graduate](https://jobright.ai/jobs/info/6ad95010b0725dc268ddbe17?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, England, United Kingdom | Hybrid | Oct 21 |
 | **[Ministry of Justice UK](https://www.gov.uk/government/organisations/ministry-of-justice)** | **[23465 - Business Administrator - HMP Bullingdon](https://jobright.ai/jobs/info/6ad93e9439284cd524285c11?utm_campaign=Business%20Analyst&utm_source=1103)** | Bicester, England, United Kingdom | On Site | Oct 21 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad934b5950ef68d5184f304?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO, United States | On Site | Oct 21 |
 | **[Embrava](https://www.embrava.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ad923c4b0725dc268dda315?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 21 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[University of Rochester](https://www.rochester.edu/)** | **[Business Administrator, Global Engagement](https://jobright.ai/jobs/info/6ad94338950ef68d5184fd0e?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY, United States | On Site | Oct 20 |
 | **[Mars](https://www.mars.com)** | **[Sales Business Performance Analyst](https://jobright.ai/jobs/info/6ad94e9d39284cd524286496?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Oct 20 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 20 |
-| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Business Analyst, Commercial - LTL Express, Road Transport US](https://jobright.ai/jobs/info/6ad79ed6950ef68d51841f12?utm_campaign=Business%20Analyst&utm_source=1103)** | Lancaster, TX, United States | On Site | Oct 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/6ace22694391691a335ab10e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 20 |
 | **[UNCOMN](https://uncomn.com/)** | **[Business Process Generalist 1 (Junior)](https://jobright.ai/jobs/info/6ad7d3fe54bbabbab0702bfa?utm_campaign=Business%20Analyst&utm_source=1103)** | O'Fallon, IL, United States | On Site | Oct 20 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Business Analyst (Information Technology Analyst 1)](https://jobright.ai/jobs/info/6ad7c18c52aa6152bb69f0a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Trenton, NJ, United States | Hybrid | Oct 20 |
