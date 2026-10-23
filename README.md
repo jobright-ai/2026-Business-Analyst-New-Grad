@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 23 |
+| **[ThinkTek](https://www.thinktekllc.com)** | **[Business Analyst with Security Clearance](https://jobright.ai/jobs/info/6adb4126c5c64fa3d9cae98e?utm_campaign=Business%20Analyst&utm_source=1103)** | Quantico, VA, United States | On Site | Oct 23 |
 | **[Minto Group](https://www.minto.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6abe95cd372c01f6cd7247b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Oct 23 |
 | **[East Sussex County Council](https://www.eastsussex.gov.uk)** | **[Business Administrator - Finance (St Richard’s Catholic College)](https://jobright.ai/jobs/info/6adb2c5ac5c64fa3d9cae26d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bexhill-on-Sea, East Sussex, United Kingdom | On Site | Oct 23 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Oct 23 |
@@ -127,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Analyst Co-op, Data Governance](https://jobright.ai/jobs/info/6ab5fb17634ec6aa7c0d1ba8?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Oct 19 |
 | **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst (UIUC 2026)](https://jobright.ai/jobs/info/6ad5c262cfd70948fba471c1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Purdue 2026)](https://jobright.ai/jobs/info/6ad5c25acfd70948fba471b7?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
-| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | ↳ | **[Business Analyst (Notre Dame 2026)](https://jobright.ai/jobs/info/6ad5c25854bbabbab06ef215?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
+| ↳ | **[Business Analyst (Northwestern 2026)](https://jobright.ai/jobs/info/6ad5c258950ef68d51830d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Oct 19 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) - HMP Swaleside (Ref: 23403)](https://jobright.ai/jobs/info/6ad6ce263dc655658d8e913a?utm_campaign=Business%20Analyst&utm_source=1103)** | Eastchurch, England, United Kingdom | On Site | Oct 18 |
 | **[Porsche Retail Group Ltd](https://www.porscheretailgroup.co.uk)** | **[Advisor - Business Analyst](https://jobright.ai/jobs/info/6ad6156252aa6152bb6916ec?utm_campaign=Business%20Analyst&utm_source=1103)** | Reading, England, United Kingdom | On Site | Oct 18 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin I](https://jobright.ai/jobs/info/6ad674af54bbabbab06f84a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, California, United States | On Site | Oct 18 |
@@ -138,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad2abf1810010ec72f597a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA, United States | Hybrid | Oct 16 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Environmental Utilities Business Analyst I/II](https://jobright.ai/jobs/info/6ad25130810010ec72f57248?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA, United States | Hybrid | Oct 16 |
-| **[Northgate Resorts](https://northgateresorts.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad272b95290d4375c453205?utm_campaign=Business%20Analyst&utm_source=1103)** | Grand Rapids, MI, United States | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
