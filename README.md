@@ -140,5 +140,4 @@ For a complete list, click the following sortable link below:
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Oct 18 |
 | **[PSEG](https://www.pseg.com)** | **[Business Management Associate Job Details / PSEG](https://jobright.ai/jobs/info/6ad3ab18f04335fc70ed9e30?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, United States | Hybrid | Oct 17 |
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 16 |
-| **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad2abf1810010ec72f597a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA, United States | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
