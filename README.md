@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jerry](https://jerry.ai)** | **[Associate, Business Operations & Analytics](https://jobright.ai/jobs/info/6adb92ed389e06bb41ad2bf5?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ, United States | Remote | Oct 23 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Support Analyst](https://jobright.ai/jobs/info/6adb8eac0a4cc7090f973873?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County, United States | Hybrid | Oct 23 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 23 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Philips](https://www.philips.com)** | **[Business Platform Analyst](https://jobright.ai/jobs/info/6abbf01d92b2612ef0f8bbd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN, United States | On Site | Oct 21 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a996f4690a313642c65048a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Oct 21 |
 | **[Hyundai Translead](http://translead.com)** | **[Associate Business Intelligence Partner (1436) Job Details / HYUNDAI Translead Inc](https://jobright.ai/jobs/info/6ad87cfc67bec1d0d9c7d9bd?utm_campaign=Business%20Analyst&utm_source=1103)** | San Diego, CA, United States | On Site | Oct 21 |
-| **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6ad7ab403dc655658d8eec16?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 20 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Operations Analyst 1](https://jobright.ai/jobs/info/6ad90a1254bbabbab070c020?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 20 |
 | **[Harris Computer](http://www.harriscomputer.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6ad2827a83ada13a9da063e5?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Oct 20 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/6ace22694391691a335ab10e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 20 |
@@ -141,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[PSEG](https://www.pseg.com)** | **[Business Management Associate Job Details / PSEG](https://jobright.ai/jobs/info/6ad3ab18f04335fc70ed9e30?utm_campaign=Business%20Analyst&utm_source=1103)** | Newark, NJ, United States | Hybrid | Oct 17 |
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 16 |
 | **[The Krusteaz Company](https://thekrusteazcompany.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad2abf1810010ec72f597a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Tukwila, WA, United States | Hybrid | Oct 16 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Environmental Utilities Business Analyst I/II](https://jobright.ai/jobs/info/6ad25130810010ec72f57248?utm_campaign=Business%20Analyst&utm_source=1103)** | Roseville, CA, United States | Hybrid | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
