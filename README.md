@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 24 |
 | **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Process Analyst](https://jobright.ai/jobs/info/6adcb26e5dc7953215a37a9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Oct 24 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa1801cdbc0e60e37e11877?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c738361c015bf0cfae4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 24 |
 | **[Torentify](https://torentify.com/)** | **[Business Analyst, Production](https://jobright.ai/jobs/info/6adc56d89e3e874dbfba3e6d?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
@@ -86,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[UNC Health](https://www.unchealth.org)** | **[Business Intelligence Analyst - SOM Business Intelligence Office Passthrough](https://jobright.ai/jobs/info/6ada62f64c3adc437cecc4e8?utm_campaign=Business%20Analyst&utm_source=1103)** | Chapel Hill, NC, United States | Hybrid | Oct 22 |
 | **[Blacktown City Council](https://blacktown.nsw.gov.au)** | **[Graduate Business Analyst](https://jobright.ai/jobs/info/6adb28dac5c64fa3d9cae117?utm_campaign=Business%20Analyst&utm_source=1103)** | Blacktown, New South Wales, Australia | On Site | Oct 22 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 22 |
-| **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 22 |
 | **[Northrop Grumman](https://www.northropgrumman.com)** | **[2027 Associate Business Management Analyst/Business Management Analyst - Linthicum MD](https://jobright.ai/jobs/info/6adb77110a4cc7090f972fc9?utm_campaign=Business%20Analyst&utm_source=1103)** | Linthicum, MD, United States | On Site | Oct 22 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator - B10 - TAMPA](https://jobright.ai/jobs/info/6adbe445c5c64fa3d9cb215f?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 22 |
 | **[Hatch](https://www.hatch.com)** | **[Commercial Student](https://jobright.ai/jobs/info/6ada7a2e4c3adc437cecd8ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Oct 22 |
