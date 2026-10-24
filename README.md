@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
+| **[Enervexa PowerLabs](enervexapowerlabs.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6adbf51ec5c64fa3d9cb2393?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Oct 23 |
+| **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6adbf2df0a4cc7090f975bed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com)** | **[Graduate – Process & Operations Transformation](https://jobright.ai/jobs/info/6adbe37446a8cabdc1ff5a15?utm_campaign=Business%20Analyst&utm_source=1103)** | Spring, Texas, United States | On Site | Oct 23 |
 | **[Sunwing](http://www.sunwing.ca/)** | **[Business Analyst](https://jobright.ai/jobs/info/6adbe03a0a4cc7090f97575c?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, ON, Canada | On Site | Oct 23 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position)](https://jobright.ai/jobs/info/6adb8e52c5c64fa3d9cb000a?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Oct 23 |
