@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MechNova](joinmechnova.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6adf3b42065c4e77efaf610a?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Remote | Oct 26 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst (State of Louisiana)](https://jobright.ai/jobs/info/6adee3485dc7953215a3c672?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Remote | Oct 25 |
 | **[Louisiana Economic Development](https://www.opportunitylouisiana.com/)** | **[Business Process Analyst (State of Louisiana)](https://jobright.ai/jobs/info/6adf1a049e3e874dbfbaa523?utm_campaign=Business%20Analyst&utm_source=1103)** | Louisiana, United States | Remote | Oct 25 |
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ab2bd8b1508734c1530baa1?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | Hybrid | Oct 25 |
@@ -70,8 +69,8 @@ For a complete list, click the following sortable link below:
 | **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 24 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Resource Management Analyst](https://jobright.ai/jobs/info/6adc086746a8cabdc1ff5fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI, United States | On Site | Oct 23 |
@@ -138,7 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Teck Resources Limited](http://www.teck.com/)** | **[Business Insights Co-op](https://jobright.ai/jobs/info/6ad18f7c2cb8316516bb1e41?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Oct 20 |
 | **[UNSW](http://www.unsw.edu.au)** | **[Associate Business Systems Analyst](https://jobright.ai/jobs/info/6ad7348c950ef68d5183eb03?utm_campaign=Business%20Analyst&utm_source=1103)** | Sydney, New South Wales, Australia | Hybrid | Oct 20 |
 | **[CodeGreen](https://codegreensolutions.com/)** | **[Sustainability Analyst](https://jobright.ai/jobs/info/6ad6862c67bec1d0d9c700fb?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Oct 19 |
-| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6abad1ff3db4ca81fc7c4b07?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Oct 19 |
+| **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6aba989dee0b348be729a587?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Oct 19 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad7ebb267bec1d0d9c7a8b5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 19 |
 | **[Meridian OneCap Credit Corp.](https://www.meridianonecap.ca)** | **[Business Application Analyst](https://jobright.ai/jobs/info/6ad69e3054bbabbab06fa1f1?utm_campaign=Business%20Analyst&utm_source=1103)** | Etobicoke, Ontario, Canada | Hybrid | Oct 19 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[ServiceNow Business Analyst](https://jobright.ai/jobs/info/6ac928c1fe8f33a85d5027fb?utm_campaign=Business%20Analyst&utm_source=1103)** | Suitland, MD, United States | Hybrid | Oct 19 |
