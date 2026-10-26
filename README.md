@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jerry](https://jerry.ai)** | **[Associate, Business Operations & Analytics](https://jobright.ai/jobs/info/6adfcd9ec5c64fa3d9cbfbd8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Oct 26 |
+| **[News Corp](https://newscorp.com/)** | **[Junior Analyst, Business Process Reengineering (NYC Hybrid)](https://jobright.ai/jobs/info/6adfd0080a4cc7090f9836c2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Oct 26 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst, Banking Platforms-- Dallas or Alpharetta](https://jobright.ai/jobs/info/6acde6284028aee69ce11aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Oct 26 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6adfac23c5c64fa3d9cbe4bb?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Oct 26 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Oct 26 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Oct 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 24 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Knock.](https://knockhq.co)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adce040c5c64fa3d9cb4da9?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Canada Life](https://www.canadalife.co.uk/)** | **[Business Systems Analyst (Student Position)](https://jobright.ai/jobs/info/6adb8e52c5c64fa3d9cb000a?utm_campaign=Business%20Analyst&utm_source=1103)** | Winnipeg, MB, Canada | Hybrid | Oct 23 |
 | **[NASA Jet Propulsion Laboratory](http://www.jpl.nasa.gov/)** | **[Business Admin I](https://jobright.ai/jobs/info/6ad674af54bbabbab06f84a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Pasadena, California, United States | On Site | Oct 23 |
-| **[Jerry](https://jerry.ai)** | **[Associate, Business Operations & Analytics](https://jobright.ai/jobs/info/6adb92ed389e06bb41ad2bf5?utm_campaign=Business%20Analyst&utm_source=1103)** | AZ, United States | Remote | Oct 23 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Support Analyst](https://jobright.ai/jobs/info/6adb8eac0a4cc7090f973873?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County, United States | Hybrid | Oct 23 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 23 |
