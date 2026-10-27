@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Pennsylvania](http://www.upenn.edu)** | **[Business Administrator A/B](https://jobright.ai/jobs/info/6adfe7419e3e874dbfbb175b?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | On Site | Oct 26 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[PeopleSoft Business Analyst I](https://jobright.ai/jobs/info/6adfc7c9065c4e77efafb851?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma, United States | On Site | Oct 26 |
 | **[Jerry](https://jerry.ai)** | **[Associate, Business Operations & Analytics](https://jobright.ai/jobs/info/6adfcd9ec5c64fa3d9cbfbd8?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Oct 26 |
 | **[News Corp](https://newscorp.com/)** | **[Junior Analyst, Business Process Reengineering (NYC Hybrid)](https://jobright.ai/jobs/info/6adfd0080a4cc7090f9836c2?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Oct 26 |
@@ -75,11 +76,11 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Oct 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 24 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 24 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Resource Management Analyst](https://jobright.ai/jobs/info/6adc086746a8cabdc1ff5fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI, United States | On Site | Oct 23 |
