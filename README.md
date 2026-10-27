@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Iron Clave](https://www.linkedin.com/company/108610804)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ae0a7065a5afc94bd2c5dbb?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Oct 27 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/6ace22694391691a335ab10e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 27 |
 | **[University of Pennsylvania](http://www.upenn.edu)** | **[Business Administrator A/B](https://jobright.ai/jobs/info/6adfe7419e3e874dbfbb175b?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | On Site | Oct 26 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[PeopleSoft Business Analyst I](https://jobright.ai/jobs/info/6adfc7c9065c4e77efafb851?utm_campaign=Business%20Analyst&utm_source=1103)** | Oklahoma, United States | On Site | Oct 26 |
@@ -76,10 +75,10 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Oct 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 24 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa072d0ea127c37946972d9?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad8c64bb0725dc268dd5b93?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c720361c015bf0cfae21?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 24 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
@@ -92,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Operations Support Analyst](https://jobright.ai/jobs/info/6adb8eac0a4cc7090f973873?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento County, United States | Hybrid | Oct 23 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[Beyond Finance](http://www.beyondfinance.com)** | **[Business Analytics Associate](https://jobright.ai/jobs/info/66f650a3e7ada2344590be71?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL | On Site | Oct 23 |
-| **[Minto Group](https://www.minto.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6abe95cd372c01f6cd7247b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Ottawa, ON, Canada | On Site | Oct 23 |
 | **[East Sussex County Council](https://www.eastsussex.gov.uk)** | **[Business Administrator - Finance (St Richard’s Catholic College)](https://jobright.ai/jobs/info/6adb2c5ac5c64fa3d9cae26d?utm_campaign=Business%20Analyst&utm_source=1103)** | Bexhill-on-Sea, East Sussex, United Kingdom | On Site | Oct 23 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Oct 23 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS ANALYST-JUNIOR* - 10232026-82196](https://jobright.ai/jobs/info/6adb20869e3e874dbfb9e6b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, United States | Hybrid | Oct 23 |
