@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Stackora](https://www.linkedin.com/company/83497455)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ae1ccfd6679108488c45187?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Remote | Oct 28 |
+| **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6ae1e5d81f9d9308370ac2d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL, United States | On Site | Oct 28 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6ae0db755a5afc94bd2c81d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Oct 28 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Finance & Business Management - Associate](https://jobright.ai/jobs/info/6ad0f57be2d41540d4a6ccae?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, United States | On Site | Oct 27 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6a69ecb619d76667a2abcc9f?utm_campaign=Business%20Analyst&utm_source=1103)** | Evanston, IL, United States | On Site | Oct 27 |
@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[UW Business Analyst, Shorai](https://jobright.ai/jobs/info/6ae0fcad829a3bada15f9595?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 27 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst, Banking Platforms-- Dallas or Alpharetta](https://jobright.ai/jobs/info/6acde6284028aee69ce11aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Oct 27 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
-| ↳ | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
+| ↳ | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
 | **[ICF](https://www.icf.com)** | **[Jr Technical Business Analyst](https://jobright.ai/jobs/info/6ae0d552de23f466ec8b9335?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Oct 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Oakbrook Terrace) / $75,000-$110,000](https://jobright.ai/jobs/info/6ae0d4c9de23f466ec8b91bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL, United States | On Site | Oct 27 |
 | **[Benchmark Drinks](https://benchmarkdrinks.com)** | **[Assistant Business Systems Manager](https://jobright.ai/jobs/info/6ae0d2ec5a5afc94bd2c7789?utm_campaign=Business%20Analyst&utm_source=1103)** | Wandsworth, London, United Kingdom | On Site | Oct 27 |
@@ -135,6 +135,4 @@ For a complete list, click the following sortable link below:
 | **[Crew](http://turnberrysolutions.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad934b5950ef68d5184f304?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO, United States | On Site | Oct 21 |
 | **[Embrava](https://www.embrava.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ad923c4b0725dc268dda315?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Oct 21 |
 | **[American Medical Response](https://www.amr.net/)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6adfbaab9a8c91d5c3588922?utm_campaign=Business%20Analyst&utm_source=1103)** | Greenwood Village, CO, United States | Remote | Oct 21 |
-| **[SES - Security Equipment Supply](https://sesonline.com/)** | **[Technical Business Analyst I](https://jobright.ai/jobs/info/6adb0f149e3e874dbfb9e0e6?utm_campaign=Business%20Analyst&utm_source=1103)** | Earth City, MO, United States | On Site | Oct 21 |
-| **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
