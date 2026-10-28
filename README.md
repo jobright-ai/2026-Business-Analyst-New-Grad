@@ -57,10 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SE Health](https://serc.ac.uk)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae13e366679108488c4235f?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | On Site | Oct 27 |
 | **[Accenture](https://www.accenture.com)** | **[Partners in Performance - Performance Strategy Business Analyst](https://jobright.ai/jobs/info/6ae0db755a5afc94bd2c81d4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | On Site | Oct 27 |
+| **[SE Health](https://serc.ac.uk)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae13e366679108488c4235f?utm_campaign=Business%20Analyst&utm_source=1103)** | Markham, ON, Canada | On Site | Oct 27 |
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[UW Business Analyst, Shorai](https://jobright.ai/jobs/info/6ae0fcad829a3bada15f9595?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 27 |
-| **[Northwest Registered Agent, LLC](http://www.northwestregisteredagent.com)** | **[Business Solutions Specialist](https://jobright.ai/jobs/info/6ae10e496679108488c40913?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | On Site | Oct 27 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Oct 27 |
 | **[EY](http://www.ey.com)** | **[SDC Business Systems Analyst, Banking Platforms-- Dallas or Alpharetta](https://jobright.ai/jobs/info/6acde6284028aee69ce11aec?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Oct 27 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
@@ -94,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Oct 24 |
 | **[PNC](http://www.pnc.com)** | **[Business Analytics Specialist - Data, Modeling & Analytics](https://jobright.ai/jobs/info/6adbb3f7c5c64fa3d9cb0c1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 24 |
 | **[Fragomen](https://www.fragomen.com)** | **[Business Immigration Data and Content Analyst](https://jobright.ai/jobs/info/6aa4e587930bff471a29c0c6?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | Hybrid | Oct 24 |
-| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
-| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| **[Latham & Watkins](http://www.lw.com)** | **[Business Services Trainee](https://jobright.ai/jobs/info/6ad5c72554bbabbab06ef9b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
+| ↳ | **[Business Services Trainee](https://jobright.ai/jobs/info/6aa38ebd4233a2201a2b2127?utm_campaign=Business%20Analyst&utm_source=1103)** | Los Angeles, CA, United States | On Site | Oct 24 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Oct 24 |
 | **[Knock](https://www.knock.com)** | **[Business Analyst - REMOTE](https://jobright.ai/jobs/info/6adbf71a389e06bb41ad4e64?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 23 |
 | **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Resource Management Analyst](https://jobright.ai/jobs/info/6adc086746a8cabdc1ff5fc7?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI, United States | On Site | Oct 23 |
@@ -142,5 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Business System Analyst (French)](https://jobright.ai/jobs/info/6ad8f4a167bec1d0d9c81087?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, California, United States | Hybrid | Oct 21 |
 | **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6ad2158fc4290cef1412839e?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Oct 21 |
 | **[Philips](https://www.philips.com)** | **[Business Platform Analyst](https://jobright.ai/jobs/info/6abbf01d92b2612ef0f8bbd0?utm_campaign=Business%20Analyst&utm_source=1103)** | Plymouth, MN, United States | On Site | Oct 21 |
-| **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a996f4690a313642c65048a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
