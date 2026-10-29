@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MDAEdge](https://www.MDAEdge.com/)** | **[Merchandising Operations Data Analyst](https://jobright.ai/jobs/info/6ae2c5f61c3cd4b406087716?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae270076679108488c4b707?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA, United States | Remote | Oct 28 |
 | **[Tokio Marine America](https://tmamerica.com/)** | **[UW Business Analyst, Shōrai](https://jobright.ai/jobs/info/6ae23beaeb7e8f715a60bbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 28 |
 | ↳ | **[UW Business Analyst, Shōrai](https://jobright.ai/jobs/info/6ae246dd1f9d9308370b03e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, United States | On Site | Oct 28 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Information Technology](https://www.gdit.com/)** | **[Business Process Analyst Associate](https://jobright.ai/jobs/info/6ae26d77829a3bada1604ebe?utm_campaign=Business%20Analyst&utm_source=1103)** | Bossier City, LA, United States | Hybrid | Oct 27 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://cmts.tamu.edu/)** | **[Business Technical Analyst](https://jobright.ai/jobs/info/6ae2699f1f9d9308370b1dee?utm_campaign=Business%20Analyst&utm_source=1103)** | Commerce, TX, United States | On Site | Oct 27 |
 | **[First Insurance Company of Hawaii](https://www.ficoh.com/)** | **[UW Business Analyst, Shorai](https://jobright.ai/jobs/info/6ae0fcad829a3bada15f9595?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 27 |
-| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
-| ↳ | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6aa859b62ed333b4ea5ced22?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
+| ↳ | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6ab27c298254c44790e55652?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Oct 27 |
 | **[ICF](https://www.icf.com)** | **[Jr Technical Business Analyst](https://jobright.ai/jobs/info/6ae0d552de23f466ec8b9335?utm_campaign=Business%20Analyst&utm_source=1103)** | Virginia, United States | Remote | Oct 27 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Oakbrook Terrace) / $75,000-$110,000](https://jobright.ai/jobs/info/6ae0d4c9de23f466ec8b91bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Oakbrook Terrace, IL, United States | On Site | Oct 27 |
 | **[Benchmark Drinks](https://benchmarkdrinks.com)** | **[Assistant Business Systems Manager](https://jobright.ai/jobs/info/6ae0d2ec5a5afc94bd2c7789?utm_campaign=Business%20Analyst&utm_source=1103)** | Wandsworth, London, United Kingdom | On Site | Oct 27 |
@@ -131,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Oct 22 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Operations Research Analyst, Junior](https://jobright.ai/jobs/info/6abd7d3b372c01f6cd720d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Oct 22 |
 | **[IRIS Software Group](https://www.iris.co.uk)** | **[Business Analyst (US East Coast)](https://jobright.ai/jobs/info/6ada346d54bbabbab07137fc?utm_campaign=Business%20Analyst&utm_source=1103)** | East Coast, United States | Remote | Oct 22 |
-| **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6abd06b14ac55253f5d5add5?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Oct 22 |
-| **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad6508a67bec1d0d9c6d67b?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennington, NJ, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
