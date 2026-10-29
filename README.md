@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae270076679108488c4b707?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA, United States | Remote | Oct 28 |
 | **[Tokio Marine America](https://tmamerica.com/)** | **[UW Business Analyst, Shōrai](https://jobright.ai/jobs/info/6ae23beaeb7e8f715a60bbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 28 |
 | ↳ | **[UW Business Analyst, Shōrai](https://jobright.ai/jobs/info/6ae246dd1f9d9308370b03e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, United States | On Site | Oct 28 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6ac63a7ed9621c5b283a7b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Oct 28 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Analyst - Local to Pittsburgh, Cleveland, Dallas, Phoenix, or Birmingham](https://jobright.ai/jobs/info/6ac55cf74ac55253f5d7642a?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Oct 28 |
 | **[General Atomics](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6ae224bbde23f466ec8c318e?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Oct 28 |
 | **[Dominion Energy](http://www.dominionenergy.com)** | **[Associate Business Performance Analyst/Business Performance Analyst - Primavera Scheduler](https://jobright.ai/jobs/info/6ada3cdf54bbabbab0713f43?utm_campaign=Business%20Analyst&utm_source=1103)** | Glen Allen, VA, United States | Hybrid | Oct 28 |
-| **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae270076679108488c4b707?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA, United States | Remote | Oct 28 |
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa7af282ed333b4ea5cbb70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 28 |
 | **[Guidehouse](https://guidehouse.com)** | **[DHS Business Analyst](https://jobright.ai/jobs/info/6ac53c90064da25272e15978?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Oct 28 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Business Support Analyst I (Office of Traffic Operations - 00129006)](https://jobright.ai/jobs/info/6ae0ce55829a3bada15f6e8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Oct 27 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Graduate Programme](https://jobright.ai/jobs/info/6ab258f878c69ff506c3e5c7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Oct 27 |
 | **[S & K Sales Co.](http://www.sksales.com/)** | **[BUSINESS MANAGER](https://jobright.ai/jobs/info/6ae0cb68829a3bada15f6ce7?utm_campaign=Business%20Analyst&utm_source=1103)** | Southlake, TX, United States | On Site | Oct 27 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Oct 27 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 27 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 27 |
+| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Oct 27 |
 | **[Accenture Federal Services](https://www.afs.com)** | **[Business Process Specialist](https://jobright.ai/jobs/info/6ace22694391691a335ab10e?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Oct 27 |
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6ac49051d9621c5b283a192c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 27 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[BUSINESS ANALYST-JUNIOR* - 10232026-82196](https://jobright.ai/jobs/info/6adb20869e3e874dbfb9e6b6?utm_campaign=Business%20Analyst&utm_source=1103)** | Nashville, TN, United States | Hybrid | Oct 27 |
@@ -134,5 +134,4 @@ For a complete list, click the following sortable link below:
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6abd06b14ac55253f5d5add5?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Oct 22 |
 | **[Tata Consultancy Services](http://www.tcs.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad6508a67bec1d0d9c6d67b?utm_campaign=Business%20Analyst&utm_source=1103)** | Pennington, NJ, United States | On Site | Oct 22 |
 | **[Omnicom](https://www.omc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6ad9d95954bbabbab0710f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Oct 22 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
