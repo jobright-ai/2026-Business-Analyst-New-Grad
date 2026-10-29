@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6aac252c2e757fcb5c8b3f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
+| ↳ | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
+| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ae346d2d45dc30fb7d281b5?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | On Site | Oct 29 |
 | **[MDAEdge](https://www.MDAEdge.com/)** | **[Merchandising Operations Data Analyst](https://jobright.ai/jobs/info/6ae2c5f61c3cd4b406087716?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Oct 28 |
 | **[Wind River Environmental](http://www.wrenvironmental.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae270076679108488c4b707?utm_campaign=Business%20Analyst&utm_source=1103)** | Marlborough, MA, United States | Remote | Oct 28 |
 | **[Tokio Marine America](https://tmamerica.com/)** | **[UW Business Analyst, Shōrai](https://jobright.ai/jobs/info/6ae23beaeb7e8f715a60bbe5?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | On Site | Oct 28 |
@@ -127,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 22 |
 | **[Hatch](https://www.hatch.com)** | **[Commercial Student](https://jobright.ai/jobs/info/6ada7a2e4c3adc437cecd8ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, ON, Canada | On Site | Oct 22 |
 | **[Censeo Consulting Group](https://www.censeoconsulting.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ab59f459d4843569fe4b57d?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Hybrid | Oct 22 |
-| **[TCOM, L.P.](https://tcomlp.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6ad2278c5290d4375c450af0?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MD, United States | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
