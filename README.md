@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Business Analyst (Year in Industry)](https://jobright.ai/jobs/info/6ad1fb0f53bdfc2d0fdd5912?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 30 |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Business Analyst, Supply Chain Operations](https://jobright.ai/jobs/info/6ae42b1ec3139b475b5b2a37?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 30 |
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-II (Depending on Experience) - Budget & Reporting](https://jobright.ai/jobs/info/6ae3c83f77c09cb3bd4a8fb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, WA, United States | On Site | Oct 29 |
 | **[Synergy](http://www.synergybis.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ae3c29dd45dc30fb7d2c5f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 29 |
