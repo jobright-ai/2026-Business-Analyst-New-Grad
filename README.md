@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Novalyft Media](novalyftmedia.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6ae7200277c09cb3bd4b70b8?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Nov 01 |
 | **[Dealer Tire](http://dealertire.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6abebde7372c01f6cd7254ae?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Remote | Oct 31 |
 | **[Aegon](https://www.aegon.com/)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6ae62b0beab1f967309830d3?utm_campaign=Business%20Analyst&utm_source=1103)** | Philadelphia, PA, United States | Hybrid | Oct 31 |
 | **[Netrolynx AI](https://www.bestjobtool.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae62218c3139b475b5bc16b?utm_campaign=Business%20Analyst&utm_source=1103)** | United Kingdom | Remote | Oct 31 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Analyst I - Support Groups](https://jobright.ai/jobs/info/6ae4dbd6d7424a2a828e95fe?utm_campaign=Business%20Analyst&utm_source=1103)** | Tigard, OR, United States | On Site | Oct 29 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://cmts.tamu.edu/)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6ae5346ad7424a2a828ec4ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, United States | On Site | Oct 29 |
 | **[Synergy](http://www.synergybis.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ae3c29dd45dc30fb7d2c5f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 29 |
-| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Oct 29 |
-| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Oct 29 |
+| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Oct 29 |
+| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Oct 29 |
 | **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 29 |
 | **[Ingram Content Group](http://ingramcontent.com)** | **[Business Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3a8c277c09cb3bd4a7e42?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Oct 29 |
 | **[State Technical College of Missouri](https://www.statetechmo.edu/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6a4e0f1c397d8d353c287d44?utm_campaign=Business%20Analyst&utm_source=1103)** | Linn, Missouri, United States | On Site | Oct 29 |
