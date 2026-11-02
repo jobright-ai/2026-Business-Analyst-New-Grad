@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Teach First](https://www.teachfirst.org.uk)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6ae8c1b2a2a252e2194291c4?utm_campaign=Business%20Analyst&utm_source=1103)** | Nottingham, England, United Kingdom | On Site | Nov 02 |
 | **[Jerry](https://jerry.ai)** | **[Associate, Business Operations & Analytics](https://jobright.ai/jobs/info/6ae8b63ca2a252e2194287d5?utm_campaign=Business%20Analyst&utm_source=1103)** | Arizona, United States | Remote | Nov 02 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Nov 02 |
 | **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 02 |
@@ -116,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Team Georgia Careers](https://careers.georgia.gov/)** | **[Business Support Analyst I (Office of Traffic Operations - 00129006)](https://jobright.ai/jobs/info/6ae0ce55829a3bada15f6e8b?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Oct 27 |
 | **[LSEG](https://www.lseg.com/)** | **[Business Analyst Graduate Programme](https://jobright.ai/jobs/info/6ab258f878c69ff506c3e5c7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Oct 27 |
 | **[S & K Sales Co.](http://www.sksales.com/)** | **[BUSINESS MANAGER](https://jobright.ai/jobs/info/6ae0cb68829a3bada15f6ce7?utm_campaign=Business%20Analyst&utm_source=1103)** | Southlake, TX, United States | On Site | Oct 27 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Oct 27 |
-| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 27 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/687051d204cfb359ed2f9d11?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA | On Site | Oct 27 |
+| ↳ | **[IT Business Analyst - Public Sector](https://jobright.ai/jobs/info/6a569acf53b3962b910b1462?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Remote | Oct 27 |
 | **[Veracyte, Inc.](http://www.veracyte.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6ac49051d9621c5b283a192c?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
