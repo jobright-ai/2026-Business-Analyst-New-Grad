@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
+| **[Crew](http://turnberrysolutions.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aea7103fc85f3a394333bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO, United States | Remote | Nov 03 |
 | **[StoneX Group Inc.](https://www.stonex.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aea2a2a913589212b1f4210?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
@@ -67,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Brisbane City Council](https://www.brisbane.qld.gov.au)** | **[GRADUATE BUSINESS ANALYST](https://jobright.ai/jobs/info/6ae97d4043826864b0fb9bca?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, Queensland, Australia | On Site | Nov 02 |
 | **[AECOM](http://www.aecom.com/)** | **[Entry-Level Digital Solutions Business Analyst](https://jobright.ai/jobs/info/6ae8d4bc6c51033758f433d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Germantown, MD, United States | Remote | Nov 02 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Junior IT Process and Business Analyst](https://jobright.ai/jobs/info/6ae935d943826864b0fb80ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wakefield, MA, United States | Hybrid | Nov 02 |
+| **[Lithia & Driveway](https://www.lithiadriveway.com/)** | **[Business Analyst I](https://jobright.ai/jobs/info/6aea7a69913589212b1f7242?utm_campaign=Business%20Analyst&utm_source=1103)** | Tigard, OR, United States | Hybrid | Nov 02 |
 | **[IQVIA](https://www.iqvia.com)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6aea14ab1ba298c77776f350?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 02 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6ae8f493fb2cd420ace6a784?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA, United States | On Site | Nov 02 |
 | **[AECOM](http://www.aecom.com/)** | **[Entry-Level Digital Solutions Business Analyst](https://jobright.ai/jobs/info/6ae8e896fb2cd420ace6a046?utm_campaign=Business%20Analyst&utm_source=1103)** | Germantown, MD, United States | Remote | Nov 02 |
