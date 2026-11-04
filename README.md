@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alarm.com](http://www.alarm.com)** | **[Supply Chain Performance Analyst](https://jobright.ai/jobs/info/6aeb73bdf40efa43f4a17762?utm_campaign=Business%20Analyst&utm_source=1103)** | Tysons, VA, United States | On Site | Nov 04 |
 | **[Intellectt Inc](https://www.intellectt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb5dfea0b134121d999d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI, United States | On Site | Nov 04 |
+| **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
 | **[StoneX Group Inc.](https://www.stonex.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aea2a2a913589212b1f4210?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Nov 03 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aea7103fc85f3a394333bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO, United States | Remote | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
@@ -109,7 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Business Process Technology Analyst](https://jobright.ai/jobs/info/6ae38cafc3139b475b5ae17c?utm_campaign=Business%20Analyst&utm_source=1103)** | Ann Arbor, MI, United States | On Site | Oct 29 |
 | **[Synergent](http://synergentcorp.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6ae358c2d45dc30fb7d28a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Westbrook, ME, United States | On Site | Oct 29 |
 | **[UMass Chan Medical School](https://www.umassmed.edu/)** | **[Clinical Research Operations Analyst](https://jobright.ai/jobs/info/6abad1ff3db4ca81fc7c4b07?utm_campaign=Business%20Analyst&utm_source=1103)** | Worcester, MA, United States | Hybrid | Oct 29 |
-| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
-| ↳ | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6aac252c2e757fcb5c8b3f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
+| **[Transamerica](http://www.transamerica.com)** | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6aac252c2e757fcb5c8b3f1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
+| ↳ | **[Technology Operations Analyst - World Financial Group](https://jobright.ai/jobs/info/6a72055a02d93145bf89200b?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | Hybrid | Oct 29 |
 | **[Plexus Scientific](https://www.plexsci.com )** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6ae3d577d7424a2a828e3411?utm_campaign=Business%20Analyst&utm_source=1103)** | Alexandria, VA, United States | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
