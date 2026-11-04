@@ -59,10 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[StoneX Group Inc.](https://www.stonex.com)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aea2a2a913589212b1f4210?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Nov 03 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | **[Crew](http://turnberrysolutions.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aea7103fc85f3a394333bfe?utm_campaign=Business%20Analyst&utm_source=1103)** | St. Louis, MO, United States | Remote | Nov 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Entry-Level Digital Solutions Business Analyst](https://jobright.ai/jobs/info/6ae8e896fb2cd420ace6a046?utm_campaign=Business%20Analyst&utm_source=1103)** | Germantown, MD, United States | Remote | Nov 03 |
 | ↳ | **[Entry-Level Digital Solutions Business Analyst](https://jobright.ai/jobs/info/6ae8d4bc6c51033758f433d0?utm_campaign=Business%20Analyst&utm_source=1103)** | Germantown, MD, United States | Remote | Nov 03 |
