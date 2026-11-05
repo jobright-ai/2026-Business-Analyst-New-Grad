@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Campus4Tech](https://campus4tech.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6aecd769a2661405dc2c6d34?utm_campaign=Business%20Analyst&utm_source=1103)** | Canada | Remote | Nov 05 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 05 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6aecb828ab48a7079381dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Nov 05 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (Ref: 23976)](https://jobright.ai/jobs/info/6aecb5a0465e3d2371380d21?utm_campaign=Business%20Analyst&utm_source=1103)** | Newton Abbot, England, United Kingdom | On Site | Nov 05 |
@@ -73,11 +74,11 @@ For a complete list, click the following sortable link below:
 | **[Science and Technology Corporation (STC)](http://stcnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb9215fbe13dfb53df5518?utm_campaign=Business%20Analyst&utm_source=1103)** | VA, United States | Remote | Nov 04 |
 | **[Intellectt Inc](https://www.intellectt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb5dfea0b134121d999d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI, United States | On Site | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Junior IT Business Operations Analyst](https://jobright.ai/jobs/info/6aea0f44fc85f3a39432fad0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas, United States | Remote | Nov 03 |
