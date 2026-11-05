@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Business Process Optimization Analyst](https://jobright.ai/jobs/info/6aec8471465e3d237137f48a?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY, United States | On Site | Nov 05 |
 | **[Formosa Plastics Corporation, U.S.A.](https://www.fpcusa.com)** | **[Business Systems Coordinator](https://jobright.ai/jobs/info/6ae2b35f1f9d9308370b3d1c?utm_campaign=Business%20Analyst&utm_source=1103)** | Livingston, NJ, United States | On Site | Nov 05 |
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Nov 05 |
 | **[A Full Renovation – Project Services](https://www.afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aec1b2f8d18f1312e926b04?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 04 |
@@ -66,11 +67,11 @@ For a complete list, click the following sortable link below:
 | **[Science and Technology Corporation (STC)](http://stcnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb9215fbe13dfb53df5518?utm_campaign=Business%20Analyst&utm_source=1103)** | VA, United States | Remote | Nov 04 |
 | **[Intellectt Inc](https://www.intellectt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb5dfea0b134121d999d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI, United States | On Site | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Junior IT Business Operations Analyst](https://jobright.ai/jobs/info/6aea0f44fc85f3a39432fad0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas, United States | Remote | Nov 03 |
@@ -107,7 +108,7 @@ For a complete list, click the following sortable link below:
 | **[Grant County Public Utility District](https://grantpud.org)** | **[Business Analyst I-II (Depending on Experience) - Budget & Reporting](https://jobright.ai/jobs/info/6ae3c83f77c09cb3bd4a8fb8?utm_campaign=Business%20Analyst&utm_source=1103)** | Ephrata, WA, United States | On Site | Oct 29 |
 | **[Texas A&M AgriLife Center for Managed Technology Services](https://cmts.tamu.edu/)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6ae5346ad7424a2a828ec4ef?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, United States | On Site | Oct 29 |
 | **[Synergy](http://www.synergybis.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ae3c29dd45dc30fb7d2c5f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Oct 29 |
-| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Oct 29 |
-| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Oct 29 |
+| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Oct 29 |
+| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Oct 29 |
 | **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
