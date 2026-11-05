@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst Job Details / Hatch](https://jobright.ai/jobs/info/6aecb828ab48a7079381dc6a?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Nov 05 |
+| **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (Ref: 23976)](https://jobright.ai/jobs/info/6aecb5a0465e3d2371380d21?utm_campaign=Business%20Analyst&utm_source=1103)** | Newton Abbot, England, United Kingdom | On Site | Nov 05 |
+| ↳ | **[Business Administrator - Psychology Services - National Security Division - DoS - Petty France in London (Ref: 23775)](https://jobright.ai/jobs/info/6aecb56e3a3fa7f03ea8852d?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Nov 05 |
 | **[LightFeather](https://lightfeather.io)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6aeca195465e3d2371380106?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 05 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Nov 05 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Business Process Optimization Analyst](https://jobright.ai/jobs/info/6aec8471465e3d237137f48a?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY, United States | On Site | Nov 05 |
@@ -70,10 +73,10 @@ For a complete list, click the following sortable link below:
 | **[Intellectt Inc](https://www.intellectt.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb5dfea0b134121d999d55?utm_campaign=Business%20Analyst&utm_source=1103)** | Detroit, MI, United States | On Site | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Junior IT Business Operations Analyst](https://jobright.ai/jobs/info/6aea0f44fc85f3a39432fad0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas, United States | Remote | Nov 03 |
