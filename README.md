@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6aece43ea2661405dc2c741c?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Nov 05 |
 | **[PNC](http://www.pnc.com)** | **[Business Analyst--Workforce Strategies](https://jobright.ai/jobs/info/6aec94583967d67f6359da70?utm_campaign=Business%20Analyst&utm_source=1103)** | Pittsburgh, PA, United States | On Site | Nov 05 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Business Process Optimization Analyst](https://jobright.ai/jobs/info/6aec8471465e3d237137f48a?utm_campaign=Business%20Analyst&utm_source=1103)** | Syracuse, NY, United States | On Site | Nov 05 |
 | **[Publicis Montréal](https://www.publicismontreal.ca)** | **[Assistant Client Business Manager](https://jobright.ai/jobs/info/6aecfc48465e3d23713837e2?utm_campaign=Business%20Analyst&utm_source=1103)** | Birmingham, AL, United States | On Site | Nov 05 |
@@ -72,15 +73,14 @@ For a complete list, click the following sortable link below:
 | **[Entegris](http://www.entegris.com)** | **[Business Process Architect Co-Op](https://jobright.ai/jobs/info/6aa16f2aef23570cae243cf0?utm_campaign=Business%20Analyst&utm_source=1103)** | Chaska, MN, United States | On Site | Nov 05 |
 | **[The Aerospace Corporation](http://www.aerospace.org)** | **[2027 Operations Forecast Analyst](https://jobright.ai/jobs/info/6aed08eb3a3fa7f03ea8b769?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | On Site | Nov 04 |
 | **[A Full Renovation – Project Services](https://www.afullrenovation.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aec1b2f8d18f1312e926b04?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 04 |
-| **[DXC Technology](https://www.dxc.com)** | **[Analyst I Business Process Transactions](https://jobright.ai/jobs/info/6aece42bab48a7079381f629?utm_campaign=Business%20Analyst&utm_source=1103)** | Mississauga, Ontario, Canada | Remote | Nov 04 |
 | **[Hightower](https://hightoweraccess.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6aeb960aa0b134121d99c282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 04 |
 | **[Science and Technology Corporation (STC)](http://stcnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb9215fbe13dfb53df5518?utm_campaign=Business%20Analyst&utm_source=1103)** | VA, United States | Remote | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Junior IT Business Operations Analyst](https://jobright.ai/jobs/info/6aea0f44fc85f3a39432fad0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas, United States | Remote | Nov 03 |
@@ -110,5 +110,4 @@ For a complete list, click the following sortable link below:
 | **[Christie's](http://www.christies.com/)** | **[Business Analyst - Gooding Christie's (1year Fixed Term Contract)](https://jobright.ai/jobs/info/6ae0e279de23f466ec8b9e51?utm_campaign=Business%20Analyst&utm_source=1103)** | Santa Monica, CA, United States | On Site | Oct 30 |
 | **[GreenState Credit Union](https://www.uiccu.org)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6ae49ab477c09cb3bd4ad1cb?utm_campaign=Business%20Analyst&utm_source=1103)** | North Liberty, IA, United States | On Site | Oct 30 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Business Analyst (Year in Industry)](https://jobright.ai/jobs/info/6ad1fb0f53bdfc2d0fdd5912?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Oct 30 |
-| **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[Business Analyst, Supply Chain Operations](https://jobright.ai/jobs/info/6ae42b1ec3139b475b5b2a37?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
