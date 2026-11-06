@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6aedd6cde0c9de7b05f872cb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Nov 06 |
+| **[Stratagem One](stratagemone.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6aedd3e5caf8e660b87d7aa4?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Remote | Nov 06 |
+| **[DSV - Global Transport and Logistics](http://www.dsv.com)** | **[Junior Business Analyst, Warehouse & Logistics](https://jobright.ai/jobs/info/6acfb54578d51ae69ce07955?utm_campaign=Business%20Analyst&utm_source=1103)** | Bensenville, IL, United States | On Site | Nov 06 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[Finance & Business Management - Associate](https://jobright.ai/jobs/info/6ad0f57be2d41540d4a6ccae?utm_campaign=Business%20Analyst&utm_source=1103)** | Plano, TX, United States | On Site | Nov 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6a996f4690a313642c65048a?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Nov 06 |
 | **[ProVantage Corporate Solutions](http://provantage-corp.com)** | **[Business Analyst – Bid & Project Analytics](https://jobright.ai/jobs/info/6aed698eab48a70793822afc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | On Site | Nov 05 |
@@ -80,9 +83,9 @@ For a complete list, click the following sortable link below:
 | **[Hightower](https://hightoweraccess.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6aeb960aa0b134121d99c282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 04 |
 | **[Science and Technology Corporation (STC)](http://stcnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb9215fbe13dfb53df5518?utm_campaign=Business%20Analyst&utm_source=1103)** | VA, United States | Remote | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
@@ -107,5 +110,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Business Analyst – Contract (Raleigh, NC)](https://jobright.ai/jobs/info/6ae52f19c3139b475b5b965e?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Remote | Oct 30 |
 | **[East Texas A&M University](https://www.etamu.edu)** | **[IT Business Analyst I-II](https://jobright.ai/jobs/info/6ae50a61c3139b475b5b860f?utm_campaign=Business%20Analyst&utm_source=1103)** | Corpus Christi, TX, United States | On Site | Oct 30 |
 | **[Mfinite Consulting LLC](https://mfiniteconsult.com/)** | **[IT Business Analyst - Contract (Raleigh, NC)](https://jobright.ai/jobs/info/6ae61d1dfb2cd420ace5fff7?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Remote | Oct 30 |
-| **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae023180a4cc7090f985b1a?utm_campaign=Business%20Analyst&utm_source=1103)** | Cincinnati, OH, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
