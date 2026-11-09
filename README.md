@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Nov 09 |
 | **[Daintta](https://daintta.com/index.html)** | **[Business Analyst](https://jobright.ai/jobs/info/6af1a2d5905985ccaa405693?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 09 |
 | **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 09 |
 | **[A Full Renovation – Project Services](https://www.afullrenovation.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6af15e3b260114b1b45ec705?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
@@ -74,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[Dudek](http://www.dudek.com)** | **[Business Operations Analyst I](https://jobright.ai/jobs/info/6adbf2df0a4cc7090f975bed?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 06 |
 | **[Amey](https://www.ameydefenceservices.co.uk)** | **[Business Graduate](https://jobright.ai/jobs/info/6ad95010b0725dc268ddbe17?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton, England, United Kingdom | Hybrid | Nov 06 |
 | **[Danaher](https://www.danaher.com)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6aee0b81caf8e660b87da1cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Concord, Ontario, Canada | Remote | Nov 06 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 06 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Nov 06 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ad7ebb267bec1d0d9c7a8b5?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 06 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 06 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 06 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) (Ref: 24023)](https://jobright.ai/jobs/info/6aee17d5caf8e660b87da867?utm_campaign=Business%20Analyst&utm_source=1103)** | Portland, England, United Kingdom | On Site | Nov 06 |
 | **[Choice Hotels International](http://www.choicehotels.com)** | **[Business Analyst, Strategic Sourcing](https://jobright.ai/jobs/info/6ab405f355e9168cf5ea3efa?utm_campaign=Business%20Analyst&utm_source=1103)** | North Bethesda, MD, United States | On Site | Nov 06 |
@@ -104,11 +105,11 @@ For a complete list, click the following sortable link below:
 | **[Hightower](https://hightoweraccess.com)** | **[Business and Data Operations Associate](https://jobright.ai/jobs/info/6aeb960aa0b134121d99c282?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 04 |
 | **[Science and Technology Corporation (STC)](http://stcnet.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aeb9215fbe13dfb53df5518?utm_campaign=Business%20Analyst&utm_source=1103)** | VA, United States | Remote | Nov 04 |
 | **[Vuori](https://www.vuoriclothing.com/)** | **[Business Analyst, MarTech](https://jobright.ai/jobs/info/6acec4264391691a335ae826?utm_campaign=Business%20Analyst&utm_source=1103)** | Carlsbad, CA, United States | On Site | Nov 04 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 03 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 03 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 03 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 03 |
 | **[Network Rail](http://www.networkrail.co.uk)** | **[Business Performance Analyst (Training)](https://jobright.ai/jobs/info/6aea27b8fc85f3a394330d46?utm_campaign=Business%20Analyst&utm_source=1103)** | Milton Keynes, England, United Kingdom | Hybrid | Nov 03 |
 | **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae9dc7a43826864b0fbb04e?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 03 |
 | **[MUFG Capital Analytics](https://www.linkedin.com/company/80919)** | **[Junior IT Business Operations Analyst](https://jobright.ai/jobs/info/6aea0f44fc85f3a39432fad0?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, Texas, United States | Remote | Nov 03 |
@@ -118,5 +119,4 @@ For a complete list, click the following sortable link below:
 | **[Brisbane City Council](https://www.brisbane.qld.gov.au)** | **[GRADUATE BUSINESS ANALYST](https://jobright.ai/jobs/info/6ae97d4043826864b0fb9bca?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, Queensland, Australia | On Site | Nov 02 |
 | **[TÜV SÜD](http://www.tuv-sud.com)** | **[Junior IT Process and Business Analyst](https://jobright.ai/jobs/info/6ae935d943826864b0fb80ac?utm_campaign=Business%20Analyst&utm_source=1103)** | Wakefield, MA, United States | Hybrid | Nov 02 |
 | **[Tokio Marine America](https://tmamerica.com/)** | **[UW Business Analyst, Shōrai - Hybrid](https://jobright.ai/jobs/info/6aeaa9b11ba298c7777745a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Jersey City, NJ, United States | Hybrid | Nov 02 |
-| **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst (Starlink)](https://jobright.ai/jobs/info/6ae8f493fb2cd420ace6a784?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawthorne, CA, United States | On Site | Nov 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
