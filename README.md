@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Nov 14 |
+| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Nov 14 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 14 |
 | **[Torentify](https://torentify.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/6af7f4be34e2d29dcb752b7e?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 13 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst - BizApps - New Grad (January 2027)](https://jobright.ai/jobs/info/6af79825e3d8d612bf4253a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 13 |
@@ -106,17 +108,16 @@ For a complete list, click the following sortable link below:
 | **[CIBC](https://www.cibc.com)** | **[Business Assistant, Client Experience](https://jobright.ai/jobs/info/6af409b9e841cc0145ad719e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 10 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Orlando) / $75,000-$110,000](https://jobright.ai/jobs/info/6af3d704e841cc0145ad6002?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Nov 10 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
 | **[RC4Vets LLC](https://rc4vets.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6af382187c81de7a524c04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | Remote | Nov 10 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Nov 10 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/6af354b110c7aed778619686?utm_campaign=Business%20Analyst&utm_source=1103)** | Guelph, ON, Canada | On Site | Nov 10 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/6af3426e10c7aed778618805?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL, United States | Hybrid | Nov 10 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Dogs & DST Southern - Business Administrator (BA) People Hub (Ref: 23964)](https://jobright.ai/jobs/info/6af2f947f6053e296fc788c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Wotton-Under-Edge, England, United Kingdom | On Site | Nov 10 |
 | ↳ | **[HMP North Sea Camp - Business Administrator (Ref: 24043)](https://jobright.ai/jobs/info/6af2f94298256f8aa7529c83?utm_campaign=Business%20Analyst&utm_source=1103)** | Freiston, England, United Kingdom | On Site | Nov 10 |
-| **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Nov 10 |
 | **[Peraton](https://www.peraton.com/)** | **[Junior Business Analyst–Fish & Wildlife Ecological Services](https://jobright.ai/jobs/info/6af22c9962fb9f5fcd895533?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 09 |
 | **[CBRE](https://www.cbre.com)** | **[Business Services Analyst](https://jobright.ai/jobs/info/6af2a2b8f1ee406a27fde899?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Remote | Nov 09 |
 | **[CR&R Incorporated](http://crrwasteservices.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aaae4ce8e1bf0f764af71e9?utm_campaign=Business%20Analyst&utm_source=1103)** | Stanton, CA, United States | On Site | Nov 09 |
