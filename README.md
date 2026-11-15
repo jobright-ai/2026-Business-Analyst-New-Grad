@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratagem One](stratagemone.com)** | **[Business Analyst Associate](https://jobright.ai/jobs/info/6af9c68af015f35e7418df43?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Nov 15 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Nov 15 |
 | **[Torentify](https://torentify.com/)** | **[Business Analyst - 100% Remote](https://jobright.ai/jobs/info/6af9af251465de0d45f849e4?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 15 |
 | **[GEICO](http://www.geico.com)** | **[RAD Business Systems Analyst](https://jobright.ai/jobs/info/6a887d4e680f314a29d3c317?utm_campaign=Business%20Analyst&utm_source=1103)** | Bethesda, MD, United States | On Site | Nov 15 |
@@ -94,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Operations Research Analyst, Junior](https://jobright.ai/jobs/info/6abd7d3b372c01f6cd720d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 12 |
 | **[Marshall Land Systems](https://marshalllandsystems.com)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6ae35e81c3139b475b5ac6de?utm_campaign=Business%20Analyst&utm_source=1103)** | Merthyr Tydfil, Wales, United Kingdom | On Site | Nov 12 |
 | **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 12 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
-| ↳ | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ae39d03c3139b475b5aeb77?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ae39d03c3139b475b5aeb77?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
+| ↳ | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6abd06b14ac55253f5d5add5?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Nov 12 |
 | **[SAIC](http://www.saic.com)** | **[Business Resilience Analyst Associate](https://jobright.ai/jobs/info/6af692288cc703bba47b3334?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
 | **[Computacenter](https://www.computacenter.com)** | **[Business Management Graduate Programme](https://jobright.ai/jobs/info/6af7de5042ae65e2c8f39b80?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Nov 11 |
@@ -110,11 +111,11 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6af82bd04ddfc50167b961b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Nov 11 |
 | **[CIBC](https://www.cibc.com)** | **[Business Assistant, Client Experience](https://jobright.ai/jobs/info/6af409b9e841cc0145ad719e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 10 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Orlando) / $75,000-$110,000](https://jobright.ai/jobs/info/6af3d704e841cc0145ad6002?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Nov 10 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
 | **[RC4Vets LLC](https://rc4vets.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6af382187c81de7a524c04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | Remote | Nov 10 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Nov 10 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/6af354b110c7aed778619686?utm_campaign=Business%20Analyst&utm_source=1103)** | Guelph, ON, Canada | On Site | Nov 10 |
@@ -137,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[A Full Renovation – Project Services](https://www.afullrenovation.com/)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6af15e3b260114b1b45ec705?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
 | ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6af15a58260114b1b45ec669?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 08 |
 | **[Ultimus Fund Solutions](http://www.ultimusfundsolutions.com/)** | **[Business Systems Analyst, Retail Alternatives](https://jobright.ai/jobs/info/6af216d0905985ccaa40842c?utm_campaign=Business%20Analyst&utm_source=1103)** | Omaha, NE, United States | On Site | Nov 08 |
-| **[City of Austin](https://www.austintexas.gov)** | **[Business Process Specialist (Austin Capital Delivery Services)](https://jobright.ai/jobs/info/6af24f9f1116f6f0a076875d?utm_campaign=Business%20Analyst&utm_source=1103)** | Austin, TX, United States | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
