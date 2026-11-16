@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Rentokil Initial Careers](https://careers.rentokil-initial.com/)** | **[Junior Business Analyst](https://jobright.ai/jobs/info/6afad3229331e23f79cde298?utm_campaign=Business%20Analyst&utm_source=1103)** | Camberley, England, United Kingdom | Hybrid | Nov 16 |
-| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Nov 15 |
 | **[Amazon](https://amazon.com)** | **[Business Analyst, Listing Analytics](https://jobright.ai/jobs/info/6aa870f42ed333b4ea5cf7c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Seattle, WA, United States | On Site | Nov 15 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ac009118ff3fb9b3bc7a4cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Raleigh, NC, United States | Hybrid | Nov 15 |
@@ -112,11 +112,11 @@ For a complete list, click the following sortable link below:
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6af82bd04ddfc50167b961b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Nov 11 |
 | **[CIBC](https://www.cibc.com)** | **[Business Assistant, Client Experience](https://jobright.ai/jobs/info/6af409b9e841cc0145ad719e?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 10 |
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Orlando) / $75,000-$110,000](https://jobright.ai/jobs/info/6af3d704e841cc0145ad6002?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Nov 10 |
-| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
+| **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
 | **[RC4Vets LLC](https://rc4vets.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6af382187c81de7a524c04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | Remote | Nov 10 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Nov 10 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/6af354b110c7aed778619686?utm_campaign=Business%20Analyst&utm_source=1103)** | Guelph, ON, Canada | On Site | Nov 10 |
@@ -131,5 +131,4 @@ For a complete list, click the following sortable link below:
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6af24d198cbcfef4a59db5bc?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA, United States | Hybrid | Nov 09 |
 | **[Evergy](https://www.evergy.com/)** | **[Process Improvement Analyst](https://jobright.ai/jobs/info/6af24f400cb834dad93262a1?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS, United States | On Site | Nov 09 |
 | ↳ | **[Process Improvement Analyst](https://jobright.ai/jobs/info/6af23b551116f6f0a0767887?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS, United States | On Site | Nov 09 |
-| **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6af228278cbcfef4a59d9b44?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
