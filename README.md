@@ -113,9 +113,9 @@ For a complete list, click the following sortable link below:
 | **[The Dorne Region](http://thedorneregion.com)** | **[Business Associate - No Degree Required (Orlando) / $75,000-$110,000](https://jobright.ai/jobs/info/6af3d704e841cc0145ad6002?utm_campaign=Business%20Analyst&utm_source=1103)** | Orlando, FL, United States | On Site | Nov 10 |
 | **[INSIGHT2PROFIT](http://insight2profit.com)** | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4a54a441713ae8379d?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Columbus | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, US | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
-| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 10 |
 | ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210914ca8f0b365d7a4a04?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, US | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a185c4b54a441713ae837ac?utm_campaign=Business%20Analyst&utm_source=1103)** | US-OH-Beachwood | On Site | Nov 10 |
+| ↳ | **[Business Analyst - Experienced](https://jobright.ai/jobs/info/6a210915ca8f0b365d7a4a05?utm_campaign=Business%20Analyst&utm_source=1103)** | US-IL-Chicago | On Site | Nov 10 |
 | **[RC4Vets LLC](https://rc4vets.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6af382187c81de7a524c04d1?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | Remote | Nov 10 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Analyst](https://jobright.ai/jobs/info/6abaddb87220f52e62ae8b4d?utm_campaign=Business%20Analyst&utm_source=1103)** | Lost Hills, CA, United States | On Site | Nov 10 |
 | **[Linamar Corporation](http://www.linamar.com/)** | **[Business Analyst, Junior](https://jobright.ai/jobs/info/6af354b110c7aed778619686?utm_campaign=Business%20Analyst&utm_source=1103)** | Guelph, ON, Canada | On Site | Nov 10 |
@@ -132,5 +132,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Process Improvement Analyst](https://jobright.ai/jobs/info/6af23b551116f6f0a0767887?utm_campaign=Business%20Analyst&utm_source=1103)** | Topeka, KS, United States | On Site | Nov 09 |
 | **[University of Arizona](https://www.arizona.edu)** | **[Business Coordinator](https://jobright.ai/jobs/info/6af228278cbcfef4a59d9b44?utm_campaign=Business%20Analyst&utm_source=1103)** | Tucson, AZ, United States | On Site | Nov 09 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Supply Chain (Starlink Aviation)](https://jobright.ai/jobs/info/6a6370e08d5360344960247b?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Nov 09 |
-| **[Daintta](https://daintta.com/index.html)** | **[Business Analyst](https://jobright.ai/jobs/info/6af1a2d5905985ccaa405693?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
