@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DMC Engineering](https://www.dmcinfo.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6ad8f96839284cd5242822a6?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, Illinois, United States | Hybrid | Nov 18 |
 | **[CarMax](http://www.carmax.com)** | **[Business Analyst - Strategy & Analytics](https://jobright.ai/jobs/info/6a8ef0bc3ac3a34f92d7ea3d?utm_campaign=Business%20Analyst&utm_source=1103)** | Richmond, VA, United States | On Site | Nov 18 |
 | **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Process Improvement Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/6afe065a0cde47528ec11072?utm_campaign=Business%20Analyst&utm_source=1103)** | Medford, OR, United States | On Site | Nov 18 |
@@ -117,9 +118,8 @@ For a complete list, click the following sortable link below:
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6af72e68e3d8d612bf420b1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL, United States | Hybrid | Nov 13 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Nov 13 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator Generic Post (Ref: 24185)](https://jobright.ai/jobs/info/6af6efc6c7349029d70918e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Arundel, England, United Kingdom | On Site | Nov 13 |
-| **[Georgia Institute of Technology](http://gatv.gatech.edu)** | **[Business Analyst](https://jobright.ai/jobs/info/6af6a5652fa5b7271ab82fbe?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Nov 13 |
 | **[Omnicom](https://www.omc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6ad9d95954bbabbab0710f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 13 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Nov 13 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Nov 13 |
 | **[Aon](http://www.aon.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/6af6074780054650a5e7b590?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Nov 12 |
 | **[Regions Bank](http://www.regions.com)** | **[Business Transformation Analyst](https://jobright.ai/jobs/info/6af5f6f3a4a5218a07e81c9b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hoover, AL, United States | On Site | Nov 12 |
 | **[Midland Credit Management](https://www.midlandcredit.com)** | **[Business Analyst](https://jobright.ai/jobs/info/68b625dc1ade4306aa643e3e?utm_campaign=Business%20Analyst&utm_source=1103)** | CA - San Diego | On Site | Nov 12 |
