@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[European Energy Exchange AG](https://www.eex.com/en)** | **[Working Student (f/m/d) – IT Strategy & Governance](https://jobright.ai/jobs/info/6afd17de56aa9772e7d56bab?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearing, Illinois, United States | On Site | Nov 17 |
 | **[SpaceX Super Intelligence](https://x.ai)** | **[Business Operations Analyst (Human Data)](https://jobright.ai/jobs/info/6afcffd4e0cdcfc911431baa?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Nov 17 |
 | **[Lightpath](https://lightpathfiber.com/)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6afcdc46e8a9612f4e0dc7b3?utm_campaign=Business%20Analyst&utm_source=1103)** | Golden, CO, United States | On Site | Nov 17 |
 | **[SpaceX](https://www.spacex.com)** | **[Business Operations Analyst, Aviation (Starlink)](https://jobright.ai/jobs/info/6afcf1efe8a9612f4e0dd301?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodinville, WA, United States | On Site | Nov 17 |
@@ -125,5 +126,4 @@ For a complete list, click the following sortable link below:
 | **[Computacenter](https://www.computacenter.com)** | **[Business Management Graduate Programme](https://jobright.ai/jobs/info/6af7de5042ae65e2c8f39b80?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Nov 11 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Business Operations Analyst Student (4 months) - Winter 2027](https://jobright.ai/jobs/info/6af4dcc52278454e18c39115?utm_campaign=Business%20Analyst&utm_source=1103)** | Welland, ON, Canada | On Site | Nov 11 |
 | **[A Full Renovation – Interiors & Design](https://www.linkedin.com/company/109041213)** | **[Business Analyst](https://jobright.ai/jobs/info/6af46ceb2278454e18c352c0?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 11 |
-| **[Deloitte](https://www2.deloitte.com)** | **[Business Analyst, Functional Transformation](https://jobright.ai/jobs/info/6af361d84ac248020e8d0702?utm_campaign=Business%20Analyst&utm_source=1103)** | Princeton, NJ, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
