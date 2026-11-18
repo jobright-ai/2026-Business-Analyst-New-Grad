@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PwC Canada](https://www.pwc.com/ca/en/)** | **[Salesforce Business Analyst, Associate](https://jobright.ai/jobs/info/6afdf17c0324c008a17e2d38?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Nov 18 |
+| ↳ | **[Salesforce Business Analyst, Associate](https://jobright.ai/jobs/info/6afdf1700324c008a17e2d32?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Hybrid | Nov 18 |
 | **[General Atomics](http://www.ga.com)** | **[Business Process Analyst I](https://jobright.ai/jobs/info/6afde66d0324c008a17e261d?utm_campaign=Business%20Analyst&utm_source=1103)** | Poway, CA, United States | On Site | Nov 18 |
 | **[Hatch](https://www.hatch.com)** | **[Transit Business Analyst](https://jobright.ai/jobs/info/6af82bd04ddfc50167b961b4?utm_campaign=Business%20Analyst&utm_source=1103)** | Denver, CO, United States | On Site | Nov 18 |
 | **[Citi](https://www.citi.com)** | **[Business Coordinator - B10 - TAMPA](https://jobright.ai/jobs/info/6afcc01dd86c15318a38ddab?utm_campaign=Business%20Analyst&utm_source=1103)** | Tampa, FL, United States | On Site | Nov 18 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University System](http://www.tamus.edu/)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/6afb3cac04af1c9f075c58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX, United States | On Site | Nov 16 |
 | **[DISH TV](https://www.dish.com)** | **[Early Career - Business Administration](https://jobright.ai/jobs/info/6afb648c484fef921e04b38d?utm_campaign=Business%20Analyst&utm_source=1103)** | Englewood, CO, United States | On Site | Nov 16 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) (Ref: 24146)](https://jobright.ai/jobs/info/6afaefaa317abe715a25f86a?utm_campaign=Business%20Analyst&utm_source=1103)** | Shareshill, England, United Kingdom | On Site | Nov 16 |
-| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
 | **[Constellation Brands New Zealand & Australia](https://www.constellationnz.com/)** | **[Business Process Analyst](https://jobright.ai/jobs/info/6afb53195305ed998d91c7a5?utm_campaign=Business%20Analyst&utm_source=1103)** | Rochester, NY, United States | Hybrid | Nov 15 |
 | **[Altera Digital Health](https://www.alterahealth.com)** | **[Associate Business Analyst- H](https://jobright.ai/jobs/info/6afb6b8006c0aac84dd956da?utm_campaign=Business%20Analyst&utm_source=1103)** | Mobile, AL, United States | On Site | Nov 15 |
 | **[City of London Corporation](http://www.cityoflondon.gov.uk/)** | **[Apprentice Business Administrator](https://jobright.ai/jobs/info/6afb34c37d1820d918c27962?utm_campaign=Business%20Analyst&utm_source=1103)** | East London, England, United Kingdom | On Site | Nov 15 |
@@ -122,8 +124,7 @@ For a complete list, click the following sortable link below:
 | **[CLVG Consulting Inc. - SBA 8(a), WOSB](https://clvgconsulting.com)** | **[Onsite Business Analyst](https://jobright.ai/jobs/info/6af60a9a79862a378dcf02fa?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 12 |
 | **[AMERICAN SYSTEMS](http://www.americansystems.com/)** | **[Operations Research Analyst, Junior](https://jobright.ai/jobs/info/6abd7d3b372c01f6cd720d1f?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 12 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Risk & Resilience](https://jobright.ai/jobs/info/6afb2d1e317abe715a26159c?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Nov 12 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ae39d03c3139b475b5aeb77?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
-| ↳ | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ad90a14b0725dc268dd9206?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 12 |
+| ↳ | **[Apprentice Business Analyst](https://jobright.ai/jobs/info/6ae39d03c3139b475b5aeb77?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Hybrid | Nov 12 |
 | **[Smithfield Foods](http://smithfieldfoods.com)** | **[Career Foundation Program (CFP) - Business](https://jobright.ai/jobs/info/6abd06b14ac55253f5d5add5?utm_campaign=Business%20Analyst&utm_source=1103)** | Smithfield, VA, United States | On Site | Nov 12 |
-| **[Computacenter](https://www.computacenter.com)** | **[Business Management Graduate Programme](https://jobright.ai/jobs/info/6af7de5042ae65e2c8f39b80?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
