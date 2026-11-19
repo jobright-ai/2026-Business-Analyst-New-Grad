@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6aff6907b47661ae4a62c6b0?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Nov 19 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 19 |
 | **[Napier AI](https://www.napier.ai/)** | **[Graduate Business Coordinator](https://jobright.ai/jobs/info/6aff2b54aea17e3f50eae04f?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 19 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6ac63a7ed9621c5b283a7b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Nov 19 |
@@ -66,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst - BizApps - New Grad (January 2027)](https://jobright.ai/jobs/info/6af79825e3d8d612bf4253a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 18 |
 | **[Janie and Jack](https://www.janieandjack.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6afe3991758942b6422b8974?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco, CA, United States | On Site | Nov 18 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae440d8c3139b475b5b3042?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN, United States | Hybrid | Nov 18 |
-| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Projects](https://jobright.ai/jobs/info/6afe28b2f3e7976cc610c831?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
-| ↳ | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
+| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
+| ↳ | **[IFS Business Analyst – Projects](https://jobright.ai/jobs/info/6afe28b2f3e7976cc610c831?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
 | ↳ | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
 | **[Powerex](https://powerex.com)** | **[Business Analyst IT (Co-op)](https://jobright.ai/jobs/info/6ae4cff6c3139b475b5b62ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Nov 18 |
 | **[Coilcraft Singapore Pte Ltd](https://www.coilcraft.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6afe0a4b758942b6422b6bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cary, IL, United States | On Site | Nov 18 |
@@ -130,6 +131,5 @@ For a complete list, click the following sortable link below:
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Nov 13 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator Generic Post (Ref: 24185)](https://jobright.ai/jobs/info/6af6efc6c7349029d70918e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Arundel, England, United Kingdom | On Site | Nov 13 |
 | **[Omnicom](https://www.omc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6ad9d95954bbabbab0710f2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 13 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa181b5ef23570cae2441d6?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Nov 13 |
-| **[Aon](http://www.aon.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/6af6074780054650a5e7b590?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | On Site | Nov 12 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Business Manager - EGP](https://jobright.ai/jobs/info/6aa18896dbc0e60e37e11c22?utm_campaign=Business%20Analyst&utm_source=1103)** | Northbrook, IL, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
