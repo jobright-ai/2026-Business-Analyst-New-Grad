@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Napier AI](https://www.napier.ai/)** | **[Graduate Business Coordinator](https://jobright.ai/jobs/info/6aff2b54aea17e3f50eae04f?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 19 |
 | **[Fidelity Canada](https://www.fidelity.ca)** | **[Business Analyst - Fidelity Wealth](https://jobright.ai/jobs/info/6ac63a7ed9621c5b283a7b68?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Nov 19 |
 | **[Empower](https://driveempower.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aa7af282ed333b4ea5cbb70?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 19 |
 | **[Torentify](https://torentify.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/6afef90c72b9be368528d6a7?utm_campaign=Business%20Analyst&utm_source=1103)** | Gaithersburg, MD, United States | Remote | Nov 19 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6af7683dc7349029d70955cf?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Nov 13 |
 | **[University of Galway](https://www.universityofgalway.ie)** | **[Associate Business Analyst - Turas, Office of Organisational Transformation, Grade 4, 1 FTE, SPC](https://jobright.ai/jobs/info/6af753518242286400643fb6?utm_campaign=Business%20Analyst&utm_source=1103)** | Galway, County Galway, Ireland | On Site | Nov 13 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator - HMYOI Feltham B (Ref: 24213)](https://jobright.ai/jobs/info/6af7730ee3d8d612bf423785?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham, England, United Kingdom | On Site | Nov 13 |
-| **[IRIS Software Group](https://www.iris.co.uk)** | **[Business Analyst (US East Coast)](https://jobright.ai/jobs/info/6ada346d54bbabbab07137fc?utm_campaign=Business%20Analyst&utm_source=1103)** | East Coast, United States | Remote | Nov 13 |
 | **[Buckinghamshire Council](https://www.buckinghamshire.gov.uk/)** | **[Advanced Business Administrator Apprenticeship (Infrastructure Funding Team)](https://jobright.ai/jobs/info/6af7415e41166cab7564978e?utm_campaign=Business%20Analyst&utm_source=1103)** | Aylesbury, England, United Kingdom | Hybrid | Nov 13 |
 | **[CGI](https://www.cgi.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6af73cb43ba46d7b6c164693?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 13 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6af72e68e3d8d612bf420b1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL, United States | Hybrid | Nov 13 |
