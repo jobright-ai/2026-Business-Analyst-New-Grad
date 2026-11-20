@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Royal London Ireland](https://www.royallondon.ie)** | **[Existing Business Administrator](https://jobright.ai/jobs/info/6b0027c8e0dc96195927f766?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, County Dublin, Ireland | Hybrid | Nov 20 |
 | **[Case Western Reserve University](https://case.edu)** | **[Business System Analyst 1](https://jobright.ai/jobs/info/6affc399865dbcc3f26fe9f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Nov 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aff42c5b88323bd981bd55f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6aff49e172b9be36852904ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Nov 19 |
@@ -78,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Coilcraft Singapore Pte Ltd](https://www.coilcraft.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6afe0a4b758942b6422b6bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cary, IL, United States | On Site | Nov 18 |
 | **[Odoo](http://www.odoo.com)** | **[Business System Analyst (French)](https://jobright.ai/jobs/info/6afe3c550324c008a17e5ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, California, United States | Hybrid | Nov 18 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6afe33f8f3e7976cc610d0a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Nov 18 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01ca758942b6422b6778?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 18 |
-| ↳ | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01c80cde47528ec10e25?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 18 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01c80cde47528ec10e25?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 18 |
+| ↳ | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01ca758942b6422b6778?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 18 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Process Improvement Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/6afe2113f170d82b396718ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Medford, OR, United States | On Site | Nov 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Early Career Business Operations Analyst](https://jobright.ai/jobs/info/6ad92e91e4b94611ab853f60?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA, United States | On Site | Nov 18 |
 | **[Embrava](https://www.embrava.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6afe191f758942b6422b74b3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Nov 18 |
