@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TechMendra Systems](techmendrasystems.com)** | **[Associate - Business Analyst](https://jobright.ai/jobs/info/6affca371126e09fee09261f?utm_campaign=Business%20Analyst&utm_source=1103)** | Dallas, TX, United States | On Site | Nov 19 |
+| **[Case Western Reserve University](https://case.edu)** | **[Business System Analyst 1](https://jobright.ai/jobs/info/6affc399865dbcc3f26fe9f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Nov 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aff42c5b88323bd981bd55f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6aff49e172b9be36852904ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Nov 19 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6aff7d2bb47661ae4a62d67a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Nov 19 |
