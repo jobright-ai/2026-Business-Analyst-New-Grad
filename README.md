@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6affa0ceb47661ae4a62e751?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Nov 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aff42c5b88323bd981bd55f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6aff49e172b9be36852904ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Nov 19 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6aff7d2bb47661ae4a62d67a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Nov 19 |
@@ -71,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Central Michigan University](http://www.cmich.edu/)** | **[BUSINESS PROCESS ANALYST I/II/III/SR](https://jobright.ai/jobs/info/6afea48821364a3788bcf24d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Pleasant, MI, United States | Hybrid | Nov 18 |
 | **[BDO Canada](http://www.bdo.ca/en/pages/default.aspx)** | **[Business Analyst - BizApps - New Grad (January 2027)](https://jobright.ai/jobs/info/6af79825e3d8d612bf4253a0?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, Ontario, Canada | Hybrid | Nov 18 |
 | **[CGI](https://www.cgi.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae440d8c3139b475b5b3042?utm_campaign=Business%20Analyst&utm_source=1103)** | Indianapolis, IN, United States | Hybrid | Nov 18 |
-| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
-| ↳ | **[IFS Business Analyst – Projects](https://jobright.ai/jobs/info/6afe28b2f3e7976cc610c831?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
+| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Projects](https://jobright.ai/jobs/info/6afe28b2f3e7976cc610c831?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
+| ↳ | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
 | ↳ | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 18 |
 | **[Powerex](https://powerex.com)** | **[Business Analyst IT (Co-op)](https://jobright.ai/jobs/info/6ae4cff6c3139b475b5b62ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | On Site | Nov 18 |
 | **[Coilcraft Singapore Pte Ltd](https://www.coilcraft.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6afe0a4b758942b6422b6bf6?utm_campaign=Business%20Analyst&utm_source=1103)** | Cary, IL, United States | On Site | Nov 18 |
@@ -130,5 +129,4 @@ For a complete list, click the following sortable link below:
 | **[CGI](https://www.cgi.com)** | **[Business Solutions Analyst](https://jobright.ai/jobs/info/6af73cb43ba46d7b6c164693?utm_campaign=Business%20Analyst&utm_source=1103)** | Arlington, VA, United States | On Site | Nov 13 |
 | **[Medline](http://www.medline.com/home.jsp)** | **[Assoc Analyst Business Operations](https://jobright.ai/jobs/info/6af72e68e3d8d612bf420b1e?utm_campaign=Business%20Analyst&utm_source=1103)** | Northfield, IL, United States | Hybrid | Nov 13 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Associate Business Manager](https://jobright.ai/jobs/info/6acfd28a2cc4e9d17e90aa7e?utm_campaign=Business%20Analyst&utm_source=1103)** | Charlotte, NC, United States | Hybrid | Nov 13 |
-| **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator Generic Post (Ref: 24185)](https://jobright.ai/jobs/info/6af6efc6c7349029d70918e7?utm_campaign=Business%20Analyst&utm_source=1103)** | Arundel, England, United Kingdom | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
