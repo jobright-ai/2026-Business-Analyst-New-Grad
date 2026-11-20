@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vedanta Group](http://www.vedantaresources.com)** | **[Business Analyst, Chairman’s Office](https://jobright.ai/jobs/info/6b0036cc3a9a0230ab025ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | London, United Kingdom | On Site | Nov 20 |
 | **[Royal London Ireland](https://www.royallondon.ie)** | **[Existing Business Administrator](https://jobright.ai/jobs/info/6b0027c8e0dc96195927f766?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, County Dublin, Ireland | Hybrid | Nov 20 |
 | **[Case Western Reserve University](https://case.edu)** | **[Business System Analyst 1](https://jobright.ai/jobs/info/6affc399865dbcc3f26fe9f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Nov 19 |
 | **[U.S. Bank](http://www.usbank.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aff42c5b88323bd981bd55f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Nov 19 |
-| **[Ryder System, Inc.](http://ryder.com/en)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6aff49e172b9be36852904ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Nov 19 |
+| **[Ryder System, Inc.](https://ryder.com/ryderventures)** | **[Business Systems Analyst](https://jobright.ai/jobs/info/6aff49e172b9be36852904ee?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, OH, United States | On Site | Nov 19 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6aff7d2bb47661ae4a62d67a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Nov 19 |
 | **[Florida Peninsula Insurance Company](http://floridapeninsula.com)** | **[Business Analyst I, II, III (Personal & Commercial Residential Insurance)](https://jobright.ai/jobs/info/6aff7d21dd029d798066cec5?utm_campaign=Business%20Analyst&utm_source=1103)** | Alabama, United States | Remote | Nov 19 |
 | **[Aretum](https://www.aretum.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6af7647de3d8d612bf422ec5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Nov 19 |
@@ -121,5 +122,4 @@ For a complete list, click the following sortable link below:
 | **[Mutual Trading Co., Inc.](https://lamtc.com/)** | **[ERP Business Process Coordinator](https://jobright.ai/jobs/info/6af4cc6ccbd2ee75d155d1dd?utm_campaign=Business%20Analyst&utm_source=1103)** | El Monte, CA, United States | On Site | Nov 14 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 14 |
 | **[RapidRatings](http://www.rapidratings.com/)** | **[Business Analyst – Operations & Enablement](https://jobright.ai/jobs/info/6af74ba28242286400643af4?utm_campaign=Business%20Analyst&utm_source=1103)** | Quincy, MA, United States | On Site | Nov 13 |
-| **[NFP, an Aon company](http://www.nfp.com)** | **[New Business Coordinator](https://jobright.ai/jobs/info/6af798c63ba46d7b6c1688de?utm_campaign=Business%20Analyst&utm_source=1103)** | Greater Boston, United States | Hybrid | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
