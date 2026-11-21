@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Nov 15 |
 | **[Hive](https://thehive.ai)** | **[Business Operations Analyst](https://jobright.ai/jobs/info/6adfac23c5c64fa3d9cbe4bb?utm_campaign=Business%20Analyst&utm_source=1103)** | San Francisco | On Site | Nov 15 |
 | **[Mutual Trading Co., Inc.](https://lamtc.com/)** | **[ERP Business Process Coordinator](https://jobright.ai/jobs/info/6af4cc6ccbd2ee75d155d1dd?utm_campaign=Business%20Analyst&utm_source=1103)** | El Monte, CA, United States | On Site | Nov 14 |
-| **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Category Business Analyst ( Evergreen)](https://jobright.ai/jobs/info/6a5520c22084cd792b4765e1?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
