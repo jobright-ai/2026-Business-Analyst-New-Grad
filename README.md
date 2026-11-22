@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Future Mode](https://www.linkedin.com/company/80148032)** | **[Associate Business Analyst](https://jobright.ai/jobs/info/6b031792f4f339a8f62b3b49?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | On Site | Nov 22 |
 | **[Lazard](http://www.lazard.com)** | **[Analyst - Technology - Business Services](https://jobright.ai/jobs/info/6a9095217c32860d14cfa344?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Nov 21 |
 | **[Central Michigan University](http://www.cmich.edu/)** | **[BUSINESS PROCESS ANALYST I/II/III/SR](https://jobright.ai/jobs/info/6afea48821364a3788bcf24d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Pleasant, MI, United States | Hybrid | Nov 20 |
 | **[Eversource Energy](https://www.eversource.com/)** | **[Associate Analyst, Performance (Hybrid Schedule)](https://jobright.ai/jobs/info/6b00bc4b0f536e0ba7276c6b?utm_campaign=Business%20Analyst&utm_source=1103)** | Berlin, CT, United States | Hybrid | Nov 20 |
@@ -75,8 +74,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Nov 20 |
 | **[Royal London](http://www.royallondon.com)** | **[Existing Business Administrator](https://jobright.ai/jobs/info/6b00456c3a9a0230ab02629a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, Ireland | Hybrid | Nov 20 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 20 |
-| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
-| ↳ | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
+| **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Enterprise Asset Management (EAM)](https://jobright.ai/jobs/info/6afe28b80324c008a17e4e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
+| ↳ | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
 | ↳ | **[IFS Business Analyst – Projects](https://jobright.ai/jobs/info/6afe28b2f3e7976cc610c831?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
 | **[Synergy](http://www.synergybis.com)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6ae3c29dd45dc30fb7d2c5f3?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 20 |
 | **[Vedanta Group](http://www.vedantaresources.com)** | **[Business Analyst, Chairman’s Office](https://jobright.ai/jobs/info/6b0036cc3a9a0230ab025ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | London, United Kingdom | On Site | Nov 20 |
@@ -130,6 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Texas A&M University System](http://www.tamus.edu/)** | **[IT Business Analyst I](https://jobright.ai/jobs/info/6afb3cac04af1c9f075c58f2?utm_campaign=Business%20Analyst&utm_source=1103)** | College Station, TX, United States | On Site | Nov 16 |
 | **[California Correctional Health Care Services](https://cchcs.ca.gov)** | **[Business Services Analyst](https://jobright.ai/jobs/info/6b01ca6ea512f514bbde3b5d?utm_campaign=Business%20Analyst&utm_source=1103)** | San Luis Obispo, CA, United States | On Site | Nov 16 |
 | **[HM Prison and Probation Service](http://www.gov.uk/hmpps)** | **[Business Administrator (BA) (Ref: 24146)](https://jobright.ai/jobs/info/6afaefaa317abe715a25f86a?utm_campaign=Business%20Analyst&utm_source=1103)** | Shareshill, England, United Kingdom | On Site | Nov 16 |
-| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
