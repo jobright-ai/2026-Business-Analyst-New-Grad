@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
+| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Nov 22 |
 | **[Lazard](http://www.lazard.com)** | **[Analyst - Technology - Business Services](https://jobright.ai/jobs/info/6a9095217c32860d14cfa344?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | Hybrid | Nov 21 |
 | **[Central Michigan University](http://www.cmich.edu/)** | **[BUSINESS PROCESS ANALYST I/II/III/SR](https://jobright.ai/jobs/info/6afea48821364a3788bcf24d?utm_campaign=Business%20Analyst&utm_source=1103)** | Mount Pleasant, MI, United States | Hybrid | Nov 20 |
@@ -101,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Odoo](http://www.odoo.com)** | **[Business System Analyst (French)](https://jobright.ai/jobs/info/6afe3c550324c008a17e5ac4?utm_campaign=Business%20Analyst&utm_source=1103)** | Brisbane, California, United States | Hybrid | Nov 18 |
 | **[Nebraska Public Power District](https://www.nppd.com)** | **[Business Analyst I - Financial Planning Job Details / Nebraska Public Power District](https://jobright.ai/jobs/info/6b00ec7d0ae14188d58c2843?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbus, NE, United States | On Site | Nov 18 |
 | **[Axon](https://www.axon.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6afe33f8f3e7976cc610d0a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Nov 18 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01ca758942b6422b6778?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 18 |
-| ↳ | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01c80cde47528ec10e25?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 18 |
+| **[First Citizens Bank](http://www.firstcitizens.com)** | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01c80cde47528ec10e25?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 18 |
+| ↳ | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01ca758942b6422b6778?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 18 |
 | **[Rogue Credit Union](https://www.roguecu.org/)** | **[Process Improvement Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/6afe2113f170d82b396718ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Medford, OR, United States | On Site | Nov 18 |
 | **[Anduril Industries](https://www.anduril.com)** | **[2027 Early Career Business Operations Analyst](https://jobright.ai/jobs/info/6ad92e91e4b94611ab853f60?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA, United States | On Site | Nov 18 |
 | **[Embrava](https://www.embrava.com/)** | **[Technical Business Analyst](https://jobright.ai/jobs/info/6afe191f758942b6422b74b3?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | On Site | Nov 18 |
@@ -126,6 +126,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[24213 - Business Administrator - HMYOI Feltham B](https://jobright.ai/jobs/info/6afbdc8d755d7cdf657fd93f?utm_campaign=Business%20Analyst&utm_source=1103)** | Feltham, England, United Kingdom | On Site | Nov 16 |
 | **[Omnicom](https://www.omc.com)** | **[Business Manager](https://jobright.ai/jobs/info/6afb9707b2e06df257975dfb?utm_campaign=Business%20Analyst&utm_source=1103)** | Chicago, IL, United States | Hybrid | Nov 16 |
 | **[Quanta Services, Inc.](http://www.quantaservices.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6afb2ada04af1c9f075c492b?utm_campaign=Business%20Analyst&utm_source=1103)** | Lone Tree, CO, United States | On Site | Nov 16 |
-| **[Koniag Government Services](https://www.koniag-gs.com/)** | **[Business Analyst (Remote)](https://jobright.ai/jobs/info/6afb74f3c2bd7db01b881be4?utm_campaign=Business%20Analyst&utm_source=1103)** | Chantilly, VA, United States | Remote | Nov 16 |
-| **[eWorld Enterprise Solutions, Inc.](http://www.eworldes.com)** | **[Resource Management Analyst](https://jobright.ai/jobs/info/6afb88bcc96cba79575c0053?utm_campaign=Business%20Analyst&utm_source=1103)** | Honolulu, HI, United States | On Site | Nov 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
