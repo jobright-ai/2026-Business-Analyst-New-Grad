@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6b054de8a78a58c9d3c88544?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, GA, United States | On Site | Nov 24 |
 | **[The Citco Group Limited](https://www.citco.com)** | **[Business Analyst - Client Experience](https://jobright.ai/jobs/info/6b04b6bf2d88b678f1178ef8?utm_campaign=Business%20Analyst&utm_source=1103)** | Toronto, ON, Canada | Hybrid | Nov 23 |
 | **[Zenith Insurance Company (United States)](https://www.thezenith.com/)** | **[IT Business Systems Analyst](https://jobright.ai/jobs/info/6b04ccb458147eafa29965d8?utm_campaign=Business%20Analyst&utm_source=1103)** | Woodland Hills, CA, United States | Hybrid | Nov 23 |
 | **[California Department of Justice](http://www.oag.ca.gov)** | **[Business Analyst](https://jobright.ai/jobs/info/6b04c33613646880439e5481?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Hybrid | Nov 23 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Vedanta Group](http://www.vedantaresources.com)** | **[Business Analyst, Chairman’s Office](https://jobright.ai/jobs/info/6b0036cc3a9a0230ab025ee2?utm_campaign=Business%20Analyst&utm_source=1103)** | London, United Kingdom | On Site | Nov 20 |
 | **[Royal London Ireland](https://www.royallondon.ie)** | **[Existing Business Administrator](https://jobright.ai/jobs/info/6b0027c8e0dc96195927f766?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, County Dublin, Ireland | Hybrid | Nov 20 |
 | **[Case Western Reserve University](https://case.edu)** | **[Business System Analyst 1](https://jobright.ai/jobs/info/6affc399865dbcc3f26fe9f2?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | On Site | Nov 19 |
-| **[U.S. Bank](http://www.usbank.com)** | **[Business System Analyst](https://jobright.ai/jobs/info/6aff42c5b88323bd981bd55f?utm_campaign=Business%20Analyst&utm_source=1103)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Business Operations Analyst I (Junior)](https://jobright.ai/jobs/info/6aff7d2bb47661ae4a62d67a?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | On Site | Nov 19 |
 | **[Florida Peninsula Insurance Company](http://floridapeninsula.com)** | **[Business Analyst I, II, III (Personal & Commercial Residential Insurance)](https://jobright.ai/jobs/info/6aff7d21dd029d798066cec5?utm_campaign=Business%20Analyst&utm_source=1103)** | Alabama, United States | Remote | Nov 19 |
 | **[Aretum](https://www.aretum.com)** | **[Business Systems Analyst I](https://jobright.ai/jobs/info/6af7647de3d8d612bf422ec5?utm_campaign=Business%20Analyst&utm_source=1103)** | Vienna, VA, United States | On Site | Nov 19 |
@@ -125,5 +125,4 @@ For a complete list, click the following sortable link below:
 | **[European Energy Exchange AG](https://www.eex.com/en)** | **[Working Student (f/m/d) – IT Strategy & Governance](https://jobright.ai/jobs/info/6afd17de56aa9772e7d56bab?utm_campaign=Business%20Analyst&utm_source=1103)** | Clearing, Illinois, United States | On Site | Nov 17 |
 | **[SpaceX Super Intelligence](https://x.ai)** | **[Business Operations Analyst (Human Data)](https://jobright.ai/jobs/info/6afcffd4e0cdcfc911431baa?utm_campaign=Business%20Analyst&utm_source=1103)** | Palo Alto, CA, United States | On Site | Nov 17 |
 | **[Green Thumb Industries (GTI)](https://www.gtigrows.com/)** | **[Business Analyst, Master Data Management](https://jobright.ai/jobs/info/6afcd27b94232f5ac42d22c8?utm_campaign=Business%20Analyst&utm_source=1103)** | Rolling Meadows, IL, United States | Hybrid | Nov 17 |
-| **[LSEG](https://www.lseg.com/)** | **[Business Analyst Graduate Programme](https://jobright.ai/jobs/info/6ab258f878c69ff506c3e5c7?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
