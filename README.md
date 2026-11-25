@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oracle](https://www.oracle.com/)** | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
-| ↳ | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcb8dbad4c4bd25034c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
+| **[Oracle](https://www.oracle.com/)** | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcb8dbad4c4bd25034c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
+| ↳ | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
 | **[Centene Corporation](http://centene.com)** | **[Business Analyst I Excel](https://jobright.ai/jobs/info/6b06123f45a65b5da366e017?utm_campaign=Business%20Analyst&utm_source=1103)** | Florida, United States | Remote | Nov 24 |
 | **[McKinsey & Company](http://www.mckinsey.com)** | **[Business Analyst - Operations](https://jobright.ai/jobs/info/6a4819635d7b097d2df39390?utm_campaign=Business%20Analyst&utm_source=1103)** | Atlanta, United States | On Site | Nov 24 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1/Trainee 1/2 (Executive)](https://jobright.ai/jobs/info/6b05e63145a65b5da366c725?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | Hybrid | Nov 24 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1 (NY HELPS)](https://jobright.ai/jobs/info/6b00b4f2dfa58e4c244ddcdd?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | On Site | Nov 20 |
 | **[Napier AI](https://www.napier.ai/)** | **[Graduate Business Coordinator](https://jobright.ai/jobs/info/6aff2b54aea17e3f50eae04f?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 20 |
 | **[Further](https://www.gofurther.com/)** | **[Graduate Program: Entry Level Analyst](https://jobright.ai/jobs/info/6b007e07d1fe3bc162e3c20d?utm_campaign=Business%20Analyst&utm_source=1103)** | Cleveland, OH, United States | Hybrid | Nov 20 |
-| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Nov 20 |
-| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Nov 20 |
+| **[Ingram Content Group](http://ingramcontent.com)** | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3ab26fb2cd420ace52f6a?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, TN, United States | On Site | Nov 20 |
+| ↳ | **[Business  Systems Analyst (Library Services)](https://jobright.ai/jobs/info/6ae3aad377c09cb3bd4a7f65?utm_campaign=Business%20Analyst&utm_source=1103)** | La Vergne, Tennessee, United States | On Site | Nov 20 |
 | **[Royal London](http://www.royallondon.com)** | **[Existing Business Administrator](https://jobright.ai/jobs/info/6b00456c3a9a0230ab02629a?utm_campaign=Business%20Analyst&utm_source=1103)** | Dublin, Ireland | Hybrid | Nov 20 |
 | **[Activate Consulting](http://www.activate.com)** | **[2027 Business Analyst](https://jobright.ai/jobs/info/6a6b5cc6ca1f9338465f9df1?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | On Site | Nov 20 |
 | **[Tsunami Tsolutions](http://tsunamitsolutions.com)** | **[IFS Business Analyst – Supply Chain Management (SCM)](https://jobright.ai/jobs/info/6afe09788cffea7c97c8f8df?utm_campaign=Business%20Analyst&utm_source=1103)** | Glastonbury, CT, United States | Hybrid | Nov 20 |
