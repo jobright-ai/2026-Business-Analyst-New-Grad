@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aecon Group Inc.](http://www.aecon.com/)** | **[Business Analyst Job Details / Aecon](https://jobright.ai/jobs/info/6b007e51dfa58e4c244dbb2b?utm_campaign=Business%20Analyst&utm_source=1103)** | Hamilton, ON, Canada | On Site | Nov 25 |
 | **[NSTAR, now Eversource Energy- Follow our new company page, Eversource Energy](http://www.nstar.com/)** | **[Associate Analyst, Performance (Hybrid Schedule)](https://jobright.ai/jobs/info/6b065be6a9415d20d519958f?utm_campaign=Business%20Analyst&utm_source=1103)** | Berlin, CT, United States | Hybrid | Nov 24 |
 | **[Oracle](https://www.oracle.com/)** | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcb8dbad4c4bd25034c3?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
 | ↳ | **[Business Analyst 1-Ops](https://jobright.ai/jobs/info/6b05fcc5dbad4c4bd25034cc?utm_campaign=Business%20Analyst&utm_source=1103)** | Columbia, MO, United States | On Site | Nov 24 |
@@ -114,6 +115,4 @@ For a complete list, click the following sortable link below:
 | **[Axon](https://www.axon.com)** | **[Business Analyst I](https://jobright.ai/jobs/info/6afe33f8f3e7976cc610d0a9?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Nov 18 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01ca758942b6422b6778?utm_campaign=Business%20Analyst&utm_source=1103)** | North Carolina, United States | Remote | Nov 18 |
 | ↳ | **[SBA Business Analyst I/II](https://jobright.ai/jobs/info/6afe01c80cde47528ec10e25?utm_campaign=Business%20Analyst&utm_source=1103)** | Maryland, United States | Remote | Nov 18 |
-| **[Rogue Credit Union](https://www.roguecu.org/)** | **[Process Improvement Analyst I, II or Senior (DOE)](https://jobright.ai/jobs/info/6afe2113f170d82b396718ad?utm_campaign=Business%20Analyst&utm_source=1103)** | Medford, OR, United States | On Site | Nov 18 |
-| **[Anduril Industries](https://www.anduril.com)** | **[2027 Early Career Business Operations Analyst](https://jobright.ai/jobs/info/6ad92e91e4b94611ab853f60?utm_campaign=Business%20Analyst&utm_source=1103)** | Costa Mesa, CA, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
