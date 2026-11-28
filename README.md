@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Process Transformation Analyst](https://jobright.ai/jobs/info/6aee45fac7498922fe0cb0c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Nov 28 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 28 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 28 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 28 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 28 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Business Manager](https://jobright.ai/jobs/info/6b09c5e60dcf7f64923b52ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Remote | Nov 28 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6af904f048f3528e5a72e9f4?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Nov 28 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae12c10de23f466ec8bcf95?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Nov 28 |
