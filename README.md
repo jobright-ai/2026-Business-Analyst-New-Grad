@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[MFS Investment Management](https://www.mfs.com)** | **[Process Transformation Analyst](https://jobright.ai/jobs/info/6aee45fac7498922fe0cb0c7?utm_campaign=Business%20Analyst&utm_source=1103)** | Boston, MA, United States | Hybrid | Nov 28 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 28 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 28 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[Business Analyst](https://jobright.ai/jobs/info/6aee3116d20350c7a507a373?utm_campaign=Business%20Analyst&utm_source=1103)** | Hawaii, United States | Remote | Nov 28 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6adbbc235dc7953215a342de?utm_campaign=Business%20Analyst&utm_source=1103)** | United States | Remote | Nov 28 |
 | **[Acosta](http://www.acosta.com/Home.aspx)** | **[Business Manager](https://jobright.ai/jobs/info/6b09c5e60dcf7f64923b52ca?utm_campaign=Business%20Analyst&utm_source=1103)** | Vancouver, BC, Canada | Remote | Nov 28 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[Business Analyst Student Experience - Spring 2027 Job Details / Doosan Corp](https://jobright.ai/jobs/info/6af904f048f3528e5a72e9f4?utm_campaign=Business%20Analyst&utm_source=1103)** | West Fargo, ND, United States | On Site | Nov 28 |
 | **[American Express Global Business Travel](https://www.amexglobalbusinesstravel.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae12c10de23f466ec8bcf95?utm_campaign=Business%20Analyst&utm_source=1103)** | New York, NY, United States | Hybrid | Nov 28 |
@@ -97,7 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technology Business Management Analyst](https://jobright.ai/jobs/info/6b046d78526905eb2bcf6e38?utm_campaign=Business%20Analyst&utm_source=1103)** | Sacramento, CA, United States | Hybrid | Nov 23 |
 | **[New York State Office of Mental Health](https://omh.ny.gov)** | **[Business Systems Analyst 1/Trainee 1/2- Albany (NY HELPS)](https://jobright.ai/jobs/info/6b045c2e566251ad7b861195?utm_campaign=Business%20Analyst&utm_source=1103)** | Albany, NY, United States | On Site | Nov 23 |
 | **[Axios](https://www.axios.com)** | **[Salesforce Business Analyst](https://jobright.ai/jobs/info/6b00f7362ad6cde5ef250568?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC, United States | Remote | Nov 23 |
-| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
-| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
+| **[3HORIZONS](https://3horizons.com)** | **[Business Analyst](https://jobright.ai/jobs/info/6ae36a6ed45dc30fb7d293af?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
+| ↳ | **[Business Analyst](https://jobright.ai/jobs/info/6ae3695beab1f96730973c50?utm_campaign=Business%20Analyst&utm_source=1103)** | London, England, United Kingdom | Hybrid | Nov 23 |
 | **[CGS Federal (Contact Government Services)](https://cgsfederal.com/)** | **[Business Process Designer (BPD) – Junior](https://jobright.ai/jobs/info/69c4304133eecf31079457e4?utm_campaign=Business%20Analyst&utm_source=1103)** | Washington, DC | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
